@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-11T16:31:07+00:00",
+  "updated": "2026-10-11T17:29:57+00:00",
   "articles": [
+    {
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "date": "2026-10-11 17:27 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan president approves emergency measures in Khyber Pakhtunkhwa",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZYVg3UEctZUdzcENvbm1GUDlkUHRUMDJYNkhjeXB5UnpiMWlYcV9BQTU0NXI5NDNNd1J5ci11cWVjaG5KeU1hOWVPMFdCZW9yaFNCTQ?oc=5",
+      "summary": "Pakistan president approves emergency measures in Khyber Pakhtunkhwa AzerNews",
+      "date": "2026-10-11 17:22 UTC",
+      "category": "Pakistan",
+      "source": "AzerNews"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia, Egypt, Türkiye condemn Houthi attacks on Riyadh airport",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMml6alF3Z19lUlhBTkxGM2NyQW4xWkpOdm9XWWVqem93c2RqN3g3aEV6bHdhOWxKSl95X1BBTjN3RVQtdm9MM24wQnZsSW44UFpqZXBWcjBDSkFhUXBiR1BSSEFYNnpDY2ota3BhNFBkanV2WnF0RG9JVlIxT21ZcEN6d1BuZFBTaWtSa3hJbTdxRWJPMDhsaTNDbTFxS2Z1X3VfTjlLc19DWHNPY3hNaVdIUzhRdUnSAVZBVV95cUxQMThJY1F3TnRhZG8wTTZRaE9WamlSZEVHUzdxTWFqMThucjhBdk1LTktnSk5oaEtfQkh1Q040QTJYazJFeWlzdHJSSXdvb1pxVHBhYWthQQ?oc=5",
+      "summary": "Pakistan, Saudi Arabia, Egypt, Türkiye condemn Houthi attacks on Riyadh airport Business Recorder",
+      "date": "2026-10-11 17:16 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcXdpYUp0cGR5eTE2V2RveDh3WmtCbU1xbm9WNTRkOUIzVTI0bHhrX2MzaS1CVDZ0UFNVVXRLYzVEbXFvVG9uNzFxbXVQQXpTWTR3MGh0UzdJTTdmRFNGRFd0TW1GakJHOUxIV0hpUmdIVXIxR3h4WDl2em5XXzdialowdzFTQk43TjB1QlFERTJTOFdhN1NoWGpyRWNDMkNCSTlQQnVpWHVJX2NRbkRZMk8wV3pIVUZpaWFRd3VTeGx0bC1maDFMdE1zTkRsdHdzY01xS3Nmcw?oc=5",
+      "summary": "How Ukraine uses precision drone strikes to hobble Russian oil refineries The Washington Post Trump’s deal with Putin will not deter Zelensky from playing his strongest card The Telegraph Ukraine says it hit Russia's largest oil refinery Reuters Ukraine Strikes Major Russian Oil Hub Hours After Trump’s Deal With Putin Newsweek Ukraine claims to have taken out more than half of Russia’s oil refining capacity AP News",
+      "date": "2026-10-11 16:48 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
+      "date": "2026-10-11 16:41 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan suspends Imran Khan followers' provincial government",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGEtUkhDS25JR2J6eGVOZXZVOHEzcERHcmljZldlUWFrelRGdk5ybTVpS3JXcnQyXzhJZUQydlE4Z00ta1h3aWw0YWp1OGVkRVRybzMwckV1T2xlVEtXMFhYc19iN1FzZ2Y1OWdlcnM4OXlzWUtCTGJDUFRrMExaTHAxWFJaZWlkaTFSeDhQQ1J0aF9MSjdmdQ?oc=5",
+      "summary": "Pakistan suspends Imran Khan followers' provincial government Nikkei Asia",
+      "date": "2026-10-11 16:40 UTC",
+      "category": "Pakistan",
+      "source": "Nikkei Asia"
+    },
+    {
+      "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXk0VFduYU1ldGM0N3RTZGlUVEFiOV9GdHBJTExieVVQT0preW1GRGVHLUZHN3VyZ3pYUzdXbGYzVHdHdUsweFFUekY3Nk13LTl3dWtmdmpiMDh5ZXR3Sm9kZ1VvbFlZNFU3UXgzYlJEaml0VGNHS09ia0E3QUJERDcwRkRsd2UzNWZYWjZlUDJWYUtoZlh6Ng?oc=5",
+      "summary": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed AP News Iran war live: Injuries after new Houthi attack on Saudi Arabia’s airport Al Jazeera Saudi Arabia's Riyadh airport hit by second Houthi strike in two days BBC Saudi airport struck again a day after deadly attack NBC News At least 12 people killed, more than 300 injured in strike on Riyadh airport, Saudi officials say CBS News",
+      "date": "2026-10-11 16:39 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Pakistani, Chinese armies to hold joint training exercise in Xinjiang this month",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTBtaGJHbjhyQnBwMGVLS3gxX3QxdUVwSW9JaF9fNFBkc0NxTVdXbUVDNEc0elFQU3FCRWpnRHZQdXlBLVU3SE1sd0NCdFg1M3M5RWlaT2p0WlNJU2lDU3FjODFFOEIxbE5DelVGaVMzVmpPR3RBc2lmNlQwY2l5SXBzbFhFUmFZY182LXRVYmlJZU9BR2s4NkJfODdYN0dnMkx5eUtscGdfSVZJZy1DUjY2bV9oRnQycGJhbg?oc=5",
+      "summary": "Pakistani, Chinese armies to hold joint training exercise in Xinjiang this month Arab News PK",
+      "date": "2026-10-11 16:38 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "FM Dar condemns Houthi attack on Riyadh airport, says Pakistan is in touch with Saudi authorities",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVlOOVd5MXZuc3lBZURMcUR2T2puY1ZWc05IWlN4bVkxdlNzV1hiN0NTWVFfcEtXVlVKWm9Lclg0dThjUFAtU2hmRjVaVlJfNlg1NFFhdl9GM2Rfd0ZqQjJGNjV6N3pIdjI0Q29YYnhCMmkya1JLYlczM0tXUTZvLWdrNXBGTUgzMWhiZnB2amx6c201Smxoa1FSZGZLWmE1QlB0c09rSFFJQ0k0SHlHWEc4Mm1KS0VmSVBMZFRfVGh2SjlGbk1GQUxFNnNOZw?oc=5",
+      "summary": "FM Dar condemns Houthi attack on Riyadh airport, says Pakistan is in touch with Saudi authorities The Express Tribune",
+      "date": "2026-10-11 16:37 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Pakistan Seizes Control of an Opposition-Led Province",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQU5pTUxmZUV2c2lKUmZiemJLNnB5QjRMTHVMSm0zN1FZR3dUMzdTUElCMmN5alVsLUlTdFVkaUNfUVVBek1ZRVNLSWpBT1VsWS1QZi1EYzNzSERZNjRibTFDNkk4UWowVk5uZ0tUZWJQdzcyTDFJd1FRaUdrLVIwa29hNEtuY2oyUF9YVEZuT2ZWWDRkaXBZMW1Od3pvNXRaX2c?oc=5",
+      "summary": "Pakistan Seizes Control of an Opposition-Led Province The New York Times",
+      "date": "2026-10-11 16:25 UTC",
+      "category": "Pakistan",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlQ1WjlVVXFrM3FOU3IwaGswbzA3SDFNY096NFQzbjNnZXdhcTdkSlFNVnZtYndVQU4yNmo1ejg5YTc3cTNyM0dkS2Ffd0pNLTNJRXRpeDAxSUI3QUplZjdNcDl1NjcxaHBnVzJlMjJSRU4yUzNVUVk5cF9TNmVhY3dhamd1YVRjcV9ESFhIWFAwX3J6T2pCdmZFbDVTODNodUlQV3NkdmhuZ9IBrwFBVV95cUxPTjYtZ3JFRndNN1ZwTkREZndpMFFYaHpYX001dFppZDBWek1LdGtqX0pydXJPNUhFd29udzBKcHR6V2NrYzhLdUR3bnVGeUE4TXdRN2dNQ2dLTjNhNXB3ZE9EV0dkS0hIcmRheldCOUNkR3Fnd1hKOGhRZUp0Y3RfZmozX255S096UmNFOGhCbEVISXp3OVVnVzQ0OWhrbnBDcDQwNUV1RmtrOGlHVHZr?oc=5",
+      "summary": "Man dies after entering tiger enclosure at England wildlife park Al Jazeera Man dies after entering tiger enclosure at UK wildlife park CNN Tiger that killed man at wildlife park will not be euthanized, officials say FOX 13 Tampa Bay Man Dies in Tiger Attack at Yorkshire Wildlife Park in England The New York Times Wildlife park confirms tiger will not be euthanised after man mauled to death The Guardian",
+      "date": "2026-10-11 16:17 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFBPcERCT3JRang5VkNkblVWVHRQWHFJZXlIRXVCTlFMSEpmRXpXcFk2OUZzcXdHR2hncEJ0clN2MXJtWF9CZTY1RkN5Q2hUQnc2bHBTQ0VZR1JPSTdBSXE1SjczYXB5N3NPRk1FaDhzUVdPeElHM2VYOUMtb2JkZThGWW11ek94Ukc3NkJKRnU0ZVE3WlE?oc=5",
+      "summary": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi The New York Times India cracks down on youth protests as anger grows against Modi and election chief AP News CJP at Jantar Mantar: Delhi sees more protests as freed 'cockroach' group's leaders vow to continue fight BBC Protests against voter roll revisions rock capital of world's largest democracy NPR Anti-CEC protest LIVE: CJI Surya Kant declines",
+      "date": "2026-10-11 16:16 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
     {
       "title": "Pakistan imposes emergency rule in Imran Khan's provincial stronghold",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQW5lSVFIUkJvSkRKTDZncnZIRVh2TUFhaFR6QUs2dkJZcWlQQXY5Rm9CTHdjQkJhblFrc2RZTm1HMTgwN2k0Z2VtOXZodzlnQ2hvZzhnWDJYVTNVYnZHeE9McEhFN3hjdExsT0ZoUkRPRjlON1ROOGdEemFJQmZKLTlDNUpPajY0bzdJcVB1RGVla1RjV2dQSmJIb1I0dGdNd2VtZld1WjB0VGpNWnlaR3NaRmxsNWM0OUt6eXo2VnE2QUJxWjRweA?oc=5",
@@ -18,12 +114,12 @@
       "source": "Dawn"
     },
     {
-      "title": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcXdpYUp0cGR5eTE2V2RveDh3WmtCbU1xbm9WNTRkOUIzVTI0bHhrX2MzaS1CVDZ0UFNVVXRLYzVEbXFvVG9uNzFxbXVQQXpTWTR3MGh0UzdJTTdmRFNGRFd0TW1GakJHOUxIV0hpUmdIVXIxR3h4WDl2em5XXzdialowdzFTQk43TjB1QlFERTJTOFdhN1NoWGpyRWNDMkNCSTlQQnVpWHVJX2NRbkRZMk8wV3pIVUZpaWFRd3VTeGx0bC1maDFMdE1zTkRsdHdzY01xS3Nmcw?oc=5",
-      "summary": "How Ukraine uses precision drone strikes to hobble Russian oil refineries The Washington Post Trump’s deal with Putin will not deter Zelensky from playing his strongest card The Telegraph Ukraine says it hit Russia's largest oil refinery Reuters Ukraine Strikes Major Russian Oil Hub Hours After Trump’s Deal With Putin Newsweek Ukraine claims to have taken out more than half of Russia’s oil refining capacity AP News",
-      "date": "2026-10-11 16:04 UTC",
+      "title": "Trump and Iran both say US Midterm Elections not a factor in peace talks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWk3NHpFellMTnZLVmdDd1JRdGVvdWlYNjFvSDBTN2FlRm5zV0dQT1ktaVNxbC1fTThkeUZJMVR6Y1c4dU1pZjI4RUNYN2FyRVRHcUhiY2VYbjZncFh3cUFkYWNYc1c2anhER09rSUEzRWRDUUwyUWduRkN1RGdvYWNMY3lxWU9vRXlZSGhR?oc=5",
+      "summary": "Trump and Iran both say US Midterm Elections not a factor in peace talks Fox News Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy The Guardian Trump’s Middle East war has spiralled beyond America’s control The Independent U.S. deal for Russian diesel fuel explained LiveNOW from FOX US must define its objectives Minot Daily News",
+      "date": "2026-10-11 16:07 UTC",
       "category": "World",
-      "source": "The Washington Post"
+      "source": "Fox News"
     },
     {
       "title": "Pakistan | Khyber Pakhtunkhwa under Emergency: Imran Khan’s PTI govt & CM Sohail Afridi ousted, Governor rule imposed",
@@ -50,14 +146,6 @@
       "source": "Dawn"
     },
     {
-      "title": "Passenger terminal in Riyadh airport hit again, a day after deadly strike killed 12",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2ZUXzc2NDROUjFFVXpwbFA1S0hXSEZ0eGlYMkdNNDQtay13MDkzc3VBZUdQZ3FDREtlelF1Ri1tbEl0eXF0ZkxsbUZkaG13T1V0RHlFWXBmZ0pFa3JsRHhUVGZJbUd4cWJnaFRsMzh6TEowM0ZQOGo4anM5MjBvcld4bU1kWlAz?oc=5",
-      "summary": "Passenger terminal in Riyadh airport hit again, a day after deadly strike killed 12 CBS News Yemen's Houthis renew warning over Saudi airports after deadly Riyadh attack Reuters At least 12 people killed, more than 300 injured in strike on Riyadh airport, Saudi officials say CBS News At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes WSJ Oil chiefs pull out of Riyadh energy congress after airport",
-      "date": "2026-10-11 15:38 UTC",
-      "category": "World",
-      "source": "CBS News"
-    },
-    {
       "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
       "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
       "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
@@ -66,9 +154,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
       "date": "2026-10-11 15:32 UTC",
       "category": "World",
       "source": "BBC News"
@@ -84,7 +172,7 @@
     {
       "title": "Pope Leo to have surgery to remove nodule on his lung",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXJhZDdLSEp6QkVPZDJZQlZDNGhxeDJvWmpJWjJnRUFEeWJXcXlvaWtQNGRKOHhHN2JscmVNNy1wYWd0bTNTbWNHNUZCc3VxRk5jalJDeURhNDlzNmphOFRTSmFqSG5DUVJ3cVNvd2pfRG94QjBXTm5pcVFWc0Q3NGQ4cHRRV1c3?oc=5",
-      "summary": "Pope Leo to have surgery to remove nodule on his lung The Guardian Pope Leo announces he will undergo surgery to remove lung nodule CNN Pope to be operated on for lump on lung Yahoo Pope will have surgery after doctors discover nodule in his lung The Washington Post Pope Leo XIV renews appeal for peace in Ukraine Vatican News",
+      "summary": "Pope Leo to have surgery to remove nodule on his lung The Guardian Pope Leo announces he will undergo surgery to remove lung nodule CNN Pope will have surgery after doctors discover nodule in his lung The Washington Post Pope Leo XIV renews appeal for peace in Ukraine Vatican News What to know about Pope Leo’s lung surgery for an early-stage nodule NBC News",
       "date": "2026-10-11 15:20 UTC",
       "category": "World",
       "source": "The Guardian"
@@ -100,7 +188,7 @@
     {
       "title": "Poland stabbings driven by online glorification of violence, Tusk says",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00QklLanBDWVctYXhUMEpfZHBPRW4xOVRaN3VtVUYxVUZDc3BZTEVMSjFGczNPSEUwQXF5c1E5ODFQX2ladDVaNEZBcHZzSTdFNUk0Z29fNkhEYWs?oc=5",
-      "summary": "Poland stabbings driven by online glorification of violence, Tusk says BBC Three injured in Poland's third youth stabbing attack in four days Reuters Police detain dozens and check 50,000 schools after two attacks shake Poland CNN Polish leader says school attacks were fueled by online glorification of violence AP News Poland probes disinformation as officials warn of Russian exploitation TVP World",
+      "summary": "Poland stabbings driven by online glorification of violence, Tusk says BBC Three injured in Poland's third youth stabbing attack in four days Reuters Polish leader says school attacks were fueled by online glorification of violence ABC News - Breaking News, Latest News and Videos Police detain dozens and check 50,000 schools after two attacks shake Poland CNN 15-year-old arrested after attack at Polish school that le",
       "date": "2026-10-11 15:18 UTC",
       "category": "World",
       "source": "BBC"
@@ -114,28 +202,28 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Another week of pressure on press freedom",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFdsa3JMOU90eGxNYjZYZHUwWG1BYmN4Zk1yNS12b1hjbWRMTlFDejRkXzF0RmRGQjFWNFUzSUYxUnVlY3ZZS2gycE5GVXBvc0N6OHlJQkhYXzB4VG1XLWRUblNkY2kzaWNjOXIwWTBwa0ZuTmp2TDBHLVhZZVRuX09n?oc=5",
-      "summary": "Another week of pressure on press freedom Journalism Pakistan",
-      "date": "2026-10-11 15:13 UTC",
-      "category": "Pakistan",
-      "source": "Journalism Pakistan"
+      "title": "Polish police detain man after threat to PM",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3Zhb3YxM0h0Nm9Cd1E0Q3NNempnci1DZG9CMXNxdUx4TFJvSkwxRnAtZEdJT3BTTnZrMlROOE1JdjdlbXI2OGtGRlhlQXNLY0hKNnVIUHpQal9zcXF0cjd6TUFLUklFM0g5cUs5T3hWNHhPWlQ2Ni1fVkZJc1VBZ0JGX251MkV0Ty1SOTBRcl9ZeE5qOU5vbDhUUHhTMHVBVkJRZGNSMkZlVXNtSkJYMVpYX3JwRHpVRnp4VXBjanVlWFk?oc=5",
+      "summary": "Polish police detain man after threat to PM Reuters Poland Probes Possible Attack Planned on Premier, Defense Chief Bloomberg.com Suspect detained in alleged planned attack on Polish prime minister Yahoo Polish security services report alleged assassination plot against PM Tusk Notes From Poland Poland's police warn of a possible plot to attack Prime Minister Donald Tusk ABC News - Breaking News, Latest News and Vide",
+      "date": "2026-10-11 15:14 UTC",
+      "category": "World",
+      "source": "Reuters"
     },
     {
-      "title": "Zelenskyy urges Trump to endorse 'energy ceasefire' with Russia",
+      "title": "Trump announces 'energy ceasefire' between Russia, Ukraine",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1VQSGhZaTdJcC1sT29sUTJZZjFYd0tpQm4zN3VJRklkc29STTdGWk1vZlljS1drNGFBUnVYYVN5M2t1OV9TeXJscVpsTWw1cGNSaGYwU0pFN203aTJ5M1g1b1NoVFpnbklMNDV1OWJ2cGRqV2RJLVFWRndLQ2lNMEp6aEdISzBHZmZjQ25VMTBrdw?oc=5",
-      "summary": "Zelenskyy urges Trump to endorse 'energy ceasefire' with Russia Politico Trump says Russia and Ukraine reach energy ceasefire 'effective immediately' Reuters Zelensky repeats offer to hold elections if Russia agrees to ceasefire The Times Ukraine ready to halt strikes on Russian oil refineries if Russia stops attacking energy infrastructure — Zele Ukrinform Russian Offensive Campaign Assessment, October 4, 2026 Insti",
+      "summary": "Trump announces 'energy ceasefire' between Russia, Ukraine Politico Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy Reuters President Zelenskyy: 'We will stop' strikes on Russian diesel if Russia pauses attacks ABC News - Breaking News, Latest News and Videos Russia refused repeated Ukrainian proposals to halt attacks on energy sites, source tells 'Post' The Jerusalem Post Ukraine ready to ",
       "date": "2026-10-11 15:07 UTC",
       "category": "World",
       "source": "Politico"
     },
     {
-      "title": "Pakistan’s batter Sahibzada Farhan plays a shot during the 2nd T20 cricket match between Pakistan and Sri Lanka at Rawalpindi Cricket Stadium",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJMWFEtUTN3Y2tDYm9jd1BZd3pNaHREc0ZudjYyMHdJV1hnSEdiRkxkblJJWVQtMHpKbnBVQkpaMGJvbF9qOUhXNXNMT01OOXhuNkV4Z3RpMVRpMFZKbm9rWjlLX2h0bHVRcjVHWGh3SmViZlhVS3F2bUp4S3g4ZE4xRGl1RVVyZzUyRlA4Y3RvYWZPVGRnaGZXZ0RESUxERDJrWmFzQUZOZGU1YU15RlZDUGhWLWJmaTBFdnNRdmlQX3JhSnUtUXNUczJiZkMyVi12ZndmVVplTmJ0aS1ITk12bUdzSUZ1QkMzTm1pQWRkVEw0U1N1c2hsLVZ2QWx1bjdOZGpKU3NRUmM?oc=5",
-      "summary": "Pakistan’s batter Sahibzada Farhan plays a shot during the 2nd T20 cricket match between Pakistan and Sri Lanka at Rawalpindi Cricket Stadium | Associated Press Of Pakistan",
-      "date": "2026-10-11 14:45 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
+      "title": "'This Week' Transcript 10-11-26: Ukrainian President Volodymyr Zelenskyy, Majority Whip Tom Emmer & Kansas Democratic Senate Candidate Adam Hamilton - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGJwYktrdHJrdXlkekM4d2VjUEJVd0x4Q1FmT3NYaUpkUHRWbzhDcVNkak5TNmRReU1saUhDR0lDNlBrUkFIRFB0b1NFZkNSaFl1YWtXSXJPb2pFM0d6RkYzN2VKTzNJcW1JOGpuSDNrNG81SHpZUTZJakRVZDJTUGNzV1hkT1UzbTctVndTMTJQVVVsMEVQbTk3Y2NxM0lsMkthetIBqgFBVV95cUxNamI1cEtRd0VxTHRPM203cXNfQm8tMzktN1lOUlJiRVJhY1U2S3ZFYWNxeDlHbnVRRkl5LTRPV0kxVHRheFBTZy1PX1Bka1pVRGsxeG1PT3RzZUV2VjhPdmgydzZjSGlfLWs1Y2hzamFjTnlOdGQwWFlEbWI4cVUwOU0yTG10QlFhUnFxQTVuWklDMjJzY29rclM4bktsRkZDVzNIYU9iWkw2Zw?oc=5",
+      "summary": "'This Week' Transcript 10-11-26: Ukrainian President Volodymyr Zelenskyy, Majority Whip Tom Emmer & Kansas Democratic Senate Candidate Adam Hamilton ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-11 14:47 UTC",
+      "category": "World",
+      "source": "Breaking News, Latest News and Videos"
     },
     {
       "title": "Pakistan’s batter Fakhar Zaman plays a shot during the 2nd T20 cricket match between Pakistan and Sri Lanka at Rawalpindi Cricket Stadium",
@@ -144,22 +232,6 @@
       "date": "2026-10-11 14:44 UTC",
       "category": "Pakistan",
       "source": "| Associated Press Of Pakistan"
-    },
-    {
-      "title": "Pakistan deploys military forces in Khyber following the declaration of a state of emergency.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc0FsY2xlcFVSdk9uVEtNUTVUZ0IzNEI3RXdrRFBHVDJQNW5CYnkwenlHQ0pEVFZtTmJTSWVVZ044SkxzWDFDcUt2V3NxMWdvSnBMR290bUdIVFZuSUh3dF9CSDlZd1pMXzMwTVFDVkJhaXR6RHZDbGxDdjloMnliVjZvektFdEVwdTZUdDhxaHpDMnpDNWxpY0Yyd0xSay1tQ2VkVXFfZDlqYjd4UTdRS08wNFJtd1J2TTJnOHVkRVNwYlk3dE5ZZEI1cVc1S1hGNUtFbVlEOVlQdFNr?oc=5",
-      "summary": "Pakistan deploys military forces in Khyber following the declaration of a state of emergency. صوت الإمارات",
-      "date": "2026-10-11 14:44 UTC",
-      "category": "Pakistan",
-      "source": "صوت الإمارات"
-    },
-    {
-      "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEwwTlBnenYtNHRQRlU4X2hBZVJVWHppWGhGM0l5SEQwT25XTWpUQTdaeXRteUhfZUpIRUxXdlFsNDhhb25fbktRM1JkaS1qdUlTV2hBUE4zS1hjcU1BX3dLMHlKcmcxalV5MXdEV1ZGWXIySUlkMmU1RExFOURjMU9wSVg3Z3RSb1BmWF9JSmdsQklMbDJHQlVmQdIBoAFBVV95cUxNbldNbFlwLUlDTGFNbVFkU1BCSnFqWGNrUE9GUllEOHloZnc1QldNeEFZY0h0cUJfUUtpU3M3U1pZTWFxYnJQVmdXTUtHWHVkdVpkSGF1Z0JKT2hVRHFwLTBnT085TlNJaDBCZjhRazdEYmR2ZmpGVXFhUndrMXRkTzQ0V2k0dWdWeGFCZDd1WmtEQlVpMl9haG1GOGN0TDZf?oc=5",
-      "summary": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party Al Jazeera",
-      "date": "2026-10-11 14:41 UTC",
-      "category": "Pakistan",
-      "source": "Al Jazeera"
     },
     {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
@@ -172,18 +244,18 @@
     {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMdlFFWjVjSEJEdjVmcnVQWGZxa1J6N3RRaEdVN3loOUItWkE1MTFvQkJlTUE3MTA4MFNSbU1xb25uUU9wdEVhSXhhXzRYdXRsanR0YTh0MFlaNTg?oc=5",
-      "summary": "Ukraine strikes Yandex data centre in third attack on Russian tech giant BBC Ukraine hits second major tech site, expanding range of targets inside Russia Reuters Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\" Ars Technica Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub ABC News - Breaking News, Latest News and Videos Ukraine Hits Third Russian Y",
+      "summary": "Ukraine strikes Yandex data centre in third attack on Russian tech giant BBC Ukraine hits second major tech site, expanding range of targets inside Russia Reuters Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\" Ars Technica Russia’s Yandex says data centre in Vladimir shut down after drone attack Al Jazeera Ukraine Hits Third Russian Yandex Data Hub, Disrupting Services Bloomberg.com",
       "date": "2026-10-11 14:38 UTC",
       "category": "World",
       "source": "BBC"
     },
     {
-      "title": "Polish police warn of possible assassination plot against Donald Tusk",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzRDR3BkekRPMUpMZDU5MTBqdW1icDMzNFJnSTV2RXRwU3dReHpVQUhWM05fX1Z3TXAzSnhjNHlKMjZkTjU2Vkowc0RMTDJNeUtPWFFyMlZSTXRnM1R4OFRwNDdjbWVRemphNmhhbXd1MS1oRV9XSE4wczBVRnREb0VtLXpKNGUxS1pGVng2eVhlSjFnLWc?oc=5",
-      "summary": "Polish police warn of possible assassination plot against Donald Tusk POLITICO.eu Polish security services report alleged assassination plot against PM Tusk Notes From Poland Poland arrests man over plot to kill PM Donald Tusk DW.com Poland's police warn of a possible plot to attack Prime Minister Donald Tusk ABC News - Breaking News, Latest News and Videos Poland Probes Possible Attack Planned on Premier, Defense Ch",
-      "date": "2026-10-11 14:27 UTC",
+      "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnBDVkpnZ0tLNE1lVnNQV2dJMVMyMjBfV09kZEdLN1VqTHk2TDZYQXJQZUxycENwNUROUGp0UXdBdm1XUkRyY1FNYzJ3QXMweWV4dWxqTkUxM0c3X3RpTHJyUjRIVERUQ2x2WVVtdExRTGpDNE10Q3c0NzBucjlJUFVJMFdTMVBDLVRsMnNjQXNUZ2NmUEZQaFNuZ1BSdXN5bjhxaW9sMA?oc=5",
+      "summary": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town WSJ In Russian-Occupied Oleshky, Civilians Struggle to Survive as Hunger Deepens The Moscow Times People in Russian-occupied Ukrainian town risk 'road of death' to get food Reuters ‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or m",
+      "date": "2026-10-11 14:30 UTC",
       "category": "World",
-      "source": "POLITICO.eu"
+      "source": "WSJ"
     },
     {
       "title": "Pakistani Gold Medalist’s Death Sparks Fraud Investigation Over Fake US Scholarship",
@@ -194,12 +266,12 @@
       "source": "The Media Line"
     },
     {
-      "title": "At least 38 people hurt after supermarket ceiling collapses in South Korea’s Daegu city",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVpVQ192al9NMTF1NFd3emVRZFlSaVRlUUlaSVB1X2IyX29aR292Sm9wdmhYZVR6cEZHQUxYYVkxU1lSY003Ty1rVG9yYmgtdlBvaEE3dGk1YTJZOUU1eEszZDRCUFpiSmpNWU1POEt2VFNSYTVxM0RLRmFWaU05R2tsX0RWNEtpVm1DU2NBQVUza1JpSVlta1ZncVJZNkFF?oc=5",
-      "summary": "At least 38 people hurt after supermarket ceiling collapses in South Korea’s Daegu city AP News See more headlines & perspectives on Google News",
-      "date": "2026-10-11 14:17 UTC",
-      "category": "World",
-      "source": "AP News"
+      "title": "Pakistan authorizes army deployment in Khyber Pakhtunkhwa after imposing emergency in province",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU1OTUxBcl8yaURvSEZZYVZpcGRhSEJjbC1RcWF1VlFEVDBKaFlDVG1kY2pheGdjUWkySVU0aE5mREx6TzlQS08teHl0TzRJbWNTb0VXcThyUm1rVXZjZDhFTkptUWozWjRqWEN6MVVoc2Z0ZmJMN21KblZxd0ZtZzBVUHNOM0psM0thTk85NEhOOFp1bnM5cXg2eTRZV0dOUExlLXE0cUpCVG8wWG9MQUhUcGlQMldRaGhGRTVXSGV3RE5qZVhNY09Hc1gtaFFq?oc=5",
+      "summary": "Pakistan authorizes army deployment in Khyber Pakhtunkhwa after imposing emergency in province Arab News PK",
+      "date": "2026-10-11 14:09 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
     },
     {
       "title": "IAEA Certifies Pakistan’s Nuclear Security Regime as Robust",
@@ -258,33 +330,25 @@
       "source": "StratNews Global"
     },
     {
-      "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2JXQW83a2xVcFJvWXZlU0M0Qjk1bTYwT2xGNW50bHdYOG5scnRBamhDX2w5bmVaYWFjcDJVd1MxeWtZYzJnNW5ld09jTXNIZ19TWG5TUW9YbGtTYm5DY2VSRTlQYWN3aTVRazR6OUYzVnFISXE2MkNOU2xwMkxkLWh1dFBrUXQwNFpaT1Z6WF9hdw?oc=5",
-      "summary": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England The New York Times Man dies after entering tiger enclosure at UK wildlife park CNN Wildlife park confirms tiger will not be euthanised after man mauled to death The Guardian Man attacked by tiger in England after entering enclosure at wildlife park CBS News 'Tiger attack horror' and Trump tells Zelensky 'time to go' BBC",
-      "date": "2026-10-11 13:31 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnBDVkpnZ0tLNE1lVnNQV2dJMVMyMjBfV09kZEdLN1VqTHk2TDZYQXJQZUxycENwNUROUGp0UXdBdm1XUkRyY1FNYzJ3QXMweWV4dWxqTkUxM0c3X3RpTHJyUjRIVERUQ2x2WVVtdExRTGpDNE10Q3c0NzBucjlJUFVJMFdTMVBDLVRsMnNjQXNUZ2NmUEZQaFNuZ1BSdXN5bjhxaW9sMA?oc=5",
-      "summary": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town WSJ In Russian-Occupied Oleshky, Civilians Struggle to Survive as Hunger Deepens The Moscow Times People in Russian-occupied Ukrainian town risk 'road of death' to get food Reuters ‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or m",
-      "date": "2026-10-11 13:29 UTC",
-      "category": "World",
-      "source": "WSJ"
-    },
-    {
       "title": "Pakistan imposes emergency rule over Imran Khan's provincial government",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
-      "summary": "Pakistan imposes emergency rule over Imran Khan's provincial government Reuters Governor’s rule and emergency imposed in KP — here’s what it means Dawn Pakistan authorizes army deployment in Khyber Pakhtunkhwa after imposing emergency in province Arab News PK",
+      "summary": "Pakistan imposes emergency rule over Imran Khan's provincial government Reuters Governor’s rule and emergency imposed in KP — here’s what it means Dawn Pakistan imposes emergency rule in ​province governed by Imran Khan’s party Al Jazeera",
       "date": "2026-10-11 13:26 UTC",
       "category": "Pakistan",
       "source": "Reuters"
     },
     {
+      "title": "Russia behind Britain's Brexit vote, UK prime minister admits for first time",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUxjbEh3aFdLeXFSUzd4RHpUZUNzeHFMX2Fpc0xSblNta1FkT2JUaVBBOGUzVXA2UUZwVFNDa0tBS2RmV2dzM01aQVQtR0t4Tkw2ZkdDZGw1UHFxc2NhSG1Wc0xNQ1VoWWxOUVAyTkFWOVp6Y1FWbUdISFV4TVJKc1J0NmFFRWxhX3BwTzFEcWZvMkdjZ0tPMHpCV0hvSG1kUTUzbGxwNEg?oc=5",
+      "summary": "Russia behind Britain's Brexit vote, UK prime minister admits for first time The Kyiv Independent Andy Burnham says it is clear Russia interfered in Brexit referendum The Guardian Russia ‘interfered’ in 2016 Brexit vote, says Andy Burnham Financial Times Burnham becomes first PM to confirm Russian interference in Brexit vote The Independent Burnham says it is ‘clear’ Russia interfered in Brexit referendum | ITV News ",
+      "date": "2026-10-11 13:25 UTC",
+      "category": "World",
+      "source": "The Kyiv Independent"
+    },
+    {
       "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUVTX184M1ZxZGwtNFBoOHM5SzVaZ2RTYm42aWx6bTR1dGdDbl9fNjFLaDI4OG9JMG1RTmdrNWpyZGtucXJpVl8weFZjTEt5clItZ19hSFJOLWdhdjNHX285WmhoeGRfdVZaN1hra1ViOWp5VWQ2eHVUc0lxSDBEdVpwbEhFQjZhWm02ekxB?oc=5",
-      "summary": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions The New York Times Saudi Arabia will have to respond to Houthi airport attack - but the choices are stark CNN Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera Voters have ‘had enough’ of Mideast turmoil. But the Houthi conflict is just getting started. Politico Analysis • A Saudi Arabia under attack could dictat",
+      "summary": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions The New York Times Saudi Arabia will have to respond to Houthi airport attack - but the choices are stark CNN Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera Saudis won't back down after Houthi attack on Riyadh airport, experts say The Jerusalem Post Analysis • A Saudi Arabia under attack could dictate the timi",
       "date": "2026-10-11 13:23 UTC",
       "category": "World",
       "source": "The New York Times"
@@ -308,18 +372,10 @@
     {
       "title": "‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSE53ZURYUWhJcUhHdVFrU1pqejE5TkJtWmRCbUoxWFFDT1o2aXlzMXVEQlhuTU9EOWdXTUNLQXJ2Vmg4bmdEbnV5TEEtWDVFS2lRbHlLbUtac2tuckphMWN5SDRHWjd3OXRWdXZfYXlpZlVsYk1EV3YwOE5UZ2QwckpEYTFHYXYxQ05YZzFuZ3VoNnIwMEZmX2xhTQ?oc=5",
-      "summary": "‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones The Guardian Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia The New York Times Drones and balloons attacking Moscow and Moscow region as four airports shut down Ukrinform Mysterious Balloons and Drones Trigger Shutdown of All Four Moscow Airports UNITED24 Media All 4 Moscow Airports Restrict Flights Amid D",
+      "summary": "‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones The Guardian Opinion | The Race to Defeat Russia’s Jet Drones WSJ Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia The New York Times Mysterious Balloons and Drones Trigger Shutdown of All Four Moscow Airports UNITED24 Media Drones and balloons attacking Moscow and Moscow region as four airports shut down Uk",
       "date": "2026-10-11 13:15 UTC",
       "category": "World",
       "source": "The Guardian"
-    },
-    {
-      "title": "Trump and Iran both say US Midterm Elections not a factor in peace talks",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWk3NHpFellMTnZLVmdDd1JRdGVvdWlYNjFvSDBTN2FlRm5zV0dQT1ktaVNxbC1fTThkeUZJMVR6Y1c4dU1pZjI4RUNYN2FyRVRHcUhiY2VYbjZncFh3cUFkYWNYc1c2anhER09rSUEzRWRDUUwyUWduRkN1RGdvYWNMY3lxWU9vRXlZSGhR?oc=5",
-      "summary": "Trump and Iran both say US Midterm Elections not a factor in peace talks Fox News",
-      "date": "2026-10-11 13:14 UTC",
-      "category": "World",
-      "source": "Fox News"
     },
     {
       "title": "Govt deploys army ‘for security of lives, properties’ in Khyber Pakhtunkhwa",
@@ -328,6 +384,14 @@
       "date": "2026-10-11 13:11 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
+    },
+    {
+      "title": "5-year probe by a journalistic nonprofit: \"Dirty secret behind the farmed fish you eat\"",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EMTNkMTliX2Q3aDRob0lrWmtMWWpGMW8ycWNMcUxRTHkxbk9MdzFDdlVFcUVSUFVXSG0xdjlxT2pNZi0wWXdqN21KaVRhaFo5WFQzaTZqcUlqSkdIckhPenRUN2hEWXY4?oc=5",
+      "summary": "5-year probe by a journalistic nonprofit: \"Dirty secret behind the farmed fish you eat\" Axios How to Buy and Eat Seafood Ethically The New York Times That ‘sustainable’ farmed salmon you plan on cooking tonight? It comes with a dangerous catch. The Boston Globe What is your seafood eating? Investigation traces problems in global feed supply CBC France’s seafood problem starts elsewhere France 24",
+      "date": "2026-10-11 13:10 UTC",
+      "category": "World",
+      "source": "Axios"
     },
     {
       "title": "Pakistan Declares Emergency in Khyber Pakhtunkhwa as Border Clashes Kill 12, Army Says",
@@ -370,20 +434,20 @@
       "source": "| Associated Press Of Pakistan"
     },
     {
+      "title": "Playing XI - PAK vs SL 2nd T20I | Sri Lanka tour of Pakistan Squad",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUxZWW45b19NVE9GeXNMbXNtazJtMS1RVmdzVlVGNU9xcUhaNXF2dXRBRk1xUmNtRGpJckpRQUh3ZmNQZ2xkWmhSR2NDcWtna3g1X0Jya0p6dmxMZUdqYjBMU2JVd1VkVzlhTU02ZFVoTFhvbU1LZHJJOXF6T09SN2JBSUUyeldfWlFTMWYwcXN6VEtoZ3ZkVlZKSEZLVXJMWjdLMzNSTnQwcXFNVHU1b2J3RDdSUnhNUFhDVkUycjhvLUE?oc=5",
+      "summary": "Playing XI - PAK vs SL 2nd T20I | Sri Lanka tour of Pakistan Squad Cricinfo",
+      "date": "2026-10-11 12:42 UTC",
+      "category": "Pakistan",
+      "source": "Cricinfo"
+    },
+    {
       "title": "Pakistan strongly condemns terrorist attack on King Khaled Riyadh International Airport",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWpld3doY2RHd3hScl9TRFZfdm5KODhLeTBia0dKNHZUWjBVNUVrcTFkTkJZWnBkblRlRlBXcV9uY3hwY3h6SjhubV82bTl6Z3F2dGZTRWRFUjE3VEpwZ3N0aGR6RXVaZFY5NmJLY3JMcm8xNVlWVkdZMkZUWEpWcU4yU1dUT1JYbFViNVZQdFRfN3VQc1Q0QzBBRklDS0w5alVYSHhGTWo?oc=5",
       "summary": "Pakistan strongly condemns terrorist attack on King Khaled Riyadh International Airport | Associated Press Of Pakistan",
       "date": "2026-10-11 12:40 UTC",
       "category": "Pakistan",
       "source": "| Associated Press Of Pakistan"
-    },
-    {
-      "title": "'Army is the rule, army is the law': India tears into Pakistan at UN over minority rights",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWG05am4wMjc5MXRRVzJLR1htRW5Jd2NJNk91MjhnMjVlMmNtQTViS09YaU5fY0pmWWhGSGtmb255LVNzZk81ZUpYcUhMN2lDMXdnb1dDaEZkOFRnVFFPRTV0c1BleVZrcWVvTmRXQmNuOHlqaDM2Nk4ycjBWTTh5RzRaTU0yQnMzZDF2Z2h4MHlkTmFGQjc2ZEt6TlFDbXljLWRIeXNoN29zTnpsbTI4ZFFaTC02NFlYd0VYSF9EY1R3bm5GZ3ZBZ1ROZ05xbDNBd2dVR1N4N1lpejdsaThZMEJYS0M2Ny1JSDRzX1FrT0NyNHFzcmc00gH8AUFVX3lxTE5xc3FzbnNHbmVzdmFIcFR6WFZRZVBtbzd1dkNTaTJwUEQtcjVaRmNiZ0FELTRsV0IwaU14STdZNDloZkRxUWZybURmMUlfZFVVLUsyMEQydkFLNnVuSVdEOGxIU2VLd1dlS2l3WWRiY2RKTGxmc0hQN1F1VzdKdmNXNWZtOHh4NC1tWTBTQ0xTaGxOUkx5LXJwRm5veTRFWHpFcU4yUEJvdEk1TlBYWThTYmRzOGRoSDZwcjNPZkF5WGZ3eTE3cXRpQ00tQ1RiaWlQeDVYM0RSaVIwcVRhWjN3WFFTZUVlNE5wTEJubmRxUkJiMUdsX3Rod1p1cQ?oc=5",
-      "summary": "'Army is the rule, army is the law': India tears into Pakistan at UN over minority rights The Times of India",
-      "date": "2026-10-11 12:35 UTC",
-      "category": "Pakistan",
-      "source": "The Times of India"
     },
     {
       "title": "Pakistan Imposes Emergency in Khyber Pakhtunkhwa as PTI Marches for Imran Khan’s Release",
@@ -396,18 +460,10 @@
     {
       "title": "Russia Launches Manhunt for Europe’s Top Defense Executives, FT Reports",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk5pSWQyZlk2NUptTlotb3BvZnlBZEFpSEJQYmw5aWJZMnQ0cjFXc09UQmVNNGptMUxudTQ2YjJ6c09qOHNQN1RYRE1ITmlUemtfOU5iWXE0Y3JwMndSbFN6bmpnSVI2TGgwOGVVR00zcHg3bFRiRHJWaTVFT3VxWWwyVVd3bGp0YkoxOWZSNk9ZVnM3NHhOMmdheXp6d182ZmR3ckJQUXdxS0J2VjJFV2NYcVY5M3c?oc=5",
-      "summary": "Russia Launches Manhunt for Europe’s Top Defense Executives, FT Reports UNITED24 Media Russia steps up bid to kill European defence chiefs, spy agencies warn Financial Times Russia steps up bid to assassinate European defence chiefs, intelligence agencies warn - report i24NEWS As Putin wages shadow war, Europe looks for a way to hit back | Analysis The Seattle Times Russia steps up assassination attempts targeting de",
+      "summary": "Russia Launches Manhunt for Europe’s Top Defense Executives, FT Reports UNITED24 Media Russia steps up bid to kill European defence chiefs, spy agencies warn Financial Times Russia steps up bid to assassinate European defence chiefs, intelligence agencies warn - report i24NEWS Report: Russia Targeting EU Defense Chiefs for Assassination Yahoo As Putin wages shadow war, Europe looks for a way to hit back | Analysis Th",
       "date": "2026-10-11 12:32 UTC",
       "category": "World",
       "source": "UNITED24 Media"
-    },
-    {
-      "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
-      "summary": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast AP News See more headlines & perspectives on Google News",
-      "date": "2026-10-11 12:22 UTC",
-      "category": "World",
-      "source": "AP News"
     },
     {
       "title": "Pakistan Army deployed in Khyber Pakhtunkhwa in aid of civil power",
@@ -426,17 +482,9 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Pakistan imposes emergency, Governor's rule in PTI-led Khyber Pakhtunkhwa",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTURjdWtLbENNQ2VBRFBrU2F6azB1Mnh3MHJWclE2dWVXb2tCcDBDNFRZRGJSM0ZxbGhOUUxQakRkNkFzUG14VFhHWlhTTFk1X3hNWUJZSTl1NS0xbGRGUGdnWUVDTzZDR1RfV043ek45bmJON3BCUWRqOUFyN0ZZXy0tbk1xRXJTdmtFa19yTHdJdndSQXZBNDdKemhNTTVRRUFlTXpEdkcta1E4M283LW0tLXlHc3VPMHZMMndyX0dkdw?oc=5",
-      "summary": "Pakistan imposes emergency, Governor's rule in PTI-led Khyber Pakhtunkhwa ANI News",
-      "date": "2026-10-11 12:11 UTC",
-      "category": "Pakistan",
-      "source": "ANI News"
-    },
-    {
       "title": "Djibouti boat capsize: Children among 109 dead with 116 still missing, UN says",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMVZWeHN5VjRNUTVZUnlwS0pLMzhsYlJOUHVzY05LTGVycnVSa3AyVGlTOW1FYVhwMmF5bWtPU3N2Q05oaUsySGN0R1ZXMV9ObmpZSXcwZ2xiWTg?oc=5",
-      "summary": "Djibouti boat capsize: Children among 109 dead with 116 still missing, UN says BBC 139 migrants, including children, die after boat capsizes off Djibouti Los Angeles Times At least 139 dead including children after migrant boat capsizes off Djibouti The Guardian 109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says Reuters At least 109 dead, over 100 missing as migrant bo",
+      "summary": "Djibouti boat capsize: Children among 109 dead with 116 still missing, UN says BBC At least 139 dead including children after migrant boat capsizes off Djibouti The Guardian At least 139 migrants, including children, die after boat capsizes off Djibouti NBC News At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti Al Jazeera At least 139 dead and 84 missing after boat capsizes off coast of Djibou",
       "date": "2026-10-11 12:08 UTC",
       "category": "World",
       "source": "BBC"
@@ -460,18 +508,10 @@
     {
       "title": "Homes and bridges swept away as fresh floods hit Nepal",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TWZ3b2FfbEg2VEIyOHVhNlNCODFZbEtGVzhsaXJtWnFEdm42S1F3X1pZZ2Q4eUl0cm5WUzRWZGRoRXd4ZHl0UnJ0MC1JQnlxTUpOaEJmTUhNemc?oc=5",
-      "summary": "Homes and bridges swept away as fresh floods hit Nepal BBC Nepal urges villagers to evacuate after flood triggered by landslide, 5 missing Reuters Nepal floods: Chilling videos show bridges swept away, homes destroyed The Times of India At least five people missing as flash floods in Nepal sweep away houses Al Jazeera Nepal urges villagers to evacuate after landslide triggers flood ABC News & Headlines – Australian B",
+      "summary": "Homes and bridges swept away as fresh floods hit Nepal BBC Nepal urges villagers to evacuate after flood triggered by landslide, 5 missing Reuters Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal AP News Nepal floods: Chilling videos show bridges swept away, homes destroyed The Times of India At least five people missing as flash floods in Nepal sweep away houses Al Jazeera",
       "date": "2026-10-11 12:03 UTC",
       "category": "World",
       "source": "BBC"
-    },
-    {
-      "title": "‘No place to breathe’: AISA’s Neha Bora detained again, alleges police brutality",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkNXR0dFcWVJNDlVaVNuMDNUY2hMakhiN1cyeF9Wd0hvWHBkTHhTZElra0s3Z0ZiTXpXX21XbmhvNzB5R3gtb09CcG91RHlQMDd0V1hPODBCVEh5UWpKU1p2QXB4UDBfSFFHSDcxOVNTMzY4N1BUZk5reG83SGx6VVhtb3RxSUtFR0M1YXltRmxxeTBfLWVnUHlyMHFPYTVyMld4c0l0MkJlbE02bW9GTVNiUExxM1hRbWZ1bnVfaDYzcmphQU10RnVNNER2Y0JqOVItaVFKbjM5dEU?oc=5",
-      "summary": "‘No place to breathe’: AISA’s Neha Bora detained again, alleges police brutality The Times of India From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest Reuters Meet India's feisty Gen Z protester who is taking on Modi BBC India’s Young Put Their Bodies on the Line to Be Heard The New York Times Anti-CEC protest: Dilli Haat becomes Jantar Mantar for a day The Hindu",
-      "date": "2026-10-11 11:50 UTC",
-      "category": "World",
-      "source": "The Times of India"
     },
     {
       "title": "Pakistan President suspends government in province ruled by Imran Khan's party",
@@ -482,9 +522,17 @@
       "source": "The National"
     },
     {
+      "title": "Intercity transport suspended in Lahore, bus terminals reportedly sealed",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5STDg3djdybThsS2VZV1VKMGpYb3BqY3RYNVd2dlVlNjVEYXZMU0JlcDlOTGprNkgyaFRNb2xwb2JwNjhKakZ5Ng?oc=5",
+      "summary": "Intercity transport suspended in Lahore, bus terminals reportedly sealed Dawn",
+      "date": "2026-10-11 11:47 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
       "title": "Pakistani president suspends provincial government led by Khan’s party ahead of march",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmdLcnFXLWZKdHNHNzFwVklpTS1OYUZDMnVZZDV4cjVOX2daQTZoM3FEWUdmVEJQRVRuZVk0NWpKcGlid2JkbmMwQmlObkZEMWh2bmpNVXctdEJSczJFaUdNN0ZtMVpTdDZOVUU5RDJFbTFUOHJ5VnlhZDlGRjF2U2x6ZE9MYm01c2NHSnZfRWVNNm5WMlVvQVlZcnJrdnc?oc=5",
-      "summary": "Pakistani president suspends provincial government led by Khan’s party ahead of march AP News Pakistan imposes emergency rule over Imran Khan's provincial government Reuters Pakistan imposes emergency rule in ​province governed by Imran Khan’s party Al Jazeera Pakistan: Khan stronghold province put under emergency rule DW.com Emergency, governor's rule imposed in KP as president approves cabinet decision Dawn",
+      "summary": "Pakistani president suspends provincial government led by Khan’s party ahead of march AP News Pakistan imposes emergency rule over Imran Khan's provincial government Reuters Pakistan Seizes Control of an Opposition-Led Province The New York Times Pakistan imposes emergency rule in ​province governed by Imran Khan’s party Al Jazeera Emergency, governor's rule imposed in KP as president approves cabinet decision Dawn",
       "date": "2026-10-11 11:40 UTC",
       "category": "World",
       "source": "AP News"
@@ -498,17 +546,9 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Pakistan dismisses provincial government led by Imran Khan’s party as his supporters march on capital",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazAyYTB0bWtKdkVrUkdPWnRDNDlMZVBuR3RTNXAzRk50REVmc2tkVEFYV2xaeGJnNndKQmo1QlhaYlZ0TnFMeEZfa045MUtrSjRuaGloMnREdktvX091WXRYcXJMNEZKQzcyM1FTUnkwaTF4bVJpUVVsYlNMVC11OUF5cHFPT2FZWjJiQUktYTZSczJhT3YxS3Z1OEFldkF6N01uc09ZY25sOW9lMlVubUVB?oc=5",
-      "summary": "Pakistan dismisses provincial government led by Imran Khan’s party as his supporters march on capital The Independent",
-      "date": "2026-10-11 11:34 UTC",
-      "category": "Pakistan",
-      "source": "The Independent"
-    },
-    {
-      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+      "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tSmYtTjBWNnBJcWJRcTBtZWR6Q21aQy1iZ2s1RDRJYUpRamtydDZ6VktUc1J0VmVIcDVfZEZEclRlTnRZNE5lTGxWcUN1Q3VHOXBucUhFNWw3UkRoOHhfcjB2Z1o0a3A0YWQwZVQ2Q0lyRG4yTXJFVV9kazJYSHM?oc=5",
-      "summary": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now? NPR",
+      "summary": "A heroic, 7-day bike ride made this teen a global star. Where is she now? NPR",
       "date": "2026-10-11 11:28 UTC",
       "category": "World",
       "source": "NPR"
@@ -538,20 +578,28 @@
       "source": "Dawn"
     },
     {
+      "title": "'No lesson learnt': KP emergency evokes grim October memories",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PMFkwTWJ5MlJSWlRmZFNSVzdCdjNOaE1TanVGQ1BqOGRkUVdjU1hvMTZnOEZSSXhtSmZUVDQxMkxnWF9jSkhPMA?oc=5",
+      "summary": "'No lesson learnt': KP emergency evokes grim October memories Dawn",
+      "date": "2026-10-11 11:00 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
       "title": "Bangladesh beat Pakistan by 32 runs in U19 Women's T20 tri-series",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHBpZUtWQVRrdWFWX1NSOFdCMHdpVGpXaVJ1VTk3aEVyT19Qc0tDbERHWkxjVWxRbVVEUW11b3NIeUF6RVN2ZnJoV0gxbWx4SHpoTEREWTlwMDJGMWt3eVI1c1JlYlBzcktaSE85YnJWQTFndVFGdGtpOUlNWEtYTzVSSFlwdkNOb0dTQ0U0cjNfRy1RLWd5RHltY1FzN2RLME5EcUQ5cGs?oc=5",
-      "summary": "Bangladesh beat Pakistan by 32 runs in U19 Women's T20 tri-series Pakistan Cricket Board (PCB) Playing XI - PAK vs SL 2nd T20I | Sri Lanka tour of Pakistan Squad Cricinfo Sahibzada Farhan's 89 helps Pakistan take 1-0 lead against Sri Lanka Pakistan Cricket Board (PCB)",
+      "summary": "Bangladesh beat Pakistan by 32 runs in U19 Women's T20 tri-series Pakistan Cricket Board (PCB)",
       "date": "2026-10-11 10:58 UTC",
       "category": "Pakistan",
       "source": "Pakistan Cricket Board (PCB)"
     },
     {
-      "title": "Pakistan declares emergency in PTI-ruled province, suspends Imran Khan's party-led government",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmJFZTc4MU9pcC1CWVF4RVVVcnBoTEtNR1RRaU5vVG1ndXVJRm05UnloMXlGSGNRQkJBVW1EeTZJdkhkeG1mLVNCR1BFelkwVEdtR3lzb2pGbTNPOE1kMEkzNXNCUEduak9ZMnBBb2g1MWh2Zm1Ldzc2YkxuQVdqejlEUl9yX0hjVUVaNFdkeEpzRnEzZjhkVUhFdEh4azJmRjltLUltQlQxRGlaVG1kWXA0UEdBUUdfN09sQi1aNDU5ZTU1Zk94Y3J6eEFjMi0yNzlN0gHYAUFVX3lxTE96dXNUTVFVVDRjclBBRmNpNHVqWS1lUjY0dENYbXRDNUlGcHNFdVVQM18xWDZEQll2amRPWkM4Vk9VbkRVYWhnZEYweS1hbzlRU3hxRmR2RHN2MXdhOTB3N1lvRUU2UmJVeWp5QllqcVdMellBMFpScEt4LWV2VzUxdnN2a2hadkZmcnRvVXBubEpvaXNyNkl6U3VscVB2M05UX2duVFdmZ0VVU2ZwTHpScm9xUGxYeU9sRUluazd0c3U5ODRQWTdlcEpSUFhlRDkyU1o3NzFKbQ?oc=5",
-      "summary": "Pakistan declares emergency in PTI-ruled province, suspends Imran Khan's party-led government Firstpost",
-      "date": "2026-10-11 10:58 UTC",
+      "title": "Pakistan imposes emergency rule in Imran Khan's provincial stronghold",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3hoSy1SNFlzaFFsVmQyMW9nTW90aGVXUUFWQVZFV21HUGZ0bFpIR2lWWmVHVWhhT082aHFTWmdlbnpJeUJaZDQtREhnQUVEQllHNjIyNVQ0aFExRWFnWnJaWUJudTEwaGN6YVc1NkxuVi1LWnVWZXNld0lTNnhzSlRHSTlwT3poRlNzU2h4dFRzNEh5Q0l4cVh2Q2xsc0hVczNweVBXT0NBSG9jM0VSSUZYdzdXNFRVMWM0?oc=5",
+      "summary": "Pakistan imposes emergency rule in Imran Khan's provincial stronghold RFI",
+      "date": "2026-10-11 10:49 UTC",
       "category": "Pakistan",
-      "source": "Firstpost"
+      "source": "RFI"
     },
     {
       "title": "Pakistan imposes emergency in Imran Khan’s last stronghold, Khyber Pakhtunkhwa",
@@ -579,7 +627,7 @@
     },
     {
       "title": "Pakistan Imposes Emergency As Imran Khan Supporters March In Khyber Pakhtunkhwa",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVVlZThMZmJXVGFfWjFyS3JHVmZYd3NnUkpXOUNYQWQ1SEdsN3RiZFgxY0czSDQ2NGphR203T1YxdkJFaDlLalp5SmtGeVZ6Mjc2TzBqZzdyaW1TSVhqZDhXbWZZeWgydGJWWHY4OF9rQldZVGpRbVZOa1hPeEZ3SzBma1FGa2dkZ1c3OFdYaHJ6RFhnbkRfODZVdzRWLWNLdXpuTmRDTWJOcXZVM2F5Nk5KdzFaQi1qYlQ3Xw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVVlZThMZmJXVGFfWjFyS3JHVmZYd3NnUkpXOUNYQWQ1SEdsN3RiZFgxY0czSDQ2NGphR203T1YxdkJFaDlLalp5SmtGeVZ6Mjc2TzBqZzdyaW1TSVhqZDhXbWZZeWgydGJWWHY4OF9rQldZVGpRbVZOa1hPeEZ3SzBma1FGa2dkZ1c3OFdYaHJ6RFhnbkRfODZVdzRWLWNLdXpuTmRDTWJOcXZVM2F5Nk5KdzFaQi1qYlQ3X9IBxAFBVV95cUxPZlhCbXNNcE15dk5UVjBBWHBJTTdLSjkwaDR1UDVhUWNvQmRTZXVkU2VsRlFfTUJCT1ZidW5oODFZY1BqUC1pM3o5QXVzX0ZxbDRQc0dvdnVrMjBRaEY0NHR2OGdZeENtajN5ZlZMR2Rpc25yWHBhb0hmQTNPN3NleU4xamN4YUE1ZUFxSG1SRndpbWE3UVhVbVNaRFlwWjZQM0ZIMDdIQnB6anBZdnF4UWYzaVZYLXhuelhtQTVkVldHN2FG?oc=5",
       "summary": "Pakistan Imposes Emergency As Imran Khan Supporters March In Khyber Pakhtunkhwa NDTV",
       "date": "2026-10-11 10:22 UTC",
       "category": "Pakistan",
@@ -672,54 +720,6 @@
       "date": "2026-10-11 09:00 UTC",
       "category": "World",
       "source": "The New York Times"
-    },
-    {
-      "title": "Where Every Tree Hides ‘an Enemy’: How I Watched China’s Paranoia Grow",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkhxdDgxNWgwc2szQmJkc1k5Y291X3F4cHc3RGI4Rko5a0huejREMHhDUDFOYlRTY1B2MTlRNEp5bGZNUDVycGJlTXpSM2RobHN6LTdXczBnVkhBQ2lIOWtfQTNWdXpKS0ExQmFKd2VLd1QxZmZxbkpYV1lxOGVhbjdaVUxEOXpiY0lv?oc=5",
-      "summary": "Where Every Tree Hides ‘an Enemy’: How I Watched China’s Paranoia Grow The New York Times China’s LinkedIn Espionage Is Only Getting More Advanced The Diplomat – Asia-Pacific Current Affairs Magazine The Watchtower The New York Times In the Online Age, PRC Foreign Intelligence Evolves Substack",
-      "date": "2026-10-11 09:00 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Pakistan Imposes Emergency and Governor’s Rule in Khyber Pakhtunkhwa",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9XVHhKTi1hMEFhVlJQVmlPb3RMc29VWTd2aTE4a1RSWkJnV2FyNXRNVHYzdTAxd0FqZGpPYjRkaDViWE1mVmJJMG9BaU1ubkoxaFgzMmhJNmdId3FFNUk3STVrRGR5ak0tN1Uzb0FhbVRYVU9Qek91TlBxZlhDMGdtYlJzTTA5bkxnWnFpekhXWm5jOVE?oc=5",
-      "summary": "Pakistan Imposes Emergency and Governor’s Rule in Khyber Pakhtunkhwa Khaama Press",
-      "date": "2026-10-11 08:57 UTC",
-      "category": "Pakistan",
-      "source": "Khaama Press"
-    },
-    {
-      "title": "Vatican official Visits Pakistan as Church Marks 75 Years of Diplomatic Ties",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGt4VUNnOEpUWS1VX1hPNWRvSEVGa1VxOHdfbVV0VnRZTDJRaVNtYlZRN2h5YWtvRW9WTVlENmFzRGJMMkpkclFFU0FINHBOMUpTTmp4Tk1NNHRtQXNreFIwTE9Bd1l6TEVzeFNjVTBUN093aHRtMmNYbHB5dUZTV1dvemRqay1wV3B2eFo5bDBtZlFYVUJTQXVPdmpLd0NUT3RibXhHQ3VFUQ?oc=5",
-      "summary": "Vatican official Visits Pakistan as Church Marks 75 Years of Diplomatic Ties Radio Veritas Asia",
-      "date": "2026-10-11 08:44 UTC",
-      "category": "Pakistan",
-      "source": "Radio Veritas Asia"
-    },
-    {
-      "title": "Pakistan Says 12 Militants, Soldier Killed in Border Clashes With Afghan Taliban",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zczd4XzQ3MjNCWGh5bzdBWUp6QU9CNXZBdi05WWJBaG4yc0lJejRnSGY1b083ZF83MURzUzVaOEhGM2sxTy01S2ZVTloyM2M?oc=5",
-      "summary": "Pakistan Says 12 Militants, Soldier Killed in Border Clashes With Afghan Taliban thekabultribune.com",
-      "date": "2026-10-11 08:13 UTC",
-      "category": "Pakistan",
-      "source": "thekabultribune.com"
-    },
-    {
-      "title": "Pakistan says thwarted infiltration attempt, killing 12 militants and Afghan Taliban forces",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHpmVkJEcmFWNXRzV0NJdVpUd2NEQWxKbVk5S3BqamN0ZElLRzdPOTFCTWRoMG5fenZjZHVlQkdQWmg0bThpalZUSi1kc09OaVdjNkNRd0xFZDkxZWNjckQ1X1E1cjdEMkduNEVjTmpPcWRwbWozTFh5bW5md1h1RjNvQnhkTWI2VGZWbWdFWGFxa1ZEdnJJWjd4SWVQUE1PVFNCWWo3VXdsRWN3MVUyZTg1Rlkxdm9TRmhPcUdaVVVEaW5pNTJCMWVkVQ?oc=5",
-      "summary": "Pakistan says thwarted infiltration attempt, killing 12 militants and Afghan Taliban forces Arab News PK",
-      "date": "2026-10-11 07:44 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Emergency, governor's rule imposed in KP as president approves cabinet decision",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONURLN25TcnlFZVNOeko1VTFlSGlQbkFuYnVyaG1XbkxEa2hHSXBmSUxiUEptekU3THo2b0ZjQWd6ZDltRkRyOE9mazliOHNKQXR5Yy10ZDlKRkdYWTZEUUQxYm50dUM3dXlyTG9qRGlLaGFOVlVjYXU4bm1vTGQ3WElBT19qUG5oU0tGYlpyNHItZlNaZUVzNnB6ZnZxV2VWRDhPVzQ1Ni1oZzJRWG5td0hET3JFUmZD0gFWQVVfeXFMTTZ1cExQNzgtNmRvbXhlSm5Vc0gzZXVYZ1EtOHllbjk2YnlwVktsaUpPTllvcEI3aHdQalBReDBxa08wM2UwR3JLYXotYlhyb0t0YTdOTnc?oc=5",
-      "summary": "Emergency, governor's rule imposed in KP as president approves cabinet decision Business Recorder",
-      "date": "2026-10-11 07:30 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
     }
   ]
 }
