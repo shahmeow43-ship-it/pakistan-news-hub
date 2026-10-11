@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Pakistan News Hub — Pakistan and world headlines, updated from linked news sources.">
+<title>Pakistan News Hub | Pakistan & World</title>
+<style>
+:root{--navy:#082b24;--green:#087b54;--lime:#d9f99d;--paper:#f4f7f5;--ink:#15241f;--muted:#66756e;--line:#dfe8e2;--white:#fff}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}a{color:inherit;text-decoration:none}button,input{font:inherit}
+.top{background:var(--navy);color:#e6f5ed;padding:8px max(18px,calc((100% - 1160px)/2));display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:.82rem}
+header{background:#fff;border-bottom:1px solid var(--line)}.head{max-width:1160px;margin:auto;padding:22px 20px 15px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{display:flex;align-items:center;gap:12px}.logo{height:48px;width:48px;background:var(--green);color:white;border-radius:13px;display:grid;place-items:center;font-weight:950;font-size:1.55rem}.brand h1{margin:0;font-size:clamp(1.4rem,3vw,2rem);letter-spacing:-.06em;line-height:1.05}.brand p{margin:5px 0 0;color:var(--muted);font-size:.86rem}.search{display:flex;gap:8px;max-width:340px;width:100%}.search input{min-width:0;width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px}.search button,.btn{border:0;background:var(--green);color:white;font-weight:750;padding:10px 14px;border-radius:10px;cursor:pointer}
+nav{max-width:1160px;margin:auto;padding:0 14px;display:flex;gap:4px;overflow:auto}nav button{border:0;background:none;padding:12px 14px;white-space:nowrap;font-weight:750;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent}nav button.active,nav button:hover{color:var(--green);border-color:var(--green)}
+main{max-width:1160px;margin:26px auto;padding:0 20px}.intro{display:flex;justify-content:space-between;align-items:end;gap:16px;margin-bottom:16px}.eyebrow{text-transform:uppercase;letter-spacing:.13em;font-weight:900;color:var(--green);font-size:.75rem}.intro h2{font-size:1.65rem;letter-spacing:-.05em;margin:3px 0 0}.status{font-size:.8rem;color:var(--muted)}
+.feature{border-radius:18px;background:linear-gradient(125deg,#082b24,#0d6b4b);color:white;padding:clamp(24px,5vw,48px);margin-bottom:28px;position:relative;overflow:hidden}.feature:after{content:"PH";position:absolute;right:4%;bottom:-35%;font-size:clamp(9rem,25vw,19rem);font-weight:950;color:#ffffff0d;letter-spacing:-.12em}.feature>*{position:relative;z-index:1}.feature .tag{display:inline-block;background:var(--lime);color:#153323;padding:4px 9px;border-radius:99px;font-weight:900;font-size:.73rem;text-transform:uppercase}.feature h2{max-width:780px;font-size:clamp(1.7rem,4.7vw,3.3rem);line-height:1.1;letter-spacing:-.055em;margin:15px 0 10px}.feature p{max-width:680px;color:#d9eee4;margin:0}.sectionhead{display:flex;justify-content:space-between;align-items:end;margin:26px 0 14px;gap:12px}.sectionhead h2{margin:0;font-size:1.35rem;letter-spacing:-.04em}.sectionhead small{color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.story{background:white;border:1px solid var(--line);border-radius:15px;overflow:hidden;display:flex;flex-direction:column;min-width:0}.storytop{height:9px;background:linear-gradient(90deg,var(--green),#a3d977)}.storybody{padding:18px;display:flex;flex-direction:column;flex:1}.category{font-size:.72rem;color:var(--green);font-weight:900;letter-spacing:.1em;text-transform:uppercase}.story h3{font-size:1.13rem;line-height:1.3;letter-spacing:-.025em;margin:9px 0}.story p{font-size:.9rem;color:var(--muted);margin:0 0 14px}.meta{font-size:.77rem;color:var(--muted);margin-top:auto;padding-top:10px}.read{display:inline-block;color:var(--green);font-weight:800;margin-top:12px}.read:hover{text-decoration:underline}.empty{display:none;padding:24px;background:white;border:1px solid var(--line);border-radius:12px;color:var(--muted);grid-column:1/-1}.notice{margin:24px 0;padding:14px 16px;background:#fff8df;border:1px solid #ebdfa9;border-radius:12px;color:#66520b;font-size:.85rem}.loadrow{display:flex;justify-content:center;margin:24px 0}.loadrow button{background:white;border:1px solid var(--line);padding:11px 18px;border-radius:10px;cursor:pointer;font-weight:750}
+footer{background:var(--navy);color:#e5f3ec;padding:28px 20px;margin-top:38px}.foot{max-width:1160px;margin:auto;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}.foot p{color:#b8d2c5;font-size:.84rem;margin:5px 0}.foot a{text-decoration:underline}
+@media(max-width:800px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.head{align-items:flex-start;flex-direction:column}.search{max-width:none}}
+@media(max-width:520px){main{padding:0 13px;margin-top:18px}.grid{grid-template-columns:1fr}.top{padding:8px 13px}.head{padding:18px 13px 12px}.storybody{padding:16px}.intro{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<div class="top"><span>PAKISTAN • WORLD • EXPLAINERS</span><span id="date">Independent headlines, linked to sources</span></div>
+<header>
+ <div class="head">
+  <a class="brand" href="#" aria-label="Pakistan News Hub home"><span class="logo">P</span><div><h1>Pakistan News Hub</h1><p>Pakistan first. The world in context.</p></div></a>
+  <form class="search" id="searchForm"><input id="q" type="search" placeholder="Search headlines..." aria-label="Search headlines"><button>Search</button></form>
+ </div>
+ <nav aria-label="News categories">
+  <button class="active" data-cat="All">Top Stories</button><button data-cat="Pakistan">Pakistan</button><button data-cat="World">World</button>
+ </nav>
+</header>
+<main>
+ <section class="feature">
+  <span class="tag">Live headline feed</span>
+  <h2>Know what’s happening in Pakistan and around the world.</h2>
+  <p>Browse recent headlines and open the original reporting from the publisher. We link to sources rather than copying full articles.</p>
+ </section>
+ <div class="intro"><div><div class="eyebrow">Latest updates</div><h2>News desk</h2></div><div class="status" id="status">Loading headlines…</div></div>
+ <div class="grid" id="stories" aria-live="polite"></div>
+ <div class="empty" id="empty">No headlines match this search. Try another keyword or category.</div>
+ <div class="loadrow"><button id="refresh">Refresh headlines</button></div>
+ <div class="notice"><strong>Editorial note:</strong> Headlines are collected from external RSS feeds and may be delayed, incomplete, or occasionally unavailable. Always open the source and verify important claims. This site is not affiliated with the publishers shown.</div>
+ <div class="sectionhead"><h2>About this site</h2></div>
+ <p style="color:var(--muted);max-width:800px">Pakistan News Hub is an independent news-linking project. It brings together headlines from external publishers so readers can discover reporting in one place. Articles remain the property of their publishers. For corrections or business enquiries, replace this paragraph with your contact email before launch.</p>
+</main>
+<footer><div class="foot"><div><strong>Pakistan News Hub</strong><p>Pakistan first. The world in context.</p></div><div><strong>Responsible reporting</strong><p>Check sources, dates, and context before sharing.</p><p>© <span id="year"></span> Pakistan News Hub</p></div></div></footer>
+<script>
+const DATA_URL='./articles.json';
+let allStories=[], category='All', visibleCount=18;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function render(){
+ const q=document.getElementById('q').value.trim().toLowerCase();
+ const filtered=allStories.filter(s=>(category==='All'||s.category===category)&&(!q||(s.title+' '+s.summary+' '+s.source).toLowerCase().includes(q)));
+ const target=document.getElementById('stories');
+ target.innerHTML=filtered.slice(0,visibleCount).map(s=>`<article class="story"><div class="storytop"></div><div class="storybody"><div class="category">${esc(s.category)} · ${esc(s.source)}</div><h3>${esc(s.title)}</h3><p>${esc(s.summary||'Open the original publisher story for full details.')}</p><div class="meta">${esc(s.date||'Recent update')}</div><a class="read" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">Read original story ↗</a></div></article>`).join('');
+ document.getElementById('empty').style.display=filtered.length?'none':'block';
+ document.getElementById('status').textContent=allStories.length?`${allStories.length} headlines · last loaded ${new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}`:'No feed data loaded yet';
+ document.getElementById('refresh').textContent=filtered.length>visibleCount?'Show more headlines':'Refresh headlines';
+}
+async function load(){
+ document.getElementById('status').textContent='Loading headlines…';
+ try{
+  const r=await fetch(DATA_URL+'?t='+Date.now(),{cache:'no-store'});
+  if(!r.ok) throw new Error('No data file');
+  const data=await r.json(); allStories=Array.isArray(data.articles)?data.articles:[];
+  if(!allStories.length) document.getElementById('status').textContent='Feeds are set up, waiting for the first scheduled update.';
+  render();
+ }catch(e){
+  document.getElementById('status').textContent='News feed has not loaded yet.';
+  document.getElementById('stories').innerHTML='<div class="empty" style="display:block">No headlines yet. After you enable GitHub Actions and the first update succeeds, refresh this page.</div>';
+ }
+}
+document.querySelectorAll('nav button[data-cat]').forEach(b=>b.addEventListener('click',()=>{category=b.dataset.cat;document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('active',x===b));visibleCount=18;render()}));
+document.getElementById('searchForm').addEventListener('submit',e=>{e.preventDefault();visibleCount=18;render()});
+document.getElementById('q').addEventListener('input',render);
+document.getElementById('refresh').addEventListener('click',()=>{const q=document.getElementById('q').value.trim();const filtered=allStories.filter(s=>(category==='All'||s.category===category)&&(!q||(s.title+' '+s.summary+' '+s.source).toLowerCase().includes(q)));if(filtered.length>visibleCount){visibleCount+=18;render()}else load()});
+document.getElementById('date').textContent=new Date().toLocaleDateString(undefined,{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+document.getElementById('year').textContent=new Date().getFullYear();
+load();
+</script>
+</body>
+</html>
