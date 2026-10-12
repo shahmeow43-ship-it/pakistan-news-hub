@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-12T21:31:03+00:00",
+  "updated": "2026-10-12T22:31:34+00:00",
   "articles": [
+    {
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "date": "2026-10-12 22:24 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+      "date": "2026-10-12 22:05 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "As Trump Embraces Pakistan's Military Chief, Government Jails Elected Opposition Leaders",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzMTRYSUJuM0x3ZE1PQTFqZEdrSzBKVHQ0bFVkZWRHYlhKamd4OEhDek1nMWJzOVA5ZzNpUUFRMHBvWEV3ZjZJWS13Nk9mZVFIal81WFpTaEtDbVA3QmlnUEVHa3hCNXAwRTdzTm9ISQ?oc=5",
+      "summary": "As Trump Embraces Pakistan's Military Chief, Government Jails Elected Opposition Leaders Common Dreams",
+      "date": "2026-10-12 21:51 UTC",
+      "category": "Pakistan",
+      "source": "Common Dreams"
+    },
+    {
+      "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
+      "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire AP News Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it? NPR Zelenskyy Says Strikes to Go on If Putin Shuns Energy Truce Bloomberg.com Trump's energy efforts, European bonds, retailers' inventory balancing act and more in Morning Squawk CNBC Opinion | Putin Ignores That Energy ‘Cease-Fire’ W",
+      "date": "2026-10-12 21:50 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "First-ever Russian interior minister’s visit to Pakistan signals closer bilateral engagement",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPak9nNGZqOFdqYU9rc0pOZGpPZDdKMjVWcTZ2MG5OSkNmMUZGSW9pR3d2eFQ5ZFlfM0xWM010QTRTem83VlF6bDBtd3MtbWlmMnNiTW53em1oWUFJa0xsY0I3TlFQdXVwSEM1am5ybFFXUTVaWHRvSXcwLVkxcmxETDZhc3E1M25VMEZaa3VWakRZMG9zTXhhSFFNS2pvRUhPaHhqd2tHS01uaF9NcEJvcklheElQNWd0TXpObFR4WVgtU2p5NGc?oc=5",
+      "summary": "First-ever Russian interior minister’s visit to Pakistan signals closer bilateral engagement The Nation (Pakistan )",
+      "date": "2026-10-12 21:38 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
+      "title": "U.K. prime minister accuses Russia of meddling in Brexit vote",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ242Z241OHVsZ0JBY3VBczIwZ0tlQTN1cnJGVF9yYUp3S0FfLUtfYkJ2eERiRWJNc1dYbWFqa2owZUg3LTd0T1VBYzVVUDZuYUh5a3l3WUZwVUlwMTVjbVVueHlzblN6TFNOT25uenRkTTRzTUJIVVJzQXlHQ1lYNms1VUE3YUF6a254dG5KdEppWmFadTgxOV9YbUZiT0p0V3hkQw?oc=5",
+      "summary": "U.K. prime minister accuses Russia of meddling in Brexit vote The Washington Post If Russia had interfered with the Brexit vote, Nige would have been the first to know The Guardian Burnham says it is 'clear' Russia interfered with Brexit vote BBC Putin failed to influence Brexit vote, says minister The Telegraph UK PM Burnham says Russia interfered in 2016 Brexit vote Reuters",
+      "date": "2026-10-12 21:37 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
     {
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
@@ -10,17 +58,9 @@
       "source": "BBC News"
     },
     {
-      "title": "‘There Are No Words’: Dozens Killed in Airstrikes Near Sudan-Egypt Border",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUNTTXZadFFkTDZQNEc0UzZjbUxYTkt2eXNkNGthZHdPTXZWNFJxVGJadUhyRXh3OWpHV1dDemwzeThXZk9BLVhjejI2MUtnblJDMlRnbzZ0bjhBQU9BSTFKQ1lwOWxTQk9tblFWMlk5dVZ5TlduWEs3TFdNbUVDd0ZjWUdRR3M?oc=5",
-      "summary": "‘There Are No Words’: Dozens Killed in Airstrikes Near Sudan-Egypt Border The New York Times Deadly gold mine air strikes highlight Egypt-Sudan border insecurity Al Jazeera At least 72 Sudanese artisanal miners killed in strike, rights monitor says CNN 'At least 72' miners killed in airstrike on Sudan-Egypt border Sky News Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says BBC",
-      "date": "2026-10-12 21:20 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
       "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
       "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
+      "summary": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
       "date": "2026-10-12 21:07 UTC",
       "category": "World",
       "source": "BBC News"
@@ -50,14 +90,6 @@
       "source": "BBC News"
     },
     {
-      "title": "U.K. prime minister accuses Russia of meddling in Brexit vote",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ242Z241OHVsZ0JBY3VBczIwZ0tlQTN1cnJGVF9yYUp3S0FfLUtfYkJ2eERiRWJNc1dYbWFqa2owZUg3LTd0T1VBYzVVUDZuYUh5a3l3WUZwVUlwMTVjbVVueHlzblN6TFNOT25uenRkTTRzTUJIVVJzQXlHQ1lYNms1VUE3YUF6a254dG5KdEppWmFadTgxOV9YbUZiT0p0V3hkQw?oc=5",
-      "summary": "U.K. prime minister accuses Russia of meddling in Brexit vote The Washington Post If Russia had interfered with the Brexit vote, Nige would have been the first to know The Guardian Burnham says it is 'clear' Russia interfered with Brexit vote BBC Putin failed to influence Brexit vote, says minister The Telegraph UK PM Burnham says Russia interfered in 2016 Brexit vote Reuters",
-      "date": "2026-10-12 20:46 UTC",
-      "category": "World",
-      "source": "The Washington Post"
-    },
-    {
       "title": "Pakistan turns to Africa's second-largest crude oil producer, Libya, as Middle East supply disruptions drive search for alternatives",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVzZFX2Z2ZVF5eTY4cXlaMTBYSG9DclpxSjlmM0NXYlItUmJORnMyamdpVzJUanFuZjJGT2NEX2tOTkFGbVZyY0R4UDNBcHBrcXYyUF9HWC1kX1psNjRSeXFlVEhZdEN6RVZpNDdybHVBVlpTTWRTZ3l0elJXcG5PZFVlM1VQSDFVakhmc2dsaEdJdU5kWU13Qk1EN2JKWGJyVEVGdGhmUG9UM2JxbHBONllqaWxjY2tsSEhzYlRpRmhIR3loOE5KNzFQR0lYa2w0cXhv?oc=5",
       "summary": "Pakistan turns to Africa's second-largest crude oil producer, Libya, as Middle East supply disruptions drive search for alternatives Business Insider Africa",
@@ -76,7 +108,7 @@
     {
       "title": "Protesters Say India’s Democracy Is “Rotten” as Modi Gov’t Purges Voter Rolls, Arrests Thousands",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLdEROaksxcXlPLTB1Y2hRM1EyeFJkc0lWTEFYanFnVzM2cUR5eHpBTFFRZzNlNVN3c3N5VW41VWdQY2tUQjVHZDc0YzBJLU5HR0dSUk9YV1N5Unh5Q1drMGN0RktjcllvY3c?oc=5",
-      "summary": "Protesters Say India’s Democracy Is “Rotten” as Modi Gov’t Purges Voter Rolls, Arrests Thousands Democracy Now! What to Know About the Protests in India The New York Times Indian police crack down on 'Cockroach' protest in Delhi DW.com India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility Al Jazeera India cracks down on youth protests over contentious voter list revision, in photos AP News",
+      "summary": "Protesters Say India’s Democracy Is “Rotten” as Modi Gov’t Purges Voter Rolls, Arrests Thousands Democracy Now! What to Know About the Protests in India The New York Times Indian police crack down on 'Cockroach' protest in Delhi DW.com India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility Al Jazeera Voter roll purge sparks protests in India WBUR",
       "date": "2026-10-12 20:06 UTC",
       "category": "World",
       "source": "Democracy Now!"
@@ -84,7 +116,7 @@
     {
       "title": "Teen killed, 24 injured by unexploded Hezbollah munition on hike near Lebanon border",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtCZjhxcXBhSTFRWk5BZWo5Q2lJU3AyOC15aUd2OTNCdExKNms5dlg4Y04wMXAxd2NWV0N6NXFqV241STNDZ3VMZ1p5eDQtMXl1LVA1ZmlOdF9JdThNbnJYMllvbXBPVGN4dG45OVhMR2c3QjBCeWxjLXV4SWY0VXlRa0wzRi04TkptLUlnZnVlZXVySWNNYUdVYzJfOFgxRmNfVUxkWDNndzc2dHVzYjdCNWHSAboBQVVfeXFMUG5IazNhSFk0RUhNQ3dneFdnR3pBM0tIYktZRS1JLWg3dVF0S2ZKbURqdnd0SFV5SEJuYlR6d3FtTGQtd2VmWDFtMlBTN09nbDNrODN3UGZpUE9xMDFfWFdtb0hDZC1pdGJkYUgyS2hWcm1FbFhDLXdtdFJoS0NMOTZ3ZVlXQ1VEejcyeFBCZC1RN0hhdTNkM1JQcGV2aC0taEh0R19qZnhnNHF5SUNIaGZNYjB6SFBKSkF3?oc=5",
-      "summary": "Teen killed, 24 injured by unexploded Hezbollah munition on hike near Lebanon border The Times of Israel One teen killed, others wounded, after explosion on Israeli school trip near Lebanon border CNN Netanyahu meets with injured children in hospital following Hezbollah ordnance explosion in North Yahoo Munition blast during school trip kills student in Israel, and other Mideast developments AP News One killed, sever",
+      "summary": "Teen killed, 24 injured by unexploded Hezbollah munition on hike near Lebanon border The Times of Israel One teen killed, others wounded, after explosion on Israeli school trip near Lebanon border CNN Munition blast during school trip kills student in Israel, and other Mideast developments AP News One killed, 24 injured in explosion of Hezbollah ordnance near Lebanon border The Jerusalem Post One killed, several woun",
       "date": "2026-10-12 20:03 UTC",
       "category": "World",
       "source": "The Times of Israel"
@@ -92,7 +124,7 @@
     {
       "title": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5",
-      "summary": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen CBS News Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Saudi Airport Carnage Pressures Trump to Boost US Role in Yemen Bloomberg.com Saudi Arabia Faces More Attacks as It Reels From Airport Strikes The New York Times Saudis probe how defense systems failed to stop deadly Hout",
+      "summary": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen CBS News Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Attack on Saudi airport dials up pressure on D.C. NBC News US issues warning over Saudi airports as Trump weighs new strikes on Iran Fox News Saudi Arabia faces new missile and drone fire after major attacks on airports R",
       "date": "2026-10-12 20:02 UTC",
       "category": "World",
       "source": "CBS News"
@@ -104,14 +136,6 @@
       "date": "2026-10-12 19:53 UTC",
       "category": "Pakistan",
       "source": "The Long War Journal"
-    },
-    {
-      "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
-      "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire AP News Zelenskyy accuses Putin of defying Trump's ceasefire push, sends pointed message to White House Fox News Trump's energy efforts, European bonds, retailers' inventory balancing act and more in Morning Squawk CNBC Zelenskyy Says Strikes to Go on If Putin Shuns Energy Truce Bloomberg.com ‘Trump never cared about us’: Ukrai",
-      "date": "2026-10-12 19:52 UTC",
-      "category": "World",
-      "source": "AP News"
     },
     {
       "title": "Oman's foreign minister to visit Pakistan today",
@@ -130,6 +154,22 @@
       "source": "www.daily-sun.com"
     },
     {
+      "title": "Trump's top NATO general: 'We will fight' if Russia attacks Europe",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2p3QU1lZ0U1VkM3Q1hkTU95cXNmM1FTZ1RTbE9DdmU1RGRLa3ROemc5RmJXdEZIY3hha1pSUHJZOFk0cVBHVVhtaWNaN3VYdVV6bHkxSjBTMGN1V2gzak1JelZtcm1oLUpfS0NyOWNLaGd4ajZkQU9YZHlCWWs0TWxqREhDb0gwTXdfUVNZZ0hWXzQ1aVRPRHVCX045Q0Nl?oc=5",
+      "summary": "Trump's top NATO general: 'We will fight' if Russia attacks Europe USA Today U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes The Washington Post NATO Details Plan to Shield Ukraine’s European Allies From Russia The New York Times NATO general sets out tough military response to any 'foolish' Russian attack Reuters NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the All",
+      "date": "2026-10-12 19:09 UTC",
+      "category": "World",
+      "source": "USA Today"
+    },
+    {
+      "title": "4 men killed in landmine explosion near LoC in Azad Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xRzlPOFFOY1paNVo4NDdkaXRZcGk1Q1d0WUtxd1ZmR1Vod2pibkk1S2JPYVMwQjhzcnMzWWVadWUtTGZqNE5mVw?oc=5",
+      "summary": "4 men killed in landmine explosion near LoC in Azad Kashmir Dawn",
+      "date": "2026-10-12 18:57 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
       "title": "Abramovich’s close associate misled UK court in £1bn oil-fields case, documents suggest",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yMEJ3eGlMQ0YwT2dNdXdpNEFQaHVCSFBBbFNBQXI3Y0tsdjB5MGRWSmlCaTJBNE1sdHk5UjBWMl8wRmF2ZmdGMlBBbDE2Y3JvRHVrRGphS3FRVGM?oc=5",
       "summary": "Abramovich’s close associate misled UK court in £1bn oil-fields case, documents suggest BBC Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds BBC Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest The Guardian Abramovich aides accused of hiding mansions and jets to avoid tax The Telegraph Abramovich’s team presented sham documents to Londo",
@@ -146,9 +186,17 @@
       "source": "BBC News"
     },
     {
+      "title": "‘There Are No Words’: Dozens Killed in Airstrikes Near Sudan-Egypt Border",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUNTTXZadFFkTDZQNEc0UzZjbUxYTkt2eXNkNGthZHdPTXZWNFJxVGJadUhyRXh3OWpHV1dDemwzeThXZk9BLVhjejI2MUtnblJDMlRnbzZ0bjhBQU9BSTFKQ1lwOWxTQk9tblFWMlk5dVZ5TlduWEs3TFdNbUVDd0ZjWUdRR3M?oc=5",
+      "summary": "‘There Are No Words’: Dozens Killed in Airstrikes Near Sudan-Egypt Border The New York Times Deadly gold mine air strikes highlight Egypt-Sudan border insecurity Al Jazeera At least 72 Sudanese artisanal miners killed in strike, rights monitor says CNN 'At least 72' miners killed in airstrike on Sudan-Egypt border Sky News Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says BBC",
+      "date": "2026-10-12 18:20 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
       "title": "He reached the Americas centuries before Columbus. Why doesn’t he get more credit?",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUJqcC1UVkJXbnF0SUJtT0JUZFgxLTBYOUllSGVuNDV5SlNrSDZJaVI4dC1ORkN4M1ZTYU92NjdCV1J3a0tFRmpCNG1qakllb2gyNEZqR1hsUjh1LXc5T2xnWTU4MG5hTGp3N1hJY1hHdlgteFRYOXZVY19oeFdwZ1ZVZnUxNGFnN2k5cTdBYTVkb292bS1NMTJPVC1qQmxIM3hNMGNnYlpUV2l2aVVWaG9NYjlGcTdTWG51dEVvcG9RZw?oc=5",
-      "summary": "He reached the Americas centuries before Columbus. Why doesn’t he get more credit? The Washington Post 'They were people who took chances': The Vikings who reached the Americas 500 years before Columbus BBC Good ol’ 1492 😌 Facebook 7 Reasons Not to Celebrate Christopher Columbus Today Zeteo | Substack Vikings Reached North America 500 Years Before Columbus, Archaeology Confirms GreekReporter.com",
+      "summary": "He reached the Americas centuries before Columbus. Why doesn’t he get more credit? The Washington Post 'They were people who took chances': The Vikings who reached the Americas 500 years before Columbus BBC Vikings Reached North America 500 Years Before Columbus, Archaeology Confirms GreekReporter.com 7 Reasons Not to Celebrate Christopher Columbus Today Zeteo | Substack The Vikings crossed the Atlantic centuries bef",
       "date": "2026-10-12 18:20 UTC",
       "category": "World",
       "source": "The Washington Post"
@@ -210,14 +258,6 @@
       "source": "Anadolu Ajansı"
     },
     {
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "date": "2026-10-12 17:09 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Pakistan, IMF discuss impact of tensions in Middle East on energy prices, inflation",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkd4VFFTNXRJa0pkdHcyWHNfckVWWjE2Z3dpYUtPandLR0llVW5VZkZxT2JlTVk5Qm0tUHQzd0hPYWNpWGt3cUtCVjYyaU1ncy1Xbm1PX1RsU2VDM1hzTmNBcE5ObFR1Z29pUzdPNTN0aFpQZ2ZCYVBFclFxNTBBdHI4dk56dnh1SjJqajZEYktzVDY1YWJMc1JjZ3pfOEtBN3MyY2RtSG9OWVZRS3pxSTRMZjZWQmFLZi04MW83UQ?oc=5",
       "summary": "Pakistan, IMF discuss impact of tensions in Middle East on energy prices, inflation Arab News PK",
@@ -226,9 +266,9 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Omani FM Badr Albusaidi to visit Pakistan from Oct 13-14, will attend Joint Ministerial Commission meeting",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQREc3dnYxaFEtTGR4RFNMM29kbjRBUWJoWlUyRzRQbUJjWlVOcUU5VjI1NkxibldKVzdyeFJRN2JpSWJNcnVMWnlqMjhTTGxkd2YwZ2tjYVNKeFF5ZldhNkxDWlZNWE1HZ0ZjLVJsWTJzNnkwUXJhQ3JUdERBVVlMSThqR3FyVGhiY1R6c3gwYlZSZ2luSU15WW15eF81WnI5Z21BdmFjVzV0VFdrSFZVTlNtT0ZZSXMyMWVoenVHZlpHV1hzSm9vcEJvdnBSSlFOdEpiQVVB?oc=5",
-      "summary": "Omani FM Badr Albusaidi to visit Pakistan from Oct 13-14, will attend Joint Ministerial Commission meeting Dawn",
+      "title": "Omani FM to visit Pakistan from Oct 13-14, will attend Joint Ministerial Commission session",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VV1lta0Q3NnprTExaWUR3WEJrMlRHNzVfWmJQWk0zUVJIdnJGdDRHVlRvMl9xRkI1eGJ6cVhQMnRWbTR2SEVpOQ?oc=5",
+      "summary": "Omani FM to visit Pakistan from Oct 13-14, will attend Joint Ministerial Commission session Dawn",
       "date": "2026-10-12 16:57 UTC",
       "category": "Pakistan",
       "source": "Dawn"
@@ -236,7 +276,7 @@
     {
       "title": "Supertankers Turn From Gulf Oil Transfer Hub Amid Iran’s Attacks",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2UxSi1WM2FNQXNMdkNCemU2VURQWmpBeGNJVlRZM0h5MVJUa3VwaW1vQTNaTkI3MG5uYXJhY0tiMDBkNjdMYlNpdkt3SmVpUnBPWWNwVllqdklrSmYzTGIyR1hxckhKb2piVzZ6YlczLU5Vd24xNHd5YzdMNElUWkV0Q0VTZS1udzdCWXN6dThxS0hrVFpOX1BEZmRNUFBVMFBQcGIxRnh0SU1rX2VxNUZDUEdBZw?oc=5",
-      "summary": "Supertankers Turn From Gulf Oil Transfer Hub Amid Iran’s Attacks Bloomberg.com Live - Another tanker hit in Hormuz while Iran reviews US proposal Iran International Strait of Hormuz: After more oil left the Gulf, Iran tries to regain its stranglehold on shipping CNN Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports CNBC Hormuz attacks intensify as efforts to end war on Ir",
+      "summary": "Supertankers Turn From Gulf Oil Transfer Hub Amid Iran’s Attacks Bloomberg.com Live - Another tanker hit in Hormuz while Iran reviews US proposal Iran International After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping CNN Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports CNBC Hormuz attacks intensify as efforts to end war on Iran sta",
       "date": "2026-10-12 16:55 UTC",
       "category": "World",
       "source": "Bloomberg.com"
@@ -256,6 +296,14 @@
       "date": "2026-10-12 16:45 UTC",
       "category": "Pakistan",
       "source": "The Express Tribune"
+    },
+    {
+      "title": "How Ukraine Could Explode Trump’s ‘Deal With the Devil’",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWxYTjVHXzlyc0Y4MVJocms1QWtYSnBHRWlwREthZUowZzNjY0daajJZZFMyMFpVaGM4b3RQS0VhaFhKRmRNeTlfVjdfMFBOV1lvREFSR1k3cXR5YUxGVmxNZkhxdlhtb2hUbnVaRjBGdUtMc2V1aHFlN3NfSkZhUmE0b0FnTDA1NHhFSmJuVQ?oc=5",
+      "summary": "How Ukraine Could Explode Trump’s ‘Deal With the Devil’ Newsweek In the Russia-Ukraine War, Does Trump Know How to Play Cards? Just Security Trump Has Shamelessly Abandoned Ukrainians McFaul's World Trump should remember why Russia failed to take Kyiv thetechpencil The Trump Turn Finally Came — Against Ukraine Substack",
+      "date": "2026-10-12 16:35 UTC",
+      "category": "World",
+      "source": "Newsweek"
     },
     {
       "title": "Christian’s Death Sentence Upheld under Blasphemy Law in Pakistan",
@@ -298,9 +346,25 @@
       "source": "Dawn"
     },
     {
+      "title": "Pakistan's government blames PTI for rise of terrorism in Khyber Pakhtunkhwa",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2drSU9sNEFhTGw3ODdzOU94YlRSYmk1WmhheU9DMnJTWThMaDAyNzhTeGRaQ29vd3NUQ3RCSlk3eHdIVTYtWFR4Y2xmTXVHTDZwMG1SbThHaWtTOFIyY2ZIWFpXazFmbHdNeTlHVkY1N01tcVE0TzhGeHByVk5VUTF4NHVjQTBxWGlaVkFsMFNXelVJUUpBQ2JWQ3FjNDU4Q3NZYjdKdFlJXzFLLUZlWUlTMHNHeFA0MzREd2xR0gHDAUFVX3lxTE9jMlFKSl9rSDFfTUhHM1JQblo1Qk0ybF9TdWdmdExmVWlGNXBvNFhrZFZNLTh1cEpQbWdPQ2hRMjlGQUFJTEo3eGZkZTlPd0VBTmg0YUo3YjZCcmZCYk9xdHpMeHhzcGtiM19yOTNUVlhqSmt4Y2Jld1NjLXpDSk1ncGwtdjJHdXZ4Ml9lZXVNNTc1QkxsWW4tSW9IbnJfaGx3US1XV0xDS3JLYk9xMnltN1FuNWZUaG5udkdMWHhmMVV1TQ?oc=5",
+      "summary": "Pakistan's government blames PTI for rise of terrorism in Khyber Pakhtunkhwa WION",
+      "date": "2026-10-12 16:07 UTC",
+      "category": "Pakistan",
+      "source": "WION"
+    },
+    {
+      "title": "India's opposition parties march to top court as protests over voter lists escalate",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMTdpM2hlQmF0ZTZJcU92RlFDWGpSVDVkZUIweDUwUUNncUZxSF9WV2M4dTFSdGN5ZXJOMnZZMVFuaHY5eHZwMk9fQ2RKVll6eERNblRyZDBoR01uUklaSzhnMWhlZU42blhKelJQTEpydzdta2hZbFJ3?oc=5",
+      "summary": "India's opposition parties march to top court as protests over voter lists escalate NPR Rahul Gandhi leads opposition march to top court to demand election chief resign BBC Indian opposition figures lead march to police barricades around supreme court The Guardian India updates: Opposition marches to Supreme Court against election chief Al Jazeera \"Gyanesh Kumar Unable To Sleep, Cops Unhappy Too\": Rahul Gandhi's Big ",
+      "date": "2026-10-12 16:01 UTC",
+      "category": "World",
+      "source": "NPR"
+    },
+    {
       "title": "Nobel Peace Prize Winner Pillay Criticizes U.S. After Trump Rages About Losing Award",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPU0RLc3AzSmVIVU1tLWFiaVh4aDJ3RkRIbFVyVTJkbFFJUUpiOUdFa1A0ZndEcnJJdV9lckV1Zk5YemdJUHItUExMNTVxUy1GTVdDcmRaeWVUbjRYTTFxb1g2bERqY0V2cVg5eEdwU3ZwT04xV3M5aUNGOUJ0bVBjbjdRNE9mOEh2Q095TVY4dm5LYURRSFEwZWllZ0JPdGxtbXBJZ1lxSHZ4aU44cENOWWJvR2hvbk5TMDFacnZwR1VzYlNGNVc4azIwQ2c1MXBHVkx1VlNHMmNyUGdhQzBwNEUyWlhuQ3JGRDdxMWJ3?oc=5",
-      "summary": "Nobel Peace Prize Winner Pillay Criticizes U.S. After Trump Rages About Losing Award Forbes EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize Reuters Nobel Peace Prize laureate Navi Pillay visits International Criminal Court | International Criminal Court Inside the Trump Administration's War on The Hague Reason Magazine The Guardian view on the US, Russia and the international cr",
+      "summary": "Nobel Peace Prize Winner Pillay Criticizes U.S. After Trump Rages About Losing Award Forbes EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize Reuters The Guardian view on the US, Russia and the international criminal court: Trump’s assault on the rule of law intensifies The Guardian Inside the Trump Administration's War on The Hague Reason Magazine Nobel Peace Prize laureate Navi ",
       "date": "2026-10-12 16:01 UTC",
       "category": "World",
       "source": "Forbes"
@@ -338,17 +402,9 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Pakistan's Khyber Pakhtunkhwa At A Crossroads: Why The State Could No Longer Ignore The Security Crisis - OpEd",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWU4and3cnYtbFMyR0puNWswMllqNnFRVEFqUXVUVDIzVko2UUtBaG9wOTFoTjJUcTBuZDJjUHJZWTU2emsxNUlhUHpiX3hlcVNMZ2p5LVdXQWtDR0RNbUwtaFRjbGgzTVh3MWVlOTBFeVhjVkRKdWY3dkNLeVZjN2NmbHRuQVBiMlJKcDlSOXo5R3JNbjlkWENfdmFwRWFtbXBNQlpSSU4zcXNGOGhJWHAxa1FKQm14RFBzTThCU3pPeFVkRnFmYnJYbjNScXFDeURlbFBrcFVPY2lSZFNn?oc=5",
-      "summary": "Pakistan's Khyber Pakhtunkhwa At A Crossroads: Why The State Could No Longer Ignore The Security Crisis - OpEd Eurasia Review",
-      "date": "2026-10-12 15:39 UTC",
-      "category": "Pakistan",
-      "source": "Eurasia Review"
-    },
-    {
       "title": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUVqLWk5eDJ6Z0J0Ny13SFg1M1BaUFhEcnFxaWlXNmp2RlQtdlA3cXlheHBaSHFuRE5aczVtRDgxQU5sTHNDaEdEY2o0TDFJVjFHY3NIb1ZZYi1uYVJYVDN2Q2FHaEc3b0t5VWk5Qmp5bG8yc0JSWG9LVFFXbTRNNjB3?oc=5",
-      "summary": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns CBS News Rachel's remnants brings flooding to the SW; Simon targets Mexico The Weather Channel Coast-to-coast cleanup after three storms batter North America NBC News Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations Reuters Hurricane Simon to fuel multiday flood threat across Great Plains as remnants",
+      "summary": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns CBS News Coast-to-coast cleanup after three storms batter North America NBC News Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations Reuters 2 Pacific Storms Barrel Toward Mexico The New York Times Flooding downpours and gusty storms to target the Plains through Thursday Yahoo",
       "date": "2026-10-12 15:38 UTC",
       "category": "World",
       "source": "CBS News"
@@ -402,14 +458,6 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Indian opposition defies lockdown, marches to demand election chief sacking",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDA0dXhRa1ZQeklTTGVMZWFqYWszcDBSY0FnclByaklaRVNWMlUzTGg3Z3E3YUFObE1IN0lzS0tfVjF4SkpHaHdTbVIwMF94Qzk4ekttcmJTR0E5N1FiM1ZVMkotM1JqVWkwWnFZaV9BLWJhN0JoN3NTWFlVcm1yR0QxLUxTeW1UTVRtSVFyZ2pNU2dYQl9nYmhMVVJCdDdzVXN1d1RsSHpsRzdxSXpCamdidG3SAboBQVVfeXFMUFBQTUJEeU04aEFZSU9BaTdQUUhtUnRrcnNUYUxhWVNDWVR2SHZGWGcxRW1iRlZBWWVlODVfLWtIajR3OFFZNjNWVE9Wc3dvVUY1MVNDczlKQ09DM1RHQnROSWdkZ0xoQWlfX2M2QlZnUENKSXVkRVJzU3dOZVhudDJQOEtRRjBSWE9iWkRDd2I1eEZKVC1pekpPNlM4ekNDRW9lbzFIN0ZVTDRLNVRiRnBudExwNXVKRklB?oc=5",
-      "summary": "Indian opposition defies lockdown, marches to demand election chief sacking Al Jazeera Rahul Gandhi leads opposition march to top court to demand election chief resign BBC India's opposition parties march to top court as protests over voter lists escalate NPR Indian opposition figures lead march to police barricades around supreme court The Guardian India updates: Opposition marches to Supreme Court against election ",
-      "date": "2026-10-12 15:03 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Why the US is bringing back firing squads",
       "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
       "summary": "The execution of Fort Hood gunman Nidal Hasan would be the first time the US Army had used a firing squad since 1945.",
@@ -458,14 +506,6 @@
       "source": "The Times of India"
     },
     {
-      "title": "Why are the Houthis striking Saudi airports?",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkFhUllLZ0VEOXloQTJCVmZUaGg2ZnpSZENMcTZaVk1WdWkzblNlQVZmYzdFX3MtbDl3VW00T215VHRkX2xwUzJIRjI2WFZnUDJUVWNaUmk4R2FoeTV5T1NuQXpqX0thbnA4YlVMU1lmcXRnNzhpUFVQRDVpMWV2Z3NZYlZYRFI1LWRRbkVn0gGTAUFVX3lxTE10WDBySFJFX0Q3V2lQQVgxZFcyQVE2MERycmhCd2stcmkyMFlnNGZrRjdGX0NEdEEtM0w3Q3pRRVRpUXBnQ1JITlNhUUFhSTIzZ3pLbC0ycWIzckdEakp1QkNRNFl1TGhXQklQNG9Kdm13SWl5M294Qk5OcDZlUXB2S3dtZU4zbGpFZzI4aUpDZEZObw?oc=5",
-      "summary": "Why are the Houthis striking Saudi airports? Al Jazeera Why are the Houthis attacking Saudi airports and how are the missiles getting through? The Guardian How a series of miscalculations restarted Saudi Arabia’s war in Yemen CNN The Only Thing the Houthis Have Done Successfully The Atlantic Saudi Arabia running low on interceptors to defend against Houthi missile strikes – report | LIVE BLOG i24NEWS",
-      "date": "2026-10-12 14:31 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Saudi Arabia, Egypt, Pakistan, Turkiye condemn Houthi attacks on Kingdom",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDRtVXg4aXAxTGo1SGxRVUFyQXVJZEtGMG43amdELTZMREt5ODhuSGJaWDJJWkcxVVZ6d3VVMDQxbmJyWFJiWmstMC1ZRWY2aGVtSm5UV1JBUDlCYjZ2SFZQeERMQ3hnaS1EeHNRQ1p5YnNxNEVSVWhuWkxra0pGOHl0OUlQcUpBWlhkNlpZeGpWNE5JMGtVLTlqckY5SjE1UHJxdjZ5MTFLY0NmVFd5VG94RFRRSkRR?oc=5",
       "summary": "Saudi Arabia, Egypt, Pakistan, Turkiye condemn Houthi attacks on Kingdom アラブニュース",
@@ -498,14 +538,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Sher Kumbher calls for fairer practices, stronger copyright protection in Pakistan’s music industry",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDgyenNBSHlEOHBqTDB3T3BZSEtxYlF1b0l6cjRkcUp2VS10azFMNG8wOTdKWTNzZnRJQk9yclRBR21IRUlXMDRSN3BrVlRzOG9jcV9XRVhmeWxvODRkZ2RSR21VVUJtTTZwRkNyUm5oY3ZuLVowZGRBUFBjZFNiRFdtN1FHcVo2VzRkR3pseVF4ZktNUEpScXQtYU4xcml0STQ3MG5EWmRHcGI1OXRzZmV3UnI0TGwyWGVjWHpUVjRSNFNvdWJ0bzJR?oc=5",
-      "summary": "Sher Kumbher calls for fairer practices, stronger copyright protection in Pakistan’s music industry | Associated Press Of Pakistan",
-      "date": "2026-10-12 14:04 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
-    },
-    {
       "title": "Pakistan’s Provincial Dilemma: Rethinking Administrative Boundaries",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzlyWHgxM2EyeFEtQlVCU3VVVEpMT0FlOTVKcjNZTFBsbVVvcllXQjZvcklreTk2ekZVa2lhNkI5Y3JVVDFzX1J2alVpUGlrOXZhUDMyQmlYb09QRy05TlJLZTBPdURUc0RrWi1HbnljS0xELWM2RlQ2X3dpNktHaHBpNGJURk1jVzg2bV83TW5jZ0hHYmItM3dFSGMyMGNvTS1LZy1MOFhnbkRQcWc?oc=5",
       "summary": "Pakistan’s Provincial Dilemma: Rethinking Administrative Boundaries The Friday Times",
@@ -516,7 +548,7 @@
     {
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44dHg4TlJXbElwYnhKaHdJc2xlZ25lR3ZHTmRPMEtSVlBCUjA3enJQUUYteTVleU9HOU82OE9pWTVpNUFyaUxVUWt4N1U3aldHSkVWYUt3V1F4dmM?oc=5",
-      "summary": "Saudi minister vows 'serious response' to Houthi attacks on airports BBC Top oil executives dropped from event schedule after Riyadh attacks Reuters Oil chiefs pull out of Riyadh energy congress after airport missile strike Financial Times Saudi Arabia Insists Energy Supply Remains Resilient Crude Oil Prices Today | OilPrice.com Riyadh attacks hit core of Saudi's economic pivot Breakingviews",
+      "summary": "Saudi minister vows 'serious response' to Houthi attacks on airports BBC Top oil executives dropped from event schedule after Riyadh attacks Reuters Oil chiefs pull out of Riyadh energy congress after airport missile strike Financial Times Saudi Arabia Insists Energy Supply Remains Resilient Crude Oil Prices Today | OilPrice.com Saudi Arabia keeps its Riyadh summits despite strikes on the airport energynews.pro",
       "date": "2026-10-12 14:00 UTC",
       "category": "World",
       "source": "BBC"
@@ -532,7 +564,7 @@
     {
       "title": "Ukraine’s Strikes on Yandex Data Centers, Explained",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUlGYTk1R0R4eUtEbGM1Q1NQSGRqMWRkQ09LVUExMjZiSlB6RW1IaFV5TEpIamlhSWxwbkp3Ty1BVG5BSFdxN0RVUFBDU2tOWFVmajFfekpweDdZVjNxT2Vwd2Q1a3dlY3VMRjJMeU5LT3Z3b1F1MVpQdUlDMjlvWWxIalZjeWJXTnpleUw1MWVWeC1mU2tGWGg3bUw4amM?oc=5",
-      "summary": "Ukraine’s Strikes on Yandex Data Centers, Explained The Moscow Times Ukraine strikes Yandex data centre in third attack on Russian tech giant BBC Ukraine hits second major tech site, expanding range of targets inside Russia Reuters Ukrainian strikes on data centres and Russian bot activity in freefall Euronews.com Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of ",
+      "summary": "Ukraine’s Strikes on Yandex Data Centers, Explained The Moscow Times Did Ukraine’s strikes on data centers really silence Russian bots? Mashable Ukraine hits second major tech site, expanding range of targets inside Russia Reuters Ukrainian strikes on data centres and Russian bot activity in freefall Euronews.com Ukraine strikes Yandex data centre in third attack on Russian tech giant BBC",
       "date": "2026-10-12 13:56 UTC",
       "category": "World",
       "source": "The Moscow Times"
@@ -546,28 +578,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Apple Music in Pakistan: Subscription prices, features and how to sign up",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVhWeHQwRHdmTU9kNmlETDlmMkZVQktRY05Lb2NnN3RYWDljYlRvUHpXdGtDRWdOYlRLRFhTaXYxa3RtQ1RBdFVyWjI3MTFqRnNGYTNwQ0UwV0xjSXJIVkZMYlNWRkljc2ZUb0ZYbTlvRkE4eXF0STBtdFNXOC0wak1XZHYxWTNOX1Y1RDdjTEp2b1pLQUdlQUxQeTFXaVRfMDg3UVZXSXE3SkV60gG0AUFVX3lxTE9fNGUzUGU0YVJmeTY3Y2JQZUN2Wmc0ZjRJV2Z2RWl2NG5PVFhKQmQwQUV5cG5IYnZoSkJ3Vk1zSXpMT1JyeUZjeUVLcmNTUkNINlFWeW1peEdfaW9tTVFQY1dmQ0dGRnYyUnJGZHFBTlN4WEozNnducGd4VXV4TnFrX3c2eUVkYXVJZVpIZVVQTF9Wb0F1U1ZyU3I0NVM1RjBXUFMxRVFDQkxYQ3FoZ20yUUVKdw?oc=5",
-      "summary": "Apple Music in Pakistan: Subscription prices, features and how to sign up The Express Tribune",
-      "date": "2026-10-12 13:42 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
       "title": "Pakistan says emergency rule in northwestern province has no ‘time limit’",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGRsVHZmSGw1eGRDRWUwUk52TWVQSkhWNERxOUI0dGQyZ09KSGlHVVBnMDZ2RzZ3cEVfZm5xblFVQWhxbkI0Mi1YUDZ5ekZGWVc1Z1ZsZXY0ZlhYRW5Id3F1RjhUc3BpOTJlRUM3ekdFbG9zUnFPZGdRam9XQmtEWXc2WTRfaDl2d0kzeEJDS2JjTzJNeXZWRTBkZGZPWjlHT3JSa2lKeS1nZ1RrczhEQXBR?oc=5",
       "summary": "Pakistan says emergency rule in northwestern province has no ‘time limit’ Arab News PK",
       "date": "2026-10-12 13:37 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Nato’s supreme commander warns Moscow against attacks in Europe",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGtoYVh0cVg3NnBlNUY1Z0szTnNqV19aOVM1aFpEZ0s5ZkM3ZjNHZFc4OXRwZGYyRlIza1g0dzFsNnJzSmsxemlROGNKRExzbzJtWDFDZi1ncTJLNkNhbTZoUHhaWFNkajFsTlVadlZUNXN3aGZCQnZXSWNzMTVuTTZpM2w?oc=5",
-      "summary": "Nato’s supreme commander warns Moscow against attacks in Europe Financial Times NATO Details Plan to Shield Ukraine’s European Allies From Russia The New York Times NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance WSJ NATO general sets out tough military response to any 'foolish' Russian attack Reuters NATO says will do ‘anything and everything’ if alliance is attacked Al Jazeera",
-      "date": "2026-10-12 13:34 UTC",
-      "category": "World",
-      "source": "Financial Times"
     },
     {
       "title": "Pakistan thrash Sri Lanka by 82 runs to take 2-0 series lead",
@@ -610,9 +626,17 @@
       "source": "The National"
     },
     {
+      "title": "Air Force Maj. Jason Watson is in Solitary 24 Hours Daily After Publicly Calling For Trump’s Impeachment",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblB5bE1jYnUyeFpHQi1mZnBBZVBmSUNsYjh5N1lTVV9FLV9SNUFmazA2ck9DWFROUW1fR25PUHdCMnNIcm1qdkllNzhoYlFNS2s3Mkd0YnllR0lDYmNWMnhrSl9yVk5BbnhsdGJpUU14TXNnel9VZnBmZkdUY1c3SDNMaXpraC0zbGpJTTJ5RTB1NXBsQmdqcnZzSGR1WGo1dGpONXdqdkFkaDlBdkg1UkNUd2pkRWozeHVQdXNZcnpLdw?oc=5",
+      "summary": "Air Force Maj. Jason Watson is in Solitary 24 Hours Daily After Publicly Calling For Trump’s Impeachment Military.com Air Force major in 24-hour solitary after calling for Trump’s impeachment: attorney Raw Story",
+      "date": "2026-10-12 12:57 UTC",
+      "category": "World",
+      "source": "Military.com"
+    },
+    {
       "title": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhjR0VrVjNqLU1EcjhyRUVHQ3JGR29Lcnc1bUVERllyazdqTWQ1ZFBNZU4yRF9OQ3lwWnJiUTNTQ3d4Q3BQeDJiVzcwSC1PeGpkVXRib3N3dnl3QTRPWVBGOVlTMVdzYjhTbzF2RjBDRG1zX1B2bTB6Q2NrNmh6eXFLekhINHFzdU5uRVVCczVVMTlDaHZVVnU5b2xld0VxMjhKR05IQlNaNVhSZGh3ZmV0Z3Z3d2hIVUE?oc=5",
-      "summary": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule NBC News Pope Leo XIV to undergo lung surgery this week NPR Lung specialist who worked at Rome hospital explains Pope Leo's surgery, says risks are low National Catholic Reporter What to know about Pope Leo’s planned lung nodule surgery CNN Bishops, clergy, religious and faithful offer prayers for Pope Leo ahead of lung surgery OSV News",
+      "summary": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule NBC News Pope Leo Will Have Surgery to Remove Growth on Lung The New York Times As Pope Leo XIV prepares to have lung nodule removed, lung health and screening get the spotlight CBS News Pope Leo to be admitted to hospital on Tuesday for lung nodule surgery, Vatican says ABC News - Breaking News, Latest News and Videos Pope Leo will not present V",
       "date": "2026-10-12 12:53 UTC",
       "category": "World",
       "source": "NBC News"
@@ -624,6 +648,14 @@
       "date": "2026-10-12 12:48 UTC",
       "category": "Pakistan",
       "source": "The New Arab"
+    },
+    {
+      "title": "Ukraine passes minority rights law to end Hungary’s EU veto",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSm9MeFozc1A3bzk5SGNQT3d2Mms1T2FtS0F2LU53VUhnc3FLSjdFd2dhSDNqeWZqM2o2Q2JzclQtX2FqeXBvNlhMWUtHdmVaVTY5bDQzTGExSnFUUDJKQm9UNkEyQjVlMnVCbTlJcEJGX2RqY3FxZFNFZHFtclF2WVpSZkhWLXNpRFQxTVliWDBaMUlJRnJsRFpMQXFqUXlZYU96N0hSck80TUN3d3FVemJGLUJGUTNTdmFQNw?oc=5",
+      "summary": "Ukraine passes minority rights law to end Hungary’s EU veto Euronews.com Ukraine says EU set to open next accession stages after Kyiv passes minority rights law Reuters Zelenskyy signs education law amendments sought by Hungary to unblock Ukraine's EU accession talks Українська правда EU expands accession talks with Ukraine and Moldova Yahoo EU States Unanimously Agree to Open 2 New Accession Clusters for Ukraine Kyi",
+      "date": "2026-10-12 12:42 UTC",
+      "category": "World",
+      "source": "Euronews.com"
     },
     {
       "title": "Nepal rescuers reach flood-hit villages as at least 5 people reported missing",
@@ -688,38 +720,6 @@
       "date": "2026-10-12 11:29 UTC",
       "category": "World",
       "source": "Spiked"
-    },
-    {
-      "title": "Pakistan Warns Taliban Of Consequences Over Failure To Combat Terrorism",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CM2psX1duaEEtYmNJWTJjTUJLSjhqM20xZUIxZUExeHk4NDVDb3pMbUNZaDRQeUMyVi13em90c3E3b0IyM1h1aGNBWDJfOTg?oc=5",
-      "summary": "Pakistan Warns Taliban Of Consequences Over Failure To Combat Terrorism Afghanistan International",
-      "date": "2026-10-12 11:23 UTC",
-      "category": "Pakistan",
-      "source": "Afghanistan International"
-    },
-    {
-      "title": "China’s Shengtang Group eyes $10m investment in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajlTR1BGM2R4YkxfVjJwMTJCRlQtTlBQRURaYTQzbE0yQUl2Y3dQNksxbEdOX3lIREVwSDBqNHExTjhjSklBclpUdVpsYUFLeHpXcklkM2ZXRkpGQ1RYdWJfakFIZndMZXJwOEtBdXN6eGQyR0NkSFdLVXZUdkhjUEZnTG04TVRZeGZqeFh6VQ?oc=5",
-      "summary": "China’s Shengtang Group eyes $10m investment in Pakistan Mettis Global",
-      "date": "2026-10-12 11:22 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
-      "title": "Shooter Opens Fire on Middle School in France",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWZMWF9paDJDM2YtOVFHRXdLOGd5aXl3dmd4RnVXbDhzSGRIRWNSZTg5Ti1lcmZ2ZC1JZ2YybkZKS3hCY1dxRVZrZUlPY1c3dm0tU0hwMkV0QXdFYjktcHhCUURjZWdubTg3amM5YmltaWVFc1BvRS1qakxFZEtQek95RWxtU1NGUTN6dnpsdHBBdw?oc=5",
-      "summary": "Shooter Opens Fire on Middle School in France Newser Teenager arrested after two teachers shot in French school BBC French police detain student suspected of shooting the principal and a teacher at his school AP News France school shooting: Police detain pupil after two injured Al Jazeera Teen wounds headmaster and teacher after opening fire at French school France 24",
-      "date": "2026-10-12 11:22 UTC",
-      "category": "World",
-      "source": "Newser"
-    },
-    {
-      "title": "Iran says reviewing US response to Hormuz proposal as Pakistan, Qatar mediate conflict",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRktta1NxQVh0dFdOSGZZTzFoNzJyTVl4Z0xCQ0VFdWVVamd1N0pDNGlrRXFuOGJHdExteG1XUWZERnh2cl84cnRDZnpZTzZ1UUQxa044S3dOWE40RWNnWTlQNHBWUUc1S1pyLWI2Q1ZLV2hfVU5BWTl1SDZQVDAwOUhQYjFITG5hYVprdEg4TG1EQmVoZHVBeWZ6UF9DTFF5cl83R3FHYnVVbXVvM1RzMEM2V0JiMFlCUEFvcllGbXJSLXph?oc=5",
-      "summary": "Iran says reviewing US response to Hormuz proposal as Pakistan, Qatar mediate conflict Arab News PK",
-      "date": "2026-10-12 11:15 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
     }
   ]
 }
