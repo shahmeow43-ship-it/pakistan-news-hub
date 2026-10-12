@@ -1,21 +1,53 @@
 {
-  "updated": "2026-10-12T12:58:38+00:00",
+  "updated": "2026-10-12T13:47:14+00:00",
   "articles": [
+    {
+      "title": "Pakistan thrash Sri Lanka by 82 runs to take 2-0 series lead",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXV2UjUyU0tRZjY3OVlHVlJpVTJzTjFBRVJfQmpxaGZXcEtSRVpWWUNOS2g1ckFQUG9TdmdQYi11YXNFcmRjRGZRZlFIdXVEZGZUUjRMSVBTRTBVRkt6SlVIT252c3h4VU1CRXY0dDN4czROUUFzTGNKN3FWMW5ncTROXzdhUjFQNi11Z1pWTnVlT0FhZ25v?oc=5",
+      "summary": "Pakistan thrash Sri Lanka by 82 runs to take 2-0 series lead The Nation (Pakistan )",
+      "date": "2026-10-12 13:27 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
+      "title": "Over 20,000 Militants, Including 6,000 TTP Members, In Afghanistan, Says Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU1E2am1kVHg0cHl2cEViSTFtSUc3QTFFVDh5cFFNeXFWTU5GQUNIOF9ORnNZTmYxVEFPR2tuMGNsQ09KWkoxb0VCbGZNVEU?oc=5",
+      "summary": "Over 20,000 Militants, Including 6,000 TTP Members, In Afghanistan, Says Pakistan Afghanistan International",
+      "date": "2026-10-12 13:07 UTC",
+      "category": "Pakistan",
+      "source": "Afghanistan International"
+    },
+    {
+      "title": "Pakistan's Khyber Pakhtunkhwa chief minister in protective custody, police say",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZXRmR3FyQ1lYV3B5bGxlenV2RkpUbGdfeG9tanVDUkVFS1R0Z3lRUkswUlRVV21zZmdQcVh3MnZicFFxeTdsQndfRjlwYm91UHNMZ3NOV3JWNjF5aEVBUDhkTmFnaDdOMFBoVmVyWWhGQzR5dUREZmFCVk9ha1BZdTdKUmx6OEJjZ1YzM2xkV2FEMU9VZC0xNW0xa2dxR2FjaWZDYi1qaXNwb3JOcnAwUHpSLXFNejZLUkdZY0lDMA?oc=5",
+      "summary": "Pakistan's Khyber Pakhtunkhwa chief minister in protective custody, police say Anadolu Ajansı",
+      "date": "2026-10-12 13:04 UTC",
+      "category": "Pakistan",
+      "source": "Anadolu Ajansı"
+    },
+    {
+      "title": "Imran Khan’s stronghold in crisis: What's happening after emergency rule in Pakistan's Khyber Pakhtunkhwa",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTHd1c2Z6bkdnYWswdFBzalB4NzMyTjA3Ml9KY282WXpiV3FqQ0haRUM2eW9xOFR6Mm04UUl3dy1TRzdkSWkzMnFkOWhNd1RObnhQOUxNQU1RNGdjcVZSZnM0N01jSU9XdTVuNFczOGRBVHlCT1VPcWJjNmNjaV9JMTNLZmlqZUJGamRWWWtzNEhVdUpMRy00eDVDTTJUVjZ6VnBVdmpxWG13Q2RzSUFINWJsLUh6d2kxdnVmYk9DWDhOVXVQZXRfbk1YRDZKSnVHQ09nYVFCd0lJcFZkNndEMi1EcnZyWlBaWEluUzVBUzlTVlh2MUhrNjF6cEIwcEdsS3llY1E4a29WUdIBjwJBVV95cUxNUlhISk1rdC1mOU9rM01fNm9IVThhMWdZSy05TXJucTVWS0hGSnBoUzczWmNObXMtSzlYakFHbWVHWC1QdU9haVctVUJoaTVhSm5CZ2hXWi1nMUJKajhhNmFBNy1yaXl1R195Y2pTbWwwMzZqdjlqWjZqR2stLXRFV2wzOGxGcEU3RUhDYW8yeWlXeGVqODJyVDQzbUFIaEdRdnZYNG1KRWtxUjVFUm9jMUU2OWdfOU96N1RJdmZ3VFNKUENjcUg4OEtVZUFTc0otdE56Wnlrb2xPc0t3OW1HNXJaSXhTYWM3NDZrOFJ5bTV4R3EzM1laREx1WVdoNjlmbm11cWlXc3hWZm8tZkxj?oc=5",
+      "summary": "Imran Khan’s stronghold in crisis: What's happening after emergency rule in Pakistan's Khyber Pakhtunkhwa The Times of India",
+      "date": "2026-10-12 13:02 UTC",
+      "category": "Pakistan",
+      "source": "The Times of India"
+    },
     {
       "title": "Are Pakistan turning over a new leaf in T20 cricket?",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3dDNlo2TEJoQnhwemVKcmNmSXNpeF8xb0dQVG94eEFOblhGN0RWSVJMMjBtYmR6c3JHYjRVUTlQTmNuSXRlZ1hCemIyOWI4TElVdmxWYmE2MTRnNEFERFEtc090TDVUTFRKenAzbzhBcS1LeV9PWDBkUU9JMG1VMG9LQl9pbEJxUFQ3eVE5c0NXLW9CT3pSUi1mczlBNWVPNmlLblJBNUc1UTh3OVE?oc=5",
-      "summary": "Are Pakistan turning over a new leaf in T20 cricket? www.thenationalnews.com",
+      "summary": "Are Pakistan turning over a new leaf in T20 cricket? The National",
       "date": "2026-10-12 12:57 UTC",
       "category": "Pakistan",
-      "source": "www.thenationalnews.com"
+      "source": "The National"
     },
     {
-      "title": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5",
-      "summary": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen CBS News Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Saudi Arabia will have to respond to Houthi airport attack – but the choices are stark CNN Saudi and Yemeni Airports Hit in New Round of Strikes The New York Times Airlines cancel flights to Saudi Arabia after Riyadh airp",
-      "date": "2026-10-12 12:48 UTC",
-      "category": "World",
-      "source": "CBS News"
+      "title": "Pakistani Military Aircraft Crashes In Balochistan, Both Pilots Killed",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0YyZlJ2VF90RmNqTUlwMTJuYzh3bkpOOG1JcWdKUW9Wa3Fud21FazR1eDdKUGdjU1BHUUxxYUZSQm53M2VSbUdjTUFlaWZfc3ZGS29JZmxZUEFfYXNrUk1pU1ZZX1lzVG9sODlmVmJWbHJnU2VIcGNsQTA1SU1lODZ3aXA4TURQVUNxZl9nRk9oWGRVNmt1UnlfWU9yamlXanJPbnNsdF83SFhWX3g40gG3AUFVX3lxTE9ST2xrTXRUMmFjV2RXRFNId1JIU3dxalBDX2NSdlByalZZQXBQUkFCSkNET19JZ2Zvalc2ajR2LW9DNFBmTjF4TmEzR291MXVVdnN0RmxNc1VRQ2FHbV9OY240aXR2RHBQaWU1OG9LaGZTSFhZc1lsSTR6d2Rrbk1LeDVfZi1zajdtWlJIRElNLTh3VEp0U09QdDVialFnY3JQTVFXNUNmaWpLUHQ0eGZ3YU1rN1lXNA?oc=5",
+      "summary": "Pakistani Military Aircraft Crashes In Balochistan, Both Pilots Killed NDTV",
+      "date": "2026-10-12 12:55 UTC",
+      "category": "Pakistan",
+      "source": "NDTV"
     },
     {
       "title": "Pakistan, Brazil military chiefs discuss strengthening defence cooperation",
@@ -114,7 +146,7 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "Tom Cruise film Digger could lose $245m at box office",
+      "title": "Tom Cruise film Digger forecast to lose $245m at box office",
       "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
       "summary": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
       "date": "2026-10-12 11:29 UTC",
@@ -124,7 +156,7 @@
     {
       "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
-      "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire AP News Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue The Guardian Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’ CNBC Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire The Hill ‘Energy ceasefire’: What’s behind Trump’s love-hat",
+      "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire AP News Zelenskyy says Ukraine is ready to agree to energy ceasefire, but warns Russia must do same CNBC Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue The Guardian Kyiv says Russia hits energy targets despite Trump ceasefire Reuters Zelenskyy Says Strikes to Go on If Putin Shuns Energy Truce Bl",
       "date": "2026-10-12 11:28 UTC",
       "category": "World",
       "source": "AP News"
@@ -162,12 +194,36 @@
       "source": "Mettis Global"
     },
     {
+      "title": "Fire Devastates the Oldest Covered Food Market in Paris",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDlmRHMxOTBCY3VfZjVsNjRHYV91SzFxRDhQbEZNN0VXV1QtWHlzdHc0MDdPUDAwWC1VTkxvR01WdjlqQUJXcVBiaWJUcGdaNnd1QlY3NE1lNFk5TmpoaEtlQUVwa3kwM29oSTVaSE9PS3l2TUVOd0oySm9UVDdDUzVJYUZ0S21qLWJvMUJmZElBSmlYb0lWNE9lSlBqOUVF?oc=5",
+      "summary": "Fire Devastates the Oldest Covered Food Market in Paris The New York Times 'Violent' fire destroys Enfants Rouges food market in Paris, officials say ABC News - Breaking News, Latest News and Videos Fire destroys French capital's 'Enfants Rouges' covered food market Reuters Oldest covered food market in Paris destroyed in fire Sky News Fire totally destroys oldest covered food market in Paris, authorities say Euronew",
+      "date": "2026-10-12 11:06 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
       "title": "Pakistan reaffirms commitment to multilateralism, peace",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3JkM1NvSnFKcmZwR3hOekpxNWJmblZJWVR3SFNHSDFkNy1IdjZwNW9JaWF1c3hoaC1qdzJReTdzZDhpZHo1R2Jhc3MxQkVFWGc0YnN4VV94b2sxclVuTHc3Mm9jbzRzTlRwQ3NJWGxJU0NjZFVHbFlud0E4LUhfaFQ2VW5DX2FOT0hCRDZFd2VBZXQ1MUV5VjFjTGNtQQ?oc=5",
       "summary": "Pakistan reaffirms commitment to multilateralism, peace Investify",
       "date": "2026-10-12 11:00 UTC",
       "category": "Pakistan",
       "source": "Investify"
+    },
+    {
+      "title": "'They were people who took chances': The Vikings who reached the Americas 500 years before Columbus",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzRkR24tN0lnZm9yaFZ6d3ZCNjExUER0cUVyZFhxbGMyT1JFLWtKSDFDb09nUXA4bWRUQTl1WmVnTHE1M3pUbzVpVkhPM3hyYmRmdnVMdnZUR0RBRVpvTWMxTnhQNGFpcUFoamcwckQwMjJ2RDA3UmhQcmptSDhXVkxGYWJMUlJWbV9XV043MmxFZEdUWUdCb3Bn?oc=5",
+      "summary": "'They were people who took chances': The Vikings who reached the Americas 500 years before Columbus BBC He reached the Americas centuries before Columbus. Why doesn’t he get more credit? The Washington Post The Vikings crossed the Atlantic centuries before Columbus. Why did their American adventure disappear fro The Economic Times",
+      "date": "2026-10-12 11:00 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "Saudi Arabia, Egypt, Pakistan, Turkiye condemn Houthi attacks on Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3N1WVRObW9TcE9DTzgtZXBLcmhaYXd1a3c4UFJMY2VHTXA3Tk1xRk9sOWxpNkNSRHFnWnppMmliZXFiLWxmd2tMczRjX0pydUMybkJIT0lpRzhQQk94Q1Y5UnRLMTJjRF9VdFVTMXVuZFp1Ni1zZ1dyWEU0bGpTb29fcjRNXzV5WTNESGpTdXlOSk9JRGxOWU42a2Fub3N6bVFhcGlFeFRJSEJxUzZmeW9ndjM?oc=5",
+      "summary": "Saudi Arabia, Egypt, Pakistan, Turkiye condemn Houthi attacks on Kingdom Arab News PK",
+      "date": "2026-10-12 10:47 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
     },
     {
       "title": "Pakistan Plans $1 Billion Privatisation Drive Amid Oil Price Risks | Dawn News English",
@@ -186,6 +242,14 @@
       "source": "The News Pakistan"
     },
     {
+      "title": "139 people dead, including 15 children, after migrant boat capsizes off Africa: \"Overwhelmed with all the bodies\"",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X1NGSGdNRjZwVkN4cERSWEltRzJKd0JIbWdySTA0TGk3eS16NmdqeHpwbzUyTHpEZlpNN0oxMDdNVVVWbEowYzFQSlM0bl9nSnAtZWxzU3Z4R1pPaU1UbzRGc0V3VWFuTlg5a191QXlieHpEdTU3cUZEU21jT0U?oc=5",
+      "summary": "139 people dead, including 15 children, after migrant boat capsizes off Africa: \"Overwhelmed with all the bodies\" CBS News Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti The New York Times Boat disaster off Djibouti leaves at least 139 dead, with toll feared to rise CNN Djibouti shipwreck: Death toll rises to 139 as 84 remain missing UN News At least 139 migrants dead, including some children, after boa",
+      "date": "2026-10-12 10:39 UTC",
+      "category": "World",
+      "source": "CBS News"
+    },
+    {
       "title": "Pakistan reaffirms commitment to multilateralism, peace",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanlfdVkwNkxuTXBOaFZGalIzVnRqNWJIYlRDQWxoVnpncUt6b1MtTnBxTXlIdGp4RENiUG1QdlZ4MlVpamFQZVV6N1Z0MDNlT01tV1Nwd25GYm9QVzUxWjc0d3dYYkdySXBFQkhvX1Z3cUR0bU9NMGctSlZ6LUMxdF82Qy1xT0lIZVc4bWJOUQ?oc=5",
       "summary": "Pakistan reaffirms commitment to multilateralism, peace Mettis Global",
@@ -202,9 +266,17 @@
       "source": "BBC News"
     },
     {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44dHg4TlJXbElwYnhKaHdJc2xlZ25lR3ZHTmRPMEtSVlBCUjA3enJQUUYteTVleU9HOU82OE9pWTVpNUFyaUxVUWt4N1U3aldHSkVWYUt3V1F4dmM?oc=5",
+      "summary": "Saudi minister vows 'serious response' to Houthi attacks on airports BBC Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Deadly Saudi airport strikes mark major Mideast escalation NBC News Saudi Arabia will have to respond to Houthi airport attack – but the choices are stark CNN Top oil executives dropped from event schedule after Riyadh attacks Reuters",
+      "date": "2026-10-12 10:28 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Family of Thai teen sex worker found stuffed in suitcase faces her alleged killer in court, seeking death penalty",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMzIyZGllTW9TMi01MjA3Ym9md1RUN3VGdlhnQlF5NDNrQXlFWUl3T1JmOVFVVF9leXEzaUZWX1VuQ3hRTFBIeUlDSmRycFpybS1oN2tzZW9TR21SaXZTQXZwaEROcVlwalFDUC1ES1FKXzdRQktSMWtCODlWSGJDWHkxdXdNbnRkVUxUcXVvM0JvUnNMcjNTUzdrRk91eHpLVEJVdjhiVFFyRHp1Q0xtOHg1VDY4V28zVmk0aXNERnIxNlE1dGI4SFUtUGlELUlKOU5UR3N2cXB0THRDdzIzdzFSU0JwNWI4Nmc?oc=5",
-      "summary": "Family of Thai teen sex worker found stuffed in suitcase faces her alleged killer in court, seeking death penalty New York Post Grieving family faces accused Australian in Thai court over teen's killing, seeking death penalty ABC News - Breaking News, Latest News and Videos Australian man agrees to plead guilty to one charge over Thai teen's death ABC News & Headlines – Australian Broadcasting Corporation Family of T",
+      "summary": "Family of Thai teen sex worker found stuffed in suitcase faces her alleged killer in court, seeking death penalty New York Post Australian man agrees to plead guilty to one charge over Thai teen's death ABC News & Headlines – Australian Broadcasting Corporation Family of Thai teen calls for Australian murder suspect to receive death penalty if convicted The Independent Family of murdered Pattaya teenager seeks compen",
       "date": "2026-10-12 10:27 UTC",
       "category": "World",
       "source": "New York Post"
@@ -242,14 +314,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Taliban Spokesman Rejects Pakistan’s Allegations Against Afghanistan",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rNkJRQXVCRFRxX0ZlZWkwaVpfX25tZUsyZ3NGSnBxZnowOUlJQVFUZkc0cjVHU21CWGFjdWJWQU9tLVdNaE9RX0F1UzY3R00?oc=5",
-      "summary": "Taliban Spokesman Rejects Pakistan’s Allegations Against Afghanistan thekabultribune.com",
-      "date": "2026-10-12 10:03 UTC",
-      "category": "Pakistan",
-      "source": "thekabultribune.com"
-    },
-    {
       "title": "Pakistan sees growth above 4 percent, looks to raise more than $1 billion from privatization",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVTk1NDRnUklWN1hwS3U3Vm1veW5pNXpQQnVDZmdMMjNSWExJYVVud1JzWFVpdzNNT3VvQzQ0MXBzenBLdm5PcDJPSXduRXFWV3pWWlAwZ0RZMFljVU13SGUyUnhScXk0TlZaLTBKLUFTaGYtRjBLR1NKS2k5TjhZYVQ4MHlLbkxzZzN4U3pTZm9QQUEzTVF6dnMwR2VPdkdEUUFaNE1WUWxJTkFNQkNaVFROem50Q3cwZXlwaFhxaTFwRTRhVzJmbkdkNA?oc=5",
       "summary": "Pakistan sees growth above 4 percent, looks to raise more than $1 billion from privatization Arab News PK",
@@ -283,11 +347,19 @@
     },
     {
       "title": "2 Pakistan Army pilots martyred as training aircraft crashes in Quetta: ISPR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWVzMUtUeERPM3F1UUFfU2pTZU80em1iQlBKMmtPSVAxTzFkU0F6TEw5cFRtNW5pZTgtaFYwRWdsRklKa1lZQzRsUW16NGRmYmZPSF9scE9EQ1RzNDU3d0x1RUphUGN5WjlCNFhrMjhkY0ctbm5HY0R5aVpweTZNMFhHQlJ0Mkp4U2RPeUFYdWktZ2QxcENWamdPcndtRFh0TVh0UzI0WF9wNFpqM3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrOXZzY2c0c0pob29SX3M5UkV1VEVlUFFFWC1USEppdUdwb2ZxX0IzSUxjQXhabDdRcTAtTDZUT0N4T2JSQmdDOQ?oc=5",
       "summary": "2 Pakistan Army pilots martyred as training aircraft crashes in Quetta: ISPR Dawn",
       "date": "2026-10-12 09:43 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbktJODNQZDB4YW4wN25IWWQtbGRVYzctMzVuRlE5Z0JxdjFCb0dGVjRRRFZiR3lOX2xna2tNQlEwQzVtTklOS1p3R3VPTDVkRmhkUnFrREszSzYxSDVhQV90RWZkbnRGWmJCMDVhS0stdFUzTF91OTVucGkzbXhyVnFkaGppaXZzb2JZQW9Fd9IBjwFBVV95cUxPMmtkSHQwZXY2eTNqMGRzeHRRVmdrSUlvZ2M4aFg5dTRUcG1ONExLWjlDanE1STdfRS1yQXdlZVpLcWFYTjB6SS0wY0dJMWh5c1FUY3lNbTZJYjE1UkdhaDh5VGQ4dXNZbTlmSWhSNDg4emIzTVRMMmI0VzhqUzFaRHIzSXgxcDFXbU5RYl96cw?oc=5",
+      "summary": "UK's Burnham accuses Russia of meddling in Brexit vote DW.com Burnham says it is 'clear' Russia interfered with Brexit vote BBC Russia’s attempt to influence Brexit vote failed – but they still tried, Burnham says The Independent Burnham accepts Brexit result ‘legitimate’ despite Russian interference, says No 10 – UK politics live The Guardian PM believes Brexit vote was legitimate despite Russia claims, No 10 says Y",
+      "date": "2026-10-12 09:39 UTC",
+      "category": "World",
+      "source": "DW.com"
     },
     {
       "title": "Pakistan Urges Afghan Taliban to Take Verifiable Action Against Militants",
@@ -340,14 +412,14 @@
     {
       "title": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUVqLWk5eDJ6Z0J0Ny13SFg1M1BaUFhEcnFxaWlXNmp2RlQtdlA3cXlheHBaSHFuRE5aczVtRDgxQU5sTHNDaEdEY2o0TDFJVjFHY3NIb1ZZYi1uYVJYVDN2Q2FHaEc3b0t5VWk5Qmp5bG8yc0JSWG9LVFFXbTRNNjB3?oc=5",
-      "summary": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns CBS News Hurricane Simon to fuel multiday flood threat across Great Plains as remnants charge North FOX Weather Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast NBC News Hurricane Simon and Post-Tropical Storm Rachel Bring Flood Risks to Mexico and Southwestern U.S. The New York Times Two more landfalls ",
+      "summary": "Hurricane Simon lashes Mexico's Pacific coast, pounds resorts and vulnerable towns CBS News Hurricane Simon to fuel multiday flood threat across Great Plains as remnants charge North FOX Weather Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast NBC News Rachel's remnants to flood SW while Simon targets Mexico The Weather Channel Hurricane Simon and Post-Tropical Storm Rachel Bring Flood",
       "date": "2026-10-12 09:10 UTC",
       "category": "World",
       "source": "CBS News"
     },
     {
       "title": "Gold price drops by Rs2,100 per tola in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWlVFWS1vYjk3ZTFuemJrdzBOQmY2TDZnel80WXQ2WFFpNlIzMUg3ZzkxRWUyZ0RRVGJvbjVFeUlLWmZ1aGtoU01CQzBkTjFXdHB6dldBR3dieklOUUdaRmNyN0xfeUpaM1pkc0J1OHRyX082b25fMVZCMVpnZF9MS0d5OXVBMzZkTTgxWVo2czHSAVZBVV95cUxOeEYxajI1TTFIWU5iVFVIN0FEcVFBWm5SM2tKSS0yRmt3TXVfZlNieVh6SUN5TVp6UDVFNWZXdy1sd2hnUE5iZ1NDT2pxU0lZT0hkX09xZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GaFR3dG5lMFpYV3lxdjYyNzVtYmFocmh5RGpjVl9JaGJWalFlV2dnSHJCTFVTLTNaQlctSmpHN1k3UWctUGVLZWkzRmFGcjBF0gFWQVVfeXFMTnhGMWoyNU0xSFlOYlRVSDdBRHFRQVpuUjNrSkktMkZrd011X2ZTYnlYeklDeU1aelA1RTVmV3ctbHdoZ1BOYmdTQ09qcVNJWU9IZF9PcWc?oc=5",
       "summary": "Gold price drops by Rs2,100 per tola in Pakistan Business Recorder",
       "date": "2026-10-12 09:09 UTC",
       "category": "Pakistan",
@@ -356,18 +428,10 @@
     {
       "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQy1MNnlIbVdZUkN3VmsxbWp6dmVhSUMwaDM4bjY1dXlfSVVtajRacVh6S0dOV2hKREY2bTB5QkNkVTNxTXZCdjBldG5hbHNocC1lUV9XbWt1YU1BMU4tZWJtSFZuUWR0NDgxeUZmVXZELTVhb18xZlpwMFczX1RTaC12enBqdUFNVVZfWUtQTEhWMU13VFpPR2NqR1pwNnVCOTBvbUEyNXA0OEcxWmNiRHg4Y0zSAboBQVVfeXFMUHM1TUtycWE5MlhjT0pMQmRMMEdBQWVMNXA0alhnVGNhbzdON3lORTg4TkxkTzFNYzhtMU5ZZW1iRXJfNkY4YWc0WEsyWEN1NklKSkcwQVd4c1doRm9jaHJnMkE3N3pCTDQtQVFmTEtHMXZKcVpaTmlYdVdjbkc2X2w5d0RuTllVZ2hYR1lJY3BTbmFXeDF5QlhYVUt2RGxtVmVUX0JtajdCTExPVmJ3V3dpWm05S05Tc0Jn?oc=5",
-      "summary": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean? Al Jazeera Pakistan imposes emergency rule over Imran Khan's provincial government Reuters Khyber Pakhtunkhwa governor says eliminating ‘terrorism’ top priority amid emergency rule Arab News PK",
+      "summary": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean? Al Jazeera Pakistan imposes emergency rule over Imran Khan's provincial government Reuters Pakistan says emergency rule in northwestern province has no ‘time limit’ Arab News PK",
       "date": "2026-10-12 08:58 UTC",
       "category": "Pakistan",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Fire totally destroys oldest covered food market in Paris, authorities say",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa1pxZ3dnbnp1VlRndU9KTWhibE85anZhZ2x6MnAzdDI5V25iQ1hZMkE3QUdTWE5ubFlvXzNfVVhQc1VPUTc4dlBsdjA2WDVXelBGQXE2NDg0TURsUDFlUlpOTDNWcGo4ckhlM0NCRmhRUjhRblBYSDFxTk05NlMwYm9WRlRCandGY3pSRFd3MVZEaWJLNVdwQzU1SWMyaFZ2ZHp1LUpVWkRCaWFOdkE?oc=5",
-      "summary": "Fire totally destroys oldest covered food market in Paris, authorities say Euronews.com Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges The New York Times 'Violent' fire destroys Enfants Rouges food market in Paris, officials say ABC News - Breaking News, Latest News and Videos Fire destroys French capital's 'Enfants Rouges' covered food market Reuters Fire burns down Paris's oldest c",
-      "date": "2026-10-12 08:47 UTC",
-      "category": "World",
-      "source": "Euronews.com"
     },
     {
       "title": "Siberian hunters declare open season on bears after spate of deadly attacks",
@@ -378,28 +442,12 @@
       "source": "Reuters"
     },
     {
-      "title": "Pakistan Embassy in Tashkent to Begin Issuing E-Passports from October 15",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEtmcHRyVGpidmNRaDlRTVBTR3ZJLWFVanhQLV9UMUpqajVhYTZ6cGZZSkZwNFJFNWZWUTJiUFVfNjlyc0FLQnZsZFJNanR2LUpZcnI3WTdCRjUxZ2I0T0Y0VFVsaFdOTnFrNGQ3S3cyTFJCQ21lN2haejQxUDNzYnQyQ3A?oc=5",
-      "summary": "Pakistan Embassy in Tashkent to Begin Issuing E-Passports from October 15 The Diplomatic Insight",
-      "date": "2026-10-12 08:37 UTC",
-      "category": "Pakistan",
-      "source": "The Diplomatic Insight"
-    },
-    {
       "title": "Pakistan cricket hit by political turmoil! PCB shifts President’s Trophy matches after emergency in Khybe",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxORWtWejR3TWFadTh1c2pweFJiUlVFbDFzUFpzZUFWek93TVN3bi05SzdjdFh2a3M3ZTBRMXkzdFVFNElCMnVORTMyd3k5dEhMUlZ1NVVlemkzcHdBNDBpdWZ5c3RuWmVHN015Y3JDUnNGNmFVTUhZcnlKak4yYzZTY0NVMU9NQzBpREFYTHI3bGxzZ282MVVFYTdPeG0wMkppbDBVdHFtc3ZKQTVELTJDLUZjaFNoSkFfR0xSNHcycWRNYWVTcncxdTg2OVJGVUgtRG0wRE1GQ1ZqQ0dZTnQ2NjRuTHZLNDJCVXNtS2gyMmhoeUxQR3pZZHk0TmVkRFVaQXRua3M1YVVTODRDU2ZJN1ZpLWo2TEI2RjZuemNtTUlpQUlp0gGqAkFVX3lxTE4yTW9mUzl3TVdzMXJIdm9oRTBONjVBMXV6dnFfenRUUEs5RzVJVXdSYkRNeXhVSjJhXzdVREV1TUMxYVRXSU0tVFNTTDNYQ3FBTExvT24yTHZrT0t5Vm16d0JkNnM1QUhwSmE1WE1uNTMwaWE1Ymh4QTVleHVpWGlpZlY2NTJWTy1JWk1JWDU4SUVPN2ZybHE4cW80UzVWdkpzamtWXzlWemdNY1NuMUxUSTYxMjNvdldXN0FueEZHM21fTDk5Nm1sTzRRX3dDcmhHWjE4ZTh3aXo0ZVE4TjktRFpyNmtMa2lrT2c3dlcyTW1vVk83akVSdzZoQ2oxZEhnT0VTMXdhSGY4S0RtODhMRF9va2lxWnlRNjRzS0RiYXZDelB0enJSNkE?oc=5",
       "summary": "Pakistan cricket hit by political turmoil! PCB shifts President’s Trophy matches after emergency in Khybe The Times of India",
       "date": "2026-10-12 08:33 UTC",
       "category": "Pakistan",
       "source": "The Times of India"
-    },
-    {
-      "title": "Pakistan: State of emergency in Khyber Pakhtunkhwa",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY24yelVHZW1rbmRQLU1uSTFvdWdLU2lreEN3T1lzYUNYUXQ4QjFOYUdSSDA1eVVMNjl5YV85aU1yMUcwNDdYRkNuY1NVaUlUdm8xM0o1T19oUmtmRmN0dlVRcHd2QU9CX081MndKRWJwZU9iM1h1T2oxeURvcGhJU0xNb3FJWThkakVpVU5QMGFMeU5NRVBtWk5hSUJfZ2QxNjcwYWVTTHZ0bERRNWx3Y3J2dGFNcHZ6WEFSbGJBZDhTSXZFb0dVTw?oc=5",
-      "summary": "Pakistan: State of emergency in Khyber Pakhtunkhwa AsiaNews",
-      "date": "2026-10-12 08:27 UTC",
-      "category": "Pakistan",
-      "source": "AsiaNews"
     },
     {
       "title": "Pakistan stands shoulder to shoulder with Saudi Arabia: Ali Pervaiz",
@@ -412,10 +460,18 @@
     {
       "title": "EU adopts nearly 1,600 new sanctions listings targeting Russia",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHU4aWdseGJQNDlHSkY2bVlVakhtNG9qSWo2eHl0MV9WSTRoc1lqdUdTcHlXeWdCVU1nZ3V6c2Z2dV9FMmRXdGlmMjhOOVpENE9ZRkY1UkRxM1ZzUTBaLTE0OUhEUE9nVzFVd1pUQUlJcjljeWhjNEJvSk55VlhobmU5Q0F2S2lKb0M0Z2lLcjg1Y1J2bG8zUU8xUXdLUV93WUpOMG5DSE11dzJmdklv?oc=5",
-      "summary": "EU adopts nearly 1,600 new sanctions listings targeting Russia Reuters EU sanctions nearly 1,600 Russian people and firms linked to drone and missile parts ABC News - Breaking News, Latest News and Videos EU envoys approve new Russia sanctions listings, diplomats say Reuters Ukraine’s territorial integrity: Council lists 77 individuals over the illegal Russian State Duma 'elections' in the temporarily occupied territ",
+      "summary": "EU adopts nearly 1,600 new sanctions listings targeting Russia Reuters EU sanctions nearly 1,600 Russian people and firms linked to drone and missile parts ABC News - Breaking News, Latest News and Videos Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia DW.com Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities i",
       "date": "2026-10-12 08:23 UTC",
       "category": "World",
       "source": "Reuters"
+    },
+    {
+      "title": "Man killed by tiger at Yorkshire zoo posed for photo with animal before climbing into enclosure, say witnesses",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2hRWkZBUTJLRVdhbU5fQVRDNE9SeDlwMlo3MGFFblVvMExSWWFkR2hKMUdtTUhTWDk3N214dnNiNEVTc0k1c1ZaM0xKU1VldzRDUzRnVnFSMGw5NENWbER0d2NUbXZ5MWtDTEhMdUJ2bXVtbWMtQWYtcW9GdFhLODRWblhrblBEOEtmb1VDMm9SMEJzcWFBTkJNZURMZUxhcDFWcA?oc=5",
+      "summary": "Man killed by tiger at Yorkshire zoo posed for photo with animal before climbing into enclosure, say witnesses The Independent Yorkshire Wildlife Park fatal tiger attack - what we know so far BBC Witness: Zoo Tiger Mauling Was 'the Strangest Thing' Newser Tiger that mauled British man to death won't be euthanized, zoo says upi Man fatally attacked by tiger at UK wildlife park told animal to 'stop being naughty' Sky N",
+      "date": "2026-10-12 08:17 UTC",
+      "category": "World",
+      "source": "The Independent"
     },
     {
       "title": "Pakistan detains hundreds from ex-PM Imran Khan’s party in northwestern province — police",
@@ -426,20 +482,20 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Pakistan’s economy expected to grow over 4% in current FY: Aurangzeb",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWlYNnRHLUpia3NWWmxZWk9EZnFBaVNGbEMtdGszLUZKRUYwc3UtZkdLcklOa2lsdTNCLUZEVkRRb3VDODFOdWh5MVAxeDRlR2NiLU1xTjNTZ0MwVmFETkZ3dUVhZElJNVAyYjczMU85RDZyLTlsYm1DQ29sX2R5ZTlHT1czTFFrWHNkU1ZKRHRkQ2UzZUFPemRsdExDTW8?oc=5",
-      "summary": "Pakistan’s economy expected to grow over 4% in current FY: Aurangzeb | Associated Press Of Pakistan",
-      "date": "2026-10-12 08:08 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
-    },
-    {
       "title": "Pakistan, Türkiye, Egypt and Saudi Arabia Issue Joint Declaration on Regional Security",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORm9pTmdqcmJhNW5oMUxKb0N3LUJPd0J5QWQ3OVdCNWRnbURKQ0g4Ynd0Z21KRHdQY0hQT01vU0V0NFhRa2lpdjd2cHFOSEJtM2xpLUJpV2dhbXBZTEMwNnI3Uk9pOXdHS0FOSV91SURYdXIzbEVjb0tYMkU1czhad1Qxa0k?oc=5",
       "summary": "Pakistan, Türkiye, Egypt and Saudi Arabia Issue Joint Declaration on Regional Security The Diplomatic Insight",
       "date": "2026-10-12 08:07 UTC",
       "category": "Pakistan",
       "source": "The Diplomatic Insight"
+    },
+    {
+      "title": "Pakistan to refinance short-term external debt to reduce rollover risks: Aurangzeb",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdTVUblBwT3IxTGtmYlZ1UE8tdXdPS1BZRHlRc0N6eS02aHpwNTh2RmphM1RQWlZzZlZjNGk5MnhfNkNyYXE0MmhnUkFGQk40ZGh4UUpPbHJKUFhtNWwzZ1hGaFBMTktJMFBxUDhRUkR6OHotZ3lZUkloVkZHdHlvSGxZMTlUMnB5Umw2Z3M4a3pydmg5el9ZQmo5N0V6X3Zkb1A2N1hZNkpidlVQdXVMM3hhZVk1M2Exb3JnMHNFeG1vdw?oc=5",
+      "summary": "Pakistan to refinance short-term external debt to reduce rollover risks: Aurangzeb Investify",
+      "date": "2026-10-12 08:04 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
     },
     {
       "title": "Pakistan backs V20 climate finance agenda",
@@ -522,22 +578,6 @@
       "source": "Mettis Global"
     },
     {
-      "title": "North Korea fires multiple ballistic missiles towards the sea",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGo5dEtVRUhzWjJnblVZbzBnVWdjYTBxamhweFBfNlBkVUF2d0QyM2l3WEg1Z0xkUTI5UWJDUGNydV9jcjZOdS1tTld4c3htRUhLTS1pUExMcjlzNjNRdjVudWtPM2RTLVV1Uk0yT29mS2tUTDRKaF9NcFVQcUgzMTQ1WnpILVltZmxzYl8xanc0TXRSMHBHV3BzZXhXUG1qT3NLLUFB0gGrAUFVX3lxTE80NGU2WnoyWVhSWjFRaW1QN0F0bXJBZmFpMG9nY1hEYkFZY0NHbVZjdktzWnIzSnpXaXRSLVVMUDFhQnpuRnBXNFUyVURubENHdlR2dmRUUkMxTkdMejNtM1NiYm5zUWtScnd3ajNSRExHTlFoeVo1VzZfSDdmVGloU0w1dmNVVmU3NTBaNXM4eHBQRTM2LU9jS2QwS0FOZ0dJaVQzZ09zc2hIaw?oc=5",
-      "summary": "North Korea fires multiple ballistic missiles towards the sea Al Jazeera North Korea test-fires suspected ballistic missiles, Japan says ABC News - Breaking News, Latest News and Videos North Korea fires missiles days after South Korea's hypersonic test Reuters North Korea fires multiple ballistic missiles into Sea of Japan The Japan Times North Korea fires multiple ballistic missiles, the latest in a streak of weapo",
-      "date": "2026-10-12 06:57 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjNMeC1BbjVKR2t0VTJlQ241akNBbW5JVV8yeFlUckpKRnVsMWdpT2ZXUF8wUlItOEJVTjNZd3pNSmVDV0M3X3RCWXNndlpoNDJVYmpkMlJIN3o2b0VqV0VnUEFvcHlhVGdSQzItZDhiOWJ4eUpCMWtLOENHLU9jcGp2ajdLZUdTX0FES1lYOGF6UkRrYnc?oc=5",
-      "summary": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque The New York Times Rescue expert warns FlyDubai hijacking attempt shows US, allies are ‘playing checkers’ against terror threat Fox News FlyDubai co-pilot planned 9/11-style attack on Israel’s main airport, UAE says The Washington Post Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video The Guardian U",
-      "date": "2026-10-12 06:57 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
       "title": "Pakistan Petroleum Minister Visits Saudi Arabia for Energy Talks Amid Supply Crisis",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUZtRUVCcVdNaWI0aVdhMVczRFhwcm1EYnZoeU56OHFlaXFXT0djbGJQNFpGNFRxQk9yQVVxcFNYVnFGWU1KbUJsWk52VEF6QzFYTXN6VFd3cGFPV1ZQY0pFZmpPYnNseWFVaU9qc0s1enR4NGNGSDU5ek5kNWFGTkZBRTF0SnE5UVFLRE91OHRFMkZ5WnRVZEhXUU1VSC1EaHpmck1QRU5lOHpzNzhyLTBkbm4xZkU?oc=5",
       "summary": "Pakistan Petroleum Minister Visits Saudi Arabia for Energy Talks Amid Supply Crisis Energy Update",
@@ -570,6 +610,14 @@
       "source": "Reuters"
     },
     {
+      "title": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5",
+      "summary": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests AP News North Korea test-fires suspected ballistic missiles, Japan says ABC News - Breaking News, Latest News and Videos North Korea continues streak of weapons tests with multiple ballistic missile launches CBS News North Korea fires missiles days after South Korea's hypersonic test Reuters North Korea fires multiple ballistic missiles ",
+      "date": "2026-10-12 06:50 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
       "title": "Indian opposition leaders march to top court to demand election chief resign",
       "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
       "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
@@ -584,6 +632,14 @@
       "date": "2026-10-12 06:35 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "PAKISTAN EX-PM IMRAN KHAN'S PARTY CHIEF MINISTER AND SOME OF HIS CABINET MEMBERS DETAINED AFTER PAKISTAN SUSPENDED HIS GOVT - STATE MINISTER FOR INTERIOR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zaVFQNE1iSE9NdU9XWFIwSzNGNFlxSlpuTncxSWxBNzJRTGxRQnQwOVJ4T3NkWDFaUkFJaW9hV1pDVEh3dUdrQUtsNmRGRXQ4T04xUVFMVlpoQzA3Zkh0aTBqVzRiSWVZeGVDOFlB?oc=5",
+      "summary": "PAKISTAN EX-PM IMRAN KHAN'S PARTY CHIEF MINISTER AND SOME OF HIS CABINET MEMBERS DETAINED AFTER PAKISTAN SUSPENDED HIS GOVT - STATE MINISTER FOR INTERIOR CGTN",
+      "date": "2026-10-12 06:33 UTC",
+      "category": "Pakistan",
+      "source": "CGTN"
     },
     {
       "title": "Khaadi Pakistan gets initial long-term AA- rating as it readies for IPO",
@@ -626,12 +682,28 @@
       "source": "NDTV"
     },
     {
+      "title": "Deloitte helped Abramovich hide $10bn by faking documents",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDhYTndhRWRoQTU1cUhUUkhkZUQ1b0t6RWFkX18tVnRINXpWMDdxRW14dlAzaDQ1US1jWHVDRkJpUUx5R2RDcUdzejNObG9xZy1PdkJ1QXhYc0IzTGxyM3VfT3ZtWUIwR0FDWXFpbWhBSTZNdG1JVm5mcUtZOXBVMkJwVE1ibzQxNXpBWmliRTlQbFRMdm85Z05jUDZPUQ?oc=5",
+      "summary": "Deloitte helped Abramovich hide $10bn by faking documents TBIJ Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest The Guardian Deloitte accused of helping former Chelsea owner to evade tax Yahoo Deloitte’s Cyprus Office Helped Abramovich Firms Relocate Billions in Assets in Apparent Bid to Sidestep Tax and Transparency Organized Crime and Corruption Reporting Project | OCCRP ",
+      "date": "2026-10-12 05:54 UTC",
+      "category": "World",
+      "source": "TBIJ"
+    },
+    {
       "title": "An Israeli Election Like No Other",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaC1zSUx0eGNHaXFkU3pHbGxkR3NLamF0YmNuekt6V1l6M0xLZmxzbndDMktDSTJPU0lOS3J0OXMyQV9OY09MZmU2VnA4T0NDZ3JUT1A3azc2cktpOE81U2J2ZF9wVTZFQUFya28zc0ZqazNaRnpLcjlDYm5Yb05tbHFxUVlpWVl3OWF3?oc=5",
-      "summary": "An Israeli Election Like No Other The New York Times Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election AP News New poll finds majority support televised showdown between Benjamin Netanyahu, Gadi Eisenkot The Jerusalem Post How genocidal war on Gaza is shaping Israel’s election Al Jazeera In Israel’s election, Netanyahu faces a reckoning over Oct. 7 failure The Forward",
+      "summary": "An Israeli Election Like No Other The New York Times Scars from Oct. 7 fuel deep divisions over Netanyahu ahead of Israeli election AP News ‘Peace is not in people’s minds’: October 7 scars take center stage for first-time voters The Times of Israel How genocidal war on Gaza is shaping Israel’s election Al Jazeera In Israel’s election, Netanyahu faces a reckoning over Oct. 7 failure The Forward",
       "date": "2026-10-12 05:33 UTC",
       "category": "World",
       "source": "The New York Times"
+    },
+    {
+      "title": "Live: Top NATO military commander says a Russian attack would be 'utterly futile'",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV21feWV0czlNNTYzLW0yc0s5ejc2OTRBWjJnSVd6QTZYQU1KMnZWeVZ1T1pWdmFqU3FEVVNMRnJaMnE1SXJTQ3NibUVKNkRRNVczTTUwVktIVUtLQTVITm9MT1liZjdxOXhtWDBNVG5FRGYzN1NJVXlWbGpmUzVCbDhIOU5ZaW1EaE5sTWtqeTNrZkRwOElQU0N6dW94U2swSEpkRnZaUzlfTVJWQmhXOVJjRWRYOVVIT2x3b1BMZFJYQVlvU3BCd0FNcw?oc=5",
+      "summary": "Live: Top NATO military commander says a Russian attack would be 'utterly futile' France 24 NATO commander Grynkewich warns Russia attack would be 'utterly futile' Reuters The future of war, NATO-style The Economist Nato should prepare for deadly Russian ‘hybrid’ attack, says Poland Financial Times NATO Commander Says Ukraine Aid Will Deter Putin’s Europe Threat Bloomberg.com",
+      "date": "2026-10-12 05:29 UTC",
+      "category": "World",
+      "source": "France 24"
     },
     {
       "title": "MINISTRY OF INFORMATION AND BROADCASTING (MOIB), PAKISTAN",
@@ -642,84 +714,12 @@
       "source": "Ministry of Information and Broadcasting (MOIB)"
     },
     {
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TWZ3b2FfbEg2VEIyOHVhNlNCODFZbEtGVzhsaXJtWnFEdm42S1F3X1pZZ2Q4eUl0cm5WUzRWZGRoRXd4ZHl0UnJ0MC1JQnlxTUpOaEJmTUhNemc?oc=5",
-      "summary": "Homes and bridges swept away as fresh floods hit Nepal BBC More than 100 foreign trekkers stranded in flood-hit region of Nepal, official says Reuters Nepal rescuers search for missing after flash flood Yahoo Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal AP News Rescue helicopters race to flood-hit Nepal villages as 5 reported missing ABC News - Breaking News, Latest News and Videos",
-      "date": "2026-10-12 05:26 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
       "title": "Turkey, Pakistan, Egypt and Saudi Arabia Unite Against Houthi Attacks on Riyadh",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWFUeEhIQllvX0hHSE9UcEx6RW82YmtRVFJDVHlYSHFJRzV2MmJ2djlsWGppNGFYRkxuTE0xc2lXRnlWWVRQZV9Ea0t2NVV4V3BGTXdmYURnVTZjZ0FhTVRNeDZ5OU9veE0teVlqUnlJU0o1cG15MTV5WVQwNkpuaUlvdmdrZGluSTI5dU0yTEMyanhWaTgwa2ZsNU9iR2FuNlRjRjZWRVl0MjdkTDhtMzU5dHcxWlE?oc=5",
       "summary": "Turkey, Pakistan, Egypt and Saudi Arabia Unite Against Houthi Attacks on Riyadh Modern Diplomacy",
       "date": "2026-10-12 05:20 UTC",
       "category": "Pakistan",
       "source": "Modern Diplomacy"
-    },
-    {
-      "title": "New rule, no change - has cricket missed a trick again with bad light?",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?",
-      "date": "2026-10-12 05:19 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Northwestern Pakistani province sees internet disruptions after president imposes emergency — monitor",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekIyb1J6T0p0X3FqUFF5VUJGeGxvSFJ3MDBZTDkxVnVRaHEzbzExcW51TXpGY0pqR2pPNW5YR2h4Zi1uQnhIa1BfQXBpZHpoaDhnWlRodGtFSVZfMG5KNFNVTGEtbjNOTjc2WC1sSEN4ZnVmdF81VHM1b0ZLU2FiTVd0MG5YeVptMzJ2SUR6NnBCRl9MdW1mZUNjcFdkNTkxRUZheDI0SFRkV2MxWFFfa1MzMmdaaGhyUEhSWjdSTFFGdlV6U1dscGFKd1VFdjBQRURjTXdJYw?oc=5",
-      "summary": "Northwestern Pakistani province sees internet disruptions after president imposes emergency — monitor Arab News PK",
-      "date": "2026-10-12 05:18 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMF95Nm5HV1pQeTVrX1hkaU52bkVfQUNCcjlMMVVUazlFalZpd3dnTVdvOTAxMWdZMk1wU1hfNHkyYXBVY2ZnbnVUa0N2Nm9uOTVTYVQzeGphOExkTWtoRElvUzBqMS1PWkpOQ1VpZy1VN0tUQ2hmYzV5WG1uRVFBb00yb3RjZDZ6andza0lBak9HVXl2QVFZeWk4NXVpc0d4OTVnX2FSY203allXNVlLa1lENGI1bnFLWG1IQVZlS0NyYjZWTUE?oc=5",
-      "summary": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport Reuters",
-      "date": "2026-10-12 05:11 UTC",
-      "category": "Pakistan",
-      "source": "Reuters"
-    },
-    {
-      "title": "Why did Pakistan declare Emergency in Imran Khan's bastion Khyber Pakhtunkhwa",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPanVaM3BFSDdCbHIxeVZFdVB0LXNzUjQ4UV9xbDREMnhmbVpOMERGZkR4cmRTRjAxOUNYbUVxSk8tWVczVzNuYmJqQ0ZrYTZ5aThpTTRRVDNIempiNmxXQ0RNc0tfdXR0b0Z4T1R1TUlfQTJwNXNPX1NDZ1V2eGNCbERwbmpCMlNKRm53dlY3cExvTDRHWGg5aWJoQ1hsbVdEYWswczV0dmVlam1OMHYxR3B1aEgtWXBDcmRxbmo2RFMybU1iNEVtdk9ka0w5WXRUT2I3ODhsbE1EQzdMdmdGSGROWjZQbUY00gHuAUFVX3lxTFBoSk9JdFdGeVItaW1oSlJGMzFSODdKSWxwVjBFUEpna3JNSjNNVjVNTFZGYlJ2RHNLRkJ4UTM1dXd5RS1Fc0ZaODRBLWtzSWxiR0JXZnphMTIwSDFsR3g5eXRmc3c1akZCZGM1Und4bWFxVWdRaG9Ga2V0cVB0ZVdmMDRDS2hqd0pWUnctQmgtbjNNRFNkWTd2QlNSeURVa2hTOUdyZkNMMmR4MjlIZlR2azBmNXU5Z191U012bUNBb3dRZ0VibnZOVjFTRkFIbjI4YWp1b1hXUnhBNnc1Tm1ERzZVTEE2cVB3eEwwbHc?oc=5",
-      "summary": "Why did Pakistan declare Emergency in Imran Khan's bastion Khyber Pakhtunkhwa The Times of India",
-      "date": "2026-10-12 05:10 UTC",
-      "category": "Pakistan",
-      "source": "The Times of India"
-    },
-    {
-      "title": "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWI2R3JHY2NiRlU0WmZXZ19EY2pBMmJHckdWT3BOY0JjeXFGdDB4aG9tYVlFZTgtN0FrMXpOcFIzTVRJYlNZc2VUSWc0bUtDVllkdnpHZDFWT2FYY1BEU2trcEpJc1YzcDFOaXQwZnhUbVdRU3FmYk51OTFTTnVqZDUzeXgyNThPSmV5dXgwYVFTZS0xM1dOQ3lyZkRDdHdMS1VPRWU2azdBY0pKX2k1MUg1S3FlQ1BmTnlramhnXzNUU0RPWVM4RFhXOHlvaXc?oc=5",
-      "summary": "Pakistan sees growth above 4%, looks to raise more than $1 billion from privatisation Reuters",
-      "date": "2026-10-12 05:09 UTC",
-      "category": "Pakistan",
-      "source": "Reuters"
-    },
-    {
-      "title": "Pakistan, Egypt, Turkiye condemn Houthi attacks after strike kills one, injures 11 in Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTzZTUnB3SXNrR2MxOXhVTlEwWEtFNndUdUpvVVZaWWI0RlUxaThIZ1pHX19pV0oxZmhfMWY2NTZIOGMyRXV2TGlnOGh1Z3dGdnp0S2N2Z2NQUGJPNVdYaVJGdzlwRXFORnVMdmVUdER4TzJCR2tfMEM4TDZZMEVnY01sanNtd1hUTnZWODJxQXItMGdXUWZNSzNkNmx0V08tWTRrWlNqNFZLc2QtaDZzQ0xvamN0M0duamwxd2d4QU0xbWU5eHV1TTViOUowQ1V1bmc?oc=5",
-      "summary": "Pakistan, Egypt, Turkiye condemn Houthi attacks after strike kills one, injures 11 in Saudi Arabia Arab News PK",
-      "date": "2026-10-12 05:03 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Deloitte’s Cyprus Office Helped Abramovich Firms Relocate Billions in Assets in Apparent Bid to Sidestep Tax and Transparency",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOb1I1X053Z3EwWmpXRGZFQ2RBa3gtdnl5R1E2bWJVWVFtekd5NnBWdGhERnZINjRvOHVTTk9uV0Y5VHlhZ0RWdlFOMS1HWEFydkc1Z25pY21GcUlvdi1EX2IxeThqODhGWm5ZVDZXa0MyVi10SHVQSjZQakRuT3pEdjZyS1pPSS1QTGhocFNZUEgycHRRamVqZmkwSjdqbTV5dndyMG1MV19ISXJVTVJVc2I4aHpnaTgxazhhYmpaR2FfZVpYSmFiS0xPWUtpano2SzRaTWVLQ19vWm5kZEZaeW9fVzZYbkswbVFNUURzR1pjSkNYdzh4RzFPc0huTnI2MnZIMlVZNHV3YjFzUkpzZ0hSM0d5VUtJWDIw?oc=5",
-      "summary": "Deloitte’s Cyprus Office Helped Abramovich Firms Relocate Billions in Assets in Apparent Bid to Sidestep Tax and Transparency Organized Crime and Corruption Reporting Project | OCCRP Documents falsified to evade tax on Abramovich's wealth, BBC finds BBC Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest The Guardian Former Chelsea owner investigation raises more questions abo",
-      "date": "2026-10-12 05:02 UTC",
-      "category": "World",
-      "source": "Organized Crime and Corruption Reporting Project | OCCRP"
-    },
-    {
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "date": "2026-10-12 05:00 UTC",
-      "category": "World",
-      "source": "BBC News"
     }
   ]
 }
