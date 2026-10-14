@@ -1,13 +1,133 @@
 {
-  "updated": "2026-10-14T10:47:16+00:00",
+  "updated": "2026-10-14T11:46:36+00:00",
   "articles": [
     {
-      "title": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmlFV0JYa1dHTUVUclFkNUhadTZmVW9Jc2JiclI5TnI4SDlHN0c5SU5ucG90dW82cXFwM2VFZHJ3Y2JXQjBNcV9pdTI1VVRhZUcxT2ZYaUF4S2VvTDgyRS1Wd2pGRnFXbTllVnRQemlpOTNaY2I2aVktLVJTYmlHWHkycldMVVJTMW1fUWxNeGJtWU1zWVVxYThJTzN0cVdBRWZHVC1kMWFSek5Bd1ZWWlRQeFVlanNSZEE?oc=5",
-      "summary": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance WSJ NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack Fox News U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes The Washington Post NATO general sets out tough military response to any 'foolish' Russian attack Reuters NATO Details Plan to Shield Ukraine’s European Allie",
-      "date": "2026-10-14 10:40 UTC",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "date": "2026-10-14 11:33 UTC",
       "category": "World",
-      "source": "WSJ"
+      "source": "BBC News"
+    },
+    {
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "date": "2026-10-14 11:32 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan’s Mapak Edible Oil wins Prestigious Primaduta Award 2026 at Trade Expo Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1RRa1ppWFVPelpEX1R4TzBzOTVzU2JaeGNueDd4THFQT25JTXg5b01iNVFNMmdvOHRjTU5LTUJ6TGNGUS15Q2RzNUdmNTducjN3TGRjM09tTmxreWtiTHUxcFlBODBEYTA2STBHVVhuR2NLX2RoeVhXcG1iUDNmYUwyeG5OdEhwVW5ZOHFlMWlBaC1lVk1uS1J2NTViRW5QX0NOeWd4cENyeTRFd1ladlhTQTM5ZUtDX2JUX1lB?oc=5",
+      "summary": "Pakistan’s Mapak Edible Oil wins Prestigious Primaduta Award 2026 at Trade Expo Indonesia | Associated Press Of Pakistan",
+      "date": "2026-10-14 11:29 UTC",
+      "category": "Pakistan",
+      "source": "| Associated Press Of Pakistan"
+    },
+    {
+      "title": "Pakistan regulator asks channels not to broadcast ‘unpleasant’ incidents",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1JCZzFFdnU1alYydllyVzZoV3ZmZlRWODZTaVVFWk1HOG5jQnREQ0JuZ202TnpCbFl1MEhDaHE3UHFsN3l4ZUZUNWN2cGZxbEF6QVBELUhEUDFxTmd2X015OUdIckVVU2tRVDBNM3U3YlE3Y2g5QV9BUjFCMDFtQmh2UkdxaE4zMW1ONzVadDZETkpWMER0Nm9qOUUxdF9QY1RYaXVVZ2EtOThSU0lqYw?oc=5",
+      "summary": "Pakistan regulator asks channels not to broadcast ‘unpleasant’ incidents Arab News PK",
+      "date": "2026-10-14 11:27 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "date": "2026-10-14 11:17 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "date": "2026-10-14 11:08 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan needs resilient, affordable housing to address growing urbanization challenges: UN-Habitat DPM",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0FiQldCREVfM3BVRWRPeHdwalhYR3hPdndjRFoyaTZ3WUkwWnYtS0FHWDlfQXViaGN2Mnd1UHBrQmZlSkZhY0JRYlo4UnJnd1FsaDNKTm5GTmJVTlJETFNlQWtveUZqTjJ2TnJmb3hMYWoxWnFvbzZ6bFhrXzE2YkU3c2pzbTdENFQ5TVdraWVFbG9ydHZJV21yclREZmRJdV9pYjVhSVdFNVlnNW4wMm5iTy1yakVwT1F4SkRiTUNnQklGLVRRdmloVnU0a28?oc=5",
+      "summary": "Pakistan needs resilient, affordable housing to address growing urbanization challenges: UN-Habitat DPM | Associated Press Of Pakistan",
+      "date": "2026-10-14 11:07 UTC",
+      "category": "Pakistan",
+      "source": "| Associated Press Of Pakistan"
+    },
+    {
+      "title": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar held a cordial meeting with H.E. Sayyid Badr bin Hamad bin Hamood Al Busaidi ahead of the 8th Pakistan-Oman Joint Ministerial session.",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZ1VSUVRqRDViVkMycm5ja0ZTMkllN29QT1BWRkswZkZmOTBLR3pPWGJCV1pIeE9NeENZQlYzQWxBT0tiTnI4bHpFRldsQ1FVVnVacjNQVENqYzlqQ01NRU0tNUVxa05WbnZaS0VhbG5EMGNQejZNV0p5NFpqUmwwbWkzaXREYUlRQ1RCa0xydFNDVUxUeUY5cHNPd08zNFRteXdBaEduVmhLaWtrMWxmTzVzemdMRzJWUmpXaFl0LXIxZ3dDWUhNRVJJV1hINldiS1gxZDdUT1pTeGp6R3lKS0Rqbm5pWk5SNmlvdUdjWkp4LVRVVWhzX3l2SGNaeDhIcEhLVVdyRFdTRHZCTVpNN2dwQ0RSSkRWUnBMV2tkS2w3RFNraG8xYkhCQy1JMi1ZdEdOdmRoUm42aGFUY2RSSi10UQ?oc=5",
+      "summary": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar held a cordial meeting with H.E. Sayyid Badr bin Hamad bin Hamood Al Busaidi ahead of the 8th Pakistan-Oman Joint Ministerial session. Ministry of Foreign Affairs",
+      "date": "2026-10-14 11:02 UTC",
+      "category": "Pakistan",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "title": "Iran, Pakistan deepen economic ties with focus on mining sector cooperation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2E4dENkdVd1bkpRbGRkaW9MZ3NCZ0h2S3ROWEtjY2taSzZCMXFwS2tWU3Iyb3lRMGVrbWEybThDaFJDT0w4eVBTSy1nYUVrV0gtLVpveXl2dWNHQmcxbUdLaVg3LTdsRlBHSnR1bTVaNWZRbEwtcG5IM085ZVRTWmRJWmNnU1E3UTMxczNfNzhnaFFKbm1CcFRRVVJ2b1VuUHRjWA?oc=5",
+      "summary": "Iran, Pakistan deepen economic ties with focus on mining sector cooperation Tehran Times",
+      "date": "2026-10-14 10:59 UTC",
+      "category": "Pakistan",
+      "source": "Tehran Times"
+    },
+    {
+      "title": "Pakistan’s Ambassador-designate to Türkiye, Ambassador Amna Baloch, called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar today.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOS1Fc0JZUlRTejFJa1dId1h0ZG9JMkxsYTJ4dTFIdU1OY1FBSl9VUUVzRnByeUJGMWZZQnpvUGs3bWd0clRQcEdpc0U3RldkOHhaY1Q4eUdwbVVLN3BkeEw3UnVfbFBJZ0VpSC11alRwMmY5eWVodS1VZGVmc09JUWR1U0syVk5mTV9pSWNmODdZcjhlSV9Ha0hJeGdjYi12LWx1MGh6b3dwc05DNWYydlUtU0JWbHp3NnZSLWxSTl9xaDQ0bktPZjA2UGNVWHBaeWpmUG1mT2dxNEZwNEd4RERJdHZzQ0c5Zmc0VDJnbFRfN1NsTFZJMkZRWHVCUkk?oc=5",
+      "summary": "Pakistan’s Ambassador-designate to Türkiye, Ambassador Amna Baloch, called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar today. Ministry of Foreign Affairs",
+      "date": "2026-10-14 10:50 UTC",
+      "category": "Pakistan",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "date": "2026-10-14 10:50 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Residents in Saudi Arabia’s capital hear new explosions as Houthis claim more attacks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+      "summary": "Residents in Saudi Arabia’s capital hear new explosions as Houthis claim more attacks AP News See more headlines & perspectives on Google News",
+      "date": "2026-10-14 10:48 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "MINISTRY OF FOREIGN AFFAIRS",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOcTBtM29tU3U5MzE4RFVFaWtIVGx0X1VrVFRQRTZzazJrQkdXZWdmQmVuZ05WYjFaSGU4M2VrQkFfSnQ5X3NjYmtveHI3alMzUTVaV28tTHhiY0VRTm01SUwzSHItUmk3UnNrZi02RE5Pdzl3dGxkVFFBT1hKMGdpbmxlbDM1UlRqVmR1R0VyZUtXNmwxbDBJSjloaU9ub0xvRlRLWUw5cjl6Q2xRS1VodlJyMVNjOGhxS1BmZkRzTnowNUlaTWdVMUVHZEtvRllwWDFPcU83YVFZcDdjR0NCeDE1aE9DTWpiS2R1NmVTZXd2bkdfbkZrUFdpZC01M3ctVmVBM0xYTlBGb3RmVXFLUUIyZVFDV1JUYXlvZUVDX2prd0lqRXNmTzRTQXNtM1R5TkZfS2RIWW1KLU9hSEVlNVZ2T3ozQjQtNDhnMkU1NWJkenZaY0YxaURRTkdqcDA0eEdTeEhmUG5xa256TkdLd1NKVmhjMXZGVTZoTi1XcGlaMk1nTHBnODNBbHlwWXZlTThWNEhSb0czWWlpcDlQMFR2SzBkRkVKZ0hGVklDYllOWXNMcHdabTB5QXhJQWZ3OU5rOUZ3ZzdicmR2Wk5SbWw0eU9tUm10TnVhR1dVX05hTmZQbjlmWnhhQWdRcHdZaks5VXdBY2l2bURkM0VvT3Z4N1I?oc=5",
+      "summary": "MINISTRY OF FOREIGN AFFAIRS Ministry of Foreign Affairs",
+      "date": "2026-10-14 10:47 UTC",
+      "category": "Pakistan",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "title": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar chaired a meeting on arrangements for the SCO Council of Heads of State Summit, to be hosted by Pakistan in Islamabad in 2027.",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxObFlmaWdnd3E2bWpJdGI4YURUTW0xY2NMSG1ELW82dTVsYXhtOWRkRmo4MHE2SEFaU1VFemt6ek43TVJsUmZ0UlJpeTV1ZTV5LWpLMGZzM3RJVGJZeThqSW12Y2VRMV9KcFlxV0JDNXFPQzhzRDgzRkNzRmdhd0t1WlYzM0gwS0NHZzRkRjZqUGFVckRpR2V5M3hIYWxzcTNydkZhcmZNZHZzQkhZLUpXSHl4MVp5a2Y5ODJEOUdBeHRuSnA4Zy1jdnVaakxUUDRHeTVsRzUxWlh5Z1RHUGdkaTAyNUxvenZ6Q3V4Z09SNnhpSkpNYXN5ajBoNVVlTk42V1ZpN0dneVROOXZCU245R2VUbHB5STNCUzJJOExVWVNlcjhlaWlyNzh2c1dFRkt6Mkc4dlRLeWI5UQ?oc=5",
+      "summary": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar chaired a meeting on arrangements for the SCO Council of Heads of State Summit, to be hosted by Pakistan in Islamabad in 2027. Ministry of Foreign Affairs",
+      "date": "2026-10-14 10:47 UTC",
+      "category": "Pakistan",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "title": "Gold price in Pakistan falls Rs3,000 per tola",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWFHMUpEUktxNVp3MUo3YUlORWtHajYwSGVsbHlfVWhYVVcyS0w1YmxXakVEd0FMZGZxQ2o1U2VwM2hxUVQ3N1hXNEo5VUNndm9SOHFYRGE0aXBMZUw3T1VuVktwai1fcVFjblZsOU1ZRGJQaDZCaERLZC1sY1dIbnd0c2xmYkJDakM2M182aWRyZw?oc=5",
+      "summary": "Gold price in Pakistan falls Rs3,000 per tola Investify",
+      "date": "2026-10-14 10:46 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Houthi attacks on Saudi Arabia 'totally unacceptable', says Dar",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Ec0pnMzJ2OU94OFhTYmdHc1Y3ZUhtcmNDLTB3TDllUUl5MXJCTEd1bDFaRklYNFFDNkZ3azh0TmFtMkZYZFdYbw?oc=5",
+      "summary": "Houthi attacks on Saudi Arabia 'totally unacceptable', says Dar Dawn",
+      "date": "2026-10-14 10:39 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
     },
     {
       "title": "Lost in Mediation: Why Pakistan Is the Wrong Messenger to Tehran",
@@ -16,6 +136,14 @@
       "date": "2026-10-14 10:33 UTC",
       "category": "Pakistan",
       "source": "RealClearDefense"
+    },
+    {
+      "title": "Pakistan’s Cotton Crisis: Why Farmers Are Walking Away",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0FLMWVlYkdTSUhPV1BLSXp2ZTl2VHAyd2x4Ul8tQXFyM0t4c2g2Q01MenV5dE04WHZSbFNQSmZLemtVRVlyWlJvaFJqckRWZTNQUlpkUFpNSXBBaG9NUkpKMXpDSFFnb25fbE1zMWF6RXRScTZGZ2lIOXZlNE9NSy1IY21tQkVCSHcxN1ZDUnh0Zw?oc=5",
+      "summary": "Pakistan’s Cotton Crisis: Why Farmers Are Walking Away The Friday Times",
+      "date": "2026-10-14 10:31 UTC",
+      "category": "Pakistan",
+      "source": "The Friday Times"
     },
     {
       "title": "Pakistan, Oman reaffirm commitment to strengthen multi-sphere ties, including trade, connectivity",
@@ -50,36 +178,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
-      "date": "2026-10-14 10:07 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "summary": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
-      "date": "2026-10-14 10:04 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Why Asim Munir's plan to 'split' up Pakistan may spell the end of civilian govt",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVVaM0FpMGxsVGZGQzR4U1ctSFZRZWxFa0Izbl8yX1E2eTVfQ1JIQjA1bzdqNmtzNktiUnlaVG9na2hvd3RrUVhvdnB5ZzdHT05xNVJIU1lud3VJWTQzc2pGSzlEd1lfQ2JnZ01USmptbEgyX1pkbTBIWjlwV2NYNlZUcmJnVEwxVTl5YTZjbmdURFR6N3Y4MEZmNDdya3RCcWxhMnJCMWFteGpScktCRzZpQ2JfTGszamlxcDFuQzFsMWhCbFRUYzFtaEtuYndfZkZiRW5kTGRpRmZxMml5ZlJ5eFdPU3BE0gHuAUFVX3lxTE5rR3JNcWZ0R1lCNE91S01oQTFRWnU2a3FTYVp4dWlwa0Q5SExqM0RicThPMmdtbU11NThzVzM1QmJ4RGdyTlVBM3RldEJ1UVEwZFlqazRlOS1KclljamFnRFdtN1BsZTRmSmFpbF9GdmtBM21XbVlXV2hvekdjZGdoOXhpR3FZeEUyRExkRkFzZUdHa2VDZjAwZFAtaHd6emNkTzBBU2xoRHhaMlBjLU04TlczMFNtY2gwMHlwMjl6WXYwaVF4aGRLNXpRVkE2Ukw4ZHIzRnRXWE9rVXc0MTZ6cUl6XzR5UHlsWnVGV3c?oc=5",
       "summary": "Why Asim Munir's plan to 'split' up Pakistan may spell the end of civilian govt The Times of India",
       "date": "2026-10-14 09:55 UTC",
       "category": "Pakistan",
       "source": "The Times of India"
-    },
-    {
-      "title": "Gold price drops by Rs3,000 per tola in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSkE2RzhJeVNERDE4UU9EY1JndkNmQnhhcUZvb1poMmRHWXk1TlJNNUVwRXUzUEQ2aFdhdmVWR2pNaUFyT0xXME5ocUJ5aTAwaHZvNzNhNjFSTWVKclBLMVFvcDRITnZ1OEUxUExaUHMxTGd1WEtmSjZicW1kSkpRWEI4czlLeDIxbnRSNmZwTlhMSVdnT3c?oc=5",
-      "summary": "Gold price drops by Rs3,000 per tola in Pakistan Investify",
-      "date": "2026-10-14 09:47 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
     },
     {
       "title": "Asim Munir wants to redraw Pakistan; he may end up breaking it",
@@ -146,14 +250,6 @@
       "source": "تسنیم"
     },
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "date": "2026-10-14 08:53 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Gold price drops by Rs3,000 per tola in Pakistan",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaG1sZURYZXFCM0F2aDdmaVAwSjdoTUg0R2tmVE14N09aQ0N5dHRYblRKSUJRT1d3YWx5aXZncWFvazlzcXBWUDJrS0Y4Qk4zYXkybFhuU0hvdzBjT0pmWFdfT2ZkeFNVR3l5bGdVeHNGc0xMYXZhWVd2dVEyeGIxaWpDUU1CODdvQ3prZWtrSVnSAVZBVV95cUxQRk1mV0QwbVFxN21VZVgtQk9kOE1aY1M2NlVTX0tNQWRGdlgzR3p6NzVkQjNYaWVaQ3VRdUJLUHlZN01zbnBudHpGZzhpOGtQVENfMS1XZw?oc=5",
       "summary": "Gold price drops by Rs3,000 per tola in Pakistan Business Recorder",
@@ -170,12 +266,44 @@
       "source": "ANI News"
     },
     {
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vNi1Fa3puRFY1SjhrY1lIOXhaYXhsZVRXZHVVTVpjZUZwOG9uZEthSUN1MnczYXNuU0FVWVlYQlpGakZBeGwyYlN3Q3hCdkdxZllyVERuV0ZuUWc?oc=5",
+      "summary": "Family pays tribute to 'warm and engaging' man killed in tiger attack BBC Family of man killed by tiger criticise online content after Trump reposts video The Guardian Tiger Victim Identified as a ‘Dearly Loved’ Child Actor Struggling With ‘Significant Mental Illness’ Yahoo Trump Posts Videos Of Violent Animal Attacks In Warning To Never 'Mess With Nature' Forbes Trump posts video of man being attacked by tiger The W",
+      "date": "2026-10-14 08:44 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Afghanistan Replaces Lost Pakistan Trade Through Central Asia, Says Taliban",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1BuM3NIVW43ajF0cE56dG9iQ1daUXpOeFpRWHJBa29NVlBia1FJRzFEWFFJNXVnNG84QTg4Q2N5b0xEa1FzZXMxOVA1Z0E?oc=5",
       "summary": "Afghanistan Replaces Lost Pakistan Trade Through Central Asia, Says Taliban Afghanistan International",
       "date": "2026-10-14 08:40 UTC",
       "category": "Pakistan",
       "source": "Afghanistan International"
+    },
+    {
+      "title": "Pope Leo spent ‘a tranquil night’ in the hospital after cancer surgery, Vatican says",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2xLYi1GaG84eGZndEJRLXpCS0JWUTZjeTU4N3drUTVxVzFGLUlLSHg2b1ZXU3M2SG44NVFhYnh4MzlsaW1EaEtTQVBaeEJHcTZ5ejVOY2NpQzVNcURpY0taa1V6di1DN1M0RlMyR2pibHlTbWFRaDg5SUJFQWNMWUlaRXNvd0stV3dYY2J6Q0t3YjlKaDNOaW9RbWw?oc=5",
+      "summary": "Pope Leo spent ‘a tranquil night’ in the hospital after cancer surgery, Vatican says AP News Leo XIV’s Cancer Diagnosis Tests the Assumption of a Long Papacy The New York Times Pope Leo spends a peaceful night in the hospital after cancer surgery NBC News What to know about pulmonary adenocarcinoma The Washington Post Pope Leo Diagnosed With Lung Cancer After Surgery WSJ",
+      "date": "2026-10-14 08:36 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Russia pounds Kyiv energy sites as Ukraine reports Starlink throttling",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzJkUk1pSVdXcmEzWkt3UUloc2FTRzRVaGVJaklQUXpFWjZtTDljZWtsdzl4Vl93Nmk1UEthQzY3Z2N2c0UwUzJnUGFjYk5McUl5NEltdk96bDFyVWVVckctTkM2SlJjVjNaMXIzRm1ScnJoaWFBMF9TWXg5SEk5QTBvdEJsVlJiNmVsMjN6NWVrZFVFV1FiUE85bFVHaS1aSVRGV05vUHk3WjJBRkl3WA?oc=5",
+      "summary": "Russia pounds Kyiv energy sites as Ukraine reports Starlink throttling Politico Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line operations BBC 600,000 without power in Ukraine as Russia launches 'massive' attack amid Trump's 'energy ceasefire' ABC News - Breaking News, Latest News and Videos Russian strikes kill three, damage dozens of power facilities Reuters ‘Massi",
+      "date": "2026-10-14 08:36 UTC",
+      "category": "World",
+      "source": "Politico"
+    },
+    {
+      "title": "Pakistan, Oman vow to strengthen regional peace, economic connectivity, development",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBFN2JSZGw0UnhfdHA0T1ZYd1ZxRlJYLVZKc3NLdV91VGJ1VW5GSXd1RnV5eDRWenZUZkM5VTFISGEtM2dLaEZjWVRROTNmNTRQZG5XOFZvNzlKSHQ0cXZYSmFqSTFJLW1xN2s5dy1USE9OSGxENnBja2w4MUt0WGQ3UGViaHhrZHVhd3hRV1JMdFl0RHlKX2tfTzlJMnlCZ1o2bVhKTUxUbEVCZXZuZVY0eHZ5Zw?oc=5",
+      "summary": "Pakistan, Oman vow to strengthen regional peace, economic connectivity, development | Associated Press Of Pakistan",
+      "date": "2026-10-14 08:34 UTC",
+      "category": "Pakistan",
+      "source": "| Associated Press Of Pakistan"
     },
     {
       "title": "Fatah-2 ER: Pakistan Tests a Longer-Range “Hypersonic” Missile",
@@ -202,22 +330,6 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Aurangzeb highlights Pakistan’s market access, economic reforms and sovereign rating ambitions in meeting with S&P Global Ratings",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdURJRnJvcGVQbVFtYUlQZEFnRWI2LTBxUmJSS0FDQ0JHeEw4T0EtQVRsTWNWMHJtNGRrQXRhNTdUcG1BLUxwWXFMQVZJWGFaSnQ0U19HMTVGLXhZUmlIaGY0RzRhVmE0ZmdsdUJtTkotVlhmR0RXeDdUQTlsRXpsWUJza01XQzZlWElGT2FrU2ZrSWVxWkxBV0tMbjh3M1k4RXo3RDZUYWdvcjBZNE5OU1VTUVBMX3JhdzJ3R2VCWTR0LXFxRUdCa3BJODZrQlhTVkNfcy1QZmlyWWtiQWdEbElwWkhPalVfNFNSNHBJSmc?oc=5",
-      "summary": "Aurangzeb highlights Pakistan’s market access, economic reforms and sovereign rating ambitions in meeting with S&P Global Ratings | Associated Press Of Pakistan",
-      "date": "2026-10-14 08:15 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
-    },
-    {
-      "title": "=+👣🖕💦]!) viral videos video Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVmhjekVNS1gxVUxEdWV1anVCSFBORy10WC1FUUFOclI3MktwaFE1SG0zVUJTOTEyaS0yeVFETWxQOVhqSF9VemRIVUJSTTE0T0tsSFVJMlp4QXZ4YjZlZW9oRmRaRE9LdF92TlFhZWJkVnZLMkh1UkM3MXhid0ZHT01EdlBXeXB5N0ZGWC1FOThiV2duUjFlbE5CVUxYR2cxdkZDTWxZcjlObXVwVDQ3VEdVZTJPbmxhZmFFR09TcTJON3hsNWJVOW1DOEc1MDhTYjZtV0FOcjdKUVJOQjlvbzAxVHZ6WHV6cUIteE1QSklidXBBRXZkZlFfVHJDV0J2VGRJLVNYUVROWUR5MGVIcXBibGVRaERHWjlDZ2htcURreEEwWU5WaFVVX1JVRHJmb0tkVDFn?oc=5",
-      "summary": "=+👣🖕💦]!) viral videos video Pakistan Universidad de Córdoba (UCO)",
-      "date": "2026-10-14 08:13 UTC",
-      "category": "Pakistan",
-      "source": "Universidad de Córdoba (UCO)"
-    },
-    {
       "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
       "summary": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C. The New York Times U.S. Court Blocks Enforcement of ICC Sanctions against Groups Advocating for Palestinian Rights Democracy for the Arab World Now US should become rights defender once more, Nobel peace laureate Pillay says Reuters Inside the Trump Administration's War on The Hague Reason Magazine ‘A foreign attack on EU territory’: MEPs cal",
@@ -226,20 +338,20 @@
       "source": "The New York Times"
     },
     {
-      "title": "Pakistan’s Quantum Data plans local assembly of lithium batteries under China deal",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXF6dE5mWWRIeDBLT3hLdHhGbkQ2MXRCek1CN3A3akVaRGVZU3NWdzhIdkMtZlN3VjhpU3dzVnNXMnZPSG9CcEpUQk4tSE1pN04xMVhjakRpRmlXQklERGE0ZDF5ckU5THBaNTVTbWd2V1BEN0NPdTQzRlVzWDFfLVlsMEdXYkFJcDJJRmtwWGdqQ2w1aW5wWHllQV9jYkJXMHhSQzJwX3JtQmdaazROSmIwZnBKZWVjQlBySUdn0gFWQVVfeXFMTmNPeW8tdTJMc3hGNlAwUThtX1VTNXVGTDMyWjQwXy0tVDNwcFZhV2RiQmNLdDBneEFlZ3IzQ2xCdWxYTzYwY0Zvazc5OVNkVG9HbU5xMXc?oc=5",
-      "summary": "Pakistan’s Quantum Data plans local assembly of lithium batteries under China deal Business Recorder",
-      "date": "2026-10-14 08:02 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Russia arrests Japanese journalist on spying charges",
       "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
       "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
       "date": "2026-10-14 08:00 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Houthi Strike Hits Building at Saudi Aramco Headquarters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUVrZjZFRVVJejMtQVh3OUE1MmtBdk9Ed1JTZ1JyV1B6UlFITDVCUVVIcGlpUEhZMDdrQzVaeDN6TnFjNVNSSVNMUS03V005UXhSNEYzaXZIZmo2WENzU2hMdVBtWjJ6YUlfTFE0VUdyWU9tcW9YRFMwdVBVc3YxYWpkcUQyTHllTnR2WUFESHRZNF9DeVhveVpRbjRMQXNVdkFFck1B?oc=5",
+      "summary": "Houthi Strike Hits Building at Saudi Aramco Headquarters WSJ Iran war live: Saudi Arabia intercepts Houthi missile targeting Riyadh Al Jazeera Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say Reuters Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia The New York Times Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot BBC",
+      "date": "2026-10-14 07:59 UTC",
+      "category": "World",
+      "source": "WSJ"
     },
     {
       "title": "Pakistan’s Parliamentary Women Caucus Unveils Study on GBV Prevention Funding",
@@ -252,7 +364,7 @@
     {
       "title": "Ukrainian drones hit Russia's biggest data centre",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
-      "summary": "Ukrainian drones hit Russia's biggest data centre Reuters Is Zelensky right to say data centre strikes have taken down Russian bots? BBC Drones attack Russia's most powerful data centre, over 650 km from Ukraine Українська правда Kremlin says the government is discussing Yandex's problems after Ukrainian strikes on its data centres Reuters Drone Strikes Didn’t Take Out a Russian Bot Farm, But We Were Primed to Believ",
+      "summary": "Ukrainian drones hit Russia's biggest data centre Reuters Is Zelensky right to say data centre strikes have taken down Russian bots? BBC Kremlin says the government is discussing Yandex's problems after Ukrainian strikes on its data centres Reuters Ukraine showed Trump how easily an enemy could cripple an AI powerhouse Fox News Ukrainian Drones Hit Sberbank Data Center After Yandex Attacks The Moscow Times",
       "date": "2026-10-14 07:48 UTC",
       "category": "World",
       "source": "Reuters"
@@ -266,18 +378,10 @@
       "source": "Energy Update"
     },
     {
-      "title": "Pakistan, Oman vow to strengthen regional peace, economic connectivity, development",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU5NcnEzZmZaejl1dTJLR19XYmxGZWVvV2hGMzltNUtEWGNnWC1qUEVXV1c5bWpKdElDbTF6dkRXVy1sU1dhSW1JVnpsUDVEUFIzeUVvdjc3TF9XcW9LZHVScjlpVXZwcU9qb0VzazZ1cUZNbnFUVEJmTTkwUGlfblRfM1JNdDZuSURqd3pCQkpCZ3l1ZGRRZURFYjdULXNERHZMQ3J6cjQxaXpSZ21JejNjdw?oc=5",
-      "summary": "Pakistan, Oman vow to strengthen regional peace, economic connectivity, development | Associated Press Of Pakistan",
-      "date": "2026-10-14 07:44 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
-    },
-    {
       "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2NIVlNnVWlwbUh2VUJDeHJLNkl4ZUlKZjQ0bnU2MnlOZDZjcEdJOVpVNTQ1MlhtTG1qNzljbnBQYkt2QUlOT21OZ3loNkNYSFVaekh0cXhuWFdlSjhiaDdZN1VQMEtOY1BXVlNPa3p3U0J1TGlFanVzaFJOSEwxOTN6YmlaLW9YYjZqVmhVRkVhRFFuWnR6TS16akpJSWdLVlA5c0p5STBWVTUyeWxScUNkU2NuZ9IBuwFBVV95cUxPSEhHVXc4NHFkSDdqTGtQbGhqTFlNM2lEcXRfWHQ4RG9CRXc0eWN4ZUxIM21DZmduaG5fM1pzUUU0YUdJdkJKczhOc3F3RmFFdjRwMkhIelI0cFU3d0YwNDJMNkhlS1BoRTVaYmcxanRkSm1jVkdsbWtyd19YbFZWSDVuZGMzTDRJMWJ1WlhteU05NEMxXzhnSmwtSHhrTmhFUWxzWF9PNnVwUzJ5ZnJjNk5lX0gwRWx3Mnc4?oc=5",
       "summary": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters Al Jazeera Congo's former president Kabila forms new group to replace M23 insurgency Reuters Joseph Kabila: DR Congo ex-president named leader of new M23 rebel coalition BBC Congo’s Ex-President Kabila Joins Rebellion, Deepening Crisis Bloomberg.com Former DR Congo leader Joseph Kabila to lead new rebel alliance Financial Times",
-      "date": "2026-10-14 07:41 UTC",
+      "date": "2026-10-14 07:44 UTC",
       "category": "World",
       "source": "Al Jazeera"
     },
@@ -292,7 +396,7 @@
     {
       "title": "Zelenskyy adviser: Starlink operations restricted in Ukraine overnight",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnc0bXNpUHljMVdGQUZFbFE4VnJHdHBqaFQteDdpQTZXSzhTZjRsZ2FuNUFjTlM5bmtiY0QyNWhwdzJmWkFvNEF4U2Y1djJLaThrbmdfTmZvTzd4MmVsWHoydVV0N2hZdU41REEtTjdPRW1tdkNrZ3g5ZXRnbng3QkJUTm9TUk11T3RPbG42MWc1ckVWYVJhVFEzQ1IyUEZ6YjItcERQRUxsd250V2QxSjFpNDRFNGRqSGhBLTFSMUg?oc=5",
-      "summary": "Zelenskyy adviser: Starlink operations restricted in Ukraine overnight Euronews Ukrainian soldiers in combat have access to Starlink satellite internet restricted The Guardian Ukraine says SpaceX limits Starlink operations, disrupting military Reuters Ukraine blindsided by Starlink restrictions and intelligence gaps during Russian attack Financial Times Starlink’s operation was restricted this night - former adviser ",
+      "summary": "Zelenskyy adviser: Starlink operations restricted in Ukraine overnight Euronews Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure CNBC Poland Grills Musk About New Starlink Restrictions in Ukraine Bloomberg.com Ukrainian soldiers in combat have access to Starlink satellite internet restricted The Guardian Ukraine: SpaceX is throttling Starlink again amid war w",
       "date": "2026-10-14 07:40 UTC",
       "category": "World",
       "source": "Euronews"
@@ -322,14 +426,6 @@
       "source": "Energy Update"
     },
     {
-      "title": "Residents in Saudi Arabia’s capital say they have heard new explosions in Riyadh.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-      "summary": "Residents in Saudi Arabia’s capital say they have heard new explosions in Riyadh. AP News See more headlines & perspectives on Google News",
-      "date": "2026-10-14 07:26 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
       "title": "Russia, Pakistan agree to enhance cooperation to combat organized crime, extradite criminals",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbFdnUnpCcHFkRjlkbElJeUVYdng1cGlmV1JuLWhMZ2pQVEN4alk3RXNCR2c0MVZ6aXhSUXNmc05GRFM0eE93M19iQVctNFJmdWhYZTMtLVhDYWhPREVEY05UTHpMMkZVeUlJNTdJd0dkR3BMTlNpZlRWYzlxR09nVkhHd3BvYUR4TENqYmo1RFdXYUNGanZWUUE2dDFoOHIzbC1KN2xyNnAtUXM3VHFJV2xHQ1R6TXRUdGdBSHZibVBBcXFYZUlSZUhMUQ?oc=5",
       "summary": "Russia, Pakistan agree to enhance cooperation to combat organized crime, extradite criminals Arab News PK",
@@ -346,12 +442,12 @@
       "source": "Pajhwok Afghan News"
     },
     {
-      "title": "Pakistan’s 22% water crunch: A domestic crisis or the fallout of India’s treaty freeze?",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazd5ZGhmRTZfVFdhSlUtdFJ2RllmWDg5REp4a21Kd1B3TU93Z1BRZVNLR3R1U21LeWZ1THNtYTVSNXhhaDFjZ2NpeTVSNUM3QWo2U1ZwTkNOUF9Kdkh4SnNnNEFnX2ppRF9KY3ktaUFkVzZNczd2NmlkdjRKUnYyT1ZnRGRCb1dYRjVnTWhBZUpDWllXVG1fVm9FR2NVQWduS0tXQVBwN2RxaDdiS21hMi1EUVh2Tmk3R1dqTUwxZ05IZ9IBxwFBVV95cUxPWjhLeUgyOVdOenQ0eGdubHFkMmlqdVA3T05yZUdvdW14anBQOFQ3WmhmajE5QnJvMUl2V0FoczJ5SWEtUUJVRm1SNFRTVkZtc2lPWXpLUzNudDdXVHAyMXQ1ZUc4bWpzNVJ3VHV4dDFraXVrRURVU0cwTGF6Q1VJZ1p1RUZKb2lBQzJxS1c5bk40VTZ4Tzhxb3pLT0VlellFLW9YLWJ5TWZCcWVhNDh5X25mZEhvTi1jUFVMUFFacndtVUxtQTFF?oc=5",
-      "summary": "Pakistan’s 22% water crunch: A domestic crisis or the fallout of India’s treaty freeze? Firstpost",
-      "date": "2026-10-14 06:56 UTC",
-      "category": "Pakistan",
-      "source": "Firstpost"
+      "title": "CNBC Daily Open: Zelenskyy heads to UK for talks on fresh support",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0Q5MThnYUdqOFZJdThpcDhiV3NtYWZnS0pfTHJIX05lcXBhQ0Z3X2F5X014cXNxcjRUci1wUzY4dXo1TVZ2M2VkV3Ewb1JFR3E2V1BRMm5TMGlRUGRuWjhFdUZSTE45Q0VweWlBTVNZTS1hNnRCZ0J0ZWVfbV9nMlNWcnhwd9IBiwFBVV95cUxONU9nVlNoWVFpOFVEZ0hEMmdhT0lzSjhTLXFYODc2T1JReGRpc1JaWWpwai1kbmUweXNpXzg0cTY5dDRwMHktdTVDQU9kOEdsaDY2Z2ItVzNXQVhIVXI1N1dQbElvUG9ua2JqWmdBWWRNTHQxWFFGVFNpVi1EenhVWVV2VlZIZUhNVWtN?oc=5",
+      "summary": "CNBC Daily Open: Zelenskyy heads to UK for talks on fresh support CNBC Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing The New York Times Zelenskyy to meet Burnham in London as Kyiv seeks more help against Russia AP News Zelenskiy visits Britain as Burnham pledges fresh support for Ukraine Reuters President Zelenskyy to visit Downing Street as the UK doubles down on support for Ukraine and ca",
+      "date": "2026-10-14 06:57 UTC",
+      "category": "World",
+      "source": "CNBC"
     },
     {
       "title": "Pakistan, US fuel talks on energy imports, trade framework",
@@ -370,14 +466,6 @@
       "source": "Dawn"
     },
     {
-      "title": "Pakistan stands shoulder-to-shoulder with Saudi Arabia under Makkah defense pact — PM",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXFJcHVuSUZuVzVBdWY3VGkxSVZUWlhxcGg2SENpdHltSno5R0J2TDY4dUk0d2owYXFZeEpLV21wcGRiaERjTXZWa3Q4aDVKZHpDQU9PNlIwUEMtdlBkbFhWdjhIMkYwV1dqMVpQdGtta0FEeXVUa0NBMWJpWWM1MkNjWC1CbXhjQ1JfWlJONThaZlZ5LU03bUxqWFgybkllM2JRU2JHX21lMVlzeDYxOVZ6VmpDTl9MT1ZDVkNjTkZyZw?oc=5",
-      "summary": "Pakistan stands shoulder-to-shoulder with Saudi Arabia under Makkah defense pact — PM Arab News PK",
-      "date": "2026-10-14 06:29 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
       "title": "Pakistan, EU strengthen bilateral ties, expand skilled worker opportunities",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3RzUS1uMlh3SURZdkdSV3VuS0FjdE5EaFpSSU4zSmtyWVFRb2h4UEt1b0F1R1MwM3ZUbkE3cEdZTDE2NngxSWNnWUdReEJPdTUxVm9zV21Ed1lUaTJyZTZ1RHlfUGhTRFlIa1VWd0w2UkZjeVQ5RERiWkJpaEplN3hsTkJtdVVHM3E4dER2Zkk2Yk9nSTI5dmQzWURpR0hMQ1EzYWgxdnQ?oc=5",
       "summary": "Pakistan, EU strengthen bilateral ties, expand skilled worker opportunities Mettis Global",
@@ -392,6 +480,14 @@
       "date": "2026-10-14 06:02 UTC",
       "category": "Pakistan",
       "source": "Mettis Global"
+    },
+    {
+      "title": "Pakistan stands shoulder-to-shoulder with Saudi Arabia under Makkah defense pact — PM",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXFJcHVuSUZuVzVBdWY3VGkxSVZUWlhxcGg2SENpdHltSno5R0J2TDY4dUk0d2owYXFZeEpLV21wcGRiaERjTXZWa3Q4aDVKZHpDQU9PNlIwUEMtdlBkbFhWdjhIMkYwV1dqMVpQdGtta0FEeXVUa0NBMWJpWWM1MkNjWC1CbXhjQ1JfWlJONThaZlZ5LU03bUxqWFgybkllM2JRU2JHX21lMVlzeDYxOVZ6VmpDTl9MT1ZDVkNjTkZyZw?oc=5",
+      "summary": "Pakistan stands shoulder-to-shoulder with Saudi Arabia under Makkah defense pact — PM Arab News PK",
+      "date": "2026-10-14 05:34 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
     },
     {
       "title": "Chinese dairy giant Feihe eyes Pakistan market, explores full supply chain cooperation",
@@ -418,28 +514,12 @@
       "source": "Mettis Global"
     },
     {
-      "title": "Trump posts video of man being attacked by tiger",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObV9RWWJENGhoTTdsNzZyVTM2NkFpdlM1T3JSMmZPQ0gtaVBHTXQ4VjlxNFdncjZxVExLeXpYQTZrb1FoSVowa3pVRjQxTzFzdXZ3Q2NwZ0lYUFczQTYtZzJEMGVISUF5SzdNMTZvUkM5cmZwWi1EM19ZbHJJaFlEc05KRDVpaURCZzgzMENIbnZjX21mSjhVYWZHQjgwM0RqbXZ0TjRFbXRhdkhsRjFr?oc=5",
-      "summary": "Trump posts video of man being attacked by tiger The Washington Post Family pays tribute to 'warm and engaging' man killed in tiger attack BBC Trump Shares Bizarre AI Tiger Video In Late-Night Spree After Posting Fatal Attack Footage Forbes Man killed by tiger at Yorkshire Wildlife Park named The Guardian Why Is the President Posting Videos of Animals Mauling People? Rolling Stone",
-      "date": "2026-10-14 05:08 UTC",
-      "category": "World",
-      "source": "The Washington Post"
-    },
-    {
       "title": "At IMF-World Bank meetings, Pakistan urges reforms to tackle trade, climate challenges",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0xtQ3E2X1NGZmxyMXVpSDRyN3FmaHFVT1FzN05LYW9QNXBvS3N4QW9yaW50Sm9qRV9mdzF5ejJSaTZRdjJPeHJjaGhqX3BXN1ZLaC1SeS1JNDJkRkpBYlBfa0EyMnJCOW1aQ1VSRDZUZUxFUjFSaXhNbjhJbUJuTXhPaWx0TzRsRDVOSUFBVTJRTzBOS0hQcTFwWHg2V252VmdveVlsN2JrdUYtNEdqQVRveGFQbDB5M0ExbTFKdmJJTkU?oc=5",
       "summary": "At IMF-World Bank meetings, Pakistan urges reforms to tackle trade, climate challenges Arab News PK",
       "date": "2026-10-14 05:06 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Asim Munir has plucked the last thorn from Pakistan’s democratic rose",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MEVPdVl2ZVFpN0lISWh0QWtISl9aaGZ5UmxQV09qYWpxUERhd2FkYmYyMUdZSmFVUzNGRzRJa2QxRTdGN1BYdm02Ti1ldVgyMFcxOWQ4bzk4U1YwNjdMUHM3NW54dFdzRnE2cklPN2NvaTg3ekczQ2xBWnlLRFXSAYQBQVVfeXFMUHVpbVV4UnNkVUNiX1pfMFdjSjkxaEtoZjkwYllsQ3RPcnFhVnZ4dnhSRmR2WnVtMFRGbVpqUWZZckNqMVNnWWFabHgyRWs5X3VwcDhIbUdYQ0ZxS1hLdWhNc0V4VG1IZ25PZzRIQVZUZHM3R2xxRDRCZlBfTFBNa2l2RnBL?oc=5",
-      "summary": "Asim Munir has plucked the last thorn from Pakistan’s democratic rose ThePrint",
-      "date": "2026-10-14 05:06 UTC",
-      "category": "Pakistan",
-      "source": "ThePrint"
     },
     {
       "title": "Pakistan police clash with protesters after Khyber Pakhtunkhwa takeover",
@@ -458,6 +538,14 @@
       "source": "Middle East Eye"
     },
     {
+      "title": "Tim Kennedy shot in Congo while working as military contractor, Reuters reports",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FeXhsaXBFNER0a1F6dVlpQzZTb1dydHpWWlNuYy1EYTV0enJqbXBzZkFhU0ZfVzZlMkIwVTU2UE9OVTdEXzZWNHhXS0NZYmdIT0JOR2JETm1Ndm9aYnZTMTRDT1dQRjBWUExqbGxFU1Z2d1RJdk9URNIBfkFVX3lxTE55STQ4YThnOUhjR09hRm1VTklsbmFkTy1QdEpaOHNQeGVUVU5zZXJ1eFVIX0wxa2c2cDJRWHowWFRPODNoYVBBVk0wOEkxSk1TcURjTktUdi10Qlh2VnpiLXVXX0RxYm80bWtRbWRXaF9lTHIzcUxHVEo3ZWdNZw?oc=5",
+      "summary": "Tim Kennedy shot in Congo while working as military contractor, Reuters reports NewsNation A Deadly Firefight Exposes Erik Prince’s New Shadow War in Congo The New York Times Army Special Forces Veteran Tim Kennedy Shot 3 Times in Congo Ambush While Working for Blackwater's Founder Military.com Maga mercenary’s ambush exposes the dirty fight for Africa’s minerals The Times UFC vet Tim Kennedy hospitalized after repor",
+      "date": "2026-10-14 04:38 UTC",
+      "category": "World",
+      "source": "NewsNation"
+    },
+    {
       "title": "Pakistan says all resources available to defend Saudi Arabia amid Houthi attacks",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjVkQVJVWHBuaWhsY0FEZmJTVDJLZVlSY0JIU05PME1vS0stX1hkWG14aUJ4Qk13dzlmQVFlb3FJaVJlcWRLWnB1SWdQai0xYXNpZTV0cDVOMjduLUhrT0UzRU11LU5hT0x2V1lXSWU0ZmN5Q3R1Nmd1V1pORW1wSkRqQW4xZ24zRkRBSEl5T0dJRUY3Ym5sUU1uaDVtSGMyUTQ0dWdCTUpvcXFJdHYxYVJ4cFB5NHpiZWFIS2dJTWZ2UGM4S1Jr?oc=5",
       "summary": "Pakistan says all resources available to defend Saudi Arabia amid Houthi attacks アラブニュース",
@@ -466,12 +554,12 @@
       "source": "アラブニュース"
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "date": "2026-10-14 04:20 UTC",
+      "title": "Why Rejoiners need the Russian bogeyman",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16Zk1KcGFlZ0sxalUtT3ZsUklmLUxXXzlFRFpoSnFId25tZWQ1QmhBVWx4WHVxV2FVZDh3eFhlLVhRVTl4VUV2UGpkTjZCcWYybzZZdTUtS3hfYl94bXFxa2piVE5wc2psMVlGRTVLUjJRZ3FEMEE?oc=5",
+      "summary": "Why Rejoiners need the Russian bogeyman UnHerd Brexiters can’t cope with the fact that Putin was cheering them on | Rafael Behr The Guardian UK PM Burnham says Russia interfered in 2016 Brexit vote Reuters MI5 chief warns against overstating Russian interference in Brexit vote BBC U.K. prime minister accuses Russia of meddling in Brexit vote The Washington Post",
+      "date": "2026-10-14 04:29 UTC",
       "category": "World",
-      "source": "BBC News"
+      "source": "UnHerd"
     },
     {
       "title": "Pakistan eyes 4% plus growth on reforms, fiscal discipline",
@@ -480,6 +568,14 @@
       "date": "2026-10-14 04:14 UTC",
       "category": "Pakistan",
       "source": "Mettis Global"
+    },
+    {
+      "title": "Why emergency in Pakistan's KPK will open another military front for Asim Munir, Shehbaz Sharif | World News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbmlqTF9OSXpBNXJFRnVzZkNEUmJ1MkdZUm05SlJGbUxYWTNwOVFYa0Vkb3RuR0pNWWFEWFRMajFMd1V0eW9yV0RRVGhTMnpvLXpYVU1kSW1LRGRWUHUxNTBCMGRPbkJteG1PVmhDeUplQzdqT3V5dEIxbFN2VWFScnAydVdIU05VVW9DaVNrNW82M0lRN2JoRHNmenJGZzRteXpGbUUySS05cER3UGdxZ3doV3BISWVDeDdIUm95RVJHR0dOU0xNTTRoNVVjNzVPRXJLbmpHVGc3ZW0wNEhMS3JiLXJ2UXI1UFFZcNIB8gFBVV95cUxNaEFtdnBJT0U5bG16ek5qRTloVENQbEJXVnh3Q1E1MW5KcXozYzhkSk44bU1qemlCVHVtTWZWZWJPNkhVNmswZUNhTmxfNFpjX2lPNk5jMDRNRWxGbWVzVHljLWRpXzlmYUN5OHhFWERSVHhsT0owVUowLXVRenFaOGEtcktKRTlBNVpEVEVncENydklFUWZCRFVna2VkOWxCSE5vaGJqTFJfWGpPb2dTWVdBNzNiRnhQeENmNjBDaUxNUU03bEtSeG9VQy1XdGNrQXFydms4OVNtYmFkcGdYWDdDU045XzQ5bWpMbDAzU3o3dw?oc=5",
+      "summary": "Why emergency in Pakistan's KPK will open another military front for Asim Munir, Shehbaz Sharif | World News Hindustan Times",
+      "date": "2026-10-14 04:09 UTC",
+      "category": "Pakistan",
+      "source": "Hindustan Times"
     },
     {
       "title": "Sri Lanka captain Mendis, Shanaka deny Pakistan clean sweep in T20 series",
@@ -496,6 +592,14 @@
       "date": "2026-10-14 04:04 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Deep Dive Pakistan From blown covers to honey traps: how Pakistani intelligence puts foreign spies through the wringer",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOTNTRENlWGZ0TkQtS2J5YzBtX09BYnJFZTVNdG01MG9tNjFsbFhOMThxR0FRYmlpOUVDSl9VRFhtenJEMDZjVjJIY0ZqNWZfaWRleDVsNGFrM1NVWXJhM2J2OGNNUDA0cEdybVpZcmNpN2ZPRU1CUnJLa1ZYdjFEblRpM25IN1BsaGE2TXFEenVIRkJkUVBEVTlMY3U4bjc1bEh5Z2M3aHN6cERJZUwwUk1GNlFzSjBhdHREODdCNzVDenBVRkVzMnZhLXpFOEVpaFRTRTNxSmc2RGV6S2p2MUVtdDBlckJsWk1ucThtR2V1OXp6Q2xSYTUzNkR4WHA3aGNCUWxRN3BraGRUcXc?oc=5",
+      "summary": "Deep Dive Pakistan From blown covers to honey traps: how Pakistani intelligence puts foreign spies through the wringer Intelligence Online",
+      "date": "2026-10-14 04:02 UTC",
+      "category": "Pakistan",
+      "source": "Intelligence Online"
     },
     {
       "title": "Pakistan’s demographic time bomb",
@@ -522,36 +626,12 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Ukraine received no intel about incoming missiles, Zelenskyy says",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnpPaVk2bUo4Wmx6QTRTbFpvaDIzeW1xejVKdlFfSkI1T0hlT1Zoc0xKbENlS2lpdXB4WXp3RzhPZGpFTjN3ajUzYWdQR1d0V3I3QS1MeE9uTi1nWTF3RDdrd212a3kyc2tkczhlOUVsOFpkNlhzYW9aNmtLUm5YLWhNR05fajJyb1hhVkh3MnlnakdvcEdIcjdvMXQ0MmFmUnpDblZ4UnRseG9vTVJfT0hSZ0ZfclE0dF9IcWNn?oc=5",
-      "summary": "Ukraine received no intel about incoming missiles, Zelenskyy says Euronews Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row The New York Times Kyiv apartment block under Russian missile attack Yahoo Russia batters Ukraine’s energy facilities hours after Zelensky appeals for early warnings from partners CNN Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disresp",
-      "date": "2026-10-14 02:47 UTC",
-      "category": "World",
-      "source": "Euronews"
-    },
-    {
-      "title": "PM vows to strengthen Pakistan-EU strategic engagement plan",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXhJNnhYaFdZOWRfS05hYWlwazZGWXlmNEpXRzljUWdEbWY1bjR6WEpnbVUzS19vSjlqbGVuZ0ZNaEIwdTNtY3gyTERBanJ1d25XUk5yRklmTzFjV1ZyVHpscDh6THc4RmJfSjFONjVTX3FPNkQ1ZjJfSjQzQXVwOVFneHhlcGk1cERZS3ZvcWdaMFpqNUJsaW1R?oc=5",
-      "summary": "PM vows to strengthen Pakistan-EU strategic engagement plan The Nation (Pakistan )",
-      "date": "2026-10-14 02:20 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
       "title": "Lena Dunham's Girls to return for limited HBO run",
       "url": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
       "summary": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
       "date": "2026-10-14 02:09 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Boy shot dead resisting rape attempt in Vehari",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TSEFENzJQUjR3THg5SG1xUkFvRDlpVmNSbXpYSlVQejFjZGZOcVhlOVZ4OHZMZnVLR1V6M1JKQUMtcVZhbVJ2eQ?oc=5",
-      "summary": "Boy shot dead resisting rape attempt in Vehari Dawn",
-      "date": "2026-10-14 02:03 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
     },
     {
       "title": "Pakistan Post imposes ban on transportation of kites, strings in Punjab",
@@ -570,14 +650,6 @@
       "source": "Dawn"
     },
     {
-      "title": "Pakistani youth face job crisis",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmQWF0VWoxQWFkSW50Ty01VlNvZ0N3Mm5rdWNYTDBIS1pReTBtM0E2UTNKZWdtRjdGd0RKbnhDSWUzS2lwSGdoag?oc=5",
-      "summary": "Pakistani youth face job crisis Dawn",
-      "date": "2026-10-14 02:02 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
       "title": "Kusal’s blistering 87 leads SL to consolation win over Pakistan",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa005ZGtrMVZUWDRtSndjRlB0V1RaOFJjV1BucklvYXRIMWZEMHVTaUZFcV9Od0xINklZTVZzRzF0RU5kSHF0dS1ERWNyazhDM0Ywck1ZbEhQZVMyTFFsSTFGOXJkYVhkOUxDcU1pQjc4RFc0azZSVzV4LU5XWV9LUlVDV2R3a3dLclVoWGxfX2gzUzRxV2pFZi1JUTM?oc=5",
       "summary": "Kusal’s blistering 87 leads SL to consolation win over Pakistan Dawn",
@@ -586,20 +658,28 @@
       "source": "Dawn"
     },
     {
-      "title": "Online abuse puts 1.5m Pakistani children at risk: study",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zMDRPSGNjYnpzTG9Bbl83dFhNdkZ4U3dnZ0dzNlpMc2VmTkYwdjN4SkRya2xERk1JWkNBU1dqR1FWYjdDcFJVdw?oc=5",
-      "summary": "Online abuse puts 1.5m Pakistani children at risk: study Dawn",
+      "title": "Pakistani youth face job crisis",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmQWF0VWoxQWFkSW50Ty01VlNvZ0N3Mm5rdWNYTDBIS1pReTBtM0E2UTNKZWdtRjdGd0RKbnhDSWUzS2lwSGdoag?oc=5",
+      "summary": "Pakistani youth face job crisis Dawn",
       "date": "2026-10-14 02:02 UTC",
       "category": "Pakistan",
       "source": "Dawn"
     },
     {
-      "title": "Pakistan Post tightens restrictions on kite deliveries",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzNGeDRzVy1TVFU4TWNxWTF4MW52NmMyc0wxcVpnNzQ3NDQzRFN0S2t0UnpYMWxyaVZFWmhOR1NBb01jWVd0bm9JTjE0ZXM2ek1PNDJqZzBlc3BVb1d2UkE3V3VhZkh5N3dacjNHa01BejBmd2NmVVlqUG90U05ubXRmUHA4LXJNcnU3Vm9VTFg1aE5jQWfSAZ4BQVVfeXFMTVJRN245STVUcnRvZDZtVmtqYTVNZXJVWkJGVDhCdFYtWFNhS3M1ZC0wRFNVWWUxenBsTFc0LVpnUUl4UGJiazhNUWRNVWZxSDJfRWNhOWZZTnVIcUhPTGhyOElQRUpsX3R5eVVvTWw3OC1HQmVnaS1YTVRVdEtMV19JeVRGaTVwX2JZMGY5SDRmR3RXNFZ1cGZfVnJfbWc?oc=5",
-      "summary": "Pakistan Post tightens restrictions on kite deliveries The Express Tribune",
-      "date": "2026-10-14 01:32 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
+      "title": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITkpCSEp4NVcyNXpuS0FwY082d09qTWxQTk9majc3Mnp4cFlxSjI5NFVaZE83ajhKMWlzOHZHcWlwRkRLaXJ1Z0JtM0lRcHFaQzhpalRhd3NLNFBsY2o4RWxDZUplOGNGRXRSdFBIUEZTM1BfY25uSmV4dHkyUQ?oc=5",
+      "summary": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts WSJ Houthis in Yemen attempting to produce advanced ballistic missile using Chinese-delivered parts – report i24NEWS Report: Houthis using Chinese parts to build ballistic missiles that could target Israel, Saudi Arabia The Times of Israel Yemen's Houthis use Chinese parts to build Iranian ballistic missile, boost attack range - report The Je",
+      "date": "2026-10-14 02:00 UTC",
+      "category": "World",
+      "source": "WSJ"
+    },
+    {
+      "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZsTE1wTW5KVUZmUUJ3MFhPTEdiajVmTWR3UUt6eU9uSWpHWlNmdDVpTUhSa1BnQTVDaW9GUXJoOXp2N2VmVGJ4cE5MNU1KazJCWVZPVGlIMGRnd2JTbndndmZGZEd0d3Zyc243ZnJ2RFVxMm9GNUItaXNteWRxUl9fUnlPc2wzVE1URzVDQXBhSmNiajN0MkdON3BrRGRjRllIUVptV0dzdDhYLTRlc3N6bw?oc=5",
+      "summary": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv AP News Russia batters Ukraine’s energy facilities hours after Zelensky appeals for early warnings from partners CNN Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row The New York Times Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy The Guardian Ukraine had ‘no warning’ of ",
+      "date": "2026-10-14 01:48 UTC",
+      "category": "World",
+      "source": "AP News"
     },
     {
       "title": "Four killed in landmine explosion near Line of Control in Pakistan-administered Azad Kashmir",
@@ -610,9 +690,25 @@
       "source": "Asia News Network"
     },
     {
+      "title": "The Future of Israel May Belong to This Man",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tcjNycEh5dS1DbnVKUGNhSmJoMWZOZnNwN3dmZkNpNXh2VG1FMHNnVzFyVy0yWTVjbExtb0xXQm1PaDhDd3R1UG8zY0pxejlMUjhpVjFTQjYySFMtRG5LNk54bkROTlk3MzVoYVNR?oc=5",
+      "summary": "The Future of Israel May Belong to This Man The Free Press Opinion | Israelis Feel Abandoned. That’s Why They Might Turn to This Bereaved General The New York Times Netanyahu-Eisenkot debate would give Israeli voters answers on key policies The Jerusalem Post Eisenkot says Netanyahu unfit to lead another Iran operation; aims to overtake Likud by 'significant' margin in election The Times of Israel Two weeks to Israel",
+      "date": "2026-10-14 01:10 UTC",
+      "category": "World",
+      "source": "The Free Press"
+    },
+    {
+      "title": "How Will Israelis—and History—Judge Benjamin Netanyahu?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zOU1vOElMaW44M21ibkNiMkxNZzFpN1lTNDRVQnl1LUhqM0t6RnFSc0ZILVRuS09wenVmbjFzRmlQd21lUHNCQ2JqbDFiamdUR3RUUjFNZzZOemhmRHZxRFJTNFdNUnBqdDFFQVhvNFRrenJo?oc=5",
+      "summary": "How Will Israelis—and History—Judge Benjamin Netanyahu? The Free Press The Oct. 7 Attack Changed Israel, but Not Its Politics The New York Times Small parties hovering around minimum vote threshold could determine Israel’s election The Times of Israel The Israeli Elections Can’t Save Liberal Zionism Jewish Currents Israel Election 2026: Guide to Knesset, political parties, coalition governments The Jerusalem Post",
+      "date": "2026-10-14 01:08 UTC",
+      "category": "World",
+      "source": "The Free Press"
+    },
+    {
       "title": "Jewish educators told to condemn Israel before attending conference: report",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1BHQ05iaWlqUzc5ZmotRzhCckhnZmhNZDBOWTFyelR5dGFSaUhBaEVxNjlWUWszZ3dOd3ZoVS1ic3hTREpaWDBPbjJTXzhBdmp0SGhpMVM1aWZVMUpuUkZTUWVGeTYxTE1lZW96T3hkWGpDOVUwYnJoT1plSzV2MXdqZTJ6UFpVM19tbkVzbC1ud3dQRHo3dUdTNnpWak9fOGY1Qm5xYlA0WDRYUk5mc3BFOEdJdkdQaVNOUU45a1Y0OEVub1B2RzA0aDhVUHpzaUNOMmloOA?oc=5",
-      "summary": "Jewish educators told to condemn Israel before attending conference: report New York Post We didn’t need Reggio Emilia to teach us how to see children eJewishPhilanthropy Jewish educators told to denounce Israel before attending Italy conference — report The Times of Israel Jewish school educators cancel trip to Italy after Italian education program required participants to denounce ‘genocide’ in Gaza Jewish Telegrap",
+      "summary": "Jewish educators told to condemn Israel before attending conference: report New York Post Jewish teachers cancel trip rather than denounce Gaza 'genocide' The Forward We didn’t need Reggio Emilia to teach us how to see children eJewishPhilanthropy Jewish educators told to denounce Israel before attending Italy conference — report The Times of Israel Group of 100 Jewish Educators Cancels Italy Study Trip After Being A",
       "date": "2026-10-14 01:07 UTC",
       "category": "World",
       "source": "New York Post"
@@ -620,106 +716,10 @@
     {
       "title": "Hungary: Lawmakers scrap Orban-era anti-LGBTQ+ provisions",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0ltLUtvZkJUcldHM1V5OFNuV0FXQ1dxTEFRMVpXWmxOd3lnSXU0RXNycjkwZnpuMlFlWDhjaVM0T2dZdHIwc0hOVlFSblRmanZSZUEtV3pKUng4SDhSQXd5UkwtMDlFMlRFOXpJSVRjNVYxdHJUVkg3OWdvNHQtUFRacVZLdGM1cGpxUW02NF9QR0xMa2JXaWlVaU1sREtYdklUdlpWcEVadUHSAasBQVVfeXFMT0VlZHZ0YzRiN1Bma2FMQTJMV1p0dURZdDJTMWpVXzdTd2dPdUE5YzdUeHFGbVJnMjJ6RS1RejJUa3FETVhCaVRfSmZTTGNFMXYxQ253UW0yVTF0c25wM2VOOXIyS1J4NkxaLVNBaC0wbzFIRFdxZmg3T2VxNUtydlhwZ082aEM5S2R3TE1LQnZZM0VabEVQTUcwSzQwYTRjTEhIVDU5QldJV2Vz?oc=5",
-      "summary": "Hungary: Lawmakers scrap Orban-era anti-LGBTQ+ provisions DW.com Hungarian MPs scrap Orbán's anti-LGBTQ measures BBC Hungary MPs vote to cut anti-LGBTQ+ legislation from Orbán-era law Euronews.com TISZA Passes \"Gender Law\" in Line with Brussels’ Demands Hungary Today Hungary repeals anti-LGBT provisions in Orbán-era law TVP World",
+      "summary": "Hungary: Lawmakers scrap Orban-era anti-LGBTQ+ provisions DW.com Hungarian MPs scrap Orbán's anti-LGBTQ measures BBC Hungary MPs vote to cut anti-LGBTQ+ legislation from Orbán-era law Euronews TISZA Passes \"Gender Law\" in Line with Brussels’ Demands Hungary Today Hungary: Parliament repeals provisions on homosexuality in child protection law Table.Briefings",
       "date": "2026-10-14 01:04 UTC",
       "category": "World",
       "source": "DW.com"
-    },
-    {
-      "title": "Five killed, 30 injured as passenger train derails in Pakistan's Punjab",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmVXFuTzVRUXJjZGRMallKM28weXpKVXVBLTJMaVhVMU5aQWVSNHFUTDhzQk9fMmtIbDg2Wjk5YnJ1WG16QU1pOFY4dDdNUkNad0RLSnc4RTFrd3pkUTV1ZnNR?oc=5",
-      "summary": "Five killed, 30 injured as passenger train derails in Pakistan's Punjab Global Times",
-      "date": "2026-10-14 01:02 UTC",
-      "category": "Pakistan",
-      "source": "Global Times"
-    },
-    {
-      "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
-      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
-      "date": "2026-10-14 00:59 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan Tests Fatah-2 Extended-Range Ballistic Missile",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzF5d1lFdldwak5zc3BWMGJOTy13X0tTOERTRU80RHRSRUpZWGRuckFERGlEMWJhZmNScUFLcjNOZXZMMWFfMWY1VWRPeXJ2QmlOWnZwY2NqY20tbjkxc2VxZ2c1X2JUSG5QOEhaRHhrTmJvNU9IVFBRV2gzNUQ3QWpKRFlFR0xsYms1WkNaU0o5VDVRd0Zndm1xQQ?oc=5",
-      "summary": "Pakistan Tests Fatah-2 Extended-Range Ballistic Missile Quwa",
-      "date": "2026-10-14 00:41 UTC",
-      "category": "Pakistan",
-      "source": "Quwa"
-    },
-    {
-      "title": "A Pact on Paper, a War in Reality: Pakistan’s Mecca Dilemma",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFNCbF9WcGpaTUdlU3dMRExoTmF6V3ZzQVJRNzBsN3Y4LU8zZUY4WkEwMHpVVk5hQnkwQllKbUVaUUhMcjhNSUpmRDhmSWQxSFJYTnozSGxpMmR1S3o5V29QS3d4bTk2MS1ZUVNQb2RjTWt3WDJuaXpBakxzRy1TX0xMQUc3cjlib0NfRFpBQ3lYRHdJdElzSFRSdms?oc=5",
-      "summary": "A Pact on Paper, a War in Reality: Pakistan’s Mecca Dilemma India Narrative",
-      "date": "2026-10-14 00:30 UTC",
-      "category": "Pakistan",
-      "source": "India Narrative"
-    },
-    {
-      "title": "Top Pakistan Open fighters set sights on gold at World Championship",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjZ3d1VtOGtuYThWLTZjSFN6ZG9hLUZFV0JWY2lwYXpnazg0SEY1VTRwZTU2OU5LUFJidkpTU1BvZ1F5Z2lrV19SQ1J3SDNjRTNtaE1DeUdzTDZZcjNSY3lNcld4SFhFTWlTN0RoRExWZFRySmdvYmRxYmIyX2pZOW5BM0tkWW10c1htUVhwZk91MXF1QXBYMVFrcjdTUUJl?oc=5",
-      "summary": "Top Pakistan Open fighters set sights on gold at World Championship The Nation (Pakistan )",
-      "date": "2026-10-14 00:26 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
-      "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say Reuters Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments The Hill Iran Escalates Attacks on Ships, Threatening Oil Export Recovery Bloomberg.com Two More Ship Strikes Reported in the Strait of Hormuz The Maritime Executive Container ship sinks after hitting mine in Strait of Hormuz, Ir",
-      "date": "2026-10-14 00:06 UTC",
-      "category": "World",
-      "source": "Reuters"
-    },
-    {
-      "title": "Robot seized by German police after it was allegedly used to grope teenage girl",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SVlp1UktvNjB0Zjd2amVmMVpwVFVBQjVsTW5kbnhmTlZzTG1aaEJLTE4yOXFmNnIyVUNHWmU2ejhmYjIzZVV5c21JZWREWkE5QmpKMlgtSllXeFE?oc=5",
-      "summary": "Robot seized by German police after it was allegedly used to grope teenage girl BBC Police confiscate robot that groped 16-year-old girl, probe whether young men were at the controls AP News Authorities investigate public harassment of teen girl by humanoid robot Mashable Police investigating after humanoid robot ‘sexually assaults’ girl The Independent Humanoid robot ‘sexually assaults’ teenage girl in Germany The T",
-      "date": "2026-10-13 23:50 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
-      "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-      "summary": "One person has died and others were injured after an incident at a US amusement park.",
-      "date": "2026-10-13 23:42 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV1c3TWdoUG1JS01sSXlFSks1dllZM1ZpZG8xTFpDck9JSk9iVzBtbkZONHhady1CWjdHX0llSm9weXJsb0U2QkJBVW9IaDJ0MnpmWGdXSmRUMU0?oc=5",
-      "summary": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines BBC Former Ukrainian officer goes on trial in Germany over gas pipeline blasts Anchorage Daily News A trial over one of the biggest acts of sabotage in decades is getting underway. Here’s a refresher CNN Ukrainian ex-officer stands trial in Germany over Nord Stream bombing Reuters Who blew up the Nord Stream pipelines? The Economist",
-      "date": "2026-10-13 23:42 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "India’s Modi faces unprecedented challenge to power as youth mobilize",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdndWaGFmNjdMTl9xY1dULVkxb004QVFSdEpLYlVheTlVa1E5dUxvaHRsamZEcHJXNTl1UDhYT2FVckg1OVdzeFkzVnVuOHRKT2YwY25YT19Bdk1LVzdGWEw5eDVnU3kzZVdrN0FVX09kUGtyMDV6ZXYxUDY0VWVxVXY3Z3pNd1d4c0Y5eGdiR05ESmcyTEY1aHVZZG5nMXM0VjNIa3NiM0U5SDRsb2dyMA?oc=5",
-      "summary": "India’s Modi faces unprecedented challenge to power as youth mobilize The Washington Post Is This the Beginning of the End of Indian Democracy? The New Yorker Despite lockdowns and thousands detained, India's youth-led protests grow Reuters India’s government fails to crush Gen Z protests The Economist How protests have shaped India: From anti-Hindi agitation to farm laws Al Jazeera",
-      "date": "2026-10-13 23:40 UTC",
-      "category": "World",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Aramco HQ Hit as Houthi Missiles Strike Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
-      "summary": "Aramco HQ Hit as Houthi Missiles Strike Saudi Arabia Bloomberg.com Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit Reuters Houthi Strike Hits Building at Saudi Aramco Headquarters WSJ Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia The New York Times Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot BBC",
-      "date": "2026-10-13 23:32 UTC",
-      "category": "World",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "date": "2026-10-13 23:31 UTC",
-      "category": "World",
-      "source": "BBC News"
     }
   ]
 }
