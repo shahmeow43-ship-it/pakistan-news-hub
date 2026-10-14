@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-14T21:44:47+00:00",
+  "updated": "2026-10-14T22:43:28+00:00",
   "articles": [
+    {
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "date": "2026-10-14 22:31 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Iranian attacks sink two ships in Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
+      "summary": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post Iran war live: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack Al Jazeera Container ship sinks in Strait of Hormuz as Iran steps up attacks CNBC Two container ships sink near strait of Hormuz amid surge in Iranian attacks The Guardian Iran shifting tactics to step up attacks on shipping before US vote, officials say Reuters",
+      "date": "2026-10-14 22:25 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5",
+      "summary": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front CBS News Why advanced U.S. weapons aren’t stopping Houthi attacks in Saudi Arabia NBC News Saudi Arabia Is Running Out of Options The Atlantic Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative ",
+      "date": "2026-10-14 22:03 UTC",
+      "category": "World",
+      "source": "CBS News"
+    },
     {
       "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
@@ -34,17 +58,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5",
-      "summary": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front CBS News Why advanced U.S. weapons aren’t stopping Houthi attacks in Saudi Arabia NBC News Saudi Arabia Is Running Out of Options The Atlantic Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Why billions spent on defense haven’t shielded Saudi Arabia from Houthi attacks CNN",
-      "date": "2026-10-14 20:16 UTC",
-      "category": "World",
-      "source": "CBS News"
-    },
-    {
       "title": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2FVdnBfU19rMGdWb2xBWjBrRlBMUFhETDBRejMyUWYzdDAzN215ZlRlT2lGQmJ5TWlrWVZvdEtKTlI5b0FOajVyWmpyYnR2NlZCT3lEcjFWNmhLMGE2Q2VvMFpqTnBKT3NncmlPVFo0eTE4akRmVmlJZGpmc3NRMXhScmhMa0d0RE1RR183OFVlYXpaLTN2U2R1ZnltM3VaU01jYVhmdWFKUQ?oc=5",
-      "summary": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’ NBC News A New World of Lung Cancer Therapy Awaits Pope Leo The New York Times Pope Leo's postoperative recovery progressing well Vatican News Pope Leo Diagnosed With Lung Cancer After Surgery WSJ Pope Leo walking and following his regular diet as he recovers from surgery: Vatican ABC News - Breaking News, Latest News and Videos",
+      "summary": "Pope Leo slept well after cancer surgery, but recovery could take ‘longer than expected’ NBC News ‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy CNN Philadelphia doctors say early detection crucial as Pope Leo XIV reveals lung cancer diagnosis CBS News Pope Leo's postoperative recovery progressing well Vatican News Pope Leo XIV has lung cancer called adenocarcinoma. Here’s what tha",
       "date": "2026-10-14 20:14 UTC",
       "category": "World",
       "source": "NBC News"
@@ -52,7 +68,7 @@
     {
       "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTkpha2hYakFfbkFlY3F2Znd0QUFIMmZTSkxUZ0xvbndxRTk2THBtNVNPU2I2dzdzRXZkZmtQZUoybnRWaUVaeEY2V2RjQjZ5c3dmU0ZXaG5TVEk?oc=5",
-      "summary": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine BBC Zelenskiy receives full-throated UK support after Trump turns on him Reuters Burnham wants to ‘repair bridges’ between Trump and Zelenskyy Financial Times UK rolls out King Charles to welcome Zelenskyy after Trump rift POLITICO.eu CNBC Daily Open: Zelenskyy heads to UK for talks on fresh support CNBC",
+      "summary": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine BBC Zelenskiy receives full-throated UK support after Trump turns on him Reuters CNBC Daily Open: Zelenskyy heads to UK for talks on fresh support CNBC Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine The Guardian Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – as it happened The ",
       "date": "2026-10-14 20:09 UTC",
       "category": "World",
       "source": "BBC"
@@ -82,6 +98,14 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Pakistani Pilots Banned From Air France Flights To Israel After flydubai Incident",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTU1Ymp4aGlxVUt3TjJTakdmN0VTdUFtRnhsTzQzMXZwUWNXMWQzQ0d3UERDbzA1aEdWMnFyWENPYmREaWV0dEl6bkFkWlU0MTJTOEhRS0RwSEFhQ2lxaUNRekp3dVJRdzZ3dzJFdnZSanlod09oMW5hVnlXd1hGZ20yOWdqRjRuUGJWR3RfTWhDYkZfT1o1QlFPc1JIejlCRGxXMHQyYVBjZFBkanY0ekxiYl9EZV9FdWfSAcIBQVVfeXFMTmo5OG9PUl9yWG83VmxSOWFZYmhuNzRYcFRIeUVfMmpzTWVQaHZyblpJYmpEblJ5dEhEMEhNc3RaVUw1NnN2dEFPTUdHWkN5a0dqYnNSTXd6Q3lQb1ZjTmpIM3JvTzRtaVhZV1c0TExwUXdmQl91RklEQW9PRHd5MlBEUFlqaHFQNmZlTnYzRGFsNXhfYS1FdURwRkVRSng0azdXM3ZBWTBPT2hmdWs3LVRTSGJHRnFKNFlESmRoUk92RFE?oc=5",
+      "summary": "Pakistani Pilots Banned From Air France Flights To Israel After flydubai Incident NDTV",
+      "date": "2026-10-14 19:11 UTC",
+      "category": "Pakistan",
+      "source": "NDTV"
+    },
+    {
       "title": "China, Pakistan begin first-ever joint army training exercise",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnpsWUIzb3F5Z1dlU1dHN3hWOHBmT1UtUTlzRVEtbFdMemI3SVNacENLYzJhcXhpZldtX3JndHc4M0JINWFlck10SnBCamk1bG5UaHowZDhMNnNqTFFJenM4dHNZYU1SMzhldTRYamFrR0VwNnNkalNfanNZZThKOThhbDJQYnIxRzdCZExtTXpkTWtNMHJOZ1llb0ZaQi1CRTJsNUdQejFuZw?oc=5",
       "summary": "China, Pakistan begin first-ever joint army training exercise Anadolu Ajansı",
@@ -96,14 +120,6 @@
       "date": "2026-10-14 18:36 UTC",
       "category": "Pakistan",
       "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Sir Trevor Phillips urges CBS News colleagues to give critics blunt riposte",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWlQU1dCd0RsVmZqWTVtTkhDczF2bF93Q2t0blp3UnFhUml4dlZnZFBxeWZTZDBDVmJsME8tdnJmQ0dybkQwa185SG9NZWNUYTM4M1haTGt0endBYVp1WWcwZldsREVOM0gtVlNNcDFOVjU2aDU3WVcxcXV3Wm5UcW1wQWxRWTRo?oc=5",
-      "summary": "Sir Trevor Phillips urges CBS News colleagues to give critics blunt riposte The Guardian CBS’ Foreign Explosion Status Read the Details From the ‘Unhinged’ Tantrum of Bari Weiss’s Pro-Israel Foreign Chief Zeteo | Substack Bari Weiss’ Foreign Editor Threatens CBS Correspondent in Clash Over Citing Palestinian Gaza Deaths TheWrap Bari Weiss’ Handpicked Editor Clashes With Holly Williams, Threatens Firings as Oct. 7 Cov",
-      "date": "2026-10-14 18:35 UTC",
-      "category": "World",
-      "source": "The Guardian"
     },
     {
       "title": "Rana Sanaullah Warns Terrorism Threat Could Endanger Pakistan, Defends Emergency in KP",
@@ -122,14 +138,6 @@
       "source": "Dawn"
     },
     {
-      "title": "Families of Iran's terror victims call on Pakistan to act against militants",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHV2bFgtNGl1ODdYUk1yZmd1UXZ3WFYybFFUR1ZJblRKak43cnVnMHRmVkgtcGhxR2xucm9vcHR0RlVoZUZ1NlR1LWRUZ2lyWFVvakZVVURrZDU2RzNCVDlpTXZyc2R5QWRMTUY2TDlid2dmelVCTlRaR3ZybVdyWVc2Umd2UVdPTnN2d2lNT2NDRUtEZWQwQlFTOV8zSWNVNGllUEdKbmk?oc=5",
-      "summary": "Families of Iran's terror victims call on Pakistan to act against militants Tehran Times",
-      "date": "2026-10-14 18:26 UTC",
-      "category": "Pakistan",
-      "source": "Tehran Times"
-    },
-    {
       "title": "MCCI, PSQCA call for strict quality standards to boost Pakistan’s exports",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlhyTERUWnlxRi1WMFMwYXZ2eUo5cEtpY1JZQzVPaFRKSHhyZTdQMU1YazhuWmprSVVxWHJGaWN0MFhRX3JFaXNZckxleDhLOW1kaUtORkVnTUJHeUJQM2dXZzlkQzJWc0NiRnpScFFMM0xPY2NxUnBmTGw2NTFtTEIyWjR1ZkJ0blhzT2daR0tZX2lQNjJvQXNfX2FDblVHaU1OeF9WTQ?oc=5",
       "summary": "MCCI, PSQCA call for strict quality standards to boost Pakistan’s exports | Associated Press Of Pakistan",
@@ -138,9 +146,9 @@
       "source": "| Associated Press Of Pakistan"
     },
     {
-      "title": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say",
+      "title": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-      "summary": "Iran-backed Houthis struck Saudi oil giant Aramco’s executive offices, officials say AP News Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit Reuters Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say PBS Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia The New York Times Houthi Strike Hits Building at Saudi Aramco Headquarte",
+      "summary": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say AP News Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot BBC Houthis attack Saudi Aramco headquarters Financial Times Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ The Guardian Saudi Energy Giant Struck as War Spikes Between Houthis and Saud",
       "date": "2026-10-14 18:19 UTC",
       "category": "World",
       "source": "AP News"
@@ -202,6 +210,14 @@
       "source": "BBC News"
     },
     {
+      "title": "‘I don't want to freak people out’",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXo3M0s0LUQ1SjZLaDNFQm9hN3dGcjNab0pHUXphU09fV1lSSDNjQklMdi1QRXBOcmxjTnB5bV9wdHIyOGtKdl9TZzJhdVZQNFpiS1RlN1p0bHRIc3FLUXNUYWZWZlBqMnU2Nnh4Rko2UHN1TDRqRkdKZjVNWkNrZGNON1RZUGMxdDB5am5QUVZWdExJMXRoc2JVUlJySkJrQ0M0MTBCdXNhdw?oc=5",
+      "summary": "‘I don't want to freak people out’ Politico David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM The Guardian AI Select Committee: An exercise in scrutiny, or a corporate sales pitch? https://thepoint.com.au/ I’ve worked in AI for years. The tech giants are taking us for a ride The Australian Greens Urge Albanese Government to Protect Creatives from AI Mirage News",
+      "date": "2026-10-14 18:00 UTC",
+      "category": "World",
+      "source": "Politico"
+    },
+    {
       "title": "At UN, Pakistan urges unified diplomatic action to resolve conflict in eastern D.R.Congo",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUllSHR1Uzd2RTc1V2NWSm9kM1lHdTMtUEFhckEycUx3b2JiMmxnUGcweGI2U0NLYTlyWGIyVWo2RFl1dEc0dFdMZEFjeGlnTnk5VjdqckctdThqUFJlVlo0RlVNckpIYm9VSEI2OEpGSGkxS0lhVU1yMGlZUnNNU1p3bFpYM0dHZk1lOF9HYkJSaWQ0UC1fR3NZUDZ2SDRHYzM0Nmlrd1lmLVN3dGFWOVBlc2FLM2gwVFFNMQ?oc=5",
       "summary": "At UN, Pakistan urges unified diplomatic action to resolve conflict in eastern D.R.Congo | Associated Press Of Pakistan",
@@ -228,7 +244,7 @@
     {
       "title": "World's oldest shipwreck found off Turkey, archaeologists say: \"Time capsule at the bottom of the sea\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0VJMWktUHNGdUQxWG1yTDBLRjluTUdpUVNvZ0MtQWp5RUFDYklZZEdic1FqSHdiWEhocWNrTkFPdldhSjRscTduRWpWZjFsSjd1Tlg5Wl9idnA0M0N2V1JYM0pPQ01mcFdmYzgwQjU4Q1lEcFhFdXR0MGJubkpjQk1GTFItZ3N6?oc=5",
-      "summary": "World's oldest shipwreck found off Turkey, archaeologists say: \"Time capsule at the bottom of the sea\" CBS News World’s oldest shipwreck found off coast of Turkiye Al Jazeera Shipwreck believed to be the world's oldest discovered off the coast of Turkey ABC News - Breaking News, Latest News and Videos World's oldest shipwreck found off coast of Turkey Yahoo World’s oldest shipwreck found off coast of Turkey CNN",
+      "summary": "World's oldest shipwreck found off Turkey, archaeologists say: \"Time capsule at the bottom of the sea\" CBS News World’s oldest shipwreck found off coast of Turkey CNN Shipwreck believed to be the world's oldest discovered off the coast of Turkey ABC News - Breaking News, Latest News and Videos World’s oldest shipwreck found off coast of Turkiye Al Jazeera Uncovered, world’s oldest shipwreck that may have been sailing",
       "date": "2026-10-14 17:44 UTC",
       "category": "World",
       "source": "CBS News"
@@ -258,14 +274,6 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWVpMUFEeDIzNVZsN1hTVlFCbTJXWm1qRHh6RUgyczJVUF9Ha3FLblZOVzVaS2QtSDJDMDRIaUFrRzRkZmlOaTR4OFVVcml1Z21NWXhDUjl6SmZtWkE0SFVHRmszbnYwRU5oRFVCTHVNQm15dkNSRWo4dGl0Y3lnSmZBZWx6Z3hZRVVBMWJ2eWxLeENhd3NZNmppLVRxNlF2Qmlv?oc=5",
-      "summary": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News Saudi Airlines Rush to Save Scores of Planes From a War Zone WSJ ‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport The New York Times Saudi warning system stayed silent before deadly airport attacks Reuters Iran's Houthi allies' deadly attacks on Saudi Arabia create \"a difficult dilemma for Presi",
-      "date": "2026-10-14 17:37 UTC",
-      "category": "World",
-      "source": "Fox News"
-    },
-    {
       "title": "Pakistan, Oman exchange six agreements, MoUs to boost bilateral cooperation",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTc2QlRhQnlUTHlsMjRJdzdtdzg5VlFGNUFWZFlsTUZlMDllOHluck5rSzZUbmtmVVNwa19DdnBoMmhfZXpXMkx3QTlJcnpXRC1IVF9TSEgxRURtZTBnTjdLTHloZXNqOEFaWEZEaTNCS3JYRl9Uai1Qd0dKUXFiTEJZYjR3dE5jV2hleFZrXzhlZnhLVHRfOEhXbzI0MDRLTWRhSVNSdS1qdw?oc=5",
       "summary": "Pakistan, Oman exchange six agreements, MoUs to boost bilateral cooperation | Associated Press Of Pakistan",
@@ -280,14 +288,6 @@
       "date": "2026-10-14 17:23 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Judge blocks US sanctions on rights groups helping ICC Gaza war crimes inquiry",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWdWTUl3ZDc0X0YtZnRnMW1Kc29GeTd0eVNOXzFnYjQzODgzbXdISk1wZjl3U0JwVjRCcURxN3p0M21zTDA5TjB4Q01CaE5jRkQ3ZWJ4Q0NWT0ZDWlA1NndBU0dxeGpNSy15dWhmTDZYX3ZmRUFMR25xNkI2SllTTDJzMmpxMWpfVWpZN0I3TWFlVGM?oc=5",
-      "summary": "Judge blocks US sanctions on rights groups helping ICC Gaza war crimes inquiry The Guardian Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C. The New York Times US sanctions threaten ICC's survival, MEPs warn Brussels Euronews.com EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize Reuters Nobel laureate Navi Pillay slams Trump, predicts Netanyahu's arrest ",
-      "date": "2026-10-14 17:14 UTC",
-      "category": "World",
-      "source": "The Guardian"
     },
     {
       "title": "National Grid Company of Pakistan launches new brand identity “National Grid Pakistan”",
@@ -308,10 +308,18 @@
     {
       "title": "Sally Rooney says her books will be removed from sale in UK over Palestine Action support",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VU2VaV0U0LVFQcjJMRnpzaURCTW1nLTZsNW5jeXlEb0l1UGtKSV9BQXo4X0ozV2pOV1BXNlp1T2ltR2N6SnczUEhhQ2RoUzBWUDJpdXJIX3JiZEU?oc=5",
-      "summary": "Sally Rooney says her books will be removed from sale in UK over Palestine Action support BBC Sally Rooney’s Books Pulled in U.K. Over Her Support of Pro-Palestinian Group The New York Times Sally Rooney Not Selling Books In UK Amid Palestine Action Support Deadline Sally Rooney’s books no longer sold in UK over support for banned pro-Palestinian group CNN Sally Rooney’s publisher withdraws her books from U.K. sale o",
+      "summary": "Sally Rooney says her books will be removed from sale in UK over Palestine Action support BBC Sally Rooney says her novels will no longer be sold in Britain The Seattle Times Sally Rooney’s Books Pulled in U.K. Over Her Support of Pro-Palestinian Group The New York Times Sally Rooney says she can no longer sell books in UK due to Palestine Action support The Guardian Faber to no longer distribute Sally Rooney in UK d",
       "date": "2026-10-14 16:56 UTC",
       "category": "World",
       "source": "BBC"
+    },
+    {
+      "title": "Royal pictured passed out in London street with 3-year-old after cocaine binge",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaE1ldkpkNUNiMHZoV1YwaTF1Nl9oMEhwM05RSW85Qy1SX2d3UnMyTEkwdTJDUGRDS0Q4bnhaOUxZYnZxTExxa2hLQ3RkZXZ0b1JBNV9ndmRva09XV1dZaTEyNk41V2NBWUlGTWhvLVhkdXd5SE9fUU1Geno3MXl5MUUyNkhEYnpuc05HdWxzNXRLYi1rTTVsejdPUkJxemNtSnQyX0hzM2w1TnVhc3VDaQ?oc=5",
+      "summary": "Royal pictured passed out in London street with 3-year-old after cocaine binge New York Post See more headlines & perspectives on Google News",
+      "date": "2026-10-14 16:55 UTC",
+      "category": "World",
+      "source": "New York Post"
     },
     {
       "title": "Pakistan Hockey League soft-launched to revive national sport",
@@ -346,12 +354,12 @@
       "source": "The Nation (Pakistan )"
     },
     {
-      "title": "Fire erupts at Albania’s Education Ministry as protests enter third day",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDVTODloalNSd1pjNlI3ODZjM2xBbDl6SFA3RTNNdlNoSDFkTnlMUHlVbHJQQXRuSXRyalFCdllKMGViM09WMEJhU1pRQjA5SG90SDI4ZlJkU1hDMXhRZ293bVUwQUFCOENZZFlJeVh3bkJrb3BiZTZyV05GakFzT1pmNmNyaVByRTlRaUdET012a3I4Z2EtaUN2eDBUU3lvYW5uNG8zNkc4UEprX0otRUhR0gG3AUFVX3lxTFByNFJYR2VyZk5CYUpJc1l5cms1TjhocU1zRDFlOWVodmtxUHl1b0RSZGVWcElvY1VwUU8tRHVaSUFhUGpmRGtIMXRYWVhWcDR1SE5wR1B1MHkyM1JPS0xDU2JmMGRBR2VVOHpRLXZPZE5EaVMxV0phSGNfU21Rd2hqV2RUeEJVbWNkeXoxQUJ3bDNrUG42TWNidTduazdGeW16OGRDOUZUTzhtMHZGTVFDTUxvQ3NHOA?oc=5",
-      "summary": "Fire erupts at Albania’s Education Ministry as protests enter third day Al Jazeera Banks, buildings burn as Albania's capital Tirana erupts into student violence Reuters Albania protests: Student protesters attack government ministries in Tirana BBC Student protests in Albania turn violent as demonstrators clash with police The Guardian Riots erupt in Albania’s capital as students join anti-government movement The Hi",
-      "date": "2026-10-14 16:38 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
+      "title": "Russia, Pakistan seek closer security ties, agree to finalise extradition treaty and fight cybercrime",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMmdfVkltSFM5ODFVR0NZdndDSnR1UWdUWktyT3BIT3Nxb3hNRkp2bWY2MkFpNWc1VXp4YmlUWFJGaXhrejRWcFlOWkdtLXpHSnJGazlNT0hUMVZNOUI1em95aHpSQzJQV2lFbTRNVHVPZy1EeTFEU2xDUEJsbDVyQWNhUFEtTFhaSS1YU3hzUElfVDc5Y19qSWFKdkljNEIyWS10aUpySmF1MTFtdW1MajJEam1JU3psenNYSGlmU1hoNFdmSkhjR2E2dEd4VUlsOFZJR1RPZ3BSejNkU1HSAeMBQVVfeXFMTm5ZbjlUZVVUcG9xVDRwM0xXZUZYSzVnYWdBZEVGWVhraFJCdlNTYW9FZzlqMDRpYTB5X1ZLbWFiY256Vk5tazNFVGVvUVA5OXdSZ2p4V0tiX0ZIOWdWQ1VseWp5eUhxQkNDSzI3b1Zfd3pKTVRpLVdJb2JQNElCbmFKWjNMdy15NGhiRVpTLUVuak00Y3NtSWtnckVYWlZ4d2l5TzNFV3RYZEUzRHNKV2dmMmJfNzVmT19EZTV5WDFnbS1Kc2dRMUdQdXRzZU5TbXBTMTVtXzdMb2RSR2VzZUtwd1U?oc=5",
+      "summary": "Russia, Pakistan seek closer security ties, agree to finalise extradition treaty and fight cybercrime Firstpost",
+      "date": "2026-10-14 16:36 UTC",
+      "category": "Pakistan",
+      "source": "Firstpost"
     },
     {
       "title": "PM Shehbaz calls for expanded trade, energy ties with Russia",
@@ -380,10 +388,26 @@
     {
       "title": "Palantir drops City Hall legal fight over Met deal",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Qms5V0Y0M3laR3Ytb2NOUURwb0k3SWdzX2d2MjlVWFRSNElra3hFdGF2TkJ5OVZFd3IyRFgtSmZxcWU2NE5TOUpyQTI4cl91QWJQSkY5WFJ5OUU?oc=5",
-      "summary": "Palantir drops City Hall legal fight over Met deal BBC See more headlines & perspectives on Google News",
+      "summary": "Palantir drops City Hall legal fight over Met deal BBC Palantir and Sadiq Khan drop legal battle over Met contract The Guardian Palantir and London mayor's office settle lawsuit over UK police contract Reuters Palantir Settles Suit With London Mayor Over Scrapped Policing Contract Bloomberg.com Khan backs down in legal row over Palantir’s ‘values’ Yahoo",
       "date": "2026-10-14 16:25 UTC",
       "category": "World",
       "source": "BBC"
+    },
+    {
+      "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+      "summary": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C. The New York Times Judge blocks US sanctions on rights groups helping ICC Gaza war crimes inquiry The Guardian US sanctions threaten ICC's survival, MEPs warn Brussels Euronews.com EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize Reuters Nobel laureate Navi Pillay slams Trump, predicts Netanyahu's arrest ",
+      "date": "2026-10-14 16:21 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Influencer Gracie Bon Addresses Backlash for Posing in Front of Panama Earthquake Rubble",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0lXaFRQbUpVQjhjY0lqbFQySVFBN29pTjB1WDM4Q3h2Rkx3Wk8tZEQtdUVPaDJOaHlCSGo3RGxPM3JNSHdqWVFDSzZoYnRWaGN4WklSVW14ZHRsOTE1NkRKUW5lYms3Z0wteVpqMDhTT0lvbTJSNGV1X3RRYzBicmNRblpOUmhLRzVHQkRqS1d2Zko5S0lKemtaOWtmTERkRWcycGRVWUtsbWY3Wnp3?oc=5",
+      "summary": "Influencer Gracie Bon Addresses Backlash for Posing in Front of Panama Earthquake Rubble Yahoo Why these earthquake pics are dividing News.com.au ‘Outrage’: Influencer responds after facing major backlash over earthquake photo Nine.com.au “Begging for likes off others’ misery?” Influencer poses at earthquake site, then offers an unexpected explanation 스포츠조선 Influencer Defends Photos in Earthquake Ruins After Backlash",
+      "date": "2026-10-14 15:59 UTC",
+      "category": "World",
+      "source": "Yahoo"
     },
     {
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
@@ -402,28 +426,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWFKMzFFcmxqYVdxcTVUYmZBZTZHejZpWTJmZ3o3Z3lFbnA0NTV4MkFlb1ZEMmRGQmw3MjJkc2RnTFgtX19YRkZOUDR4WXhNeWg5Zy1qV3FpeVpTVUo5QVBOVmJxcXVhc0NqandfT2ltQ3BseThmbG5oQTJhYUJ4MV9nM240c3I3ZG5wai1fY3ZIYWdpbGfSAZsBQVVfeXFMUHl0VWNMbEpIOXhweHBSVTdYdHNjd1V5a2NfNkJSdFk5UUV0R2lDSUtZV1BpMEM3aWxZOXlWRTBRRTNtVkxRcDZtYVFDdnA5X3RPLW4zTm42M0hzVFJYNGtoMWJHcjVGVlJ1a2Jja1F5SnFDUHVTYVFkYXRYTFFnbDd1REZsc0haTlNibWhxdTU0aHZCcjVYQ0x1Vm8?oc=5",
-      "summary": "Container ship sinks in Strait of Hormuz as Iran steps up attacks CNBC Iran war live: Cargo vessels sunk in Hormuz as Iran attacks continue Al Jazeera Two container ships sink near strait of Hormuz amid surge in Iranian attacks The Guardian Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers Yahoo Finance Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase WSJ",
-      "date": "2026-10-14 15:47 UTC",
-      "category": "World",
-      "source": "CNBC"
-    },
-    {
       "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
       "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at an amusement park.",
       "date": "2026-10-14 15:46 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Royal Passed Out on Street With Toddler After Cocaine Binge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlk3c2w3OEJQQkV0Z2RILXhkM0E0VXFTMGJFZi1aYlk2bmx1QTBCSV9sTVRWUDljT2xjV3FfUktUcElsTmkxU25RdDJEcWt5M0dCT1cxVFVsYVdYcU5sbGNMdmZQVk1TSXlKS09QRjRLbnYwX21GSFZhMXp4ZkpxX3dQbzh3SmpHaDlTMjJwREpWN3M?oc=5",
-      "summary": "Royal Passed Out on Street With Toddler After Cocaine Binge The Daily Beast See more headlines & perspectives on Google News",
-      "date": "2026-10-14 15:45 UTC",
-      "category": "World",
-      "source": "The Daily Beast"
     },
     {
       "title": "Aurangzeb says Pakistan’s fiscal deficit falls to 22-year low",
@@ -442,12 +450,28 @@
       "source": "Dawn"
     },
     {
+      "title": "Will India’s Protests Change Anything? | Pakistan's Risky Saudi Deal Explained",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObFVfaG9TODZzSFpxQWQwQWFCSVpWaFFCTEZyRzRsUVljaUVpTXhkR1lGRVFPRTE3Q0FYUW43djhVa1dsSmhVUWdnRXF0dzd6R05jYXk0bXFXbXE4c2RjeklNR2UwYS1zUF9zVUdHSjU2dkJ4Rl9pTkN4enZIeG9OUWFhVkstLUcxZGtTOTVhb09JRG9yUzlydEZ4QUxjVHNLTkJ1OFlBMGVjdlE4eFBLNHZDOWhrMlNoV1E?oc=5",
+      "summary": "Will India’s Protests Change Anything? | Pakistan's Risky Saudi Deal Explained The Friday Times",
+      "date": "2026-10-14 15:35 UTC",
+      "category": "Pakistan",
+      "source": "The Friday Times"
+    },
+    {
       "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
       "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
       "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
       "date": "2026-10-14 15:34 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Wild scenes emerge from Bali as island grapples with major fueling crisis",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzZFMTRDQU1WMkIxczVRZktMMHdFLU9XaFdkb1ljR3luUm1Nc2g2QWxIdkNlY0dWV3RRdENBZUk5eXNGdlVLaWpKdXJ6a1ZUN0YwbEJKZVdaN3F0VmpfcGJkbWtFdk81bVcxQ2Y5VWI1Mmc5RUxLU1ItX1dxdDRfb2Q2ZHVqRG9oc19UOG5TOUZUQlM3Z3diMTM3bGVIZVJBeFNOVW1XTVNneVJCcE9kUFlieDFFQQ?oc=5",
+      "summary": "Wild scenes emerge from Bali as island grapples with major fueling crisis New York Post Indonesia’s Bali hit by fuel crisis as huge queues form at petrol stations South China Morning Post Fuel crisis hits Indonesia’s Bali, triggers long lines in gas stations for days The Hill Fuel shortage triggers queues on resort island Bali CNA Indonesia Fuel Shortage The Batesville Daily Guard",
+      "date": "2026-10-14 15:34 UTC",
+      "category": "World",
+      "source": "New York Post"
     },
     {
       "title": "India-Pakistan Trade: Can Economic Ties Bring Peace? | Dr. Syed Turab Hussain",
@@ -482,8 +506,16 @@
       "source": "Arab News"
     },
     {
+      "title": "Why Trump is likely to join Saudi war against Houthis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YcmhsNFZOa3ZkQ3cza2IzNFV2WlFQckNVX2ZyVEJub1Y2ZW9GM3AxOHBDa19RTGZjNm91XzR2RXVuZEkweTdiN2R0ZGZFWUU4eWROc3dsYWdtTS1RWHV0SU5zcjVNU29QU29sTFNR?oc=5",
+      "summary": "Why Trump is likely to join Saudi war against Houthis Responsible Statecraft Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News Saudi Airlines Rush to Save Scores of Planes From a War Zone WSJ ‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport The New York Times Saudi warning system stayed silent before deadly airport attacks Reuters",
+      "date": "2026-10-14 15:19 UTC",
+      "category": "World",
+      "source": "Responsible Statecraft"
+    },
+    {
       "title": "Russia, Pakistan discuss ways to strengthen security cooperation",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeEx1UHd2YkRPbVg3bVBGUE9RaW1nQlg2R0M2dnZUQTRDRDhpTnByVE9lUmVFZzJGT3hFZDZiZ0ExWndtV003X052bVpSWVhqTUQwbWppbi14X0QzQ1c5aVJyeGJGVS1qRVpObFFZVWc4ZXBVVmJDUTJPTnlnYjhFaFNWZlJiQy1nUmhBSG43aHAyWkZlMG9NTjNaT1dna0t5RmtBaEdhMjR3RVBnRGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEtoc043VTdmczl2TnB5cV9FQzNNTy0tRE5HbFVNQWZXSmtjWmdjUm03YzVXT2ZsSU1yb1hWc2RwREVieWxvUm5Ua3g3Z3kteUZTUDA3dlVZSGdvZjBobnB3eFVBMl8yT3E0ak9SdlloT3RNWG56U0JMdVZSWXJYaFUydFg3aVRDbzVXb29MYm1pRHJDRjlORWlDaXlGbXhIdHEyNFZjZFhWdw?oc=5",
       "summary": "Russia, Pakistan discuss ways to strengthen security cooperation Anadolu Ajansı",
       "date": "2026-10-14 15:17 UTC",
       "category": "Pakistan",
@@ -540,7 +572,7 @@
     {
       "title": "Trump posts AI video of himself taming tiger after fatal UK zoo mauling",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGdJVGZ1ZTc5bmxhMUV5MDl5UXZnSkNDUDFGZW9hV1YxYVhMc2pVM0hMQldKUDVzcmxWaTMxeGU1OFNYN3RCSFJERS1XTWZXWFAyYm9QazllSk5uZUNraVV1MFBfekhrT2E3aXE0Nzd5TmxaU0lyZnZLSk51dm91OVJpM1ROYVdkbWRKd29ncVFPWGFvNjI0STcyTzZmMmpmRVNqbEphNnVtOTU0ODRXYlpnNEQ?oc=5",
-      "summary": "Trump posts AI video of himself taming tiger after fatal UK zoo mauling USA Today Trump Shares Bizarre AI Tiger Video In Late-Night Spree After Posting Fatal Attack Footage Forbes Former child actor fatally mauled by tiger at zoo battled ‘significant mental illness,’ family says Yahoo Man killed in tiger attack identified as William Chapman BBC Trump posts video of man being attacked by tiger The Washington Post",
+      "summary": "Trump posts AI video of himself taming tiger after fatal UK zoo mauling USA Today Man killed in tiger attack identified as William Chapman BBC Trump’s bizarre AI video mocks tiger mauling victim AFR Trump Posts Videos Of Violent Animal Attacks In Warning To Never 'Mess With Nature' Forbes Wildlife park confirms tiger will not be euthanised after man mauled to death | Yorkshire The Guardian",
       "date": "2026-10-14 14:44 UTC",
       "category": "World",
       "source": "USA Today"
@@ -602,11 +634,11 @@
       "source": "Anadolu Ajansı"
     },
     {
-      "title": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
-      "summary": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions Reuters Yandex outage: Data shows that instead of going dark, malicious bots went on the move Cloudflare Blog Is Zelensky right to say data centre strikes have taken down Russian bots? BBC Ukraine showed Trump how easily an enemy could cripple an AI powerhouse Fox News Kremlin says the government is discussing Yandex's problems after Ukrainian st",
-      "date": "2026-10-14 14:03 UTC",
-      "category": "World",
+      "title": "Jailed Imran Khan's woes compound after Pakistan suspends his provincial government",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXRxTlA3czNKMm1DMktldEk2SHozcGtuTFhoWlFCLXRFLTFUUzA0OEtZMW9QaVlWVHZNcmFTaEpTNnFNaU93T25PUHBWVFV0bGVXZzNBUE51YVo0d0s5LUJQMFhBUzNrVTJTTktUZGRSYjc1UktEOXl5R2stNW1JVWVoeXh4OVFsdGdFeDFwaDQ4WFJuSVMxV01rNzloeFNxRk85WkdjRlJhZ2loemZ0UEtwdjVQT0hTUlJuZjFJTlpBdnpH?oc=5",
+      "summary": "Jailed Imran Khan's woes compound after Pakistan suspends his provincial government Reuters",
+      "date": "2026-10-14 13:51 UTC",
+      "category": "Pakistan",
       "source": "Reuters"
     },
     {
@@ -614,14 +646,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
       "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "date": "2026-10-14 13:41 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "date": "2026-10-14 13:35 UTC",
       "category": "World",
       "source": "BBC News"
     },
@@ -652,7 +676,7 @@
     {
       "title": "Turkey Raids Pro-Opposition TV Station",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkxKZTA2UzBwb2hjWWtMRkRyZUw4bjJybmNPaFl4Mm5aSmxtOTJTbzFUNGgza0dYNDJoYUF1TzJjTXJYWTlzRlIzaDBrZ1R2Y0tFa2l0SWhLakI4UkhjTlFqTDR0MWJZajhkVDlON0NINmtXU09sbmJWMk5XdlhWRVlYQTY0ZjZ2TWZNVjBvX2dTR2tG?oc=5",
-      "summary": "Turkey Raids Pro-Opposition TV Station The New York Times Turkish authorities raid TV channel as press freedom groups warn of a crackdown AP News Turkish police raid opposition TV station, halting live broadcasts BBC Turkey: Government raids, takes over top news channel DW.com Turkish authorities take over country’s most-watched news channel Financial Times",
+      "summary": "Turkey Raids Pro-Opposition TV Station The New York Times Turkish authorities raid TV channel as press freedom groups warn of a crackdown AP News Turkey: Government raids, takes over top news channel DW.com Turkish police raid opposition TV station, halting live broadcasts BBC Turkish authorities take over country’s most-watched news channel Financial Times",
       "date": "2026-10-14 13:18 UTC",
       "category": "World",
       "source": "The New York Times"
@@ -696,30 +720,6 @@
       "date": "2026-10-14 12:46 UTC",
       "category": "Pakistan",
       "source": "Afghanistan International"
-    },
-    {
-      "title": "Pakistan, Russia agree to sign MoU to combat organised crime, finalise prisoner transfer agreement",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1Y3cnNwNnNvS2xFNzBVYUV2ZGpUckhyb01QUzEyeEFCZ25zaDVMNElYcWQzZ0ZzbW5tSzRqd3BuZldWMmJkUnhvLWdYdkE3YmlucHdfa2VickdNLWtJb21lZjBQQTFiMnRxOTBJWGRWYXBvaGFvb2ZaTFM2aFpZR0ZNcDRKNzc3aVVva1diR19CMUF5WVZZdlFWUFltV09vdUFqOXkwTDNzc2RzZ3RkN2tlQVJzd09hd1g1aEJ3elBNV1F6ODNWdmRWYy1SUQ?oc=5",
-      "summary": "Pakistan, Russia agree to sign MoU to combat organised crime, finalise prisoner transfer agreement The Express Tribune",
-      "date": "2026-10-14 12:37 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
-      "title": "What we know about the Pope's lung cancer diagnosis",
-      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
-      "date": "2026-10-14 12:37 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Maaz Sadaqat's fearless approach offers Pakistan a solution at No. 3",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmFZZU9GdU5wUkhnMTV0QTFQUVZhSExZb3lhWmdVWkR3RDNYcElBcmRqdEpxMlF4bXF3MWZsVGdtbTRma2hnYkdrQXNHRUE2TmgyUGNfOE9lZG5JNWo0S3hqR25wcHNCODJBa0NXZ3d0eEFPWG0wTkNfUGYxcEVWUzh2RDN1SlNyaHhRTlh4RnJ0TlN2ZFJIQXByUFBUdUJrQk5nNWRWZUhxZ9IBuwFBVV95cUxOQVEzc3pudlhDc3hJMDVvLVdjWFYzeHpqTzJGQ2pDYWx2VVhQYTFSOUw1Y0QxaDJZYmNPX29XOWplbjdRWF9jRURJbTQwRHpJSFFLRURxakFtdlpEaVJ3X1o2UWllQ0ZZMW5TSXJWQzl6VXczTXA2M1pGelBCb1VWT1lta2pqalFreFM1V0lESTdFTWRXLUdvUEJlaGtfYjZWN3BEMnc5OVdFNkVqOS1OdU5Bcm5iQkNFVG9r?oc=5",
-      "summary": "Maaz Sadaqat's fearless approach offers Pakistan a solution at No. 3 Cricinfo",
-      "date": "2026-10-14 12:34 UTC",
-      "category": "Pakistan",
-      "source": "Cricinfo"
     }
   ]
 }
