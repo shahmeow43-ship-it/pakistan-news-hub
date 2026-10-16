@@ -1,13 +1,93 @@
 {
-  "updated": "2026-10-16T07:48:51+00:00",
+  "updated": "2026-10-16T08:48:14+00:00",
   "articles": [
+    {
+      "title": "Pakistan: Parliament Endorses Emergency In Khyber Pakhtunkhawa",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3BMZjI5a1Q1UWRXV21uSThuOXRQYnFCcW03VHRqUFhRVGQ1VEJobHF6Y1BYeUtFa3lQa1dWZDU1T1V4U0ppb2tKSklTQXZIRW42SktuekI0QzhKWmtEaDQ3T0V4MmdVc01JTkxVemk1UUZZdmxVYnpPc3FDQm5BTzlPZnA4TUNhaFZRblRzVVl2dU5jREdYS3VnbE9INnQy?oc=5",
+      "summary": "Pakistan: Parliament Endorses Emergency In Khyber Pakhtunkhawa StratNews Global",
+      "date": "2026-10-16 08:34 UTC",
+      "category": "Pakistan",
+      "source": "StratNews Global"
+    },
+    {
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "date": "2026-10-16 08:27 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Families of children killed in Pakistan school roof collapse demand justice",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFFBdjBiSHEyanc1cTY0ZjlZM1Z1bEw4TzlqdGV5Z0JFems5VTkzR1Y5cmRhbS1hNk1HTXRqNVRyb1ZOWEM5X2twVllMeF8wMVhtdnhQTFpTc3o1UXMtZ1pKLXMtdWY0UDhIalYyazBteHlyWldCc1BvRmtRYjhPcFh1TG9YZUZjRjBhRHlad2tkQk54dmdRVEdsSmNaQWloX3Q0MFo2bC1uNV9KTHZhVy1KMjQ?oc=5",
+      "summary": "Families of children killed in Pakistan school roof collapse demand justice Arab News",
+      "date": "2026-10-16 08:18 UTC",
+      "category": "Pakistan",
+      "source": "Arab News"
+    },
+    {
+      "title": "Pakistan to chair IMF, World Bank boards in 2027 for first time since 1953",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdW5qMDZUeHJXQXh1bDNaWmZQZVJhOVhUS25MaVhzNGQ3TVNyQ0hXT1pjTEY5eS1WLTBKRG8ydnV3cXo1YVZ4WWd1Z1EtZXpJRWVFN3RiTS1wZzFRMzFlZXZ1blVtdmc1RVMwQjRRUjVQZ0tsVGtrWlcxSkZmcWZ2WkhKN1NSeHdGRUQxSTJVdHViQWVQRVFSTEtTTzVmVTNGMG1zNXo3b0s5UFQ1dUs4?oc=5",
+      "summary": "Pakistan to chair IMF, World Bank boards in 2027 for first time since 1953 The Express Tribune",
+      "date": "2026-10-16 08:15 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Pakistan-China Digital Corridor: Tech and CPEC 2.0",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85TV9CNDFMR3dYS3g4SUc2djVXbkUwWVhGTjMzbGU0bmEwWG1jUWF3Mm9lbjNrQnVsVTBRaXF4d3ltX210NzZSdEhIZm43S1Y2UHNUYWZ4VzZzZ3daaGxWSFZhS2pNdFY2WXBN?oc=5",
+      "summary": "Pakistan-China Digital Corridor: Tech and CPEC 2.0 The Daily CPEC",
+      "date": "2026-10-16 08:12 UTC",
+      "category": "Pakistan",
+      "source": "The Daily CPEC"
+    },
+    {
+      "title": "Pakistan AI Hackathon Showcases Innovations From 430 Teams",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWx3Wk9maEcwck9oR3ZEdmJLNTZZcFEzaVdhQ2EwbGtWeFl2ck5od3QyS1lMSlpHODh1ZDZPc0xYd0pYdF9WT1BPR1pYRTN0dHhrajZaSFRRNUdIQW5HVHVVdnhMSWRFQXFWRkZXcnBXTnRrbkNSTVZENTdkbW5ob3F4Wl9QSFktMTRqSllRVQ?oc=5",
+      "summary": "Pakistan AI Hackathon Showcases Innovations From 430 Teams Digital Pakistan",
+      "date": "2026-10-16 08:00 UTC",
+      "category": "Pakistan",
+      "source": "Digital Pakistan"
+    },
+    {
+      "title": "'Support Pakistan If Pak-US War Breaks Out': Rajasthan BJP Chief Madan Rathore Clarifies He Meant 'Match'",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUMtOTVMeW40MkgtSE9DUjNmYi1QMVdjeTJKRG5HelBPWk0tZWpWS2EyQmh6b1h4U1RRaWhLTWV5cV96d0w0TV9ZVUN3bkJESk9Sel9JbDdET1dOd3otMlB1RWVJeFVJWElNTU5mbDRfdmhSbFQxSGJxTEFEZHlOVm5ZN00wUGlIdEhiM2s4WGQ2QVVYaFFoZVEyQ1hHSV9aQ3B0RU9SSS1LMV94cHlTN09LY09xeGN1VnpCVXZ5SnpPc2xLaVdXQUln0gHPAUFVX3lxTFBLbDFVakpFX2VoU3lzRmdqNEptcEd4TnNOeHFxR2xGU3JVRnQyVWFtck1JNWFMamRQTWFtaDVudXlhdXF1NFVJbWtIVElVZE5jUkFYQ1VVd3hyWnhTT21ZUVVWT1VCdmVhOV9wMHlBRFdMeEhuTUM2MDBIZkk4QVJJRVlDVWpudVduV3BYWGlqLVhVak9sQnhqQTFJeXloS2VmM2E0Q3ZlVC1LVnNWWXhqLXNYSjBUSXY0eThaY0lVNDVwa0M4OWhoRFhtTkZRcw?oc=5",
+      "summary": "'Support Pakistan If Pak-US War Breaks Out': Rajasthan BJP Chief Madan Rathore Clarifies He Meant 'Match' ETV Bharat",
+      "date": "2026-10-16 07:59 UTC",
+      "category": "Pakistan",
+      "source": "ETV Bharat"
+    },
     {
       "title": "At TechCrunch Disrupt 2026, envoy urges stronger Pakistan-US ties in IT, innovation",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSExRQWc2TmI0VkVEVEtzaEV2Y3FoN3NYOUlfcndjVTNKQUh6ZlZpd3BieUVOb1g0VE9rMDh3bXJOMGVFaVMtV3BvUXA4R3l6TS13Rkc5VnJEVTVQZS1vLTduWFhHbC1QQWI1YWVmVHZENG9CdzFDNTdhUlQ5Y29oSFpiNzBrRDcwZEFKc0JXYWRmWGc5WlI3RTFnNVV4c2VHeVgwTXR4blQ4VG9hZXRQWHFQNmE?oc=5",
       "summary": "At TechCrunch Disrupt 2026, envoy urges stronger Pakistan-US ties in IT, innovation | Associated Press Of Pakistan",
-      "date": "2026-10-16 07:43 UTC",
+      "date": "2026-10-16 07:42 UTC",
       "category": "Pakistan",
       "source": "| Associated Press Of Pakistan"
+    },
+    {
+      "title": "Pakistan eyes Sukuk, Panda bonds to diversify external financing",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFNBSlBHSmYzdFRoMlNrbWVNdjJWMDl2TU1kUzdOeFdmOFlxVkxxOXFndDRUaTVQZzVFUXpQUGhHaTQ4UldNM1lvYUdmMzVZTElsRnVfUm5HVUZrWnJtTEJwUmdBeGwtMVpsZHVXMlZmYUJ0cTl0YTJDZFlQbDZadjJZWGQ1LVRoSDRob1NpSzlGUUVwZnlVUGUtZw?oc=5",
+      "summary": "Pakistan eyes Sukuk, Panda bonds to diversify external financing Mettis Global",
+      "date": "2026-10-16 07:42 UTC",
+      "category": "Pakistan",
+      "source": "Mettis Global"
+    },
+    {
+      "title": "Pakistan to chair IMF and World Bank Boards of Governors in 2027 — Dawn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUEzTTcwVWh2ODRabUp1ejVQdUVuMTBjRzh5NkF2eEVBZnRjcUhOSXNDUHF4M2FuTElxQ0trLTBjeG5yVkZpYk1lZHc4VmdaVUhtc0FqTzg2dWFENUVqZ1ctOTk4bGhvWkJkdXI4MW1yOU9NTVVHal9ndmhmOV9PTnlUMk5faWpsMUwtQ2VvZF84Vks2OEluUlpkQ3EzZjQ?oc=5",
+      "summary": "Pakistan to chair IMF and World Bank Boards of Governors in 2027 — Dawn UA.NEWS",
+      "date": "2026-10-16 07:16 UTC",
+      "category": "Pakistan",
+      "source": "UA.NEWS"
+    },
+    {
+      "title": "Pakistan plans further Panda bond sales under RMB 7.2 billion program Breaking",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXpnTHJ3MEIyMllnSmJFRUhZN2EtaDhFdzQ4dENacHdXWlBUdkNaOFQ0U2kyc1REOFplZENPUUhjLXU0MHhHYVAzS0tpM19zTmFteHVRd2VObU5qTk5DT2JhVmpab2p0Zi1iNVNmc3Y2S1Fic1ZUQjNHa3NnSTFjS3NaNkx4eUgxTC03bnVoU2dnRm5XWmV0WlJFTUR5RVY3c0lUVmhnSWN1Q3N5RDk3XzA5QQ?oc=5",
+      "summary": "Pakistan plans further Panda bond sales under RMB 7.2 billion program Breaking Independent News Pakistan",
+      "date": "2026-10-16 07:04 UTC",
+      "category": "Pakistan",
+      "source": "Independent News Pakistan"
     },
     {
       "title": "Stringer Dispatch: Roof collapse at Pakistani school kills at least 35",
@@ -18,20 +98,20 @@
       "source": "CGTN"
     },
     {
-      "title": "DPM Dar reviews essential commodity stocks, prices at cabinet committee meeting",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2tKSUxVRUw2VmhHMWhpM3d6MFlBZk82dDZiZHg3bzItR2tWNEFsUWNnQUthVVdnaGdEWVRxVGVZSGs1dUM4c003dllHSWx6R080V3pMdktSVkVMajFxeEZEU1ZqbVA4Sm9faEN2bnBqT3JSLWJjR2JfSjFUbWlpQURFSDNYcHNsdVNPTGQ3TDh6cnhheVBlSjFMOHdTbEtNQmhWaVJZWElQVWQ2NGRWcHhB?oc=5",
-      "summary": "DPM Dar reviews essential commodity stocks, prices at cabinet committee meeting Dawn",
-      "date": "2026-10-16 06:44 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
       "title": "Political Turmoil in Pakistan: The Crisis in Khyber-Pakhtunkhwa and Beyond",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxRFp5LTYxcTdUUjZvU2V2YXpoQldaTEkyZWowdUc4Q2xTSXAtcWFFeVVKWjB3WlBZa0dwd21rNXBUVG5IaXZWa2NqTnQwaVVUWENJUGFJbUhKNkRpLVI0?oc=5",
       "summary": "Political Turmoil in Pakistan: The Crisis in Khyber-Pakhtunkhwa and Beyond Open Magazine",
       "date": "2026-10-16 06:33 UTC",
       "category": "Pakistan",
       "source": "Open Magazine"
+    },
+    {
+      "title": "At least 34 children killed in Pakistan school roof collapse",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmQ2aE1VaDN5b21VOEtSZkJKQ2hzRWZFZ1BLMUFPRWI0NXROb2hqNWdtamtITlZHSlc5Sm9QV3N4NXhISDdhdzVKMlFqbnk3aHNlTURaS1YyU2F4cXd6VXJ1aXlnU2tldkR0U0h0M3Bhd0k0SUtZZk53MXJ4OWNWVlNudDVXVFBIWldZZXJ2ajBrNHZ2TVJfNkItbEJGWmJxZWdkRklsQ0lZNTZtUGlyWGhVWkc?oc=5",
+      "summary": "At least 34 children killed in Pakistan school roof collapse The National",
+      "date": "2026-10-16 06:14 UTC",
+      "category": "Pakistan",
+      "source": "The National"
     },
     {
       "title": "Ukraine critically low on Patriot interceptors as Russian strikes intensify",
@@ -66,6 +146,14 @@
       "source": "The Express Tribune"
     },
     {
+      "title": "JazzWorld Hosts Cybersecurity Seminar to Advance Digital Security and Resilience in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWVxMVkwb3RERmtIUzJQTjNUVlRyMkZPeEhucmtHNGhnV0dROVlyN3lNVHJRWTJYSmN5OVA4VW5LM1dpN3dyQ09ob2pBNEo3VkFvM1VtelIxZnFaRG82RkZCbFpXWXl4Y0tFSDZXWDM4dzZqN2R5V1RjR1d3bFoyek94cXdCWEpIZFpvWUVBZ19JYlZMeFN3YU1WbkFrbTBodjZ3X0ZHUnFoM2lscXRuU2dUUVlRUkxSZHp3TA?oc=5",
+      "summary": "JazzWorld Hosts Cybersecurity Seminar to Advance Digital Security and Resilience in Pakistan Digital Pakistan",
+      "date": "2026-10-16 06:00 UTC",
+      "category": "Pakistan",
+      "source": "Digital Pakistan"
+    },
+    {
       "title": "Pakistan urges IsDB to turn $5.6bn envelope into project pipeline",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFNIS1ZBdGZPUjJkWGNIUUVRQ0RNQzVOQXJ0QkYwMXZPVWFWN2Q5by02aXpZYU5uWktqeURWbGw0WWpHYTZ6QXVHY1dvVTJtcWQ1b3FxUVlzVGJQblQ2TThFMk80SnZnaGZfYXdadTZjWWI2ZmhuSmk5d1ZyRjBvVGtXUHZSb3RXYWU2d21sZFhnU1Y1NHY5UEJBMTlzczlZUEZFWDVINmpFNEp6LTJsMXBhM055Nkh3WTg4UkFxeWtLNlE?oc=5",
       "summary": "Pakistan urges IsDB to turn $5.6bn envelope into project pipeline Mettis Global",
@@ -74,20 +162,20 @@
       "source": "Mettis Global"
     },
     {
+      "title": "Pakistan Leaders Vow to Strengthen Food Security",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeGtsMXZNNnVOay1IRW0ybEdpdldXVUlNSmR2N1dlTTJBam5oTC1RcGVpN2NQRmpYX09OOGpJWVBmSGd4dDRnTDFvdG9GNHkyWnBtWDhFZU50dGszU084c25xMWVnaE9Qd0YyUjJVTmljVV9OSVpUZFRXODNtam8?oc=5",
+      "summary": "Pakistan Leaders Vow to Strengthen Food Security The Daily CPEC",
+      "date": "2026-10-16 05:55 UTC",
+      "category": "Pakistan",
+      "source": "The Daily CPEC"
+    },
+    {
       "title": "Pakistan seeks Fitch's assessment for BB sovereign rating",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0c1LTlxZ2QtV3pGZzB3YXBNN1g5Rmt1OTdGZU5uVnJLTFdvQWlHZWx2OFRFNkRxWGVKRkhUNUlEb0Y0cDdQT09uVkpBVmtKSWh2YXd6QjFqU2k3bTJjSTRMZ3ZCdllqQTFrVm9FTmVjaGpDMFRndVoyVVhKbXFKTVpNYXd3U05HcHBDdDdLN1RuUFhKREdfWF9jbWnSAVZBVV95cUxQTHlSb0hTRFpVVnRYOW81VF9hanpJZ0JKclZmWHlwWVhLWFZFQmZxLXVMY1pWUGxUUW1OMU1fRk5CWDhDRGlxVmI5WHFadFRmRjFZVmg4UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0c1LTlxZ2QtV3pGZzB3YXBNN1g5Rmt1OTdGZU5uVnJLTFdvQWlHZWx2OFRFNkRxWGVKRkhUNUlEb0Y0cDdQT09uVkpBVmtKSWh2YXd6QjFqU2k3bTJjSTRMZ3ZCdllqQTFrVm9FTmVjaGpDMFRndVoyVVhKbXFKTVpNYXd3U05HcHBDdDdLN1RuUFhKREdfWF9jbWk?oc=5",
       "summary": "Pakistan seeks Fitch's assessment for BB sovereign rating Business Recorder",
       "date": "2026-10-16 05:52 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
-    },
-    {
-      "title": "Issue Brief on “From Strategic Patience to State Responsibility: Rethinking Pakistan’s Engagement with Taliban-led Afghanistan”",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2ZzMHFxQU1ral9DZ1lrXzdfZTVROHFHelRwc05HQ2VZdXpudEluOUJsVE5QdVRiS3R5V05vS2NwMHlqbnpaaGg5S2lwblZZcklUZWEyeDlHVGNjNmxpVVBaLVkwZW0wXzZZaEN0YXNWdVFqYW1tWFhhaFg5bVdNZnVHTFJtOVNpb2N5N3JoZW5pdjQzVGJWU3NzSGVQUTlRYmJJbjJtUGg1a2xOS1hzQmhFRjFVUWhCY3YzMm10ZERPZ2dKSDVUTV9kU1FlNDhaSnNTeEFBUkFVSHYz?oc=5",
-      "summary": "Issue Brief on “From Strategic Patience to State Responsibility: Rethinking Pakistan’s Engagement with Taliban-led Afghanistan” Institute of Strategic Studies Islamabad (ISSI)",
-      "date": "2026-10-16 05:44 UTC",
-      "category": "Pakistan",
-      "source": "Institute of Strategic Studies Islamabad (ISSI)"
     },
     {
       "title": "Pakistan parliament endorses emergency, governor's rule in Khyber Pakhtunkhwa",
@@ -114,20 +202,12 @@
       "source": "Mettis Global"
     },
     {
-      "title": "Pakistan Nat’l Quran Competition Winners Awarded",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGNiZmhEakg1V1RpdDRlR0pURW85UmNoRVF6N2RldExfRjIwNHVWODNDX2tMcmozRXc2RWpvVk9pa3ZqbV9wSElQcVNYR3d3a2k3VDh6Nmhua05STzFSRmdPclZuZXk3MXBBQ0ppc01mSkR1M2xraExBNUpMY1lsTWZKTFVsZw?oc=5",
-      "summary": "Pakistan Nat’l Quran Competition Winners Awarded خبرگزاری بین المللی قرآن",
-      "date": "2026-10-16 05:23 UTC",
+      "title": "Pakistan switches to e-passports and nearly doubles fees — The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLW42Z0xFMlZIdXJtV19fc0daN0xlM2ZJS1ZZLUczZ1R5dV8tVmE1eHFoak9Kd24yTDFRb0VKcnJIR2RGRlpieGg2RXpDOFBrdXVrSGlkSjMyQVRHQkxlbGxCQ3dYekZsZmVNZTUyUDJXLXZ5UGM4dTZ2VnlPS2pRaHRhUHlJZVVZNGc4UXV3T3hEeEFiczkxSGgta1puS3QyNUdn?oc=5",
+      "summary": "Pakistan switches to e-passports and nearly doubles fees — The Express Tribune UA.NEWS",
+      "date": "2026-10-16 05:26 UTC",
       "category": "Pakistan",
-      "source": "خبرگزاری بین المللی قرآن"
-    },
-    {
-      "title": "Pakistan, Canada discuss investment protection, trade expansion",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWh6MkdNcWpyTFhWbHJldXhTeENhYUwyWndnTm53M2tjYW1RWXlMM09pdEYtYWdJSE5mdks4azkxbnlFdWd1VXd0Y3prY2MyOWtOY1VfZjZRQ2FWd2lJcnpydDJSLXR5T0hWV0xEV1pJbmg0cU5sTlZXbTN4d2lRMGJXT0I5ZmpseHZOZnBxUkZMRVVKQ2NpMQ?oc=5",
-      "summary": "Pakistan, Canada discuss investment protection, trade expansion Mettis Global",
-      "date": "2026-10-16 05:20 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
+      "source": "UA.NEWS"
     },
     {
       "title": "Iran Offers Condolences to Pakistan over School Roof Collapse Deaths",
@@ -138,9 +218,17 @@
       "source": "تسنیم"
     },
     {
+      "title": "Pakistan, Canada discuss investment protection, trade expansion",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWh6MkdNcWpyTFhWbHJldXhTeENhYUwyWndnTm53M2tjYW1RWXlMM09pdEYtYWdJSE5mdks4azkxbnlFdWd1VXd0Y3prY2MyOWtOY1VfZjZRQ2FWd2lJcnpydDJSLXR5T0hWV0xEV1pJbmg0cU5sTlZXbTN4d2lRMGJXT0I5ZmpseHZOZnBxUkZMRVVKQ2NpMQ?oc=5",
+      "summary": "Pakistan, Canada discuss investment protection, trade expansion Mettis Global",
+      "date": "2026-10-16 05:20 UTC",
+      "category": "Pakistan",
+      "source": "Mettis Global"
+    },
+    {
       "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FVWhHZXZ1c1VPbEdhRFZUaWFpVnZkbFJTWXRTQTFMc3JLWk5Kb1FPUmdiUkREb05PQlVJeFNyVnZtUnMwOHFSSkNhX2VXYk5jRUwtS2tnRXdUVlV6TkF5bTlxVGlyMV9OQk1XVTRPQjFrTnRqTmRkc251cDlOZmM?oc=5",
-      "summary": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives Axios Rubio presses Lebanon on confiscation of weapons from Hezbollah Al Jazeera Hezbollah says it owned confiscated explosives, meant to attack Israel Reuters Hizbullah’s Explosives Smuggling Signals Preparations for Renewed War with Israel Jerusalem Center for Security and Foreign Affairs Hezbollah claims confiscated explosives and denies assas",
+      "summary": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives Axios Rubio presses Lebanon on confiscation of weapons from Hezbollah Al Jazeera Hezbollah says it owned confiscated explosives, meant to attack Israel Reuters Hizbullah’s Explosives Smuggling Signals Preparations for Renewed War with Israel Jerusalem Center for Security and Foreign Affairs Why would Hezbollah admit its explosives were smuggled i",
       "date": "2026-10-16 05:13 UTC",
       "category": "World",
       "source": "Axios"
@@ -186,14 +274,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Demolition of 200-year-old Hindu Temple halted in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONmx4VVJQZnJSWFNKZ1RzWnVQRW9lR2lpaDlGQV9NSmplLVFmeUk1WUhyRjBTVUo1X1NfRkpPNnpDbEtfc20yTWlQTE9oY210UE5JOF85LUcxUVdNLWFkMlo3c2pXNExDUVdWb04wME5DejR6bWF1TWgtc1RGak5KajNuRjljQ1B4ekNobjZKdTdvbzh1QVI0?oc=5",
-      "summary": "Demolition of 200-year-old Hindu Temple halted in Pakistan Connected to India",
-      "date": "2026-10-16 04:55 UTC",
-      "category": "Pakistan",
-      "source": "Connected to India"
-    },
-    {
       "title": "Pakistan, China review Panda Bond success, eye more issuances",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1E1N2hiXzFxUXBzcWpEUm1TZjdQNVNpRklmaVBvZGU5dVZtZFA0TENDY0ZWVWNFSHA2TWRiVldnNHJRSE1GRGZOd05kQ1lJLXl0UmpFcHRYVDVSZFh3eEdnbGo2d1NUMDhvWkw4VGMwamFSRWcyTzdJVTcxSVJndXdjeFFRa3hJdzBVOEdJRExId3FyV0ZiWlJmVElwRDZjekhrelR6QzRubU9wQVpIYlprUGt2dw?oc=5",
       "summary": "Pakistan, China review Panda Bond success, eye more issuances Mettis Global",
@@ -216,14 +296,6 @@
       "date": "2026-10-16 04:26 UTC",
       "category": "Pakistan",
       "source": "Mettis Global"
-    },
-    {
-      "title": "The education gap between urban and rural Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmk2Y0RwTExHa0N5R3lxVFZ0UG9oNXdGa1lKUk5VWlhvUTNycEM4Q0xIZU5TS3VwWkJFaHZ6UnpCNnlYQzhOYWFqR3JMemd0dFdVSkxYbjJ5cm1JN1U2OVpuNE1Xd2Y3cGg0Y3NLeTlfaENDdmR1OVI2S1pnRVZDY0NaR3pqU1JKbTVFeF8wZzdsUDN5di1rTQ?oc=5",
-      "summary": "The education gap between urban and rural Pakistan The News Pakistan",
-      "date": "2026-10-16 04:18 UTC",
-      "category": "Pakistan",
-      "source": "The News Pakistan"
     },
     {
       "title": "Pakistan, Thailand look to boost trade and tourism, revive high-level exchanges",
@@ -300,7 +372,7 @@
     {
       "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlWWWFHSG1jSHJWU3dnVnVqMzJZYTY3cVJSQXRlMkdQZnRMekQ0WFpzcTlZa2haam1VTEhPUGh2RDk1TV83UzhiU1U5UkVhel9JdXAtaUZoOUN6LUs1dWJBN0FtOGxGRTdkdlJrVkltMjNGclpNMVVRU0M3aTZjRFk2U3pCSDhGcjhHd0h4UzdldHJPeHBOaDVfV1YtcVZILUs1Zl9FbldyR3J0d3RPQk03TEHSAboBQVVfeXFMTzhnTmhhTGlVZEZUUENrVmdCeWlUNG1rTW1Ub05mNEtBZXN3aG94UXp4NnZfNlJuOFRFQklobXhRNzZ0RUg4YktlZVdrSGptWDRKc2d5OWhJX3hXaHphNXRmYkMyWW9lV0JUbmpPbkxBR1M4Yi1XZGFidGcyaUlVT01vd0VMalQ2OHZwN0ZJNklkTnVSREMtN0oxYnJSblFsWGtZa3pLZVpwSUlIWWdndy1CdkNMNTFtWGdR?oc=5",
-      "summary": "China tells Israel to stop ‘forced establishment’ of West Bank settlements Al Jazeera China says Israel should stop its 'forced establishment' of West Bank settlements Reuters China says FM told Herzog that Israel should stop 'forced establishment' of West Bank settlements The Times of Israel China pledges continued support for Palestinians, pushes for two-state solution The Jerusalem Post Wang Yi urges Israel to ope",
+      "summary": "China tells Israel to stop ‘forced establishment’ of West Bank settlements Al Jazeera China says Israel should stop its 'forced establishment' of West Bank settlements Reuters China pledges continued support for Palestinians, pushes for two-state solution The Jerusalem Post China to keep advocating for Palestinians, backs 2-state solution — foreign minister The Times of Israel Wang Yi urges Israel to open Gaza routes",
       "date": "2026-10-16 03:09 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -330,6 +402,14 @@
       "source": "NDTV"
     },
     {
+      "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSy1tVnlnWUN4eVRxV0lJNkZ0eldaWU9WbmhuS2o0YmZaVk1adGljWFlDb0JSMjM4WE9SMGdBRjJFbmFQZ1hlcGNWWC1BWnlzY3BlQXE3SmF4Y0MwQlg4dmZLMUZtZ2V0NTB4UW1sUnI4R0R6TDNqTVdZd29HcjVsdmNn0gGHAUFVX3lxTFBXYW01S2RqV0VOazhVQ3Q5WHFvNHdGVVRtbjNreEpCWnFtNm5BWlJMUVctUHVXOExiQ1dsQUZIdzBka3Bja2EwNkZXZk5PTXh5UTh4TTVwdEZIX3ZvWFVrdDM1MThyOVVIUGN2OXJNSUFyLXdHNXlla2Y2c3BDN1ctd0ZVVEFfVQ?oc=5",
+      "summary": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe CNBC Germany warns against bringing Russia back into G20 fold Reuters Germany Slams US Move to Bring Russia Back to the Global Stage Bloomberg Germany sees no major cut in US aid to Ukraine despite Trump remarks Yahoo Russia returns to G20 table as Europe pushes back against Trump’s Moscow outreach Firstpost",
+      "date": "2026-10-16 02:25 UTC",
+      "category": "World",
+      "source": "CNBC"
+    },
+    {
       "title": "Pakistan Embassy to hold first consular camp in Qom on October 22",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0RZMFhKZkpoeG5PcUFPemc5a25HcDZhVW04MXpnT3RqcXdCdkZvRHFSeVZ6LUdrdmV6M2oyWDNIOTd0VXVYTE9COVF5bTE2c3RVSTdVV3ZfMlV6NWg1TVI4NW05MF9mSUtFWU9YdU1tZVVNaHFZeXJUdXh2dDV5RkktTndHZ05KZG5zV2haQ2JZRkFZZHY0Vnh3?oc=5",
       "summary": "Pakistan Embassy to hold first consular camp in Qom on October 22 The Nation (Pakistan )",
@@ -342,6 +422,14 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhblNmeXVCRVN4akJhNU9qSXRSeFNOblN5a21jX1FFTVZCR1dJbm9kZUwtdjNfaVA2dlE0OUUyWkNFUklpN1Z3Mw?oc=5",
       "summary": "Two killed as rain, snow disrupt life across Gilgit-Baltistan Dawn",
       "date": "2026-10-16 02:06 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "New Saudi ambassador vows to further enhance bilateral ties",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ITDlkRFA3TVFjRGVFVzFOaEtWZEN4dGczLXpuZTZKbGRXMGRGT1JXdENTak1MbFlnZUFGNVp0Q1JxRUFWMDFNWg?oc=5",
+      "summary": "New Saudi ambassador vows to further enhance bilateral ties Dawn",
+      "date": "2026-10-16 02:04 UTC",
       "category": "Pakistan",
       "source": "Dawn"
     },
@@ -370,9 +458,17 @@
       "source": "Dawn"
     },
     {
-      "title": "AJK assembly speaker calls for consensus on future of refugee seats",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ncmlFekFMemtnYzNlaVRScmp1UjJVRS1BOHY5Ty1jMUFQaUV0aThzc3RJeF9ra2tkbmJ1V0lvby11dzM2RVBIWA?oc=5",
-      "summary": "AJK assembly speaker calls for consensus on future of refugee seats Dawn",
+      "title": "IHC seeks PTI response in case about Imran’s X account",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pTndoR25hVWlZQU82dGZkR2wzRS1ybWx5UzJsa0x5bHBaYWpqb1RkWTlNUHZsZ3ZtQVE3dmZOWmtxT3ViOWYtRw?oc=5",
+      "summary": "IHC seeks PTI response in case about Imran’s X account Dawn",
+      "date": "2026-10-16 02:03 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Court dismisses plea against remand of anchor Iqrarul Hassan",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RN3l5QW9uNXU5Ny02a0ZaLTFfVDd0NDMxeWZoV3Z3MjJGbWhOTWFGN2k5YllMelNCeW11UXl2WmtIRE9va1hsNg?oc=5",
+      "summary": "Court dismisses plea against remand of anchor Iqrarul Hassan Dawn",
       "date": "2026-10-16 02:03 UTC",
       "category": "Pakistan",
       "source": "Dawn"
@@ -384,14 +480,6 @@
       "date": "2026-10-16 01:37 UTC",
       "category": "World",
       "source": "AP News"
-    },
-    {
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-      "date": "2026-10-16 01:36 UTC",
-      "category": "World",
-      "source": "BBC News"
     },
     {
       "title": "Over 30 people, including teacher and students killed in Pakistan school roof collapse",
@@ -450,17 +538,9 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Pakistan, Iran FMs to meet in Baghdad",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16ODVuWGM1WmJiZEhWTlNZVmg3bXJCQ1k2Ymo0WWhOQ1JrX3BIVDNYR2dRNm8xNElxei1qdjlVbEktU0U0NkZzZnMwT3I3ZHMtVTR5MnRUSzhkMzlXNWIxU2NEQTlpaDUzXzBCcE5NNnM0eWhiN3VONC1Qak5jUdIBhgFBVV95cUxONXFsZVMtbW9zLVo5U3p4X1NvZ1ZGSkVpQmVxUDBzbmhsdEZSd0o2bmZMam1FUC1kenN0Z0ZSZmdSSDA2MW1QNE5pakhrMEVZNzFHZVh3LU1uWHBaQXBSZFpnWUg1cXlBVXgwSlh4SFd3U0wtZlRZczlXemZ5V3I3cDNNOHlQZw?oc=5",
-      "summary": "Pakistan, Iran FMs to meet in Baghdad The Express Tribune",
-      "date": "2026-10-16 00:04 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
       "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNTUxejN4MHhvaTRhQlhQQmVqYzNsQWk3NE9jZ0g1bjFQc0wtSkhkOXhJRzVhNVRfT2tPQmNvTm51UXUzQVpHdXRkWFYta010N2FKVnpENVhxMnlFcXNadkdaM1FEZVI4ZmtFdl9uN3pReWdiLVJDX1QzRmRFRW_SAYQBQVVfeXFMTTlnb2lVa3JxaG5xTUpMMktKSmxlM2JVQWlZM0VGWVZRWGt5QW8xODlfdGg5a29vR2JqTU12a0dxOXk4R205UE85R25WTzJqTmptSlhObjRTbTgxc0x6UEZpendjbzR2Zm5XbDkzSUswVWlkN0ZwQ2g4Wjl2MEJOUzItc05U?oc=5",
-      "summary": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action CNBC Singapore Probing Firms Over Haze-Causing Indonesian Fires Bloomberg Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies Reuters Haze in S’pore: Air quality worsens amid ‘very unhealthy’ PSI and ‘high’ PM2.5 in three regions The Straits Times Haze prompts closure of all outdoor ",
+      "summary": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action CNBC ‘Clean air is not a favour’: Indonesia’s neighbours fed up with acrid haze as Singapore threatens to prosecute The Guardian Singapore Probing Firms Over Haze-Causing Indonesian Fires Bloomberg Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies Reuters Haze in S’pore: Air qualit",
       "date": "2026-10-15 23:56 UTC",
       "category": "World",
       "source": "CNBC"
@@ -476,7 +556,7 @@
     {
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU?oc=5",
-      "summary": "Houthi missile attack on Yemeni presidential palace kills five, minister says BBC Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Houthi Missiles Strike Government Headquarters in Yemen The New York Times Iran war updates: Five killed, 16 hurt in Houthi ",
+      "summary": "Houthi missile attack on Yemeni presidential palace kills five, minister says BBC Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden Al Jazeera Middle East: Houthis target Yemen gover",
       "date": "2026-10-15 23:38 UTC",
       "category": "World",
       "source": "BBC"
@@ -506,14 +586,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Pakistan condemns Houthi attacks on KSA",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzR5TU1idDJZUGo4Y0E2UnUzRmRJZjJLLVZodHFBWWFtT1Exd1F1TjRNZTROWUItUFE4Uk85Mk8zeDRUaGN5dlNpeGhfRldJbFpzNEdBZF9ybTlvWmU5UmJqTDNEc1pzZHRGTE5SR2JIYkhHeTRpdklrS3ZXRmdOZGNR0gGKAUFVX3lxTFA4aHBhVHlqUHlwY3Y1VF9FUEFpaXVYanUtc1F0ZWpyRHZwVC1INWo3Y0dYY3p5RmRjUnVIVERIbmlHX29tcng2YjhPWFc4VUJ3MjlXdDdEbzJraFJYZUdFWVZCRmh2cTBGSzhacEUwZmhBaVcwSzNCTVZzS29YcHVxVl9oUU9UNVN3Zw?oc=5",
-      "summary": "Pakistan condemns Houthi attacks on KSA The Express Tribune",
-      "date": "2026-10-15 22:54 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
       "title": "Letters with 'suspicious substances' sent to US senators and election offices",
       "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
@@ -528,6 +600,14 @@
       "date": "2026-10-15 22:37 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HTGtwaHkwYkdnR1k1MkRyQjNPTi1IeTZ3Q3hMMUlDM0tfRTdlbEpSUXVDb08tT0F2eTdjLVZOU29LaHpEX0ZwSWxYZHNieHViNmUzQnJyUjM5Tk0?oc=5",
+      "summary": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured BBC Nineteen injured in collision between minibus and train on Eurotunnel loading platform The Guardian Channel Tunnel crash: at least 19 hurt as bus hits train The Times Nineteen people injured in accident on French side of Channel Tunnel Financial Times Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service ABC News -",
+      "date": "2026-10-15 22:37 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
       "title": "Pakistan ODI squad begins preparations for tri-series",
@@ -548,18 +628,18 @@
     {
       "title": "2 ships on fire off Romania's Black Sea coast, 7 crew missing",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHQzWV9qTkNNYTd0N3NLSmRpYTVlQ3ZMOGtWQWRGaTV4VmV6WjRFOV9SWkRIcXdlNzBEQnRKVlI5V3NaS1FYTEJ6NFhDOXUzNDdnMndzRWltekRIU1dxUG1PczRQdGlUcmF2TDVRbl9hSnhHV2tYc2hJNGE0REd0M0RQSmRhUXo4RkVQdNIBjAFBVV95cUxPaS16UmVUcHNxUGJDa2piTllmZmdSeG1uS3h2Smw5WFNSM08ya3hhbkFYM3hQdWJBdlBUb1Z4amFEalYxX2xYemN4Ry1BRTFzLWNQOHpKUWFjUHR3ckVkNmlIaGdaTzFkUVN4SkJPOFpXbjdKNnJEejB0UTJrbVNxWjdwd3FkV2V2Wnp6Mg?oc=5",
-      "summary": "2 ships on fire off Romania's Black Sea coast, 7 crew missing DW.com Seven sailors missing after drones strike tankers near Romania’s Black Sea coast The Guardian Seven crew missing after drone attack leaves tanker ablaze off Romania's coast BBC Seven sailors missing after drones hit two ships near Romania Reuters Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading PBS",
+      "summary": "2 ships on fire off Romania's Black Sea coast, 7 crew missing DW.com Seven sailors missing after drones strike tankers near Romania’s Black Sea coast The Guardian Romania Says Russia Attacking Black Sea Route for Ukraine Ships Bloomberg Seven crew missing after drone attack leaves tanker ablaze off Romania's coast BBC Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading PBS",
       "date": "2026-10-15 21:28 UTC",
       "category": "World",
       "source": "DW.com"
     },
     {
-      "title": "Pakistan condemns Houthi attacks on Saudi Arabia, calls for immediate halt at UN",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWURERUhYX1BfZEFsYldJM0htNlZGaUYtUUlYZzF1eW9NS3FlT1NjRWgtU2ZEeDh2UnpqakNqNWJrNjg3dE03ZjZ2YXo0RUNRMU8yc0FSQjlNTWZXdjVJcno0bXY4eURHX1NNYUVTMW9RTHptblRhcDdGdEFyNm55SWFHWlZ3VzNHem9sMXU2bHlhRF9hbVp1LXF3S2kzTW5URWUwWmpadVhIc2RuejlqdEJhNVZXX2M?oc=5",
-      "summary": "Pakistan condemns Houthi attacks on Saudi Arabia, calls for immediate halt at UN The Express Tribune",
-      "date": "2026-10-15 20:59 UTC",
+      "title": "UNICEF statement on the school roof collapse in Peshawar, Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0w2bjl5cmstbVJzc3lVVjAxeF9HcFEzRW5QT2NSQi05ckZNUDlPYkNjTlVlMHh5Z1EyVWJXLVg3OWgtN3BZbm5qVVFSMTR6VjBuWUV3WUJjRFZGM3Izcm5zck9SbEdpbGMzSkNxRUtIWm9fakRaQVhtQVVCV0FFbmhtdm1Fb0N2SUs3d0o4aFhEQ0g1UnpZX0wzblZvblh4Z0ZZRQ?oc=5",
+      "summary": "UNICEF statement on the school roof collapse in Peshawar, Pakistan unicef",
+      "date": "2026-10-15 20:39 UTC",
       "category": "Pakistan",
-      "source": "The Express Tribune"
+      "source": "unicef"
     },
     {
       "title": "Pakistan stands shoulder to shoulder with Saudi Arabia",
@@ -571,19 +651,19 @@
     },
     {
       "title": "At the scene of a school roof collapse in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZUjIzdV8zVUI2WEhIbXk5UjgwelZWTFNOU3JYdVNqVEY5MUFhTloweDlqV3BOWGlfdG1GZDZ6elg0U3dWQ2Mxb3Y2S25YUG9TeU5xZ1p3RWo?oc=5",
+      "summary": "At the scene of a school roof collapse in Pakistan BBC Thirty-four children and a teacher killed in Pakistan school roof collapse Reuters Families of children killed in Pakistan school roof collapse demand justice France 24",
+      "date": "2026-10-15 20:31 UTC",
+      "category": "Pakistan",
+      "source": "BBC"
+    },
+    {
+      "title": "At the scene of a school roof collapse in Pakistan",
       "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
       "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
       "date": "2026-10-15 20:31 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "++HOT+VỈDEOS!! teacher viral video 7 23 pakistan",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOZTZ5UjR0UHR3R19aTWY3VzhFVFFDTjlYNkM4ZDV2Z19GNjdGVXprRWNtbGlicmlVVFJoRUVHYzRUTUpTWTlmWkRyRG1GX0pnd01oVWR1S1JoR19sQlpfRjJpcDlnaUpDVEYwV1VlTGtZVGdWNlA1QWkzYTU4WFNiZmQ4RlNJakRpaktYTElzTk5fZlZOcGRZU2E5ZjJpa29TZ0pScmloSXhKT0RfeEtYUnJJT2ZBTWF0NnY4emxzbzNqQjlfTXhCNTJmT2dHMWtYbUozeDZnVHJlWXQwWWk4X0xXLXFmdl9tUTFINWZKS1RfY1VtZE1VWm5GX05HYnhPV01DRmtsTEVPSDdaS2pacmh6ZE5tVkFuYVE?oc=5",
-      "summary": "++HOT+VỈDEOS!! teacher viral video 7 23 pakistan Universidad de Córdoba (UCO)",
-      "date": "2026-10-15 20:04 UTC",
-      "category": "Pakistan",
-      "source": "Universidad de Córdoba (UCO)"
     },
     {
       "title": "Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce",
@@ -600,22 +680,6 @@
       "date": "2026-10-15 19:46 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Horror smash between bus & freight train at Channel Tunnel entrance injures 19",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByejI2SlBfcHR3b3QwaHJvRm16emdxU3hqM1U0RlVUdkhUcmVJNllTYTFnRmtWTXNOdW9kSEtOMklCdWxkc0FXUS0tMl9IUTRpbThsT0xnLWxMMDZjc2FDREZLN3FLQ2JhZHIyaFdDN3JIQV8wZTVTM2FSTQ?oc=5",
-      "summary": "Horror smash between bus & freight train at Channel Tunnel entrance injures 19 The Sun Bus hits train stopped on French side of Channel Tunnel, with 19 injured BBC Nineteen injured in collision between minibus and train on Eurotunnel loading platform The Guardian Channel Tunnel crash: at least 19 hurt as bus hits train The Times Bus, train collide, injuring 19 at Channel Tunnel terminal DW.com",
-      "date": "2026-10-15 19:38 UTC",
-      "category": "World",
-      "source": "The Sun"
-    },
-    {
-      "title": "Pakistan’s finance chief acknowledges poverty challenge after World Bank report",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEFuejAza2FOUUdnYlZEMHZwLWxuUkM3a3hPdFJtcTAtNVo1X2tBT0JlMDVoOGcweVY5cWdkS1AwN1c0cndvU2ZjZEZOTGo1eG9ad2o4SF9qM0FNWGNYOFM0SnB2TWdBZFVuR2JtQkY5YVlWb3ZrMDlSbU0zYVBLRXd4UEl6TWhkaU9xVmtqVlZMMG9UcXJFZjBSOGJYd0MxYmZicDJpLXlJUF9QNHlKVDhLY1JrRFNZSnZV?oc=5",
-      "summary": "Pakistan’s finance chief acknowledges poverty challenge after World Bank report Arab News PK",
-      "date": "2026-10-15 19:31 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
     },
     {
       "title": "At UNSC, Pakistan condemns Houthi attacks on Saudi Arabia, reaffirms support for kingdom's security",
@@ -636,18 +700,10 @@
     {
       "title": "Middle East and Asian leaders gather in Baku despite disagreements",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFFuMWxkRG9Na1o1aElBRVdiZHZLNC13c25zRzllb0E0T0pZdmxOTjRTaV9hTTNLSjFsRGtQZjl6VmFvMVFGVzdpbGhhV0xoWUdxd0NBOHdvYmFJa0paWTFud3NHRTNZTW9qUEVWcEozQVN0T3hpQ2hsN0hhRDdzdVhNcDZqLWZrbXFhTHJ1dzJlVEV4ZjBjaldOQ3NOd1NCRjJGMUhRdE53bDFPWFNLVkhVLXBHbVA2azZJVWo0M2lGVUZq?oc=5",
-      "summary": "Middle East and Asian leaders gather in Baku despite disagreements Euronews.com Turkmenistan Proposes Platform to Tackle Climate Change and Drought Caspian Post Kazakhstan Puts Forward New Initiatives on Security, Energy and Digital Cooperation at CICA Summit in Baku The Astana Times India urges CICA members to unite against all forms of terrorism, stresses respect for sovereignty ANI News Kazakh President proposes d",
+      "summary": "Middle East and Asian leaders gather in Baku despite disagreements Euronews.com Turkmenistan Proposes Platform to Tackle Climate Change and Drought Caspian Post Kazakhstan Puts Forward New Initiatives on Security, Energy and Digital Cooperation at CICA Summit in Baku The Astana Times President Ilham Aliyev met with President of Uzbekistan [PHOTOS/VIDEO] AzerNews Kazakh President proposes developing transport corridor",
       "date": "2026-10-15 18:36 UTC",
       "category": "World",
       "source": "Euronews.com"
-    },
-    {
-      "title": "Pakistan, others walk out as Israeli president speaks at CICA summit in Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGJtQllmd2tiLXE1TktNVFFfek45RTBhRzNHbllqMXBaMFY5azZQdlZWMTF6OHZSS3NDM1RiT1ZHRkNkOFQ5QzF4LXlkZ09SU2pEZ09XN2pjUmdBblVmNGlSRmhRMzh1SkRuZFFwSVR6UzN2NnZNTmRPMVNULW5BWlJxazY1aTVBUHVXdkFTYkFUNnZFNTM2dG9ZNDlkSkZ1SEl1T0thTndDT1hHeVowa2FOYTJqRnczYUE?oc=5",
-      "summary": "Pakistan, others walk out as Israeli president speaks at CICA summit in Azerbaijan The Express Tribune",
-      "date": "2026-10-15 18:29 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
     },
     {
       "title": "Pakistan U17 fall short against Sri Lanka in first one-day match",
@@ -658,68 +714,12 @@
       "source": "Pakistan Cricket Board (PCB)"
     },
     {
-      "title": "Pakistan cuts petrol price by Rs3.63 per liter, slightly raises diesel rate",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUxRaTBPQVl2Y0hYTVQ3SVlVSHVkZTU2TXdESEJkc2pGZ3lnMzk3SVRBbzkzRkZEUUpRMHJUWDNxZzNVSVhoRFJFWmlIOGpTSTNIaldwTUFoOGFOaGotZWg3Q29ZUHJsX3pTcVRHaXh4Y2lxcjAzbTh2YUh1Qy1MQnpkZmc4Ri0tYVhobTViRVR4SURrRXRjcEFCbDhaMVdIbjBEZkVCZjZVWmFDQTJCS1Bqa28?oc=5",
-      "summary": "Pakistan cuts petrol price by Rs3.63 per liter, slightly raises diesel rate Arab News PK",
-      "date": "2026-10-15 18:22 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
       "title": "One of Our Most Celebrated Authors Has Had Her Books Effectively Banned in the U.K. This Is Absurd.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2dIelh6STJZc3h0d002dHJSaEdTU0djVjZnd2QyN1p3NExZdXdFSDdScDBzbXd1c3BrN0hsVEgtbHExRGEzbkJVeHRkTF9NUExWNVBNNmtOTFpRWllEYTYxbzdkb0hWOGpmWVhmYk1rRmt0dUo5S1FqUk5yZUNmYk8ydlF3WkYzeWtHV2hzSkNpWXN6ekUxN3hncUtMNDI2NWtN?oc=5",
-      "summary": "One of Our Most Celebrated Authors Has Had Her Books Effectively Banned in the U.K. This Is Absurd. Slate Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action The New York Times Sally Rooney’s stand on Palestine is brave and humane The Guardian Faber Halts Sally Rooney’s U.K. Sales, Citing Counterterrorism Law Publishers Weekly UK bookstores scramble as Sally Rooney's novels are withdrawn bec",
+      "summary": "One of Our Most Celebrated Authors Has Had Her Books Effectively Banned in the U.K. This Is Absurd. Slate Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action The New York Times UK bookstores scramble as Sally Rooney's novels are withdrawn because she supports Palestine Action ABC News - Breaking News, Latest News and Videos Sally Rooney’s stand on Palestine is brave and humane The Guardian S",
       "date": "2026-10-15 18:22 UTC",
       "category": "World",
       "source": "Slate"
-    },
-    {
-      "title": "Hurricane Trudy is the Latest in an Unusual Pacific Hurricane Season",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0ZPdGdzQmZxUGFneHdQaEtwX0xBcmxYYkx0aFJNYmZSbXlEbVpfTFhGTkJ0YVJldHF6UmY4b1pJbTdSV0FhQ25lb3dyMkp3ZTBGWlZOZHcxRXNJMFlFMl9MSmszZEZiRExvZXVmV2l3d2t6T0ZKeWhSVXFFVDR1OHl0TUEwTF8takRIWHpNWDJkcENxRi1J?oc=5",
-      "summary": "Hurricane Trudy is the Latest in an Unusual Pacific Hurricane Season The New York Times Hurricane Trudy looms over Mexico's Pacific coast, severe rainfall expected Reuters Monster storms brewing in the Pacific as Champi eyes rare Guam landfall while Trudy targets Mexico FOX Weather Trudy strengthens to a hurricane as system nears Mexico’s coast with major storm expected CTV News LIVE MAP: Track the path of Hurricane ",
-      "date": "2026-10-15 18:18 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Minorities in Pakistan continue to face rights violations despite legislative measures to protect them: HRCP",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ONlpRd0hZbGpTcUZvSzZZb1BxY3phZGc1RmZnMEJub3lFZ2JGbG9TdXloMVBkM3JvblM4VkVlbVRzUllmSms1eA?oc=5",
-      "summary": "Minorities in Pakistan continue to face rights violations despite legislative measures to protect them: HRCP Dawn",
-      "date": "2026-10-15 18:17 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Watch: Australian band breaks world record for most gigs in 12 hours",
-      "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
-      "date": "2026-10-15 18:09 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "School roof collapses in northwestern Pakistan, killing at least 35 people",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNzLUF3ejNSMkNLR3JXSzluTzhCR29YSXZ3MEZKb3ZnYzNYbmFTNWxKNGtGb2h6RlluZ2xJZ1I3LW85S3RwV3NqaVdoT3JoUnFBWHlJeWdVNkNtTFZXR3RLWURZdEUxZjVmaXMwdUEyUDltbE5STHloZUdKSFRLSmZqSzNVTHlXOXc2TFprb0xrQmxiZER4ZnlmSW9YZHpJdVdIYXN1dnNTQ0EtZTdGTkpFZElUQdIBuwFBVV95cUxPZ1hkN1NMVWRfTEdVRzdPai1zQ0dqYzZxQlRNbmxzYml3T2RLNkVGM1AwTmtPVWRZQklkcGc0YmtYZlh5ekRnYWFETEYyd0RkWnNObm5FTzRMZ1BMR3djbWdzYjZpSmVjTXN0VzE5Z21FTUtaZVM4SlN4aC1HQVV0b2otNTRrSlhzcnp3a2ktM0V5RFVQWnpQcURkdkQyUkNnUnF4ci11WnlRTW02YjhjNW5YQ05ic2NMdkNZ?oc=5",
-      "summary": "School roof collapses in northwestern Pakistan, killing at least 35 people Al Jazeera",
-      "date": "2026-10-15 18:03 UTC",
-      "category": "Pakistan",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Pakistan school roof collapse kills at least 34 children and teacher",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2pBdENqaGo0bHRsNDRQUUJJSldiN0U4Mi03REczUjVyT3RHNHlUMUxLWkZRRVRINVBvRUJaRVp0ZFhwX2tESllYQVJ4Z3FqenVvWk5UalJpaGlXdmpJdDlJZHVicWNYNVYtR0lxOTFjbEZNWWFNQTd0Rm83UXhkeVM5azgxSGl1ck9ZLUs2czNxYWhLeEhUZVNibXQ5dHE1SnJIRmxidGE?oc=5",
-      "summary": "Pakistan school roof collapse kills at least 34 children and teacher The Guardian",
-      "date": "2026-10-15 18:00 UTC",
-      "category": "Pakistan",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "date": "2026-10-15 17:47 UTC",
-      "category": "World",
-      "source": "BBC News"
     }
   ]
 }
