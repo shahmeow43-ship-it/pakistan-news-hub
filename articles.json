@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-17T04:44:09+00:00",
+  "updated": "2026-10-17T05:42:14+00:00",
   "articles": [
+    {
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+      "date": "2026-10-17 05:20 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan Says Talks With Afghanistan Cannot Be Unconditional, Demands Verifiable Action Against Terrorism",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVJOdHQtTGJRUUROUGs3WG9hendJb2xpRXV6SzJvX0dRMkd6VUJTcHRsT2RiTzM4QXJBWXEzRGlBczFHVHFFTDNxVlA0a1J6TGNsZ2NULUZEYXpsTVlEX0piMTFmLTFiRFk3Q0g3ZEc4Vk1TNENndW5IbXk3M1ZCTE1FUlVScko0N2QyVW5MV0dhejNiY19JTjJR?oc=5",
+      "summary": "Pakistan Says Talks With Afghanistan Cannot Be Unconditional, Demands Verifiable Action Against Terrorism The Diplomatic Insight",
+      "date": "2026-10-17 05:17 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomatic Insight"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "date": "2026-10-17 05:02 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Imran Khan next for Nawaz, Benazir-style exile deal? Pakistan opposition leader’s big claim",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3pfZTVBeEVqSVU5b2NUZ3ZVdVlpMjFoWncxLTVCMXRpMHFBN3Z0SkpLcEhMVFRGRmEzRU9sVUIxRUo4WmZuUXlOel9JazNDdUYzM25hVlc2Y2V2NmxhWmtFT21NWVI0TDVLdWlkakZpNEtJUXhkQTV6aE9qeHJyYXhILWF0S0VGYmlFVVRjUWtWWE9BTVo0OURYUUtvZDA1NExjemFmbXNzTGdWWFFMV0ljSGZqRUlPeFNzRmpMSzF0SUJEeHQwdnY0OWdJb3Y1V2hIOGF4Y2hxd2M4MU9rT1RlN1NaUEstUVFhT3I2bms1SVRNWkVZVdIB_gFBVV95cUxOcXB4SjRDM1RubTBxT0JZR1F2Qmh0SUtZTE5nbXJNM1h3TTdtTTBYaTZkeWFYenREU0tBRG1PR0lDaVVKQzRXSGdPYml1LXFyZG9Ic0JxYVk2LTY1QWFUVG5aN2hZZWFIaUpfNUxkcTVjenJ2NUlIZkZEc20zekt2V1BkTWowVjhTQjQ3X19sLTVLeDM3TE9nY0hmZGM5RnVlN3gzT1V1SHRGOHFxd1ZWZU5Dc3h5Ymh6cmo0Yzk4NkFSVjgyX05JVHE1RDRsanJYMWNvR3lxb2I4ZHRhcjZqaW15Q0RqTFM0bnRxalM0djNWaHB4QWhJSVB6QkFVQQ?oc=5",
+      "summary": "Imran Khan next for Nawaz, Benazir-style exile deal? Pakistan opposition leader’s big claim The Times of India",
+      "date": "2026-10-17 04:54 UTC",
+      "category": "Pakistan",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Devastated families mourn children killed by Pakistan school roof collapse",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWJ4WG5ITndKV3BISC1YODdqcExOMWkxNndGdUk3NlZ3WURrRjUxaE15MXNET0NDQmlLM1g4QnQxUUhDTlktTDJORVRhTUhSYUd1WU45MG1YUWs1eTl1a2xyX0lSbVFVSHBRN0VyNGVqMTB0dlFLc1NoM01kZmVFWUR2Nm9zSS1xcjBJb2ZvVFlmcFFmMmpmX3NfM0pka2hfV01NZ3ZucWJFRGNyd094S3Zn?oc=5",
+      "summary": "Devastated families mourn children killed by Pakistan school roof collapse Arab News PK",
+      "date": "2026-10-17 04:48 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan’s largest oil, gas explorer to ramp up drilling by 65 percent as US-Iran war fuels energy concerns",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdy1mdmdJa2tlMmtyamtBMDA5bFhlVVhpQjJ6bnNEbGlVdEdfb2gyd205RDNNUS11X2xiQV9LWVl4UkNfRy1zZ1d5RktSOUxzQ2NiUkg3elZDZ1k3Nm1zRlVkelNBcF85NVNPZUcyUXZpZEZaNVM4VzBJYVBUQTZ1S1R3Wi1PUU1yMlY4VWlDWjdGdUdfN2k1aGF5bFEwd2Fxck52c3dZeThScmxMSThETGRqSThCNTZjQURpUXYzWTRqaTNtR1FBZE9mOS1DUW9PaTc1a2lUMXI5NWRfdTY4?oc=5",
+      "summary": "Pakistan’s largest oil, gas explorer to ramp up drilling by 65 percent as US-Iran war fuels energy concerns Arab News PK",
+      "date": "2026-10-17 04:42 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan’s largest oil, gas explorer to ramp up drilling by 65 percent amid US-Iran war oil shock",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzVhRldHX1FMRE1GVzRLMXhjUjQxQm1VSnlUb1Z2NEpGSEhzRERvdVRTNFQxREpRYnpZUWFFY2xnaDZzd3hJR2JzUUJRSDlJNHZTR0l1NDhQeEZtUTk1WWdsZVZXWHgzYUtfVEo3N1ZoN05pZXdCMGw0RU9VMEhtdWRxeWxyaXQzODdmcFJvckU1eFNKYjdtUDJ4SXJDTExoOWVsakhoOFZoN3E1a1IzbDc5dm9XaHNwSWg3Z3o4Z0xZT2g0elRkZDB1ZW9oc0dtS0E?oc=5",
+      "summary": "Pakistan’s largest oil, gas explorer to ramp up drilling by 65 percent amid US-Iran war oil shock Arab News PK",
+      "date": "2026-10-17 04:42 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg?oc=5",
+      "summary": "Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Israeli settlers attack Palestinians and Washington Post photographer in West Bank The Washington Post Israeli settlers burn olive trees, injure journalist in West Bank attack Reuters Israeli settlers attack Palestinians during olive harvest, and ",
+      "date": "2026-10-17 03:56 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
+    },
     {
       "title": "Pakistan offers assistance to Türkiye as Istanbul suffers ‘biggest’ flood disaster in 80 years",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekhVX3pHUWVUMWhJVWhoN2J0OU5lUllpTnc2V0N0OTdMQnZWR2N5VF9yS2RUWVhtVXkxS3FoUXhBb3pscko5X1FkalZIRFlsVGljeTh0QV9RcWFBR2NQMGRlcnVXWGZkeEFKSTA1Ym9tTUxuQ2FPVzB5U1h3ek1PWXR6YzZOMWxieUlpTFlKdy1yemU5VWduaS1oV0dZZm9vSzRfd3dzdzB6U3hpWEZzVlNrU1lVUWVRMnRlVDRkMGxteFpPR2pkU2hUalRDd3lNNlF0VQ?oc=5",
@@ -18,20 +82,20 @@
       "source": "Arab News PK"
     },
     {
-      "title": "‘Silence all around’: Pakistan school roof collapse leaves one family mourning five children",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDJIWVFaWHMtQlZ6SUxLdkRLOHJNdTZuOU5hUDBTQk9CaENTRHhIN0x6ZW5rMGJmODUtVjUyVXVGQkhINElmLVR4OHcyQ0JrdjlOSE9IcnhWb19WbG02bVpMbm1qWS15QkNkNkRfM002Qlc2OVI2UU16X01tUWFIZjZGN05hZWQwWWxiVURDaHdwaksxZGV5Q28yWWRKUkVvejQ3SVN5UGlQbko2Zm9vWldWT21mQW56Q3FHc0pzY2p6c09kaXBRa3pn?oc=5",
-      "summary": "‘Silence all around’: Pakistan school roof collapse leaves one family mourning five children Arab News PK",
-      "date": "2026-10-17 03:22 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
       "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
       "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
       "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
       "date": "2026-10-17 03:11 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE?oc=5",
+      "summary": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico CNN Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters 3 Men Are Found Guilty in Murders ",
+      "date": "2026-10-17 03:11 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
       "title": "Auto financing in Pakistan rises to Rs407bn in September",
@@ -48,22 +112,6 @@
       "date": "2026-10-17 02:54 UTC",
       "category": "World",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPem9jVHJuR1I5X3JBemw2cTVXYVF3aFhqRUp3UmtGN21lbGNRVE5XSGhSaG1ZZWw1dmhGMW1vSWVnNXVHMml1SWJrODhxR0ktRGl2UDJPakwteTJaR0d5MkxXQkxYNXh5ZzlRM3F2Y3hKdnE4MlpwMTl5Sm9CVC10T1VxZVQxcl82RU8xajU5UWpBRVk?oc=5",
-      "summary": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation The New York Times",
-      "date": "2026-10-17 02:50 UTC",
-      "category": "Pakistan",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "date": "2026-10-17 02:48 UTC",
-      "category": "World",
-      "source": "BBC News"
     },
     {
       "title": "Pakistan stands shoulder to shoulder with Saudi Arabia, PM condemns Houthi attacks",
@@ -92,7 +140,7 @@
     {
       "title": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ?oc=5",
-      "summary": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International How Yemen’s Houthis Are Testing the Limits of Iran’s Power—And America’s Newsweek What do the Houthis want? Financial Times How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters",
+      "summary": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength WRAL Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International How Yemen’s Houthis Are Testing the Limits of Iran’s Power—And America’s Newsweek What do the Houthis want? Financial Times",
       "date": "2026-10-17 02:00 UTC",
       "category": "World",
       "source": "WSJ"
@@ -156,7 +204,7 @@
     {
       "title": "With no food deliveries since May, starving residents flee Russian-occupied territory",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEZXOG9CV1RpaWdCV2E0TFdEWjZDRzVQODZ0Ung3V2FaYU1JYWoxVFFBSnBFWThzckh4dks1UzdwYTY3R2VlQ0syV0dtd3o2R1VsejhCc0tIWlZ5THdVUC1QbWhLVUpIRS1ta0hBV0tSMUNhWmloZXVSbUJMNVoxcnlQTmI1RGEzaUFXYVRlWElCVXhOLUpEdUFtRkw0VEw0bVpJZDVaRklNTFRiZkQzN2k0M080SUVTZHdZ?oc=5",
-      "summary": "With no food deliveries since May, starving residents flee Russian-occupied territory The Washington Post Starving Ukrainians Are Risking Death to Escape Their Front-Line Town WSJ From Oleshky to Mariupol, crises across Russian-occupied Ukraine deepen The Kyiv Independent Russia Ukraine Civilians Trapped WV News 'People survive on one meal a day': Oleshky official warns against giving Russia more territory Euronews.c",
+      "summary": "With no food deliveries since May, starving residents flee Russian-occupied territory The Washington Post A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine AP News Starving Ukrainians Are Risking Death to Escape Their Front-Line Town WSJ From Oleshky to Mariupol, crises across Russian-occupied Ukraine deepen The Kyiv Independent Russia Ukraine Civilians Trapped WV News",
       "date": "2026-10-17 01:15 UTC",
       "category": "World",
       "source": "The Washington Post"
@@ -210,12 +258,12 @@
       "source": "The Nation (Pakistan )"
     },
     {
-      "title": "Israeli settlers attack Palestinians and Washington Post photographer in West Bank",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1p3QWNMcUlFQTQxMVgtX2U3YVhmMzBPcjg3U3RmSXFqc3ljOWxuc3h4MXRtQ0tYQkk5RjZYblBWdDVGM3hTcmlwaDRLZ1BRNWJOU1JTam80SmFWMTNYNks2X2V2TURDQmoxZWo1X1h5MnpocVdVRGpWUnI4dGRWM3BmTEh5WWU5cl9mdkhRTldqc2hSSlZrV3hKSE1rdFMzNENJbVdmeEZtWDFmRVE?oc=5",
-      "summary": "Israeli settlers attack Palestinians and Washington Post photographer in West Bank The Washington Post Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Israeli settlers burn olive trees, injure journalist in West Bank attack Reuters Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks NPR Israeli settlers attack Palestinians during olive harvest,",
-      "date": "2026-10-17 00:09 UTC",
-      "category": "World",
-      "source": "The Washington Post"
+      "title": "Pakistan rules out unconditional talks with Afghanistan",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rVDlfZHI3eTBfU3c2SmZlbDZtMTdqRGNHYjBRNjVHWjk1bnVpZjdsOVc1djVFYWZNX3lmaW9TWFh3VkFWWnNYLQ?oc=5",
+      "summary": "Pakistan rules out unconditional talks with Afghanistan Dawn",
+      "date": "2026-10-16 23:56 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
     },
     {
       "title": "20 local IT firms attend TechCrunch",
@@ -232,22 +280,6 @@
       "date": "2026-10-16 23:54 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Pakistan, Malaysia vow to deepen trade, investment ties",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX01PLTMwaXN6WmdGZVQ3TEhQZ3k0dVRqWk5ZWXlXeEJtcWs4am9QSmRYeTk0U0JoNk1WbW1LaE85M2R2N0ZxSlBsZEF4bFJWUENZOGZRYXdyVjIwUVBKcUpUV1QxU2c4ekFPOURBeWZuMldEQml1TVl3bnpXbWx5dmhVQUZwcmoyaUJmdWVZQ0FySVFubDZOedIBVkFVX3lxTE41ZGgwbEZ1NVhpQlJNQ3Q1WDR5cnhPbXUxUnpONzQ5bEhoQkhvcXVGTVhHV0wxWWRvMTQ1emZiUGpsOVFfM1lPNXNiZzVUZWZ6dWhsZ0RR?oc=5",
-      "summary": "Pakistan, Malaysia vow to deepen trade, investment ties Business Recorder",
-      "date": "2026-10-16 23:52 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "PPP voices its concern over rising terrorism in KP",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkwzUlJScnZZWHlBeVBEMlJLTVA5Yk83N1VnSVl0dGl6enQ5dEhhcDhXYkFNdnpGNW5ydWJxZHlQWjFocHVVQUtlaDNvMEoySjVNeXExaFZOQ3FSd2Q3M3FNZjZCTzNZV01TVTQzNDQxU19kNXE0OFN5bTA4ZGdkb0Q2TkJETlBSczBfcXdnZWprRkRG0gFWQVVfeXFMT0ZfZE9KdkgycUhEUzFwT09uaVV4aWM2R2FHeW5MQ3h4cW5ISlBoTUJ5ZzFBYlNpdFR0alVDMTZsMlh6Ykp6ektPY0MtaU03T0MxS0JyYWc?oc=5",
-      "summary": "PPP voices its concern over rising terrorism in KP Business Recorder",
-      "date": "2026-10-16 23:52 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
     },
     {
       "title": "Senate adjourned without transacting business agenda",
@@ -356,7 +388,7 @@
     {
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNDhSTUViUVZRSmhGbE14YTAxOWQ1cVFoLVdUb0w5cnRTUFNUN1RXdEpxX1NjS2VUbEhJeXRLMDBfWXk5NGNBQVprYTdJYzY2TV9kaHNsNFNlSXM?oc=5",
-      "summary": "Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times Pope Leo XIV seen for first time since lung cancer surgery amid major recovery milestone Fox News Column | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer. The Washington Post Papal trip could face changes after surgery The Pillar",
+      "summary": "Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times Pope's health should not be taken 'for granted', says top Vatican diplomat BBC Pope Leo XIV seen for first time since lung cancer surgery amid major recovery milestone Fox News Column | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer. The Washi",
       "date": "2026-10-16 23:20 UTC",
       "category": "World",
       "source": "BBC"
@@ -372,7 +404,7 @@
     {
       "title": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRy1kTkRzSFhZVkt4UXhBX2RQVEhpRlZqbnVSTUlhdzJLaDBBWkh3dDVfNFJPVVZFV2NRSk5VLUx0U0prcUtuU2ZBY1hTU0xyejRQY1RqYThGWXJBUUtSU0VkU1Z6RG9ZbDJ6bGRFV3V3OTBwLUF4NWFzWFJmZXR6X1htekNINzQ?oc=5",
-      "summary": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says Axios Centcom commander says naval blockade cost Iran $25B in oil revenue The Hill EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows Reuters Iran's Economy is Grappling Under the U.S. Blockade. But it Still Reportedly Managed to Export Some Fuel. Yahoo Finance Iran broke? $25 billion oil loss, $350 million crypto frozen as ",
+      "summary": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says Axios EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows Reuters Centcom commander says naval blockade cost Iran $25B in oil revenue The Hill Iran's Economy is Grappling Under the U.S. Blockade. But it Still Reportedly Managed to Export Some Fuel. Yahoo Finance Iran broke? $25 billion oil loss, $350 million crypto frozen as ",
       "date": "2026-10-16 22:43 UTC",
       "category": "World",
       "source": "Axios"
@@ -384,6 +416,14 @@
       "date": "2026-10-16 22:41 UTC",
       "category": "Pakistan",
       "source": "Al Jazeera"
+    },
+    {
+      "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1ZyZzN2aDhYaGpfTWktaXhZUGhEX0F0Vk1sUnJkdHdnQUxJLWd6TnhVLUNDMjlHVG1rY1RZTHFQYUVaWXNILVNFYWU5UklRb2ROZXdNTE1ZRDdxdnhvdTRfVzdTdUpfcFVvdGVCZ0c3dnpzbmVRaXhDNW02M3ZmeXNHQQ?oc=5",
+      "summary": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable The New York Times Ukraine Launches Online Map to Track Russian Drones, Missiles and Air Raid Alerts - Oj Odessa Journal Ukrainians in frontline city keep going despite constant Russian bombardment | ITV News ITVX Russia Ukraine War Daily Life GazetteXtra Russian Strikes Disrupt Life in Kyiv SuaraGarut.ID",
+      "date": "2026-10-16 22:02 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan walks a diplomatic tightrope",
@@ -400,6 +440,14 @@
       "date": "2026-10-16 21:55 UTC",
       "category": "Pakistan",
       "source": "The Express Tribune"
+    },
+    {
+      "title": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw?oc=5",
+      "summary": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu Reuters Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Houthi Missiles Strike Government Headquarters in Yemen The New York Times Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed CNN Yemen’s government says Houthis fired two missiles at Aden airport",
+      "date": "2026-10-16 21:51 UTC",
+      "category": "World",
+      "source": "Reuters"
     },
     {
       "title": "No one is bigger than Pakistan: Vawda",
@@ -458,20 +506,20 @@
       "source": "Intelligence Online"
     },
     {
-      "title": "Katie Zacharia leaving her White House role less than five days on the job",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
-      "date": "2026-10-16 21:05 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0p1V2xfQXVzaVlPdVhQdWxra2NPSWtJRGZoZ3ZqdHd1Z1NZOVFpQUhxY2RKU2g0VVo3T280MW9rSXhJZW83TTk3M2hXSDFJcWs2LVhoblM5eTdOQV94NVk1b1YwWVBRN2hOcXB2enRBY3haQVpZd2tNZjExZGVWOTlFZDA1VkFINU5Nb1RIZWpISjVpc3pSN0MxWGxkbG9saDVWNmI5cWVVak0tTWNhZXBraGxwTXl4LWF0cUdHMFFOLVI2c3BV?oc=5",
-      "summary": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports Reuters Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias NBC News Brazil’s Leftist President Accuses Meta of Helping His Right-Wing Opponent The New York Times Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil Folha de S.Paulo Meta",
+      "summary": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports Reuters Brazil’s Lula wins electoral court challenge against Meta for alleged pro-Bolsonaro algorithm bias NBC News Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling AP News Brazil’s Leftist President Accuses Meta of Helping His Right-Wing Opponent The New York Times Meta employees say Lula’",
       "date": "2026-10-16 20:28 UTC",
       "category": "World",
       "source": "Reuters"
+    },
+    {
+      "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSm53RDlpSVFXRjkzV1pJTkIyYlRzeFptSU1ManNGYXJnRFdmNFo2OGFOdjVxQU9UcDNmbllWMzFmbmJNV2tEc1UwQy1rWU5CYmJURnZkaUF1c1Y4UXAzV2JZNmdPdnhYcENsYmh0bXRJLTBTNFNGWUl4QjZKOHJ3QzhuZmtvcWplbGN3OVVaQXNmdw?oc=5",
+      "summary": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands The New York Times",
+      "date": "2026-10-16 19:39 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Trump denies limiting Ukraine access to Starlink network",
@@ -522,12 +570,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Police assess Palestine Action post by national security adviser's wife",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTUxjckpFTG1WTWVDbFo5N01pSl9yUkRpbF8zZWU5MEhrbFZMNTVmQWRtakdXd0RscHVleGhIQXozZWxqSFZ5ek9faG0yR3VtMDZKVVdDYzFFd3M?oc=5",
-      "summary": "Police assess Palestine Action post by national security adviser's wife BBC UK PM adviser’s wife expresses ‘support’ for Palestine Action Al Jazeera UK national security adviser under pressure over wife’s comment on supporting Palestine Action The Guardian UK cops looking into post supporting Palestine Action by wife of Burnham’s top security aide The Times of Israel Palestine Action post by Sarah Helms, wife of nati",
-      "date": "2026-10-16 18:58 UTC",
-      "category": "World",
-      "source": "BBC"
+      "title": "Pakistan to introduce e-passports within a month, NA told",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT19fdzF6T1dESlNMQ1hXZ2tWd0NMYzgwdkc5VjlOOVR2ME1XLWJISWItci1MZHVyX3ppb0NKTVBjNXpwa3ZCZkhaWmk1dFppWktZNFlUVzBNcFV4NTk0MnJjeGJiRF9kc0ROX3lxeFBzXy1qYnBUV2pFdEVHcFFUcTk2VWgyZEVydUFwQ0V1Z1JmWFlHZ01VZQ?oc=5",
+      "summary": "Pakistan to introduce e-passports within a month, NA told The News Pakistan",
+      "date": "2026-10-16 19:00 UTC",
+      "category": "Pakistan",
+      "source": "The News Pakistan"
     },
     {
       "title": "Auto financing in Pakistan rises to Rs407bn in September",
@@ -544,6 +592,22 @@
       "date": "2026-10-16 18:46 UTC",
       "category": "World",
       "source": "BBC"
+    },
+    {
+      "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckJmNmRMYUlHMUctRzBjcEVXcnFHMVBmWERjWVJvRklpazZUaVBrS0JaY21pcVQtUk1zOUFENEN2RTFkN2pSQUpsNEhjMTAwZzhoV3JpUUhMdlZPVDY0czJSbFVvWWMyLUdHS0UtamV6allLRW1fYmJPTTBkdGNqTk14Ny01S29UVXJKZXY5bE02VnFZYXo5ajE4RWFPUXJMbkHSAacBQVVfeXFMT1lobG9ZdWI4U3p1aGxRNkhNd1FPSWJxYlNFSWZmcW5yeTFlTThkUHM0TGpFeDV3X3M5LThHUUI0RTl4QTZ5bmRmM0JXYTBuLW91eVdMTGRYNkE1Ym1zU0xpR05Tc0VQTWVabVhPQXdkWlpLSVlQdzZpUlJjWUQxMjgwRklUZzhOOUtxdnhNUzZWNVhwYkFRMGYwV1VMWExvY3lXbnR6ZkU?oc=5",
+      "summary": "UK PM adviser’s wife expresses ‘support’ for Palestine Action Al Jazeera UK national security adviser under pressure over wife’s comment on supporting Palestine Action The Guardian Police assess Palestine Action post by national security adviser's wife BBC UK cops looking into post supporting Palestine Action by wife of Burnham’s top security aide The Times of Israel Police assess Palestine Action post by national se",
+      "date": "2026-10-16 18:35 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Exclusive: Romania president calls for NATO oversight in the Black Sea",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEFCZEZOT1RRbXByTWdJeXZ4QUVNTl8tUjZMcElaRXctbkota2poUjl5TUVDOVFpQ3BZYjd2bHRDZTZhVDFPcUlQVE1SUzBMUW9aT2hFYkJoY1ZsaUZIcVRoLU9yV0FMWFBJeEF4ckFZMjc4NWJLdGdJNUEwUlRsMWo0XzVBbTkxMUZ4dmxfaUl2anV2QUN3Q0hJc0FHSEZDcTFDOTY1ZTBPSEJpVVpuVzJsbXc2QmlZSnp6WUZwOS1iZUNH?oc=5",
+      "summary": "Exclusive: Romania president calls for NATO oversight in the Black Sea Euronews.com Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue AP News Putin brings war into Nato’s waters The Telegraph Bulgaria seeks NATO anti-drone systems, says defence minister Reuters Russia's war reaches Bulgaria's shores, putting Radev's Moscow-friendly stance to the test The Kyiv Independent",
+      "date": "2026-10-16 18:30 UTC",
+      "category": "World",
+      "source": "Euronews.com"
     },
     {
       "title": "Pakistan explores gold-backed financing, new bond options with international bank",
@@ -580,18 +644,18 @@
     {
       "title": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTVHem52RnJEdXd1SFhkN3JKM0dKUDUtLXc1TnpHMkVGbnF6bk5OUzR2SUYzMWpfWEo5dW1iZDRkR1BvNng2ZlJFMjlqNUJxbXBsekJLZG1zSURLMEFBZmgzLTZCSV9qU3ZjTmdJQkdXb2NfNHNiTXIzQUh4VTZWbGVqbTQteEI0N2J3Y1d0OEc1MTc2b3ZPcjBjNU8tOXY2VW9oNA?oc=5",
-      "summary": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit Euronews EU leaders kick off summit with wrangles over high energy prices and spending Reuters EU resists bid to weaken emissions rules as leaders spar over energy costs Financial Times Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026 Consilium.europa.eu Costa angers EU leaders",
+      "summary": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit Euronews EU leaders kick off summit with wrangles over high energy prices and spending Reuters EU resists bid to weaken emissions rules as leaders spar over energy costs Financial Times Costa angers EU leaders as splits mar summit POLITICO.eu Remarks by President António Costa at the press conference following the European Council meeting of 15-16",
       "date": "2026-10-16 17:38 UTC",
       "category": "World",
       "source": "Euronews"
     },
     {
-      "title": "India’s Cockroach Janta party leader detained amid crackdown on protests",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlnZ2J3Y0EwYUxCYmhXbW0zOXJ4UzFOcXo3WjJxd0x1c1NpcFdGZTgzVUZEcm9MQW0wOXlVN1dETXlMVkVvQ21tRmtkSGdsUTFKSEdoa3V0bUszN1lLNF8zYjlWY0Q4UDNMVUZheXY0azJIM2NIelBKdnJiVW1mS01ENDEyT0x0SmltQXFPdlBPWVlseUFqQU1VY0k2TzhCMk12RzJpQUxuMDhZcGhsN0M3dw?oc=5",
-      "summary": "India’s Cockroach Janta party leader detained amid crackdown on protests The Guardian India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row Bloomberg.com CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest BBC Indian police again detain ‘cockroach’ movement founder ahead of protest CNN Crowds throng New Delhi and wave Indian flags amid escalating protests NPR",
-      "date": "2026-10-16 16:49 UTC",
-      "category": "World",
-      "source": "The Guardian"
+      "title": "Pakistan media regulator orders new restrictions on TV coverage of attacks and other ‘unpleasant’ incidents",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVzFmUHh6Zy1ORGxSS0JKUzFTMVlPaUJ5akI2eE8yM25RdjVENlNLUUg1a2VMLVhCRjY4QWNkWDAzUnRCNFZRd2lkSG5RZThnQ0lsLVp1OTFNU0JIbHZhdW9aRDNIcEJxLVgzTjBOTFFhaHA4SmlCNkV5ZXNBNF8zY20xZEl3OVRodVplaTI4Y00zZVJpUHIyTkRJQTlkY1Nvb1IxVXE3NzFOMnBZMHFqX3pSd0hWdW9JLUxqNUpVXzJxWUhQSDhPbFFR0gHPAUFVX3lxTFBGeGNJTXNUeFlfN0hLaEpWWmRLdTk5bEZsLTVpWTVMbFhoSkJ0cktOYWtqa3dDbHdvak1KakVIQWtoX0p4SWhPbE1EWHRyZG81cndWMF9kcVNDek9fT3p3UjJ3MHc3MHhLcHA5WjBVX2EyV0RkVXFQMUV2M3p1QUY5OXZnakNIdWZNZjFHaS1xYlNtM2VKWW52SGxFODd6U21BeG5kVkFKVl85eU16SExVTXNhd2tmckp4SzE4TnlpRFhMZEczQ0lKRUUteGFYSQ?oc=5",
+      "summary": "Pakistan media regulator orders new restrictions on TV coverage of attacks and other ‘unpleasant’ incidents Committee to Protect Journalists",
+      "date": "2026-10-16 16:46 UTC",
+      "category": "Pakistan",
+      "source": "Committee to Protect Journalists"
     },
     {
       "title": "“You f****d up. You trusted us.”",
@@ -634,6 +698,14 @@
       "source": "The Guardian"
     },
     {
+      "title": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlnZ2J3Y0EwYUxCYmhXbW0zOXJ4UzFOcXo3WjJxd0x1c1NpcFdGZTgzVUZEcm9MQW0wOXlVN1dETXlMVkVvQ21tRmtkSGdsUTFKSEdoa3V0bUszN1lLNF8zYjlWY0Q4UDNMVUZheXY0azJIM2NIelBKdnJiVW1mS01ENDEyT0x0SmltQXFPdlBPWVlseUFqQU1VY0k2TzhCMk12RzJpQUxuMDhZcGhsN0M3dw?oc=5",
+      "summary": "India’s Cockroach Janta party leader arrested amid crackdown on protests The Guardian Indian police again detain ‘cockroach’ movement founder ahead of protest CNN CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest BBC Anti-CEC protest LIVE | Abhijeet Dipke to be produced before SEM Court after Delhi Police action under BNSS The Hindu Crowds throng New Delhi and wave Indian fla",
+      "date": "2026-10-16 16:22 UTC",
+      "category": "World",
+      "source": "The Guardian"
+    },
+    {
       "title": "El Niño & Pakistan’s Smog: What’s the Real Connection? | Hassan Aftab Sheikh | Dawn News English",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMThkVnR4cjdpNjJHdWpDWThJNHdsVncwckh0QVhnSmlRanY1dUFSUlYyYmlPb1hOVWVWQ3ZNcHd6WE55ZHh0ZnctUGJNNndPejFGcWU5dTJlVk93OVNTY0h5M1UwbTcxTmtMWmlKOG5IcDFuMGtVOFhaZGp0WEJGUmRYT1hPaTJXdlRHeHJDWjQtejZjQW03TWxocmxma0RFS1lCXzdRSGoxUGtLNlpKd0s4YzJxQ0p5WXRPWjNVSDZ5QQ?oc=5",
       "summary": "El Niño & Pakistan’s Smog: What’s the Real Connection? | Hassan Aftab Sheikh | Dawn News English Dawn",
@@ -648,78 +720,6 @@
       "date": "2026-10-16 16:00 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "The Afghan wedge: Can Iran keep Pakistan out of Saudi Arabia’s war with Houthis?",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdHloSzFiV2UwcGZHUGMyeGMtQVZXUVE0dEpHQzZNTXYtSXlRR0lJOFBsb05nQkJaaHd4YnRyQTRQVWNrRnB3UnVUMmlIMDBIMWlUMnh0ZFVPR1NoRzhuV3BQRHpUZXk1ZVg2dkx2Wkxaa0FReGJ2dGtHMEc5bnhjODR2VFZfSmdhVDdNb2pzdWdoYk5WVXRkX29pakF4ZnM5RzJ3dEhmODdhWTRTTGVtMXh1TmpXVm1fTEpkcUV3?oc=5",
-      "summary": "The Afghan wedge: Can Iran keep Pakistan out of Saudi Arabia’s war with Houthis? Türkiye Today",
-      "date": "2026-10-16 15:50 UTC",
-      "category": "Pakistan",
-      "source": "Türkiye Today"
-    },
-    {
-      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-      "date": "2026-10-16 15:45 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan’s current account deficit widens nearly fivefold in September",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkxzRnRQbWZKTkp2YXdrWG9XUE1ESTFDTU5SRmdveE1sVjB4MUhKSzNKNDUybTgwY045czlfNGZ0eEk2R2hPS1BoTVBXLTZWQUxLRjRWWklOV21FdEYyNVNSOGplUmJpdWsxaVRUSjNWTGg4WGNQQ3FNaDRKVm9ZelVUdG5QYkxPZ2V2NC1KcWhmS05MVW1laVBCZVhxTDdVeHQ4MjZHMTlZSUtMN2dn?oc=5",
-      "summary": "Pakistan’s current account deficit widens nearly fivefold in September Arab News PK",
-      "date": "2026-10-16 15:43 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan condemns Indian defence minister's remarks threatening military aggression",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2NWR01OVVdJQV81cmFBVFVqMWwyNlJjaVRORk1EUnVHZ0tXTmZ1T29EOGkxRllmLTVKTHNxVVN4NnF0MGdfRFlSeFNBQlpmcHBaazhqaUc2Yk1nUTJSWk1WeUJCUXZqaWgwRktha0NfdzRzRWtTUnhWYlRpSmxqV2VzcGFqU3RqTkptNVFKczhRU3dCX0ZDdEdscHhnQUR5cW4xSHFPRG1sa2xUSHpCT1JSRENKdXV1VFpN?oc=5",
-      "summary": "Pakistan condemns Indian defence minister's remarks threatening military aggression The Express Tribune",
-      "date": "2026-10-16 15:05 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-      "date": "2026-10-16 14:57 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Devastated families mourn children killed by Pakistan school roof collapse",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFJsaXVKVzVwVzRwRFZEVWFvQmlzM3JGaEUzaWozQVdzRUZPS0N4LXVaRmphUXI0em53Qmk3aTc4R3BzQUFQOTlFbE5SdmVCSXN3eVJNM0Rfc0NZenhPWkR1M3IxNEFHOTJXMmI5ejlLWUlsZU1abWgyUWk4QVdLSXBjTE5iOVVFY3cwSkpyR2laWmxIenFfV0d3LWFRUTRSVkw5WTN2NmphVnhDcGdsU2NqX0pLUmRmOXR4dDlhQW1jYzdvbzdqWg?oc=5",
-      "summary": "Devastated families mourn children killed by Pakistan school roof collapse Reuters",
-      "date": "2026-10-16 14:53 UTC",
-      "category": "Pakistan",
-      "source": "Reuters"
-    },
-    {
-      "title": "Pakistan’s IT exports hit $435mn in September, 'second-highest ever'",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tUkF3VEFKU04wbzJ3MVE3aXdtYTE4VmUyZVl1ZE5YUlFjVkNjYjhCQThXVjhLZXhKSUhTYno4QkV2amVnNXl0RHN1TU85bkpj0gFWQVVfeXFMTndHeUxtdmZhb0txTmNVRGcySHhRa3dwUXdWbWdOTnpVSGl4VXlfdVFFZkJSdHRPNFpYYzk1cmJKTF9PZ2ZOd1BIbW1JZXZPSExsVElTbmc?oc=5",
-      "summary": "Pakistan’s IT exports hit $435mn in September, 'second-highest ever' Business Recorder",
-      "date": "2026-10-16 14:51 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Pakistan, Lebanon to boost cooperation in trade, education, tourism",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbE1GamxMSUhoTHBCSEZPM3J2OVExbC16SlBkV3lOWW5XZmNwd3lRS2hmWXM1dDExSkhoaXlial92c2xjWlFFdS1zdXM4NlJRVmRmcXAwMWdrUm5vc2JQUDJOV2FLZm9UY0hQa3J3OGZhZ19fZ2ZzMEdweERGLWphTzVOa3pYMmhHOUY3dVRraDcxSklmWGxZc3BYVGI?oc=5",
-      "summary": "Pakistan, Lebanon to boost cooperation in trade, education, tourism The Nation (Pakistan )",
-      "date": "2026-10-16 14:44 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Hibaldstow man jailed for sex with dead woman",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jVDYyeW5mN0V3cHBTNDBURG5Xd0pXbUl5OGNIZEQ3VjZBcjJvc1d1TUdkbjFPdEs0Q1Zqc0l5NnBUczIyeDRIX2RnUDh0OF9sRWxrNy1oMlJKVFk?oc=5",
-      "summary": "Hibaldstow man jailed for sex with dead woman BBC See more headlines & perspectives on Google News",
-      "date": "2026-10-16 14:41 UTC",
-      "category": "World",
-      "source": "BBC"
     }
   ]
 }
