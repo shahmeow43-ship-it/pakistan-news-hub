@@ -1,29 +1,77 @@
 {
-  "updated": "2026-10-19T03:48:44+00:00",
+  "updated": "2026-10-19T04:47:31+00:00",
   "articles": [
+    {
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "date": "2026-10-19 04:30 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
     {
       "title": "Huge Riots and Anti-Government Protests in France: What to Know",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "summary": "Huge Riots and Anti-Government Protests in France: What to Know The New York Times France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops The New York Times France hit by worst unrest in years as attempts to rein in government spending meet citizen ire CNBC Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests PBS In France's Limoges, the fire-ravag",
-      "date": "2026-10-19 03:13 UTC",
+      "summary": "Huge Riots and Anti-Government Protests in France: What to Know The New York Times Macron urges calm as France counts cost of worst unrest in years Reuters France's government under pressure after weekend of widespread violence BBC Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests PBS The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its Ci",
+      "date": "2026-10-19 04:29 UTC",
       "category": "World",
       "source": "The New York Times"
     },
     {
-      "title": "Recriminations grow over failure of PTI protest plan",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDczT1dqZEZKRWxSbV9DcnRjY2E4OVY2VzN0ZE8xUjQtQTB2VEdscXhKZjVXTUl6UXM1aVRqeEJTNjdkRi1SSzd3a2JUVlpLTFlPQ0J2ampDcm9QOTE5MFlQRUQyYl85a3NpdUdzNVE3YVlMSlgyQTMzaDhVUDlqMTZwdzA1MXJSNWRkNkJlYw?oc=5",
-      "summary": "Recriminations grow over failure of PTI protest plan Dawn",
-      "date": "2026-10-19 03:08 UTC",
+      "title": "U.S.A. remains top export destination for Pakistan in September",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzdQZTdOTENtZXhnVVF3Q3RhNFRPQnhxeE5uU3M2ampPeTdETGFLNGdqTDBLOFVJS1ZjNERQck5vV0JoaHg2TXNDMXNQS1pxNjh2WFNXZUNJaExWTUlZT0Vyek9VaXNMenpmeDNFbVZYYzd1Wm4xM0pxSms5QmR0LWR4bzZQM09NdUU2N0tZMnFBdVdHWFhJ?oc=5",
+      "summary": "U.S.A. remains top export destination for Pakistan in September Mettis Global",
+      "date": "2026-10-19 04:28 UTC",
       "category": "Pakistan",
-      "source": "Dawn"
+      "source": "Mettis Global"
     },
     {
-      "title": "18 Mine Workers Abducted In Pakistan’s Balochistan",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2ZPRm82a1BjOFNxeFpxamlPMkpTZmZPc2tqZ0ItLTFtTG51ZlpXZHdxY1JmelZVNm1oRVNZS19jaUdIRjdmUFZFWWxTUFM4WF9McW1wd1l3ZExsOFpKUlE5Y3NjYUw2VVp0a0M5eF9OWlBUY1J1WmQxWlRyRHFOZEFn?oc=5",
-      "summary": "18 Mine Workers Abducted In Pakistan’s Balochistan The Global Kashmir",
-      "date": "2026-10-19 03:02 UTC",
+      "title": "Pakistan rice exporters warn of costly sea route after Iran border trade suspended",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEoyeG5zS1BkaWg5eE1mbjhWbTN2WlhHa1JZX3M5WUN3cENGcC1MRFNaejg2TkxPdW5uR2tpVDE0SEYtMC1ic0tLQk9JODY2d2VERkRFRzJEeTFNejMxTTlLd0lxaXpvUUs3dVVLMU51djhMMkt6VDJ0NTZHc0Vtd1pGa1Q1ZHJFb0NQRl9MbDhSNTJQYUxFWUlPdWNCVzcyMHQyV0JBemdRMjM2NUR1QUVJZXphWDdFVlM2RHhrbHk?oc=5",
+      "summary": "Pakistan rice exporters warn of costly sea route after Iran border trade suspended Arab News PK",
+      "date": "2026-10-19 04:25 UTC",
       "category": "Pakistan",
-      "source": "The Global Kashmir"
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Ex-IMF Director Fact-Checks Pakistan's 'Historic Milestone' Leadership Claim",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlZ2UmhDX3N3TjNKMHBjTmRueVB3dGE4c21CTXRWZ2d1aHN1NGV5UDFCandzdGxqU1NSYlRTTWVZZWlRNWJKZk5Cb0tDa1ZlbnR4SWx2RkcyeG80ZHRaekZrc0ZIVjE5SElGc2hQdUN2dUlpalVJMldkQ1dUWGRkUzRZVXVQUm9fVWRkVVlTZ3l5S1FBQ0FYdVZyZjlteG9QcEFoT0FuZmU0MWpQOFhkZHB3R0nSAbwBQVVfeXFMTVd5Z0t2bXdLRFRsZDczSVZoRVN3MWRqNzVVVXk3MTRBTXNva0d0dl9RdV9iT3VfUFlLcjM4MUFYaUJXVEFNblAxeWkwT0lEeVJqTlJ1NjlYQUk0UHdUa1pMcUhJbWRxcWtaQTZrSmRRaWdZN1liZUh6RVpYXy1VV00tWGpMNDIyUEdJWnRUYTZuV2F5dEU0ZUs3NnVfM3kyVWl3Mms2ZnlMb1MtTHc0SXp0M3hiNkF1eWhEYjQ?oc=5",
+      "summary": "Ex-IMF Director Fact-Checks Pakistan's 'Historic Milestone' Leadership Claim NDTV",
+      "date": "2026-10-19 04:24 UTC",
+      "category": "Pakistan",
+      "source": "NDTV"
+    },
+    {
+      "title": "Pakistan, Egypt FMs Condemn Houthi Attacks on Saudi Arabia, Seek Quadrilateral Meeting",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb19UYWxKR1FiWDhMNjVFbXRtbTRUVHNjUGF2LW9aMlhoS3N5bjZyMWw0RlZ2Z29kQkZLRl91MVdSQ3RsRGpEZGNzSy1aZmQyd0I0dEpFTFJNZFNmTDRQR1Z4YXBCRTM0R08zNEZRd0M3enZtVWNKQl9zZHlMdHVjNDluYlZOZ0NHbVJsWUxQZ0xNS19XbXJqaS1uNFF3YlhBVzQ1UHN4YjdJbC02b2xrNEpKcVJVOUYyb3lrdjBR?oc=5",
+      "summary": "Pakistan, Egypt FMs Condemn Houthi Attacks on Saudi Arabia, Seek Quadrilateral Meeting ASHARQ AL-AWSAT English",
+      "date": "2026-10-19 04:21 UTC",
+      "category": "Pakistan",
+      "source": "ASHARQ AL-AWSAT English"
+    },
+    {
+      "title": "France's government under pressure after weekend of widespread violence",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "date": "2026-10-19 04:16 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Syrian-born doctor finds home in Pakistan years after graduation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2xvVnlKUkpTQmNScS1MT3RBYTZuTVduY2JUdGpTTktLT1IyTnQ0NUlxQVBVUlJMcm1La0pmY0wteGZJU2lrN1dJTFRaZW9PSzRtdFZ4Y0pvNEdiaGtxamVwcENMLWZiSUZsbjZZdDFBTzZwZXVLUkMzU0VGNWl6bXFsWnpoNkdYU3J4U0tpUlg1THNiM0ZYa2R2QWdUZnlqZVpnQ2kyekU?oc=5",
+      "summary": "Syrian-born doctor finds home in Pakistan years after graduation Arab News PK",
+      "date": "2026-10-19 04:09 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+      "date": "2026-10-19 03:44 UTC",
+      "category": "World",
+      "source": "BBC News"
     },
     {
       "title": "Pakistan Army officer martyred, 4 terrorists killed in Balochistan IBOs: ISPR",
@@ -32,6 +80,14 @@
       "date": "2026-10-19 02:45 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "Pakistan Critical Minerals Strategy US vs China 2026",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NU2kxc0Y4WnNfSk9LYnVNS2VfNHcwSEI0ZmpmY2lpajRua2RzY0R4dFpfVm16V3ZmaUZidTRUR1pseGc3bkZjVEhJTXJOM0hONHpWYU1xZTFNQmZUUkxLMkF3cjBlbU9GVmFjRDI5SnYxTk93NktBdGphODI?oc=5",
+      "summary": "Pakistan Critical Minerals Strategy US vs China 2026 Rare Earth Exchanges",
+      "date": "2026-10-19 02:45 UTC",
+      "category": "Pakistan",
+      "source": "Rare Earth Exchanges"
     },
     {
       "title": "Pakistan urges dialogue with Iran amid regional tensions — Dawn",
@@ -45,14 +101,6 @@
       "title": "Threat forces Israel to Austria flight into emergency landing",
       "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
       "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "date": "2026-10-19 02:41 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
       "date": "2026-10-19 02:41 UTC",
       "category": "World",
       "source": "BBC News"
@@ -90,6 +138,14 @@
       "source": "Radio Veritas Asia"
     },
     {
+      "title": "Fire at Canada military base kills 4, at least 39 hospitalized including 19 critical",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+      "summary": "Fire at Canada military base kills 4, at least 39 hospitalized including 19 critical AP News 4 dead, 39 injured in explosion at Canadian military training base ABC News - Breaking News, Latest News and Videos ‘We will remember’: Tributes pour in for soldiers killed in fiery incident at Alberta military base CBC 4 Canadian soldiers killed, dozens injured after fast-moving fire erupts at military base Fox News AP News ",
+      "date": "2026-10-19 02:00 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
       "title": "Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM19uejBXQV9UYlQ0ZlFpMFFxYkM3WFY1aWlac3NVWUxFMUxqMzlCTE9DSl9JMlJXRHBPcnN6LVI4Xzl0OHBHYjVKME5jOFcwcFo4VnctUlpRUk1WRkhPczhHWDh2Tl9JeTVaLXU2X2dXVDNKd2dKdU5pcHhOWjRTYktfbV8tRjd3RFpNdXdfZnlxM19QYlRSanZVX0hRUlJBa0V0aFpTNGFUZExoSWs4S0Y0dmZMcUUt?oc=5",
       "summary": "Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks WSJ Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength PBS How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters Debate: Has the war against the Houthis already been lost? Amwaj.media What do the Houthis want? Financial Times",
@@ -112,6 +168,30 @@
       "date": "2026-10-19 01:40 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Mangrove loss raises flood, erosion risks along Karachi coast",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEFOWjVaeEtlWHJjMGZPYmZSd0pHeGNTQ1pvdzZtS2VxaFNSbC13d2VWME4tb3VSdG41X1YtTjZSZS1leGRiNGxjc1MwVDhXWUs1MVhkSWs1UHRmTVlINnpERXAwWXU4blNfTEFrMUlpTzQxVUxYVTRtVUczbW9HT3VOcnc3ZWJUeXpqalg3cDV3YjRHTnJFVFVR?oc=5",
+      "summary": "Mangrove loss raises flood, erosion risks along Karachi coast Dawn",
+      "date": "2026-10-19 01:39 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Recriminations grow over failure of PTI protest plan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDczT1dqZEZKRWxSbV9DcnRjY2E4OVY2VzN0ZE8xUjQtQTB2VEdscXhKZjVXTUl6UXM1aVRqeEJTNjdkRi1SSzd3a2JUVlpLTFlPQ0J2ampDcm9QOTE5MFlQRUQyYl85a3NpdUdzNVE3YVlMSlgyQTMzaDhVUDlqMTZwdzA1MXJSNWRkNkJlYw?oc=5",
+      "summary": "Recriminations grow over failure of PTI protest plan Dawn",
+      "date": "2026-10-19 01:39 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Three-day Jhang Thal Jeep Rally concludes",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0pqcUwxT01NT05MWXZaS3I2cGNUcV9kSUlOaVpzSDJQZEtSSU54akljdHB4WG5hU0xEaDNWM1U1ZUt5RmEtSTRKTTBYVlRoOWxJeDdFbXdaS0tSMDhRbU5Wd29BcHJqSHlTNENDdWM3X28tYkJHa0poVXV1QzI1Tw?oc=5",
+      "summary": "Three-day Jhang Thal Jeep Rally concludes Dawn",
+      "date": "2026-10-19 01:39 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
     },
     {
       "title": "Australian Greens senator denies claims of misconduct towards women",
@@ -138,22 +218,6 @@
       "source": "ICC"
     },
     {
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5",
-      "summary": "What we know so far about deadly fire at Canadian military base BBC Multiple people killed, dozens injured in explosion a Canadian military training base ABC News - Breaking News, Latest News and Videos ‘We will remember’: Tributes pour in for soldiers killed in fiery incident at Alberta military base CBC Major fire at Canada military base leaves four dead, dozens injured BBC Strong winds fueled grass fire at Canadia",
-      "date": "2026-10-19 00:49 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Babar Azam achieves historic milestone, joins Inzamam and Miandad in elite Pakistan list",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVmdtN0Y4ZTVXV3l0NHM5b2w5ckRSR1BHdXVfQjRKdHR0dVZwR0Y1c3pHbnk1MWlOeDMzSzFUbHJ6NVItcHNad3p4Uk01NEY4MXZnVGhxdEtJNEFwZVNoLU5OZ2RqMGtmY0poZW1tdzRBOFpleFlPUE9vZ3lTVmFzTDRsaGRQY2VNVDRvRE9zMjB5RExjOWRyNXJBanpySXFUSE9NdWZkZGowREhfdzlHVUM4YU5TMC12X2NlMnZRbDl2SG9ITHN0RUtySlVRMExLdUVWYmdNMWJCdk5LNGZIdWJyV2hyS3FHbHQxODEzemxpNFhVaHY3U3ltQ3pid9IBgwJBVV95cUxQd3A1Z09ZX1c4ZWZMUnZfY1FVYkwtUi04QzEzaHVoTU9nU2pkQ2owelRZTHBqQUlxRHVQWXM2Y2VzQTdsbXUzQkZpZ3Rhby05U3pYRTVBMDUwa2VycVluT2NxMUZsSHVXQXcxS1VqWkt0ZHRmMFRiSEtlUFg3cHdiLURmTVAxTjVjb09wekJMTEZkVE1KaW9NZVBBXzNXM1diRnExX1RZTXNBVlkyS2VIdjJocGJPbXc2bkV1WEZnSzQxbjBnMENtdXM0cF93UnduLUI2MzBiUDJNc19sWXVQNzBUYXNIT3BNeGs0MHlDLVJNaVBRNlB6SmtkZG1UeHVhMG9F?oc=5",
-      "summary": "Babar Azam achieves historic milestone, joins Inzamam and Miandad in elite Pakistan list The Times of India",
-      "date": "2026-10-19 00:30 UTC",
-      "category": "Pakistan",
-      "source": "The Times of India"
-    },
-    {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
       "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
@@ -176,14 +240,6 @@
       "date": "2026-10-18 23:39 UTC",
       "category": "World",
       "source": "The Kyiv Independent"
-    },
-    {
-      "title": "Report: Putin wants to discuss Ukraine's future with Trump and Chinese president - without Zelensky",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sMHM3dXN4WGxOTUVndmFWTWhNNmMySXdramI3MWlnYnBCbXlyZkRVdEx4UGFEaDR5Q3ByVjhnSTltVVdQQ0Rqb0xCMDZqS2lzTzNaTw?oc=5",
-      "summary": "Report: Putin wants to discuss Ukraine's future with Trump and Chinese president - without Zelensky Ynetnews Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal WSJ Putin suggests meeting with Trump, Xi to discuss Ukraine war resolution - report The Jerusalem Post Putin proposes summit with US, China on Ukraine, WSJ reports The Seattle Times Putin proposes trilateral summit with Trump, Xi to d",
-      "date": "2026-10-18 23:32 UTC",
-      "category": "World",
-      "source": "Ynetnews"
     },
     {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
@@ -226,17 +282,17 @@
       "source": "BBC News"
     },
     {
-      "title": "Riphah University strengthens Pakistan-China ties through education, youth coop",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXY1Ql9aQmU2akU3ZHhhM1dldkd3a2dld0ZOT1VGMzVUOXp1WjlpblNJbHhFNS1EeXRvekMzTDREOXREUUpjVnJOdnFXXzdOWV80UWJGQW1UdUdlTVJwR2ZOQlh6a2tsZ0R6ZWdLZjhNRVJ1ZFZySXE3SGdiU1ZsdUVxQTNrbGFOdk52and6TlV6dHByNEpXVXJXU0hjdlJhUzlDSlREV19OZGVt?oc=5",
-      "summary": "Riphah University strengthens Pakistan-China ties through education, youth coop The Nation (Pakistan )",
+      "title": "Maldives president to visit Pakistan tomorrow",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUd0QnVWRFpFZjhSdXBVSGFyWG1GaE1SYWxnTFVNcVpEMjZEWkdtSWhieXBSbW96S3h0bjNMazN0Wm0zWVdHbGE2YXptQi11bjhLMFhjTUlXa0NGakJkTTBaZnF0dTVMSDhfa09sTnpCc2JJT0tjLVBOdHlLOWotaDhQVVpHVmc?oc=5",
+      "summary": "Maldives president to visit Pakistan tomorrow The Nation (Pakistan )",
       "date": "2026-10-18 22:26 UTC",
       "category": "Pakistan",
       "source": "The Nation (Pakistan )"
     },
     {
-      "title": "Maldives president to visit Pakistan tomorrow",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUd0QnVWRFpFZjhSdXBVSGFyWG1GaE1SYWxnTFVNcVpEMjZEWkdtSWhieXBSbW96S3h0bjNMazN0Wm0zWVdHbGE2YXptQi11bjhLMFhjTUlXa0NGakJkTTBaZnF0dTVMSDhfa09sTnpCc2JJT0tjLVBOdHlLOWotaDhQVVpHVmc?oc=5",
-      "summary": "Maldives president to visit Pakistan tomorrow The Nation (Pakistan )",
+      "title": "Riphah University strengthens Pakistan-China ties through education, youth coop",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXY1Ql9aQmU2akU3ZHhhM1dldkd3a2dld0ZOT1VGMzVUOXp1WjlpblNJbHhFNS1EeXRvekMzTDREOXREUUpjVnJOdnFXXzdOWV80UWJGQW1UdUdlTVJwR2ZOQlh6a2tsZ0R6ZWdLZjhNRVJ1ZFZySXE3SGdiU1ZsdUVxQTNrbGFOdk52and6TlV6dHByNEpXVXJXU0hjdlJhUzlDSlREV19OZGVt?oc=5",
+      "summary": "Riphah University strengthens Pakistan-China ties through education, youth coop The Nation (Pakistan )",
       "date": "2026-10-18 22:26 UTC",
       "category": "Pakistan",
       "source": "The Nation (Pakistan )"
@@ -274,17 +330,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Priest in Ecuador dies after crucifix falls on him during livestreamed Mass",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcnhVVmdtRDVLcmhSbFp5eU0wZURYZWdkS3A1Y3dLYjFZYkpiNnZ5WF9WbmJib3N5YjJ3azJKTVBmZWh2OFctN0Y0VF8tREQ0c2d0X1RGWUYxWGZlaGRybmViSUtYWEItWXh3SXNSWk9hSC1xUG11U2ZUa3lnM2w3eDJTZlNGVGpicE9PYW93T0FLM3FpWHFsN2NUdTlmU0JpemlJ?oc=5",
-      "summary": "Priest in Ecuador dies after crucifix falls on him during livestreamed Mass NBC News Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help Fox News Catholic priest killed by falling cross during livestreamed Mass in Ecuador ABC News - Breaking News, Latest News and Videos Priest gave sermon on spontaneity of death just before falling crucifix killed him during livestreamed Mass New Yo",
-      "date": "2026-10-18 22:02 UTC",
-      "category": "World",
-      "source": "NBC News"
-    },
-    {
       "title": "Alberta independence referendum: Will separatists survive a loss?",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTJjdmtzcGpqa3kxUV8xaWlRN19aLWhzS3h6UDFRMGt3SmkzMWNwdV9VWWxRdFBWbl81SDIxckpBbG5GVTVVZXNCZ3JjYW5weTcwbk5HSjNudjhDTGl1ZUNJQVpNOHdQT3hfM29haDNCS3VuOUdrN0NtLThjQ1haeXpTVUFMVkxYT2FLbzNNN2hyZGNCcVR5VUJTcmxMZXlXYzZ4bVJaVVTSAa4BQVVfeXFMT1o4NVFESlVLT3dqVUE5VmtWcGhINndFSUhJcW1OVjBjdXlKWnhlRUJtOGo0RnZiOHdXdkgxUUNJQ2t5cDluMmI3aDhXQnhCSy13TlJPZFotYlBlVFN5dGpBRVVTaXU3RWNPb1kwU1ZqZ3ZoUDRVaW1mSnFKNEY1dFJnUHJrdlQyVTZwYjRvMEFzcmI4VXdId293ZDkxR2stUmhmbWZIdms1ZHoyQ2RB?oc=5",
-      "summary": "Alberta independence referendum: Will separatists survive a loss? Al Jazeera Alberta separatists say they’ll keep fighting after independence vote AP News Oil-rich Alberta votes on Canada breakup Yahoo ‘The Switzerland of North America’: Albertans vote on leaving Canada Financial Times Alberta Support for Canada Rises Ahead of Separation Referendum Bloomberg.com",
+      "summary": "Alberta independence referendum: Will separatists survive a loss? Al Jazeera Alberta’s Secession Vote Opens Up a Bitter Divide in Canada WSJ Albertans vote on path to independence as Carney fights to keep Canada united AP News ‘The Switzerland of North America’: Albertans vote on leaving Canada Financial Times Alberta Support for Canada Rises Ahead of Separation Referendum Bloomberg.com",
       "date": "2026-10-18 21:56 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -378,14 +426,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "NADRA warns against fake civilian arms licence websites",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzlUVzJ5TmtmSmYyUFRBYjQ2UlNSdVQzbFNUQU9LN2xwWmR6aDZIeFREQUo4N2lROVdJNFhJNlF2S1lmazhEV1JHRV95Ul9yNU1MaHg5aXlOcXAwaHYwRWxyUGZoX1hFYnI0cXRDOWY0cE1sT0NLQ2dibnhZTEZ2Q2RpNkNXcThqT0VOMTlpVlZia2ExeGd3X2l5Y9IBVkFVX3lxTFBFSFZ4dzVNd2tjaUlwb0NmV3M4UkptbUU4VVdldGVWT2FKUWpoUVg0X2QzajJncVpVeERZa2Q5ZU5HVDFBMDFuVVZVQUlrZlNmbC10bVZ3?oc=5",
-      "summary": "NADRA warns against fake civilian arms licence websites Business Recorder",
-      "date": "2026-10-18 21:10 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Pakistan and Afghanistan caught in a cycle of TTP violence",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTZlNUJVSUVwNHkzVEFzN285blFVcFlxMDM5MnAxT1dGX2NfX19xY1N0cHVDcnBnNGluWnF4Z2RDTHpvWTY0RGo3UFZxSWloWlBtT0NBYmJiVUxrajNMWTdrajlZdTBaVHVBek0xODlSQ3pIS0RScEJINDczLWxQWTZPMzZHSHQyWHdvZHJWeFpFMDRDZE5XS0RxbFpNOGZL?oc=5",
       "summary": "Pakistan and Afghanistan caught in a cycle of TTP violence Daily Sabah",
@@ -410,20 +450,28 @@
       "source": "BBC News"
     },
     {
+      "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTdsenBWeEItQkMyXzNjbXJJRmhxZmpqTHpRdkI1SHNyOExQOThFWlJZb2xkZktkRUdlSGttUTc0QjAxdEthdHFuYkNXVFZSbHRIa3doZGlaS0k0enQ0S2dyNVZWN05vdGwzb2pnamZ2SUpncTVnZDkwY2VmUGpvV3hVN1dpYUR5Uk5oT0VrMmstMnFiU3hIbEdMNURhc0dkY2fSAacBQVVfeXFMUGxDOHJ3QWRuZWZmZG1DM0Q5QW50MEFSeXdBVXZMUElhTmJCdzB5WW8wNFJVajhkUllXWS1ZSmQ3SmlEVDVTam43Wkw1cEEtN0xEOTBVZUlmU1hYVHJrdGFTREc0RGt6NGkxQU9JbzhHNS1ybEdzSDZxSkxFa1JCV01LM3NYUzFha21XVkpEaUgwNWdmWWVlRmFSX0VnODRBdmVpRW1ZUDA?oc=5",
+      "summary": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help Fox News Catholic priest killed by falling cross during livestreamed Mass in Ecuador ABC News - Breaking News, Latest News and Videos Priest in Ecuador dies after crucifix falls on him during livestreamed Mass NBC News Priest Crushed to Death When Giant Crucifix Falls on Him During Livestreamed Mass People.com Falling crucifix kill",
+      "date": "2026-10-18 21:00 UTC",
+      "category": "World",
+      "source": "Fox News"
+    },
+    {
+      "title": "Pakistan: New provinces, new opportunities?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzdTOEFTb0JZRzlraXk1bmVXbEl4UUU0c18zb0g3Ykt2bXRpQ3JlcWJqU2FYajdyY3VCdk05Y3dfa1VBcXpPTFAtbDZXY0J2QWRNZ2toOEM4Q2lRWkJYOWxYX09qT3NjUktYbi1nVk5wZENwNndHT01wekg2TTNSRlZPV3AtT0NGTlBjSUM0M3lPVVE?oc=5",
+      "summary": "Pakistan: New provinces, new opportunities? DW.com",
+      "date": "2026-10-18 20:41 UTC",
+      "category": "Pakistan",
+      "source": "DW.com"
+    },
+    {
       "title": "Macron calls for 'calm and order' after riots across France",
       "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
       "date": "2026-10-18 20:33 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "New provinces, new opportunities?",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0N5bWpGRFNEQUdjVm0zTlZIQnc5MzdFZHZuMDhaeWVId0Z1b0pqc2sxQlp0cFRUOGFFWG9sckhhbUZVTE11Sl9PSTNDcmU2OWtZU2NSWXBwLWtjN1BCek9HbklJcEJmME14T205RmpldVZTeFlGY0JFbk5GRkJ1VGFYb0w?oc=5",
-      "summary": "New provinces, new opportunities? DW.com",
-      "date": "2026-10-18 19:54 UTC",
-      "category": "Pakistan",
-      "source": "DW.com"
     },
     {
       "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
@@ -460,7 +508,7 @@
     {
       "title": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVFqZlA0dXp5TGw4WFJMdGQ2T1BqbkYxTGtVX2c5MDU1NVJ2N21YYzgyc281MEhzMkE1MVkyQmNTdkdmSm1WZHMzVmw4dXg5UFVxM2xEWTRrWWJIS0loZTNGVi1tMVNNSWZyS0x1bllnUDVjaXQ0UnNEdGxld1p4Y3ZHdnI2SXN0cmZxREpDSl8wN1A0LWI2cmFaY3ZfVk11dTNVbHFEbUV3d0U1SFQyRk82MVdsN3hPSlMtOXVCNXBQVjdUQ3JUUg?oc=5",
-      "summary": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars Space Mission set to blast off for Mars to grab a piece of its moon BBC Japan to launch historic round-trip mission to Mars moon Phys.org JAXA's Martian Moons Exploration mission launch: how to watch live Mashable Japan to launch spacecraft on a mission to get samples from a Martian moon AP News",
+      "summary": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars Space A Japanese Spacecraft Aims to Bring Back a Bit of a Martian Moon The New York Times Japan's MMX mission set to grab a piece of Mars's moon Phobos BBC Japan to launch historic round-trip mission to Mars moon Phys.org The New Phobos Martian Moon Rover That Weighs In At Only 15 Grams Hackaday",
       "date": "2026-10-18 19:20 UTC",
       "category": "World",
       "source": "Space"
@@ -476,7 +524,7 @@
     {
       "title": "Austrian Airlines flight from Tel Aviv to Vienna lands in Sofia after reported bomb threat",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlUExUNm94dm54NG43aFR6aGk1RHc1M3FjOHAzZjNhdmx0VmZNS294c2ZRTmhmaVM0OEtMMWh3eG1KYTllajBMMWx0VG1hV0NGQ3dMaTlHWQ?oc=5",
-      "summary": "Austrian Airlines flight from Tel Aviv to Vienna lands in Sofia after reported bomb threat Ynetnews Flight from Israel makes emergency landing in Bulgaria after bomb threat Al Jazeera Austrian Airlines says flight from Israel diverted after 'threat' USA Today Flight From Tel Aviv Makes Emergency Landing After Threat Bloomberg.com Flight from Israel diverted after ‘threat’ Financial Times",
+      "summary": "Austrian Airlines flight from Tel Aviv to Vienna lands in Sofia after reported bomb threat Ynetnews Bomb threat forces Tel Aviv to Vienna flight to land in Bulgaria BBC Flight from Israel makes emergency landing in Bulgaria after bomb threat Al Jazeera Austrian Airlines says flight from Israel diverted after 'threat' USA Today Austrian Air flight from TLV to Vienna makes emergency landing due to suspected security th",
       "date": "2026-10-18 19:04 UTC",
       "category": "World",
       "source": "Ynetnews"
@@ -498,41 +546,9 @@
       "source": "The News Pakistan"
     },
     {
-      "title": "Pakistan reports over $18bn trade data discrepancy to IMF",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2VuR01VRWU1RVpwUTdFQk8yUkVRMEpDNjJCcnlFbnhhZVFNQ1lBcVdKOU5FdmNhLXJoRUdLMmtjUDBWLVdaaUNKZ3JITXJzZU9jN2lPWUdWcHNydGVmVGNJS1RsZWJLV3dCU3M1WXUtOF85a21uV0hORVpFd3UwM04zTS1NT2NVekVlaDR1YmkwcVAwMTRqSQ?oc=5",
-      "summary": "Pakistan reports over $18bn trade data discrepancy to IMF The News Pakistan",
-      "date": "2026-10-18 19:00 UTC",
-      "category": "Pakistan",
-      "source": "The News Pakistan"
-    },
-    {
-      "title": "Pakistan’s Asad guides Prime Gladiator to victory in USA Cricket",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcW5GMTREc0tyNXdyQ2Z2ZGRSZTlCLVdXME92c3NLY2MxYjBINjUxM05BaWFQUm0xSWl4VmFCTUxmeEkyb1VCRmhkRHNxUnNXQlQydGpRc1FPekl5TGtxdjhyWF9OdTJDVmZ6Zkp0TUgwSTN4Y3dVdnRtNDZ5WWhFWG5PU3B4REpibGFmNmxXSG9jalpVUXh1eGo0U2VsbUVYeUNB?oc=5",
-      "summary": "Pakistan’s Asad guides Prime Gladiator to victory in USA Cricket The News Pakistan",
-      "date": "2026-10-18 19:00 UTC",
-      "category": "Pakistan",
-      "source": "The News Pakistan"
-    },
-    {
-      "title": "Salman’s ton powers Pakistan to 37-run victory over Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0JYMUNSSWJFSUpXSVlSVlNIYUZ1NXB2cGNqWEVCTzY5NDF5WUh5RU04ejhQcWhKLWt2RmhrbUdtNGw2Z2lHWjg2YzFkMUFFVkhtZngySVhLZklPcjRsVEFSS2hYaXhXNGdfUDFiNldfczB0cnBSMlB2YjBHbDY2dG55ZUZ6eU5aX3dHTDB3Q29qYV9rTEpZN2xjdE1ZZTQ?oc=5",
-      "summary": "Salman’s ton powers Pakistan to 37-run victory over Sri Lanka The News Pakistan",
-      "date": "2026-10-18 19:00 UTC",
-      "category": "Pakistan",
-      "source": "The News Pakistan"
-    },
-    {
-      "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPay1sclgydEVwSDBaSHdrVFRJUldJSllONTFYRlVRV2o0WGNlX1hTOE1laXRwdnlCbnE0c0ZPYVp1ZzRLZmNBNHVKajZOVUNqQ2s1UV9QZlVuUE8wZkhEeGprOGt3RHE0eTJVWEZUdFRaU2dJWDhOUDV0aUdWcjNyZFVScnRQUTd2ZUF1a3ViZ2l6UjVLc21hUHdfa1ZORWhtLVNJd3VWZHE2X0sxMGt5eHo1RzcwTEk?oc=5",
-      "summary": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu AP News Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says Reuters European diplomats attacked in West Bank a day after beating of Post photographer The Washington Post US ambassador to Israel condemns settler attack on American journalist, and other Mideast news The Boston Globe European diplomats say they",
-      "date": "2026-10-18 19:00 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
       "title": "Super Typhoon Champi intensifies to a Cat 5 after battering Guam",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN19TQ1dCT0lqbDlnRHJudEFWdmxPZ0RHbXVmYi1ZV1JCU09ObGtpRVM3bzN0dnIwWUNNcUZCc0NSTmRTYnhaRDdBVXZTaVhIQWV5MVgxOHg3clFycDRYZWdUSVV5dFh3bW05WWxWRGZkUXJldDBrR201OEtiLWxfNS1GZVE1bkc2X2tPMkREZE51Rk9iNHE4bFF1SDJfeXBPUTZHc0kzWVI0VlFJ?oc=5",
-      "summary": "Super Typhoon Champi intensifies to a Cat 5 after battering Guam Yale Climate Connections Guam braces for Category 4 Typhoon Champi as eyewall approaches Scripps News Super Typhoon Champi is chasing the strongest storm on Earth The Weather Network UPDATED: Around 50% of island without power Sunday morning, GPA crews out guampdn.com Typhoon Champi sea warning possible Wednesday night: CWA Focus Taiwan",
+      "summary": "Super Typhoon Champi intensifies to a Cat 5 after battering Guam Yale Climate Connections Guam braces for Category 4 Typhoon Champi as eyewall approaches Scripps News Typhoon Champi sea warning possible Wednesday night: CWA Focus Taiwan Super Typhoon Champi is chasing the strongest storm on Earth The Weather Network Typhoon Champi triggers presidential emergency actions across Marianas Public Radio Guam",
       "date": "2026-10-18 18:59 UTC",
       "category": "World",
       "source": "Yale Climate Connections"
@@ -588,7 +604,7 @@
     {
       "title": "Europe Map Shows Countries Hit by Protests This Week",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVA4TDhLUjktNjhpSFpjUUY5Vm90OF9GRDhpeTA3emRKd21xd3hyR3pYVVBxbnVsLVlCaC1kZmVPQUJieWRfSzFtWXg5RndFRXZ1cTRSRnVvSlBOUnhodzBHQXR1Y3FUTU9hNm1kN0ltcU55RXlHWHdkcTNqd1NEaDdGaUplYWtRLU9nUnVMYw?oc=5",
-      "summary": "Europe Map Shows Countries Hit by Protests This Week Newsweek Why are people protesting across Europe? The Guardian Angry Youth in Aging Europe The New York Times Niall Ferguson: Why Europe Is Burning The Free Press Public Space in France, Italy, and Sol Atalayar",
+      "summary": "Europe Map Shows Countries Hit by Protests This Week Newsweek Why are people protesting across Europe? The Guardian Angry Youth in Aging Europe The New York Times Niall Ferguson: Why Europe Is Burning The Free Press Wages vs prices: The economic pressures behind Europe's protests Yahoo",
       "date": "2026-10-18 17:55 UTC",
       "category": "World",
       "source": "Newsweek"
@@ -596,10 +612,26 @@
     {
       "title": "Saudi coalition, Houthis trade strikes as disruption spreads",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3ROQkx6TUs1eHNnT1Zhb1REVFhhMWlTcU80RjZXSHJTVlEwaVE4SWRmbjNXWDE4ei16WWZIeDZ1TE9xV2VyblI3aWx6LXpDUDd6VHlJamctVjdJbVlYYVlpZWFJXzF4eXBzbVNEYUUwVFVvQjN6UGZVY01SaTZjRHhLenBGcV9nOFp2US1IaUpYTmZkNU9uci1n?oc=5",
-      "summary": "Saudi coalition, Houthis trade strikes as disruption spreads Yahoo Saudi Arabia says Houthi projectile on Najran injures six, damages homes, vehicles Khaleej Times 6 Saudis Injured by Houthi Projectile in Najran Yemen Online Houthis, Saudi-led coalition trade fresh strikes as Egypt pledges support for Saudi Arabia Big News Network.com 6 injured as Houthi projectile hits residential area in S. Saudi Arabia: civil defe",
+      "summary": "Saudi coalition, Houthis trade strikes as disruption spreads Yahoo Saudi Arabia says Houthi projectile on Najran injures six, damages homes, vehicles Khaleej Times 6 Saudis Injured by Houthi Projectile in Najran Yemen Online Houthis, Saudi-led coalition trade fresh strikes as Egypt pledges support for Riyadh CGTN 6 injured as Houthi projectile hits residential area in S. Saudi Arabia: civil defense Xinhua",
       "date": "2026-10-18 17:51 UTC",
       "category": "World",
       "source": "Yahoo"
+    },
+    {
+      "title": "Benjamin Netanyahu warns Israel could face a 'hostile' US after Donald Trump leaves office",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fa1g1bFhGVmE5YnVSMkhRVzVHeXV1Nmw1VTJSNWRpQldOVVNjSm80b3VVUXhTYklvN2tBamw3OWl0cWpKMmg1dkxKR1kwcEdqRTVNcEZHRDI4dUFrLXAtSHR5LTdZSWt2?oc=5",
+      "summary": "Benjamin Netanyahu warns Israel could face a 'hostile' US after Donald Trump leaves office The Jerusalem Post 'I am very worried': Netanyahu unsure about victory in Israeli election, says he will not retire The Jerusalem Post Netanyahu eyes India ties as hedge against hostile future US president India Today Netanyahu warns Israel could lose US support, seeks 450 billion shekels in extra defense spending Ynetnews Neta",
+      "date": "2026-10-18 17:41 UTC",
+      "category": "World",
+      "source": "The Jerusalem Post"
+    },
+    {
+      "title": "Fr Willie Doyle: Irish campaign to make 'WW1 hero priest' a saint",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NUGtpbUxKMGdVYlVLR2wwNDVRcmVFM2MyNXl2Q0NldGRCSzNzbkpVNFBNZm1WZ0M1NG5qQzlDbl9TWUpONnZ4MVNUUTVXVkoyTDhiRmh3eDdsUjA?oc=5",
+      "summary": "Fr Willie Doyle: Irish campaign to make 'WW1 hero priest' a saint BBC Catholic Church makes sainthood case for WW1 chaplain RTE.ie ‘Great joy’ as canonization cause of Irish military chaplain Father Willie Doyle heads to Rome OSV News Ceremony held today to mark end of first phase of sainthood process for brave WWI Irish priest www.irishpost.com Bishop Deenihan: 'I believe Fr Doyle's Cause will succeed' Independent C",
+      "date": "2026-10-18 17:32 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
       "title": "Agha's century, pacers power Pakistan to 37-run win over Sri Lanka",
@@ -636,7 +668,7 @@
     {
       "title": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlNJNGV2RU1JbHotN25MRXNHQVZIeDJJU3I5eGYzT0pkUjdaSnZqbUpNZzRJY1U2cW1yUUViUjVuTVlvb184VjZsaEF5dnNBdEFBTVhtemRBalZRbG1SdlNhdHFoVkZHTHZ3SzlTMTRWaFhJaTMyVzJxc01qWmp6aUlpa2k5dGJuVTNkeU5mWXZUZ1F6SUlrMzlESGJ4cmRkajZwcF8ybEhoZXRITXQyMVFFTkxKdnZjS0t6WFNBSWQ3M0s3WS14VzhObFM?oc=5",
-      "summary": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked Reuters Two Maldivian Flydubai Pilots Held in UAE Over Alleged Aircraft Attack Plot Homeland Security Today 'He kept on hitting': Indian flydubai pilot Smit Machchhar reveals what happened mid-flight as he was stabbed The Times of India FlyDubai passenger who survived hijacking attempt speaks in Newington WMUR ‘You can’t die like this’: India",
+      "summary": "Captain of flydubai plane describes blocking axe blows as co-pilot attacked Reuters Two Maldivian Flydubai Pilots Held in UAE Over Alleged Aircraft Attack Plot Homeland Security Today Flydubai captain describes co-pilot's axe attack and saving 170 passengers ABC News & Headlines – Australian Broadcasting Corporation 'He kept on hitting': Indian flydubai pilot Smit Machchhar reveals what happened mid-flight as he was ",
       "date": "2026-10-18 16:45 UTC",
       "category": "World",
       "source": "Reuters"
@@ -644,7 +676,7 @@
     {
       "title": "Egypt's Sissi says he'll defend Saudi Arabia, if asked",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhFTFNfMEZnbkRjRnNVeTA5ejBuQUVnVno5dHptLXZJSC1CMGRNTnpVSWdhU3dlVzB1czNrWExUMDBuVUxTZ21FMFFkVWdKeDdJNm5OSU5DSERkeXo0N2Jqa3BZN2ZBQ0QxRjNmdkpaeTktb3JxMk1jN2xlNTZlaEVfUVJzMzlrbWlDStIBjAFBVV95cUxNVm1DMmVQWFpkaVBFQTk4T1lzNks4YVFBZUR3TmtWNEk0X3NKWWMxNHA5QUU4N1cyakdJMHkwLVdlR3l1V2Q1NmNhckNLNUY4VGMzU1RYeHhDUUhrRDJEUWV4aUpRMVplQUFJUnFtSFpIRkhXb1l4ZC1EVlN2aTBKbGs0TmZCRHpLczRtYw?oc=5",
-      "summary": "Egypt's Sissi says he'll defend Saudi Arabia, if asked DW.com Egypt’s top security body agrees to help Saudi Arabia defend itself against Houthi attacks AP News Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis Reuters A powerful African military considers joining Pakistan and Turkey in defending Saudi Arabia against Iran-backed Houthi attacks Business Insider Africa What help can Egypt offer S",
+      "summary": "Egypt's Sissi says he'll defend Saudi Arabia, if asked DW.com Egypt’s top security body agrees to help Saudi Arabia defend itself against Houthi attacks AP News Live - GCC countries, Egypt back Saudi Arabia against Iran-backed Houthis Iran International Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis Reuters A powerful African military considers joining Pakistan and Turkey in defending Saudi ",
       "date": "2026-10-18 16:37 UTC",
       "category": "World",
       "source": "DW.com"
@@ -688,38 +720,6 @@
       "date": "2026-10-18 15:48 UTC",
       "category": "World",
       "source": "WSJ"
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "date": "2026-10-18 15:46 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan’s decades of backing terror comes full circle as Khyber Pakhtunkhwa falls under emergency rule",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYTZZXzRCOGVZcGg1RG9hM1AzWlY1dzB0cDJFaHRMNVZ4R1BEY0pRaS0xeGlTVWdOUTIwWEZkTGdQalhUcVE2N05CRlVyTGpkYzFmNmtqb1pGNU5YZXhUVFJrVnlWOExnR01pbkZ1Z21hZElKNTZjSTcwclJzVnNZMGh5X2xsY2xDOGM4bmRBeS0xeVVKVmNhcGJEdE5MN1VNaUgwNHVwSVFNMk1neUFzdTVvdUllOUtIaW1KQnl5bDBpM0dub3ZvcXdLZktlWlRMQjBPQVBoX19XQ0FZRmIxdTNOLVd6RW9rbm5Wal8tbURrM2VDTDNwSWE3dFFzNjRlYkNaRGFwMVAyQU3SAZACQVVfeXFMTWVPR3RINV92X2trYTQ4UU13Wk92T1ZUUVZreXZJRVVaS2NkdjFVSE5MS19LWjlsQW9tdmZ4b3pXRXhGSFNodk45VmpDOXVyU3RmNGtJelVlYmdyYzdfd2tvV0dCSjJ6UDNjVUV1WGFiUWljVDlVSElxVmFmaUktanJVZ0xDYmljOXNDS2N4UTZMeHh5NmlzbzdzTzdWTGpKZ2lMUjJ5TUJxUnlkMF9HeTVJenhWdEVyaGd0R2lNc3FBUVFQUGJLSDVyRGpvRWh2NFBob2J2LWREYWU1dHJ5VGl3R3BwejV2NTdzX3k2RFFhTU16c2trYzFvNGVNV2FpUTJ1NkgxYlhlR0NwM2E4V0Y?oc=5",
-      "summary": "Pakistan’s decades of backing terror comes full circle as Khyber Pakhtunkhwa falls under emergency rule The Times of India",
-      "date": "2026-10-18 15:38 UTC",
-      "category": "Pakistan",
-      "source": "The Times of India"
-    },
-    {
-      "title": "Meloni condemns ‘gangs of thugs’ after protests turned violent across Italy",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaS1OOHp1dzV4bzBJN3BHMk9yX0tkNV9VSEFhQjFNMC1JbXltcmVCZTlaWHNhYm5pZ05jV3hCc2lFWlpJLTNhcUIteXBLQlFlRFRtTHJGZFVLcU1iSDBwaGpTdVY3X1d5WGZNeTJaSWFZdGs5SjJQSHZiZjhmb04yUlpaSmFqaUNNMVZQSkJtekd0dXlJZElIb2daVm9fUmRwQlHSAacBQVVfeXFMT092Ym5oY2V3bjNBOEVROTRObF9KWWl3dmNDZnhJRTNRdVFoTEZrWXQ2M1FndEZlWnotWDVZUnBPMmdtdy04YVNmTGwyZzcxeEpYM1c0aHlieFROSzVFYTZWandIUGp4MzZUcFlPREk2ZGNQZnZJdEo3d2t4YUZwb2JnNXEwZ1RoMElKMVlBU0RNN1RJejJ6M2lRT0VfaXVzVzJSelp4Qms?oc=5",
-      "summary": "Meloni condemns ‘gangs of thugs’ after protests turned violent across Italy Fox News Milan police clash with protesters on second day of unrest Reuters Rioters loot stores, set fires in central Milan during cost-of-living protest ABC News - Breaking News, Latest News and Videos Rioters loot stores in Milan during cost-of-living protest featuring Palestinian symbols The Times of Israel Meloni backs police after cost-o",
-      "date": "2026-10-18 15:34 UTC",
-      "category": "World",
-      "source": "Fox News"
-    },
-    {
-      "title": "First Pakistani astronaut to embark on space mission from China on Nov. 25— minister",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ2JmWlRjRTBwWG1mWXd4V1RYcDZyY2ctN1lISm82MG9SamFOZVBDa3JrMDJIZDRPVlR6aDNrT0F5U1R3LWJrN0VLQjlxRmZ5Rzl4eFR1QTlFdzRBRjV6d3QtbUx1VWJuVlg1Z3R6SXU3Ml9yNHpMWXNlTndmd1FZZUZWSXJXUFpiR2xNa0N5REtyb1lQRXRsOUNwdWZEYjlueGpkOVhGOVZILXBCSU1CczlIZGFjTVdJODRiaXlnMk0?oc=5",
-      "summary": "First Pakistani astronaut to embark on space mission from China on Nov. 25— minister Arab News PK",
-      "date": "2026-10-18 15:27 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
     }
   ]
 }
