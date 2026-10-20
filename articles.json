@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-20T17:42:09+00:00",
+  "updated": "2026-10-20T18:52:37+00:00",
   "articles": [
+    {
+      "title": "Pakistan committed to fiscal reforms, sustainability, President Zardari tells IMF delegation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGs2ckRVRno3SjFSVWhDQ25kb3FmRnQyZ2UtcWt4d2JjRlhZcjZrNmN0OFA5aGVsa3V2bUhDVDlmSjc4WmRZdFp5S2FrUW54bjF1d3pKYm03TkotWUNuZUI3dEtxaFFqV1EyS3UwdDJPbXA4SUk4OVlyS1ljZXd6Z2Z6RDhfdXBVQmNHdWx3U1BoOTNUbUJVbEdNdTE4dTMtNFI4MHlSc2s5S1NoNnJvQ3JQa0k5QldhMmtodmkySF9kZGRCcWfSAc4BQVVfeXFMTmxlTFFyUm9IZ0E4TlVWcVNTOTNITVBWaEdJbGdlUXlOTF85dWJqck1iS0lwTHN3ZlQwQXBxQU9FQ3BUZzBmSExJNW5BOXhPWVFNS3hpSVBKdm1Ha2xoQnJ4OGJIN1U3c0lDQ01fTHJBWlF3YUZZd1BCRGp1UllCbDF5c2w3cHpHeVlOTFdkYzZCNWxYM00wWVhPRmtZNEJtcnNRX2l5V2VxRWlOVV9zUkJPWTUySGN0ZFFYeWZkUHY4RDdrcF9WV2hQTExoVnc?oc=5",
+      "summary": "Pakistan committed to fiscal reforms, sustainability, President Zardari tells IMF delegation The Express Tribune",
+      "date": "2026-10-20 18:38 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Pakistan to continue mediation between Iran and US, Dar says",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlNKWllzdXVYTU5wdUt5WXhXUHlqWUhyN0tvOWxhZURPM0dUeTVoZFhQX2V0SkRXOFZKcklUMllPRXBuUlV3cDNkelJZMVFvWE5feG5ocUhjVUVtMVZuY2tUREh5MkU2RFE1MnFsQ2lEMkNoal9RVjM0QkhSVkoxd2NYS1R6NWRnX2pGWGNoRTZDeDlKM1ZGT3hIenIzc2I0?oc=5",
+      "summary": "Pakistan to continue mediation between Iran and US, Dar says Tehran Times",
+      "date": "2026-10-20 18:22 UTC",
+      "category": "Pakistan",
+      "source": "Tehran Times"
+    },
+    {
+      "title": "Maldives president in Pakistan to strengthen cooperation in diverse fields",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajlPZ3FsdHZCS004eUdSODRLTGk1SVpjbDVUZW9fUE9vR0pHZTZxVTVVZjl3WWE1TXJQT09sbnJvbHMyVlVKNUdld0FfaERhR3Y3eURnSjRwOEJyRUpveVBDY1o0ZTQyUmxFN1hzeHZoMThSMXUtNXBVcE5YR1JvcEtEYm54eVdaWEVnaDh5QWo3V044ZGN3R1A4WXhuaVduamQyb1JHMzJqeVIybHpxQTJhSnFNUQ?oc=5",
+      "summary": "Maldives president in Pakistan to strengthen cooperation in diverse fields Arab News PK",
+      "date": "2026-10-20 18:16 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Maldives president arrives in Pakistan for three-day state visit",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmFhVDZQc2htenNyYjBGelo5VTFfNWNRRl9IbFdyMHRiZlBnMWlnY05XYXkzcWZGdFdDSFZOZlMtRmRsQVlQdWItbWNlb2V2bVVMV1BMVlgxS3BobUs0cjV5MFJmb0w4Z2d2c0RFemNKdjJqbEtCejVvM0lZdExsXzg0ZVNZcXVVUVlIWUQzLXI3R2FhZUVnTTRVQm5PemZ5eW41R2wtVdIBVkFVX3lxTE0wTnRNWUxtZEZFNzJTZmhhYmkwNWFsZzFieWdkOEgtR0xRRE55RzNNWmExU0EwYTNKSHJrT2Y1aGlXelFMaHFuYWRnNEF6M0ZuaXF0MUJ3?oc=5",
+      "summary": "Maldives president arrives in Pakistan for three-day state visit Business Recorder",
+      "date": "2026-10-20 18:11 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Iran tells Pakistan army chief no talks with Washington until demands are met",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
+      "summary": "Iran tells Pakistan army chief no talks with Washington until demands are met Reuters What is Pakistan's army chief doing in Iran as tensions with US escalate? - analysis The Jerusalem Post Iran tells Pakistan army chief enriched nuclear material will stay in country Arab News PK",
+      "date": "2026-10-20 18:02 UTC",
+      "category": "Pakistan",
+      "source": "Reuters"
+    },
+    {
+      "title": "Pakistan’s Elite Planning An Exit? Khawaja Asif Sounds Alarm Over Bureaucratic ‘Exodus’",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZnk0ZWNRSUxqTFExQU4zZkppcy1rbThTb1p4MXNCSUNGUVNaRnRQSFQwMGZEVk1taFFHMC1PRy1YT0JVRFJBMVMyVW95VUdXaVRLWE9MZ0Y0Z0VVbmw2MUtYaGZVZ0ctU2JqMEpoVDZGdk11ZG5CZE1sLXI0bmozUkJ3eTVtelMtc3l3cTRPYjZZcS0yS2FwdllrZkFhR1RMYy15M3FBYnVPMi1YVTRKWW9TNDg3ZzZqLUxKaVFSZ0NnZjBzSndFOG1GOTlfWTduMVRKb0pWdUhXSXY4dGdyRnU3Mm1uSXpldWF3VXFXSVY1M2PSAfgBQVVfeXFMTUxTcWhrUU93VThELV94YzNaNlMyTHJMd1gxbDNxSTdJMWJHVm9QMXJncVdyamNESFo3YU9oLVhtZ0wzOXl0QUlVZ2hqcDJsc3NpdTI4TmpUTVhiMW5iYmJrQ2w1N1ZwQWtheWJrQm1Wc3JjTXNETzFjNFpNWjJwb1Jha1F4ZXRNUWoyRnFiSVlKS1FSOG1CTFdvMVhsWS1SSWpTZEVLaGRkSHdaUDQzeGZSUzVZcGdrNTVEUW56MUJSU01yODJ0UzFHOExkRG1CMnl4WjRJeE5QNkp6WEdDMWRkTzlXR2NFY1dhUGh0aGdmVzRvVTJSYWI?oc=5",
+      "summary": "Pakistan’s Elite Planning An Exit? Khawaja Asif Sounds Alarm Over Bureaucratic ‘Exodus’ The Times of India",
+      "date": "2026-10-20 17:56 UTC",
+      "category": "Pakistan",
+      "source": "The Times of India"
+    },
+    {
+      "title": "England begin ODI tri-series with Pakistan and Sri Lanka as Henry Crocombe, Sam Curran and spinners look to impress",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHlZaHdKUjdndGNIQjFWYnhwY01SazJ3UTRKaHR4V0lmd0xrNGRaWVBZbk5LSDVFSDE2ZkZQczk0TVJZRHh5TlA5bWUxRDZMbmJ0Nk56ZkJTMTNxTlQ5dW9UZ3NwRkJOcGFweDMweTVPZDZaM0V2S3NidmR3OWVvOFpvRGFKRW9KLTBYOWsyOHJIRXBKY3RzYnpOdVlvWE1hekJLNnJ6WDZ3ZzVIYUlKclczd0NHdWdtblp4U05pRFpQeHNpSFFrNG9RbTNHb1VYdkZPbTZfeDk2Si1heWNrb3IyVDVHNVRGNEloOXdORC0zM0I1?oc=5",
+      "summary": "England begin ODI tri-series with Pakistan and Sri Lanka as Henry Crocombe, Sam Curran and spinners look to impress Sky Sports",
+      "date": "2026-10-20 17:55 UTC",
+      "category": "Pakistan",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Pakistani national accused of defrauding US Postal Service of $126m arrested in Lahore: NCCIA",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGRtd2JyQTg0MXVfdG5BdzJFT2lnbTE1YmxpUUVjYW41SW1nNDlRSjRRODdFM1hMVExEaG1qaUNnZjVPVlFKcmVLNWZuZTJfT2d5UjZ4Vnk4dXZpQ1llZGRhaEVfNjgzM3hGc2poSTVNWUdib0hBaXdUQU1nLVNpM0dMeVhESGxlSFJfd0xFWjljelJJNk9RWEs2ZjRsMk9iUkhScHB2SGpaS3RYVjd1RzFjX3RLaDdiUHRVcXFuWFhFVTA?oc=5",
+      "summary": "Pakistani national accused of defrauding US Postal Service of $126m arrested in Lahore: NCCIA Dawn",
+      "date": "2026-10-20 17:53 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Pakistan lawmakers call for warnings on formula milk ads amid malnutrition concerns",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHl5aTJkelY4QXQtcG9OLUlhczNwUmFoWHZfQnlxMEk1a3NNLXpwMW5OUU9OSmM0OHM4NTdyM0VsOFpDblZYYUJ5dWdtSVF4RE5TLTJ5THc4WkpEN3JrY3cwRVRLdmVRSXdzWDlOQWRvSGRwYWUxWVFXVkduT3g5OG1CUHR3WHFUTHFGVVd1ZVJnak90N2VfSVlYUGJXaTFScDhnVWVTaG5PUVBFYldRdzBRazFzZmppSTlpY1d2UVdlQQ?oc=5",
+      "summary": "Pakistan lawmakers call for warnings on formula milk ads amid malnutrition concerns Arab News PK",
+      "date": "2026-10-20 17:40 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Russia is working 'closely' with Iran as Qatar says US-Tehran talks are still on",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWhDWEhOMGk5UnBGUWRwMW9yeVEwNXZkMEJJSFFuazF4NnV1ZHIyTE1lMFRJSjdZZF9BMGZNci1ROWpyUEtrZl9nVTNzd0ZXMDVvX09jaU1qNHdUYmM4VHhnOVA4am1fR05HbUJwOUpKcHpoUXFsN19FQ0lzd1k4ZHFjUGE?oc=5",
+      "summary": "Russia is working 'closely' with Iran as Qatar says US-Tehran talks are still on Fox News Iran-US negotiations ongoing as regional tensions mount: Qatari official Anadolu Ajansı Iran agreed to secret nuclear site visits in shift towards compromise, report says investingLive Qatar warns Hormuz cable disruption would hit region hardest, urges peaceful U.S.-Iran resolution Doha News Ministry of Foreign Affairs: Dialogue",
+      "date": "2026-10-20 17:36 UTC",
+      "category": "World",
+      "source": "Fox News"
+    },
     {
       "title": "Arafat rips through England as Brook’s men wilt against Pakistan in tri-series opener",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXRaOXZuUWY4czhXcmtvLWFLTnlwbEZoTE1HUFNIaThnOEx2MzJwQXZ3b1lYQnhLSlVmZHREcnVVMzh5ZkM4ZnAzWTMtX0VRS1E5dkFkc3B6ZTNpdU1YRFB2d3lZNFdmZzFRNWxiRm1WQVFRaXJqbVFqbUY2ZUp0YnlNLVlwSi1JMkJTVl9xN2l2UlVoR1FucUgtTFF4UmlfaGVhSTlEaHJqanZiaWc?oc=5",
@@ -18,28 +98,68 @@
       "source": "BBC News"
     },
     {
-      "title": "England begin ODI tri-series with Pakistan and Sri Lanka as Henry Crocombe, Sam Curran and spinners look to impress",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHlZaHdKUjdndGNIQjFWYnhwY01SazJ3UTRKaHR4V0lmd0xrNGRaWVBZbk5LSDVFSDE2ZkZQczk0TVJZRHh5TlA5bWUxRDZMbmJ0Nk56ZkJTMTNxTlQ5dW9UZ3NwRkJOcGFweDMweTVPZDZaM0V2S3NidmR3OWVvOFpvRGFKRW9KLTBYOWsyOHJIRXBKY3RzYnpOdVlvWE1hekJLNnJ6WDZ3ZzVIYUlKclczd0NHdWdtblp4U05pRFpQeHNpSFFrNG9RbTNHb1VYdkZPbTZfeDk2Si1heWNrb3IyVDVHNVRGNEloOXdORC0zM0I1?oc=5",
-      "summary": "England begin ODI tri-series with Pakistan and Sri Lanka as Henry Crocombe, Sam Curran and spinners look to impress Sky Sports",
-      "date": "2026-10-20 17:17 UTC",
-      "category": "Pakistan",
-      "source": "Sky Sports"
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX1lhSFZQZFBVbktTOFlOcmpNeUc5d0t1MHhPNzlEaWNQMzZjTDllaTlXYUdSZHBYTUhvcTF1UktGcFJmcEtKdDRHcWhJSXJWSldhZXo3X1FWc3c?oc=5",
+      "summary": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say BBC Drone strike on a market in disputed African region of Abyei kills at least 153 AP News Drone attack at African market kills 150 people, sparks massive fire OregonLive.com Sudanese drone attack killed over 150 people in Abyei market, official says Reuters Drone attacks across Sudan escalate, 160 people reported killed Al Jaze",
+      "date": "2026-10-20 17:30 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
-      "title": "All-rounder Minhas stars as Pakistan crush England in tri-series",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUdGejE5cnpiTVM4WTc0WFk4RTJ1THdXMlRaSXY5UlRpT2U4WkFSY1k2OE4tOG1MT1Z4Sjg4ZVJnc2xtUnJ1MFZpaXUzWjRPVldDaTF4Z19DUmItN3pYTVdXeFg4V1ZxWjNIeUp4NE5fZFVuM3hUVGtDVm53UFoyTXhGWXpQWkNDN09yYUJkRmdMWWNiQ2RsVGZJRVBraHV5TVBVdGZGQdIBVkFVX3lxTE1CRGpLWk5OT2Q2V3dwMnZqNnRPdGVuclBuUjlEa3JBMDd1bzBQNFNhUUU5MzBUWDdOS2J5eGF4UVhlUzBQUW9EVW5tcTBkakRUQjF2MEpR?oc=5",
-      "summary": "All-rounder Minhas stars as Pakistan crush England in tri-series Business Recorder",
-      "date": "2026-10-20 17:04 UTC",
+      "title": "Turkey submits Saudi-Pakistan defence pact to parliament for ratification, sources say",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFRNd3JZYUQ0bDBIdTYxNDczNExsX1h3ZUN5RU0xdTRUeThLVVljcjBHTkRlRUpxaUotM2tTUExONi15T29YQlJTZ2FPaEpoS0VkMXdiUlBGcTNNWXFoc0lEVUlHT0pIZWRZR1RUeXpVYW5aRlNZd2dGZXFIVFMyanFXcGh3V1JQcXRzM1ZzNnBSazBIT2NSVDNCa2pRTlZhNWt1cGpNeFNZTTFkd09iQ1hKZURpLThleHlNUmpFdVp2Yjg0WVA3VThydDI?oc=5",
+      "summary": "Turkey submits Saudi-Pakistan defence pact to parliament for ratification, sources say Reuters",
+      "date": "2026-10-20 17:27 UTC",
       "category": "Pakistan",
-      "source": "Business Recorder"
+      "source": "Reuters"
     },
     {
-      "title": "Iran security chief rejects moving enriched uranium out of country",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaktEaV93X3RTTlpreGRXUVNaR1pOdnJUWkFWdzRIenpnRlNDaVlKZE96ZmNkUWVyM0lxRkxuTnBQV2JtY3pXVG5XcE5ncS1mOFFQSVkycVlkQkdCUlRJREROeUdJRWI0MFdONFJ4cDVNREl6QWwydXlnZDB5b1FoXzNTWUZPSGRCaVk3U0RpM0tPb1drTktJVU54SFBrNjJuaWl4MVR4SkNad0t0TzF4MQ?oc=5",
-      "summary": "Iran security chief rejects moving enriched uranium out of country Arab News",
-      "date": "2026-10-20 17:03 UTC",
+      "title": "Maldives President arrives on three-day state visit to Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3ZHS3pXNmdZMnBfTGV6X3Q4NDBrTVBaX01jLTlLNE1OdEl6VjRlZUhDZkhVUVhGeUVabFg3d0d6WERyYi1TejZuUUEtMHNfZlFmaDVabFg1Ylc3YjFQeFVPaDZhWVdvX2k1SVFkZVdJcWdOYmFPZVRhalNURW5YME0tdjhPWnhMV0FpSWRnWWc5cWVVREVJN1ZPdUY?oc=5",
+      "summary": "Maldives President arrives on three-day state visit to Pakistan | Associated Press Of Pakistan",
+      "date": "2026-10-20 17:25 UTC",
       "category": "Pakistan",
-      "source": "Arab News"
+      "source": "| Associated Press Of Pakistan"
+    },
+    {
+      "title": "Pakistan Is Bleeding Its Own ‘Jugular Vein’ – OpEd",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmVjaTlSdHFSWlpLSzl1Xy1nOXRSUUQyRzczNXJBR09LNDRrVVFqcVR2Rm0xRE9ybDlYaFpUMV82dlU0c29VUWpBaVpSRjZFWWF5dTF5Y3pXWWpzT0lPRFFuWlhtSFlTWFQ4aFhWanhuRlA4Y3k3Y1lFXzQwdW56cnFTWEk2eHZhUHRYVmlsaw?oc=5",
+      "summary": "Pakistan Is Bleeding Its Own ‘Jugular Vein’ – OpEd Eurasia Review",
+      "date": "2026-10-20 17:19 UTC",
+      "category": "Pakistan",
+      "source": "Eurasia Review"
+    },
+    {
+      "title": "Zelenskiy meets Witkoff as US-Ukraine relations sink to new lows",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c?oc=5",
+      "summary": "Zelenskiy meets Witkoff as US-Ukraine relations sink to new lows Reuters Ukraine live updates: Zelensky speaking after talks with US envoy Witkoff BBC Zelenskyy meets with Trump envoys as U.S. blasts ‘scandalous’ accusations on withdrawn support NBC News Steve Witkoff meets Volodymyr Zelenskyy before travelling to Russia Financial Times World in Brief: Zelensky to meet Steve Witkoff; France enforces curfews The Econo",
+      "date": "2026-10-20 17:09 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
+      "title": "Iranian officials meet with Pakistani army chief Munir over mediation efforts",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwOVJFdGFhajhMR0taY3BQVzg0SUI5bGNoN0c1ajFXdjdXZldGbmZ6ZUVCRk9TdjNPaGNnNUF2aXVDY1YzRnl0cjl5NEh0YzlzMjZCbmgzWjhVMlktUHpYbFJnWUxDaFhzWmc?oc=5",
+      "summary": "Iranian officials meet with Pakistani army chief Munir over mediation efforts The Jerusalem Post",
+      "date": "2026-10-20 17:06 UTC",
+      "category": "Pakistan",
+      "source": "The Jerusalem Post"
+    },
+    {
+      "title": "Two men rearrested on suspicion of assisting Iran’s intelligence service in RAF Fairford incident",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2RRR2xfRFRORE9FSXBIUkJ6RmpnNVZVZGJvMnRZQkhCOHhJQzNzNEc1U2FKSkVRdlBITnBZZ2JPc2ZBWlRVY3JhaTctUFFzajNHOXoyWGNER20tMXBiQmdaRUxCd19zTlJUWm1wbGRBMVNkWC1RdGZkUkgtUm4tQ1p0OA?oc=5",
+      "summary": "Two men rearrested on suspicion of assisting Iran’s intelligence service in RAF Fairford incident CNN UK rearrests duo on suspicion of aiding Iran in alleged plot at US-run airbase South China Morning Post Two men re-arrested in RAF Fairford investigation BBC UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident Reuters Two men re-arrested on suspicion of aiding Iran over RAF F",
+      "date": "2026-10-20 17:06 UTC",
+      "category": "World",
+      "source": "CNN"
+    },
+    {
+      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnowZ1dCS0N1Mm85OVBOVjBCdEs5c3R1TXBDVFJEZ0JoUU1QZVdSdEdOallaVW5MMklJSnF0bmljS1UzNmpvTHNJd192QjZ0VGtOTWwta21WNjB3UUJ2cnRvcDJucXhlUFdvOUJvSmZpQzdja09tZFlkbjBmR2hLblU4YlZoSno1REt3?oc=5",
+      "summary": "Student Protesters in France Have a Strange New Slogan. What Does It Mean? The New York Times French Students Sniff Out Police Infiltration on Snapchat and Launch a Brand New Meme New Lines Magazine Explained: French slogans and chants for protests The Local France What Do All Those Student Protest Signs Mean? Frenchly ‘Bismillah, it's the darkness’: How a suspected police infiltration became a protest meme in France",
+      "date": "2026-10-20 17:01 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
@@ -51,27 +171,27 @@
     },
     {
       "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0QwZHg2d1VQS19vTG1KNE96ODAxbEQ5ZU9Vc0hZcEkzaDJBcmh2YWtJb0lIRXdnUmdwb1JVeU5XNjZtUGVUY1N3UFpUVnlnR0NCU09wNWtfOGFVNjU4RE4zaTRudFltY25ZcXJqWU5vOFVIWmxQUXI3OTFBZnd1Y29ubjY0TjdSam9mUURfbHJCTFU5c29GM1dUc9IBoAFBVV95cUxPOEVZWW9nZldXaEdEdTZ4ZWJsZlRrcEF4X0hoeXpCYWFhUjhRbHllMXBpUWNYNnRla25aRVZIMGRsUUNROXJGVE1BZzdENVdTRzZ1U1ViYnBxaXZNWUtTRnJyRWduNW05c202dExzWlNQcVlTOWU1NFM3MTJoczRJSmt2REtRSUpWYThERHdQU0R6X3E1a0pVRkxiZUhDa0hD?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0QwZHg2d1VQS19vTG1KNE96ODAxbEQ5ZU9Vc0hZcEkzaDJBcmh2YWtJb0lIRXdnUmdwb1JVeU5XNjZtUGVUY1N3UFpUVnlnR0NCU09wNWtfOGFVNjU4RE4zaTRudFltY25ZcXJqWU5vOFVIWmxQUXI3OTFBZnd1Y29ubjY0TjdSam9mUURfbHJCTFU5c29GM1dUcw?oc=5",
       "summary": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia Al Jazeera",
       "date": "2026-10-20 16:52 UTC",
       "category": "Pakistan",
       "source": "Al Jazeera"
     },
     {
-      "title": "Ties with Pakistan can help US discourage things India is worried about: Marco Rubio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2k5VHl0enR4bEFpSGg5Ty1oY1QtbWRSTGdFdUd4Vkk5ZkZOdmZNUkI0cjk3TEZ4MFJCTXRyZFZmZnNPN1g5c3FlSi13SUNpek1zNzY4aFFJdXVRdlFaYm1fWmdpZS1VdTg3S0UyWFJNcTdfTlNaQlJJaTYyYlc3TmxXT0NQSUhGdmlaaWFuTmQwTUlHOTM1c0dFLVktb0hacDFuTFo3bzlJRXRvd040Wks5dTFZOFNxQ3BOd1Qwc21YZEdoa1B6bENkNzZfeUctUEE?oc=5",
-      "summary": "Ties with Pakistan can help US discourage things India is worried about: Marco Rubio ANI News",
+      "title": "Pakistan army chief holds talks with Iranian president in Tehran amid US tensions",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSHY2cFlTcG9YMGxWemMwZmlrWVZQYzlZM3FsZGNmUmpRUk16YWgzZ0tySE5MeHctbnEyOXBlMllYZVgwelJkQWM4cmkwc0FfejlkWEFYTFZPTW1fUnEycjU5NzUtNmJYNEc4dS03VjBCUWZRREI1OTQ5emtsb3hiZzBtcURLXzFJY0lQSlB3SVZrbXlrZ3JLXzJXTjluU3hYYjRiS1AyelhvcnNNUlB5UlYzSGRNN3dBeGlBZEpfTQ?oc=5",
+      "summary": "Pakistan army chief holds talks with Iranian president in Tehran amid US tensions Arab News PK",
       "date": "2026-10-20 16:51 UTC",
       "category": "Pakistan",
-      "source": "ANI News"
+      "source": "Arab News PK"
     },
     {
-      "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
-      "summary": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief Reuters",
-      "date": "2026-10-20 16:47 UTC",
-      "category": "Pakistan",
-      "source": "Reuters"
+      "title": "France riots become Republican midterm boogeyman",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbEJTMDNSdExCci1EU0tmZlhoZ2F5NXluMXotM0R4dDJYV0FHQXRyblJtSXp3U2J5MFBhWXlyQ21WX2JlelFCODRFOWNkTWYxbTBxS2x4X0tOYkdwdkFlU0JGY3RaUVpOeFF1aGU1U1hNdzNzS0JFaXRXcV9VbXNwaA?oc=5",
+      "summary": "France riots become Republican midterm boogeyman Axios What’s Behind the Protests in France and What Happens Next WSJ With France embroiled in protest, a look at the nation’s economic standing by the numbers AP News France’s crisis sounds familiar. Is America next? CNN How Russia and Iran are fanning the flames in French riots The Times",
+      "date": "2026-10-20 16:50 UTC",
+      "category": "World",
+      "source": "Axios"
     },
     {
       "title": "Maldives president lands in Pakistan for three-day state visit",
@@ -106,14 +226,6 @@
       "source": "The Times of Israel"
     },
     {
-      "title": "Prince Harry says he wants to reconcile with Charles and William",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1BCY1RlRV93S1NNTUFXbjJWX0JqbnRiNDhyLVZ6eUkyR25xVnh1Y2I3cHNhV1E2U1NRY0k5VTY0ZEFrbG5JZWwxUnZna0lSekI5TmVqRzdVVjdhcWlXYmxYQVUxYXRGRFVXTWpHcHVFM0ZJVTJVNlJvNFJBaHhDT0lGcFVfVGNCNnR3Q3lwNTFhMm9WLV84U2hFdmJEOTJhMWcwdm1qbVRHNzJzNUZxNmNn?oc=5",
-      "summary": "Prince Harry says he wants to reconcile with Charles and William The Guardian Prince Harry opens up about returning to England, whether he wants to reconcile with Prince William, King Charles III ABC News - Breaking News, Latest News and Videos Prince Harry says he wants to work out relationship with brother and father The Hill Prince Harry Sums Up Why He and Meghan Markle Moved to the U.K. in One Simple Word InStyle",
-      "date": "2026-10-20 16:28 UTC",
-      "category": "World",
-      "source": "The Guardian"
-    },
-    {
       "title": "Pakistan confirms it continues to mediate between the US and Iran to resolve regional conflicts",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdHJxNkgtLVptVVJXSUNGdWFxZ2VoQXlMNTdlN21pdW1yRC1uaVVCMXFzLVc4NWFPeldQRTg1X1dSTVlsRlc1aTVfVmk4UHhDSDVpVmhGc25fZTR6VkNSSExlMVB4c20xWlRBQ3JId2ZRMW9tQXBMaTBCWjdGTG91WXB0em92eWVXZFdjdWI3QnNxbUFmRlVzSlI1TV9Eb1E5dnVIV0xCZDE3dEl1S0pZMzVRbnRWRHZKS0QtUEE1a1YtemM1OEMwZmZjUnp0SDJ4WS1FZ3BPbkowT0RUMjBJWXZ6WllZUQ?oc=5",
       "summary": "Pakistan confirms it continues to mediate between the US and Iran to resolve regional conflicts صوت الإمارات",
@@ -128,14 +240,6 @@
       "date": "2026-10-20 16:25 UTC",
       "category": "Pakistan",
       "source": "Dawn"
-    },
-    {
-      "title": "Russia is working 'closely' with Iran as Qatar says US-Tehran talks are still on",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWhDWEhOMGk5UnBGUWRwMW9yeVEwNXZkMEJJSFFuazF4NnV1ZHIyTE1lMFRJSjdZZF9BMGZNci1ROWpyUEtrZl9nVTNzd0ZXMDVvX09jaU1qNHdUYmM4VHhnOVA4am1fR05HbUJwOUpKcHpoUXFsN19FQ0lzd1k4ZHFjUGE?oc=5",
-      "summary": "Russia is working 'closely' with Iran as Qatar says US-Tehran talks are still on Fox News Iran-US negotiations ongoing as regional tensions mount: Qatari official Anadolu Ajansı Iran agreed to secret nuclear site visits in shift towards compromise, report says investingLive Qatar warns Hormuz cable disruption would hit region hardest, urges peaceful U.S.-Iran resolution Doha News Iran War: Qatar and Pakistan move to ",
-      "date": "2026-10-20 16:22 UTC",
-      "category": "World",
-      "source": "Fox News"
     },
     {
       "title": "’Strange, horrifying’: Pakistani injured in Riyadh airport attack recounts ordeal",
@@ -162,14 +266,6 @@
       "source": "Firstpost"
     },
     {
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
-      "date": "2026-10-20 16:11 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "England slump to defeat against Pakistan in ODI tri-series after faltering chasing 303 in Rawalpindi",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdFZVTU96bFFYTEY4c3ZXdjBfa2o4dHRhaGpsSGNJSGlob1VVMXU2S3JfdkgyOTc4SHFNZjdZcnd5V0N1ZHlmVkVVR21fMmE4QnE0Zkg2VUVjVzgwZVVwQjJwUTBFTC1IdS1QZUg4Zm8yT2ktd1JEc3pOWWlaZkJQX2R3UEJ4WEFneHBBSUhDdXJWU2NqZ0dXNFRXYXF1azJDQTZ2QmZXblFkZ2JWNkQ3bU9vUG0tOVU0cGoyMm5kT3BxWTlrbVBWRnpUczhja2dNU2xvTTVQVHNYdlZWdGxiWjVB?oc=5",
       "summary": "England slump to defeat against Pakistan in ODI tri-series after faltering chasing 303 in Rawalpindi Sky Sports",
@@ -186,17 +282,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Pakistan beat England by 87 runs in ODI tri-series — Sky Sports News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUJpcUNjbV9Zd3Y4ck8xekxRbzRRQnF1Zk5jSFpmX3g0Um51NkpxelZiTEwzSnJEMFFHaVNQeGYxalMyaGwwSUpNcWNCWTZJMmxsVXFZY05sR2RqenlYN25ZbGV4cmVyNEpMbzN0N2lVcWNEUU1ZYlZSZ0NpZm5DdlV6c1VYSGRXQUVhYnU2NlJORWV0cmVlQjl5OFQ2dmJ6T1BwTjhWQnI?oc=5",
-      "summary": "Pakistan beat England by 87 runs in ODI tri-series — Sky Sports News UA.NEWS",
-      "date": "2026-10-20 16:02 UTC",
-      "category": "Pakistan",
-      "source": "UA.NEWS"
-    },
-    {
       "title": "Live Updates: Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXBXMWdNYVRIU0pDdjdkTnZLOEhXdnE0dW9UYkl6NjVpcDRlWEE0MHoxS2VObkNYSjJsbzJCMkVxNlZaTHplRmV3aEtrMFNueEtRT1RreXNtLVhvNWoxVExlalo5UW9zU0hrQVhOMzBRZjhQMjRFNWN4SVduaTJ5Yi1uNE1sbjlBLThsZnln?oc=5",
-      "summary": "Live Updates: Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran CBS News Iran's Araqchi blames US for Strait of Hormuz tensions, calls for diplomacy Reuters Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis? Al Jazeera FM Lavrov Arrives in Tehran for Talks With Iranian Leadership The Moscow Times Lavrov backs Iran after Trump says Russia doing 'little' ",
+      "summary": "Live Updates: Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran CBS News Iran's Araqchi blames US for Strait of Hormuz tensions, calls for diplomacy Reuters Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis? Al Jazeera Lavrov backs Iran after Trump says Russia doing 'little' for Tehran Euronews.com Iran threatens stronger response to new US attack as La",
       "date": "2026-10-20 16:02 UTC",
       "category": "World",
       "source": "CBS News"
@@ -218,12 +306,28 @@
       "source": "BBC News"
     },
     {
-      "title": "Orient beach attack: South African swimmer killed by shark",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xdk1uWU5ZVnNkMGplbURlRGVaX1hIMTZyNGRPOGxQb3FIaG5tTVlMQlZvVENZZnl1bDRSUGJUbnljYmJBQ1Z5elEyRDA5ZWhQVVY0TUZTNXEwTUk?oc=5",
-      "summary": "Orient beach attack: South African swimmer killed by shark BBC Shark kills woman swimming off South Africa's Eastern Cape, beaches closed ABC News - Breaking News, Latest News and Videos Shark kills woman swimming off popular beach in South Africa CBS News Fatal Shark Attack Closes Beaches in South Africa’s KuGompo City Bloomberg.com Shark kills woman swimming off South Africa's Eastern Cape Reuters",
-      "date": "2026-10-20 15:58 UTC",
-      "category": "World",
-      "source": "BBC"
+      "title": "Pakistan vs England: ODI tri-series highlights",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEtqUGtDQ1JMaGl0STZvLWVWYzgxY2RmR2hxb19GOWJYY3ZaN2RlVG9Ua3ZjenVlOFVCd25MamtMQ0czWWU1U0dnd1JrYVplMWV1aC0tbDYwUF85RWVkc2FObHR0cHVUbGR5OGRwTmZjcXdUSkFwamFXaXIzXzREQUhUaUUySFlwamFNdTRWSzRXN2prZkdXT0ZR?oc=5",
+      "summary": "Pakistan vs England: ODI tri-series highlights Sky Sports",
+      "date": "2026-10-20 15:54 UTC",
+      "category": "Pakistan",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Arafat Minhas scores maiden ODI fifty, takes six wickets as Pakistan beat England",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnNyV3diNGNtSW1XZUIzTEZXSWhFUXZOLXNwYzFUa0lJS00zdEs1ZFJSeWdxTnRaQ3c0bjljbUprRnV1dW9zSExVS0tpN0I1U0pRZ1QydmF5dllFRlJ4TVJTUTcxNjNuSmVOb1VxSHU0VGFxaldTajhYSTFCVlRoaF9GT1pyNTNTelhUNFUyRTh2eWFoWm1QZFhKbWt2YkdPVHRQSTQwNlU0bDNfMUwwanotQlZkUFRSV3NVWk1HNFMwOXRCdmc?oc=5",
+      "summary": "Arafat Minhas scores maiden ODI fifty, takes six wickets as Pakistan beat England Gulf News",
+      "date": "2026-10-20 15:51 UTC",
+      "category": "Pakistan",
+      "source": "Gulf News"
+    },
+    {
+      "title": "Fan Ratings - Pakistan vs England 2nd Match 2026/27 - Cricket Insights",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjZ6cFRHVnFOZjd2Q0taNW9kM1hYMnpNbkdSVEV1bHdsazNFT1FSMUtvVzFqcGRqZFNCbWdHZkdsNUduMmsyRmNIcFYyenkwXzJHVTg3QlAtSkhac2ZMZjl6QzI4VGdXR3pmNXU2OHpEelFneGpkR3d1YzRuWEJCTnYzSGJMZ2NEQjlhNW9vUWt3cDFxSWFXdmw0aDNSWGdyWjAySzlEZ1J0NDRad19fb19YeUJGbW5yVmdVSWMwZXpxOXNzVXc?oc=5",
+      "summary": "Fan Ratings - Pakistan vs England 2nd Match 2026/27 - Cricket Insights Cricinfo",
+      "date": "2026-10-20 15:45 UTC",
+      "category": "Pakistan",
+      "source": "Cricinfo"
     },
     {
       "title": "Gold price per tola drops Rs3,600 per tola in Pakistan",
@@ -234,17 +338,9 @@
       "source": "Business Recorder"
     },
     {
-      "title": "French riots become Republican midterm boogeyman",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbEJTMDNSdExCci1EU0tmZlhoZ2F5NXluMXotM0R4dDJYV0FHQXRyblJtSXp3U2J5MFBhWXlyQ21WX2JlelFCODRFOWNkTWYxbTBxS2x4X0tOYkdwdkFlU0JGY3RaUVpOeFF1aGU1U1hNdzNzS0JFaXRXcV9VbXNwaA?oc=5",
-      "summary": "French riots become Republican midterm boogeyman Axios What’s Behind the Protests in France and What Happens Next WSJ France’s crisis sounds familiar. Is America next? CNN Zelenskyy to hold press conference after Ukraine-US talks in Oslo – Europe live The Guardian Heading to France? Amid Recent Unrest, Here’s What to Know The New York Times",
-      "date": "2026-10-20 15:33 UTC",
-      "category": "World",
-      "source": "Axios"
-    },
-    {
       "title": "Pakistan vs England: Sloppy visitors floored by Arafat Minhas in Rawalpindi",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45QTlSd3hHVlNySlJXZm1MTGNkdnFXQ19YTzJXaUx1ejBXanF4ZTBqMkR5Umw4ZVdkUjU4VUpMM2R1VGUyQzljMkhORElwbC04NmVuOWJKbEdDZDRzQS1FbzU3R1VvQW8?oc=5",
-      "summary": "Pakistan vs England: Sloppy visitors floored by Arafat Minhas in Rawalpindi BBC Pakistan vs England: ODI tri-series highlights Sky Sports Salman hits century, Pacers restrict Sri Lanka as Pakistan begin tri-series on winning note Pakistan Cricket Board (PCB)",
+      "summary": "Pakistan vs England: Sloppy visitors floored by Arafat Minhas in Rawalpindi BBC Salman hits century, Pacers restrict Sri Lanka as Pakistan begin tri-series on winning note Pakistan Cricket Board (PCB) Ball by Ball Commentary & Live Score - PAK vs ENG, 2nd Match Cricinfo",
       "date": "2026-10-20 15:31 UTC",
       "category": "Pakistan",
       "source": "BBC"
@@ -258,20 +354,12 @@
       "source": "BBC"
     },
     {
-      "title": "What is Pakistan's army chief doing in Iran as tensions with US escalate? - analysis",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NdnlzUmNNYXVyeEthbjA3UEEwSmNWYmlVdHduMjFxdzVuR21nMFc0ekdoMlR5V2ZQR3BNMDdLN08tQVFTSDRSR2ZuVEU0eXJteWJwTWNNT3RXU2p3b2F4LW1NSGloWVNkNkE?oc=5",
-      "summary": "What is Pakistan's army chief doing in Iran as tensions with US escalate? - analysis The Jerusalem Post",
-      "date": "2026-10-20 15:31 UTC",
-      "category": "Pakistan",
-      "source": "The Jerusalem Post"
-    },
-    {
-      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRUNmIxME1lMkU4azlaVW94LXozajNQaWZuYlcxUHBOcEF3MjZuQjNDQkRVLWxMZWJvZlJ3TkpIeHBQRzN2a04yMUg4c3V3SDU1ZGgwZmZRMTJPcHpWT1JwSEFSSTFmN0VlRmdMOWdqUlkzRnlrSGgycFJ6S0VEa0lSZEY5bnp5cElxMDN0OFhLMXcwaC1NRFBZZXQ?oc=5",
-      "summary": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu The New York Times Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say Military Times Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections Axios Pete Hegseth, Benjamin Netanyahu meet in Israel ahead of elections The Jerusalem Post Hegseth makes unannounced visit to Israel, meets with Netanyahu ah",
-      "date": "2026-10-20 15:21 UTC",
+      "title": "UK to send jets to defend Saudi Arabia from Houthi attacks, and other Mideast news",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1EtQlVBeUdvX1BnaEx2cXI4ZVVleTdNSlJ2dUR2eXdWeEpwVl9SandQVEpadDVrdzVEM1k0a2NfRXhpSURuOFZtRzdnOWtsNGZncFhtcV9OZ3kxQ1Y1RDRYN1FLNG11V2Y4dFQwbnRqOXJQZDBySEhMWUxrVGZwQ0tPS0N4TXpZVGxkeFRwU3BTWkoxMnNTa1JsNTlPYjZDSFJhNDZFazJsSXc?oc=5",
+      "summary": "UK to send jets to defend Saudi Arabia from Houthi attacks, and other Mideast news AP News UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks The New York Times Britain says it will carry out defensive air missions over Saudi Arabia Reuters UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks CNN UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks The Guardian",
+      "date": "2026-10-20 15:22 UTC",
       "category": "World",
-      "source": "The New York Times"
+      "source": "AP News"
     },
     {
       "title": "England win toss and bowling first against Pakistan in ODI tri-series",
@@ -282,17 +370,17 @@
       "source": "Arab News"
     },
     {
-      "title": "Zelenskyy meets with Trump envoys as U.S. blasts ‘scandalous’ accusations on withdrawn support",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDR3alJyemVwck9oU194YVRqMFhRQ2lyY3hfUlpwV1U3R001ZjBYamo2MWFEeG1CM1prMEc1Yjc0djM2TlhqQkw2bnp2b3BLMEZjbXlXTXBoWXd5QzVJeFpZTU56NE1IUV9mUFJKUUZLQjlQOTNxc2FYQkp0SkhWQkt3UUphUi1nQUtUZlJKR25yQ01Cb3c2Sm9NLU11eEFGVEVRRzNoZklpT3kwNXVnSmFQSQ?oc=5",
-      "summary": "Zelenskyy meets with Trump envoys as U.S. blasts ‘scandalous’ accusations on withdrawn support NBC News Steve Witkoff meets Volodymyr Zelenskyy before travelling to Russia Financial Times Witkoff to Meet Russian Leadership on Ukraine, Norway PM Says Bloomberg.com Zelenskiy to meet Witkoff as US-Ukraine relations sink to new lows Reuters Witkoff heads to Oslo, plans Russia trip for peace talks Axios",
-      "date": "2026-10-20 15:03 UTC",
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3psS3NwOVBlcEJaQVo4TEF5SGhpWWhfeVBsTm1RMnVNd2hFOWhiTG9IbXBVZmdaRkJfMUpjOFhXZWV0bDZzeHh4YnAyNUozRHRYZFQ0ZkZWeElVM3haM0s0NVpUUkM4UmRRcW1TWTNRdHdqN1RQSk9WVkdmQ19LT0dlX3BwcjFDcXBmZy1mNmdhc040bmdPczIwNnZvX0NZTUHSAacBQVVfeXFMT1dZU1NDNUZWUTBPTkhLVDN6S0tVZ2xaSE9CeTZWaXE4V3FJNHVBM2JkR1hNYk9qMVZjT2hxQXM3VmNSMlNGWUE1VzZOVkI0dmczZWFJVFhCbWx3aWlYNjZVckRXS1c1OXVhMG56LVo4YTJMX29iVEJhTzdMajlGam8tOXlkNlpsQXhieFNDeUUxa1JIZkEySG5ic1dqRS1vSkoxaHZTVDQ?oc=5",
+      "summary": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises Al Jazeera Yemeni City of Taiz Running Out of Essentials as Houthis Close in The New York Times Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ AP News Yemen war continues to force families from homes amid hunger and disease UN News As Houthis encircle Taiz, Yemen's Saudi-backed gov't faces disaster Responsible Statecraft",
+      "date": "2026-10-20 15:07 UTC",
       "category": "World",
-      "source": "NBC News"
+      "source": "Al Jazeera"
     },
     {
       "title": "The manosphere stars who helped Trump win are losing their shine",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMclQ4Zmw5WHRTVE1VUE5NZENFejlSY3lRVFp6QTJLYjROTXlIbFdkYWdlbnpOSUVsamNjMG5LVTRrbHE1VUMyWUplY0JmMFVfNFM0UXdCZ2pjRXFLUTB5a3N1dHZUS0oxQnhtejk3R1Bfdw?oc=5",
-      "summary": "The manosphere stars who helped Trump win are losing their shine Axios These White suburban moms regret voting for Trump — but aren’t sold on Democrats The 19th News ‘I still do generally support him’: US voters weigh in on Donald Trump and the midterms Financial Times AJC poll: Trump’s approval remains underwater in Georgia The Atlanta Journal-Constitution 'Everything got worse': Gen Z express frustration, regret af",
+      "summary": "The manosphere stars who helped Trump win are losing their shine Axios ‘I still do generally support him’: US voters weigh in on Donald Trump and the midterms Financial Times These White suburban moms regret voting for Trump — but aren’t sold on Democrats The 19th News 'Everything got worse': Gen Z express frustration, regret after Trump vote NPR Young Voters Say They Are Turning Their Backs on Trump and His Party Th",
       "date": "2026-10-20 14:57 UTC",
       "category": "World",
       "source": "Axios"
@@ -304,14 +392,6 @@
       "date": "2026-10-20 14:50 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan army chief arrives in Tehran to meet with senior officials",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdFZXb1JaaDd4S0I1dFZ2clhqeWg3ZjJINHBaM1dZTnBpRzhGMFpsamdSV3Q0RlZlSFNQZTJ0VmdhQjV4Wjc2QWZLYVJLU2lfSkh5SWZhSVJJanF0dDkxRGJjTmtSWTR5M1E?oc=5",
-      "summary": "Pakistan army chief arrives in Tehran to meet with senior officials The Jerusalem Post",
-      "date": "2026-10-20 14:47 UTC",
-      "category": "Pakistan",
-      "source": "The Jerusalem Post"
     },
     {
       "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
@@ -338,20 +418,12 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkeU9OS2VJM0NIeXJhWFg5TVIyb0RfQkFodEhvZU5QcGY1bnBZbGJ5R2JBM1dHSDNCTVM5aUNNVlNzbmxTQU1PS056YmhYWkhNTEhsNFVmTW5MMVBCaWQzbzlSMjhtYndtY0E2RFk1TVp5d3FISDZiNjVVOHR0dGc?oc=5",
-      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post See more headlines & perspectives on Google News",
-      "date": "2026-10-20 14:31 UTC",
+      "title": "Kaja Kallas accuses the US of pushing Ukraine to 'surrender on Putin's terms'",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVklJcF9SYnRqV0ZhQ0UzS0pZX2lDNDJqck9QS1VIY1Z1OE9nM0UxQmUxUEpDMVVuZy1NY05sMjJFV2xJelBNSnQ1Mm5reFRVOFJNN1FlNi1KNDVoaEs3alBWTjJkWmNrVlBBTHZnUktCZU96ZE53M2dnQjVrSllIRTc3RjV2NzVjVVNrWGdxSnFGTENzR3IwOHFNMW8yY013LVhOdUxmd0tYVDVpRF9N?oc=5",
+      "summary": "Kaja Kallas accuses the US of pushing Ukraine to 'surrender on Putin's terms' Euronews.com EU's chief diplomat: US negotiators have been pushing Ukraine towards surrender for almost two years Українська правда Kallas calls for moratorium on strikes in Black Sea Ukrinform Kallas Says US Negotiators Tried to Push Ukraine Into Surrender for 1.5 Years Kyiv Post Kaya Kallas outlined three areas of the EU's response to Rus",
+      "date": "2026-10-20 14:22 UTC",
       "category": "World",
-      "source": "The Jerusalem Post"
-    },
-    {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX1lhSFZQZFBVbktTOFlOcmpNeUc5d0t1MHhPNzlEaWNQMzZjTDllaTlXYUdSZHBYTUhvcTF1UktGcFJmcEtKdDRHcWhJSXJWSldhZXo3X1FWc3c?oc=5",
-      "summary": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say BBC Drone attack kills over 150 people in South Sudan market, official says NBC News Drone attacks across Sudan escalate, 160 people reported killed Al Jazeera Drone attack near market kills 80 in Sudan The Guardian Three children killed as army intercepts RSF drones near Khartoum airport Sudan Tribune",
-      "date": "2026-10-20 14:24 UTC",
-      "category": "World",
-      "source": "BBC"
+      "source": "Euronews.com"
     },
     {
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
@@ -362,12 +434,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Turkey submits Saudi-Pakistan defence pact to parliament for ratification, sources say",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFRNd3JZYUQ0bDBIdTYxNDczNExsX1h3ZUN5RU0xdTRUeThLVVljcjBHTkRlRUpxaUotM2tTUExONi15T29YQlJTZ2FPaEpoS0VkMXdiUlBGcTNNWXFoc0lEVUlHT0pIZWRZR1RUeXpVYW5aRlNZd2dGZXFIVFMyanFXcGh3V1JQcXRzM1ZzNnBSazBIT2NSVDNCa2pRTlZhNWt1cGpNeFNZTTFkd09iQ1hKZURpLThleHlNUmpFdVp2Yjg0WVA3VThydDI?oc=5",
-      "summary": "Turkey submits Saudi-Pakistan defence pact to parliament for ratification, sources say Reuters",
-      "date": "2026-10-20 14:07 UTC",
+      "title": "Indian military doctrines with 'poor' strategic sense of nuclear realities endanger South Asia: NCA adviser",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52clBYMnRvbmdjelBrdVVHN3NBZjlTaVFJWmhKc3c0YnJUT2cxWWpGYnkyQTJyaW9aaEpSbXBYbHZNNmRxQ0NSdw?oc=5",
+      "summary": "Indian military doctrines with 'poor' strategic sense of nuclear realities endanger South Asia: NCA adviser Dawn",
+      "date": "2026-10-20 13:58 UTC",
       "category": "Pakistan",
-      "source": "Reuters"
+      "source": "Dawn"
     },
     {
       "title": "Pakistan says 97,000 Hajj pilgrims pay second installment as deadline ends today",
@@ -376,14 +448,6 @@
       "date": "2026-10-20 13:52 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Australian MP hit by vehicle has leg amputated - as suspect's father says she is family friend",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXhjdWtuY1pqY1EtZUN0YW10dFltSEQ2dzhibGpaWTMxN1RPaTBtVGZOMi1GbTFnNWZnU0RLMFh4ajdiX3QzRzdDeUxlUkJhdF9IWFlEWkF2NGw3b2dnQXk3bG0zNjdPM1I2T2JWZE1QZmFNS1B3NklJUjREZ2IzeEpITWUweW5TOXRuN1Z3?oc=5",
-      "summary": "Australian MP hit by vehicle has leg amputated - as suspect's father says she is family friend Sky News Man charged with attack on Australian MP as suspect's father says she is family friend BBC Lawmaker reportedly loses leg as car ramming stuns Australia NBC News Terrorism squad probes vehicle attack that critically injured Australian lawmaker Reuters Driver charged with intentionally injuring Australian federal law",
-      "date": "2026-10-20 13:51 UTC",
-      "category": "World",
-      "source": "Sky News"
     },
     {
       "title": "Huge setback for Alberta's separatist movement after decisive defeat",
@@ -402,17 +466,17 @@
       "source": "BBC News"
     },
     {
-      "title": "Shakahola forest deaths: Paul Mackenzie's son says siblings were starved weeks before Kenya trial",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZTzExZUJRQlRvNTFSdFpCUUJ0T3JBbUV0aFhoRDJmRjdreWprVEFwWGFLdld4YmQxLUxHY2N2S21TaFhILXNiZ1ZSaVoweDM4S01BT2Jma3RkbWc?oc=5",
-      "summary": "Shakahola forest deaths: Paul Mackenzie's son says siblings were starved weeks before Kenya trial BBC Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’ CNN Doomsday preacher convicted of starving 190 children to death The Times Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders WSYR Doomsday Cult Leader Found Guilty of Murderi",
-      "date": "2026-10-20 13:23 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
       "title": "Nawaz and Minhas lift Pakistan to 302-9 in England ODI",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjd1S3Fna3ladkdDWkFQSnRJQzZzYzdyUExPZGk1T1VkdU1qdGVKcC10d1lLallCS3dCc3puamluQkhUWTd6RXc4d1J4WWtKdlpnN1NLTDBLMzB6cHFNcmFMQ2dtcWN2LTNjNnE1TmkxOW16STJoRVVld0k2VjlrT0JNeFZmUHBOSnVlXzV4emd5VXdldUhJZ3BTVQ?oc=5",
       "summary": "Nawaz and Minhas lift Pakistan to 302-9 in England ODI Arab News PK",
+      "date": "2026-10-20 13:22 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "All-rounder Minhas stars as Pakistan crush England in tri-series",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkVkMUNPUjFyaEtGRFUzQW5lLS1ReDgxTmlFcmtCTVdtN1JzeGlnTWh3RjJpZGh4dlJibWhLaHJJUzFjVDM3Z3U4THZ6SE5Fb2hhYUgyVkpHZVJlN2NxeDhjbDdQbkdKSG5NUFNsdmdVbm9JY0s1aGEyV2xGbTBudVJVRXVMYlhzLUh0dmYxZFFRNWZlRHhBcmxxVndyczh1Z3VvLTRLQTg?oc=5",
+      "summary": "All-rounder Minhas stars as Pakistan crush England in tri-series Arab News PK",
       "date": "2026-10-20 13:22 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
@@ -426,14 +490,6 @@
       "source": "Iran International"
     },
     {
-      "title": "Pakistan Girl Guides Association celebrates International Day of the Girl 2026",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnVtS01OajdBX1lrN1ZjRnRmNWU2TkxRcVc0b1gwd3FjbjQyRDdxOVdoUTlpVXdGYVIybW1QWDlyYWFjcGd0MEhxQTBkQmtoRVZVX2N4MEJma1BMamxJbDNIS2Z1b09rNmJFX1c1T1kyT1Z0MVBaZ1JfMXNsczdqSVFQWndEbTdUaktpSXN0NFRFNHQ0cFYxUGFKR09WZGs5b3BaYTZxdHVfOTdxbVlZdQ?oc=5",
-      "summary": "Pakistan Girl Guides Association celebrates International Day of the Girl 2026 | Associated Press Of Pakistan",
-      "date": "2026-10-20 13:07 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
-    },
-    {
       "title": "Pakistan army chief arrives in Tehran for talks with senior Iranian officials",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXVneHVRV0x4WnlDc1JWalpURTZYa0FqWGxnS01tRGpxZzA1U3FkY2VxWVhQR080eHB1d2RQVjlJYlFoaF8xcFpGcDhKVHRLNHd2WF9tWTdkSERkX2laNENWQlM5NWRqYWFpME1tUUJUaDJEdTdHcVB5ajlTdzFTUTBKN1RvVlpWU1BrQkE1TWxDdDdVUkJwUnlFdmlmVjl3Qko3U1VzZ2NOUnItVmw0b3gzVlNxalJU0gFWQVVfeXFMTm9UalVXWm1JMVNZZlVURUdEb09EQktuMG5oUktJRWFjOFg0SUlkTHRib0FpaU1Jb2dEYXF2cnMwRDdQazJRd0lMNkVSM2UzM0tVbkxkMmc?oc=5",
       "summary": "Pakistan army chief arrives in Tehran for talks with senior Iranian officials Business Recorder",
@@ -442,20 +498,28 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Pakistan, US discuss trade agreement, market access, investment cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3R5ZzBkcU5NbU83cjhuQTJpQ3VsckdUd0RtU2JlODlpcE9mdi1WVmJwLW5XSjRzSFd0bFdaajdMR1JNRlBNX25jbUxXaXZDMURHWG1neFRlZGVkbWtMZ2RNeGN2YUp4bG1MR3ltd25sakZyQ2VqLU11X1E2bHNHQnJZSXYtR19xd05FRXAzaDltZnVrM0M5a0lZcVY4cEFiRzU2UmdvWTg?oc=5",
-      "summary": "Pakistan, US discuss trade agreement, market access, investment cooperation | Associated Press Of Pakistan",
-      "date": "2026-10-20 12:48 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
-    },
-    {
       "title": "Far-left French rioter on national security watchlist busted over fire that gutted historic town hall",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSThYOVBjMkxzV0lKVG1qamNYZXBoV1VTSlg1MlNrWS14dFVMUUhEaE1pczZCTTdpUFlnbkZVXzBqeWRJYkZIblBJamxOVk5lelZVM1JzU3YtY2FhNW90bmpQREJrTlBsS0JLWXdBaS02TnItUkE3LWs3ZTB2bDFLbjVpRXhCQmNubHVQMnpGUlkzWkRiR0UybVFJQlh2Uy1mNzVkMFFnSkJIeVlub1BOa2VVVzJsV3V5bDlDNzZSNGR1b1ZTUXF3cWZkUlA4bjlhN1p5SEJ1YUQ5Zw?oc=5",
-      "summary": "Far-left French rioter on national security watchlist busted over fire that gutted historic town hall New York Post Suspect arrested after Limoges town hall set alight during disorder - French media BBC French police arrest arson suspect in destruction of Limoges town hall Yahoo 'Far-left activist' arrested in France after city hall set on fire amid ongoing protests Fox News France riots: ‘ultra-left militant’ accuse",
+      "summary": "Far-left French rioter on national security watchlist busted over fire that gutted historic town hall New York Post Suspect arrested after Limoges town hall set alight during disorder - French media BBC France riots: ‘ultra-left militant’ accused of torching Limoges town hall The Times French police arrest man over Limoges city hall fire during protests Le Monde.fr The Burning of This French City Hall Was a 'Catastro",
       "date": "2026-10-20 12:48 UTC",
       "category": "World",
       "source": "New York Post"
+    },
+    {
+      "title": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzhlX3lZRERnb2tuZDBPOFY4eTNtZi1vd1BLaERwUU44RDNJb3FEN3NEaVdmZU1rS293YTNoMmc1WEktY2xQakJWaWlhZmY0aktBbjhXNzlsNklVdmZ2djF4eFVBUkc0VUViODljVXhzdVpXZ2w0WjlXSVBPVUdZOEJBMlNpb3ZiQnZydnNSX0FBME8xQnowTGw5Wlp6WDA?oc=5",
+      "summary": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’ Variety Prince Harry Sums Up Why He and Meghan Markle Moved to the U.K. in One Simple Word InStyle Prince Harry Breaks Silence About Why He Moved Back to the UK, and His Reasons Include Being ‘Closer to Family’ TODAY.com Harry says he wants to 'reconcile' with ",
+      "date": "2026-10-20 12:37 UTC",
+      "category": "World",
+      "source": "Variety"
+    },
+    {
+      "title": "PAK vs ENG: Pakistan Scored 302 After Middle-Order Stand",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0RfcXlwaVhyUm80cmtIdENNTzBfQmhySzZKUHhwSENXa0IzS3BRQVYyTkZfZldlOElRRzdmTDRKODIxTmJhRnZyN3hlS29GeWpRbldqdjROUHRUUkJpeFhyOTVzZEpSbmxjMENRbnl6ZEIweUJ5Zk8tMGd2MHhrODc3Rms1N2Z1VXB1ZHVLbVlhQTBnR1h3?oc=5",
+      "summary": "PAK vs ENG: Pakistan Scored 302 After Middle-Order Stand Tapmad",
+      "date": "2026-10-20 12:36 UTC",
+      "category": "Pakistan",
+      "source": "Tapmad"
     },
     {
       "title": "Nawaz, Minhas fifties lead Pakistan to 302",
@@ -466,12 +530,12 @@
       "source": "Cricinfo"
     },
     {
-      "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmsyNnNFQVBvVWFyMnpzNU9sSVNUbEFfLTF0SUJXZEJXQnVBYXdySUhBQ0Jtazl0NWhwVkNXMmlaTUQyM2xUOThBV05mbm5ueURPbFVXRUhfT3dmejRTRzBTMVU3cExadk5YVDhJXzBJSnUxMVN5d0x5RUhUMXV4VEVzcmzSAYoBQVVfeXFMUDkyZUlrdk1hbGRxUHlUUnNzZk41akRCN1pZZk5yMUI3cWFlUkowSF9WbU5MR2dQNEhTaWFBcUFVTHVLTmgzXzUtdXlPekNZVENLTFo1a1JfeHB2Z3FEN1lKTkZpSUNCWnBUYU9fNXJDcHNfbzg1TzRaV3VUd0NSbllGYTNYVDd1LWtn?oc=5",
-      "summary": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks CNBC UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks The New York Times Why the U.K. is increasing military support for Saudi Arabia Yahoo Britain says it will carry out defensive air missions over Saudi Arabia Reuters UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks CNN",
-      "date": "2026-10-20 12:23 UTC",
-      "category": "World",
-      "source": "CNBC"
+      "title": "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEhodTlKakRwblRvUnBlZ0YtSHpEYnoyY1BwaE1TZ2tyb0NUNVFWVng3bjRaVzJfanJhQjM3X0ZWLXo1c255ZGlTaF8tX0Y2Tk1jM1MweXJESHBLR2NvMUZvUjExWHc4bUZBWmpiVXZ2bFJRMDgyaVM0ank2SFpSN2JpcmtLZnVOc0Y4bXVPVDNMY1otbllacDNYRGVHcWVYWC00Wm5iY0VmZXg0ZGdzTFFDQVhhNUJ0a2w2OGk4MmM0WkI3?oc=5",
+      "summary": "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks The National",
+      "date": "2026-10-20 12:20 UTC",
+      "category": "Pakistan",
+      "source": "The National"
     },
     {
       "title": "Turkiye submits Pakistan-Saudi defence pact to parliament for ratification, sources say",
@@ -482,20 +546,12 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Allrounder Minhas stars as Pakistan crush England in tri-series",
+      "title": "All-rounder Minhas stars as Pakistan crush England in tri-series",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGpvSmhVZ3pxWk41ME8xaldYVHdEVTB2cUZjNDhqek14Q0Flb19DYXRQbFdWMUFZOGZ6Sk50R2NrM1NsbV9Pd1U2MnR1WlpUT2RyY21rd0REQkhDQUhUQlpiSnBHRTV1RW81bnNwTFowcVFrNkF0WnBIMEd2Y2tQTEZlSlZGM051dFRxYXppSW0wY0JvQUZNVmpoOXpNbVp6Z0Zn?oc=5",
-      "summary": "Allrounder Minhas stars as Pakistan crush England in tri-series France 24",
+      "summary": "All-rounder Minhas stars as Pakistan crush England in tri-series France 24",
       "date": "2026-10-20 12:17 UTC",
       "category": "Pakistan",
       "source": "France 24"
-    },
-    {
-      "title": "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEhodTlKakRwblRvUnBlZ0YtSHpEYnoyY1BwaE1TZ2tyb0NUNVFWVng3bjRaVzJfanJhQjM3X0ZWLXo1c255ZGlTaF8tX0Y2Tk1jM1MweXJESHBLR2NvMUZvUjExWHc4bUZBWmpiVXZ2bFJRMDgyaVM0ank2SFpSN2JpcmtLZnVOc0Y4bXVPVDNMY1otbllacDNYRGVHcWVYWC00Wm5iY0VmZXg0ZGdzTFFDQVhhNUJ0a2w2OGk4MmM0WkI3?oc=5",
-      "summary": "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks The National",
-      "date": "2026-10-20 12:17 UTC",
-      "category": "Pakistan",
-      "source": "The National"
     },
     {
       "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
@@ -514,20 +570,12 @@
       "source": "Investify"
     },
     {
-      "title": "Major Yemeni City Running Out of Food and Water as Houthis Encircle It",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUZKQ2wxYVE0MnRydXpjSUx6YVo2ZDJwUlhlaHo0Z05VX3Fxd1RSTTRXMU5LdW40U3NVR2dVOE9Td3ZZZEk3cnZ2dDVSVzBvQVRMX3pKNmZZbEk5ZU1OTWE2Q3ZYRzBRMDVYSnVPMUEzM29ySS1JM3kyemhQaVItSEZUSDZQbFk?oc=5",
-      "summary": "Major Yemeni City Running Out of Food and Water as Houthis Encircle It The New York Times Houthis attack besieged city in Yemen that UN says is at ‘grave risk’ AP News Yemen’s Taiz faces deadly siege, as Shabwah death toll rises Al Jazeera As Houthis encircle Taiz, Yemen's Saudi-backed gov't faces disaster Responsible Statecraft WFP warns escalating Yemen conflict is cutting off life-saving assistance to city of Taiz",
-      "date": "2026-10-20 12:04 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Pakistan vs England: ODI tri-series highlights",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnc4aTVOQU5PMUJ3cnNHdFQ4c0FPNzNaY0ZCci1GMWtJSTRQaGQ1M1RIS2UzR1VnalNDaGVkbk0yMzNXc2JrOGE1WlBIMXJ2SFVYakRVVnRhQzVSS2ZqTlhUMUZsZmxvN0lIYTNuWkgwQW5leGU4WlFGWnpaYWlQZGhHdDBMOWVySGFkcXJWTFZ1QzBHdUZhdmd3?oc=5",
-      "summary": "Pakistan vs England: ODI tri-series highlights Sky Sports",
+      "title": "Shark kills woman swimming off popular beach in South Africa",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBM2ptU2gxSEc5NmpIZjljekQwN3Ytek1meEZtbzRlcVdUdmY4b3BpU19GT1c3Zkg3eEQ4STZra2VVU1dkTjQ1OGNTS0g3VzRDcjR0cjJfc1VYSmFNX1hKZUpkZ0tXODZxRW14RERYTmxGQ19LSzE2MnV5cDRjdw?oc=5",
+      "summary": "Shark kills woman swimming off popular beach in South Africa CBS News Orient beach attack: South African swimmer killed by shark BBC Shark kills woman swimming off South Africa's Eastern Cape, beaches closed ABC News - Breaking News, Latest News and Videos Fatal Shark Attack Closes Beaches in South Africa’s KuGompo City Bloomberg.com Shark kills woman swimming off South Africa's Eastern Cape Reuters",
       "date": "2026-10-20 11:59 UTC",
-      "category": "Pakistan",
-      "source": "Sky Sports"
+      "category": "World",
+      "source": "CBS News"
     },
     {
       "title": "Iran regime under pressure as rebel groups escalate attacks in volatile southeast",
@@ -556,7 +604,7 @@
     {
       "title": "Kim Jong Un: Why do rumours about his death keep coming back?",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FX1o5M1NQc3JVODZwQ2xUbUtoZk1lV1ZDclMyRTlCM2RzNFdfRHNmV3pNS3NLb2hoUGF3clluOURUcDByRnhfMHp6TkZaYVVyN1ZVUGlJOUlwT0k?oc=5",
-      "summary": "Kim Jong Un: Why do rumours about his death keep coming back? BBC Kim Jong Un appears at clothing expo after latest internet rumors on death NK News Fears Kim Jong-un 'died of brain haemorrhage' as state-owned news site shuts Daily Star N. Korea's Kim tours light industry expo, touts regional policy achievements Yonhap News Agency Rumors of Kim Jong Un's demise: Are we ready for what comes next? upi",
+      "summary": "Kim Jong Un: Why do rumours about his death keep coming back? BBC Kim Jong-un goes shopping to prove he’s alive The Telegraph Kim Jong Un appears at clothing expo after latest internet rumors on death NK News Fears Kim Jong-un 'died of brain haemorrhage' as state-owned news site shuts Daily Star Kim Jong Un death rumors: What do we know? KATU",
       "date": "2026-10-20 11:45 UTC",
       "category": "World",
       "source": "BBC"
@@ -572,7 +620,7 @@
     {
       "title": "Italy set to deploy 500 soldiers to Milan after riots",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnRDNG8wUzR0UDlCa0V1Y2MzYjZUZjZQRkhaMGNtMFI5OTM4RVd6LUV5X3ZsODBIbmsyTGdYeDI0aFBYNzRpdmxtT1V5MW1XdWU3eXdYcGxKY2RQWFNyalRieW0waFdHaHREMjhBS1BWa191cy1KTGZBOVFKXzlyZ2ZBWG1Tb0dPbXVmYUs4dnBTbmxxMkgtd05uckVYcGhPT0VFblZZS0txUkxva1E?oc=5",
-      "summary": "Italy set to deploy 500 soldiers to Milan after riots Politico Italy to deploy 500 troops to Milan after days of protests and looting The Guardian Rioting in Milan caused by ‘hybrid war’ against the West, says Italian defence minister The Independent Italy's Meloni to boost police arrest powers in response to weekend riots Reuters Demonstration Alert: U.S. Embassy, Rome, Italy, October 19, 2026 U.S. Embassy & Consula",
+      "summary": "Italy set to deploy 500 soldiers to Milan after riots Politico Italy to deploy 500 troops to Milan after days of protests and looting The Guardian Meloni Cracks Down After Protests, Targets Minors With New Rules Bloomberg.com Italy's Meloni approves tougher anti-riot laws after Milan violence Reuters Demonstration Alert: U.S. Embassy, Rome, Italy, October 19, 2026 U.S. Embassy & Consulates in Italy (.gov)",
       "date": "2026-10-20 11:38 UTC",
       "category": "World",
       "source": "Politico"
@@ -602,12 +650,28 @@
       "source": "BBC News"
     },
     {
-      "title": "Portuguese police clear housing protest camps, arresting 55",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWwxLWtmTWFlcG1YV2s1RV91eXlPVFlCeFNzY2ZkX2Z4T1pnZllxOXB0eFlkX3hnWllLT1N5SmVNUnJZRnI3UDBxcTNuQnRsYUFZeWFyUktlcEMxbkdBQW96VGJxdjNjbjRNTXFrdDVVbUhSOUw1OFRDaE9jNkpGdmQzbUZMR0thZUY1MklFcTU4YXhvNDRmNHlyMGxiNDd4clE?oc=5",
-      "summary": "Portuguese police clear housing protest camps, arresting 55 Reuters ‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify The Guardian Portugal sees protests over cost of living and housing crisis as demonstrations sweep Europe Euronews.com Portugal: Police violence against peaceful housing protesters must be investigated Amnesty International Dozens Detained in Lisbo",
-      "date": "2026-10-20 11:09 UTC",
+      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRUNmIxME1lMkU4azlaVW94LXozajNQaWZuYlcxUHBOcEF3MjZuQjNDQkRVLWxMZWJvZlJ3TkpIeHBQRzN2a04yMUg4c3V3SDU1ZGgwZmZRMTJPcHpWT1JwSEFSSTFmN0VlRmdMOWdqUlkzRnlrSGgycFJ6S0VEa0lSZEY5bnp5cElxMDN0OFhLMXcwaC1NRFBZZXQ?oc=5",
+      "summary": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu The New York Times Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say Yahoo Hegseth meets Netanyahu as US, Israel discuss renewed Iran strikes NewsNation Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections Axios Hegseth makes unannounced trip and other Mideast news AP News",
+      "date": "2026-10-20 11:24 UTC",
       "category": "World",
-      "source": "Reuters"
+      "source": "The New York Times"
+    },
+    {
+      "title": "Lisbon police arrest 55 housing protesters and clear Rossio tent camp",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTQ1S05WTnZfeG0wYU9LbmNNZDdhcVZmRHc0Q1BXOTBCV1A2aDJ5T1BhNGZJSXhJeWh1RGJReHpKaGxUMW5IMllVY0RKbFVVMjdNX29QaU1ON1ZIczEyN2NTNlM2UEV2THI1aDltd3BGV2N0LXdiLVI3OWpwWDJsbFRpdGlPNWE0LWU0UGMtVGo2eTdQMjZHRmNmaUpUeWhYX0w5NFZyQUE?oc=5",
+      "summary": "Lisbon police arrest 55 housing protesters and clear Rossio tent camp Euronews.com Portuguese police clear housing protest camps, arresting 55 Reuters ‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify The Guardian Portugal: Police violence against peaceful housing protesters must be investigated Amnesty International Portuguese workers flood the streets to demand ",
+      "date": "2026-10-20 11:21 UTC",
+      "category": "World",
+      "source": "Euronews.com"
+    },
+    {
+      "title": "Pakistan’s Child Rights Crisis: An Interview With NCRC Chairperson Ayesha Raza Farooq",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTRZaFZ0bUk4MGkyaXpKRGxQN1BCZndPNlVmcS1UVVRIRF9tOTRnRXhxZS1PMmZ1cjBlbm5ZblpUWEdQVGRiNW9qeWlnRHozem9obXlIZjgwNkNLYkRRcm1hdXBPNThiaHhqMGE5NzBYdm9LYUNRLTNqZUJ5SENkQXdiZk5mZ0xSNTF4RWVQb3NUb3VNNjBENDlqLVdiSndsUHN5eS1HYThVZXpmWE1rekJSXzlvcGtTX2c0?oc=5",
+      "summary": "Pakistan’s Child Rights Crisis: An Interview With NCRC Chairperson Ayesha Raza Farooq The Friday Times",
+      "date": "2026-10-20 11:13 UTC",
+      "category": "Pakistan",
+      "source": "The Friday Times"
     },
     {
       "title": "Exclusive: Full text of the Mecca defence pact signed by Turkey, Saudi Arabia and Pakistan",
@@ -618,12 +682,12 @@
       "source": "Middle East Eye"
     },
     {
-      "title": "The Best Temperature to Set Your Thermostat This Fall, According to HVAC Experts",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaU1UZ2JkeFVQRXlzVENrRWZ6bUdfN3lFWXBvM29OcHpNVTJSZ0MtUE0wZkdfY0QyeWZldFBKSGpzeUhOS3htZUcwUi1sTHZIVTF4QUFHZVh5NFFYOWVCeW4yX1RNRGxWNFZ6WVlmTzdqRlRJQTRNcVZGZUYwWE1yUElQZ205aWs?oc=5",
-      "summary": "The Best Temperature to Set Your Thermostat This Fall, According to HVAC Experts AOL.com See more headlines & perspectives on Google News",
-      "date": "2026-10-20 11:00 UTC",
-      "category": "World",
-      "source": "AOL.com"
+      "title": "CCP greenlights Lotte Chemical Pakistan’s stake acquisition in Engro Polymer & Chemicals",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjWmF1UlJIX0JQcmV0ckhGakZuRi1keFdCQUpOQ3RENzdhTDdpb1hUZEV2RE5HcXg2X01kM1BGdzExRTBKZWNqYUN6UjZGaE1r0gFWQVVfeXFMUGZ5cUtzTjFFRVdRTkcxazJfbjNUQW14cVh3RXlqUjlWMmxaLXU5NmYwb3VuYWxRUDAyT1luaVRQQldqck5OMlQxSUxtcFZSaXVvYXRWNVE?oc=5",
+      "summary": "CCP greenlights Lotte Chemical Pakistan’s stake acquisition in Engro Polymer & Chemicals Business Recorder",
+      "date": "2026-10-20 10:55 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
     },
     {
       "title": "Pakistan urges SCO to expand local-currency trade, establish development bank",
@@ -656,70 +720,6 @@
       "date": "2026-10-20 10:48 UTC",
       "category": "Pakistan",
       "source": "United Nations Development Programme"
-    },
-    {
-      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFczaWFtb0JFb3NVYWg5NE5fQU1CcEZwZGtkRzBmRXdRS3NKNWNUMXEtSUV4UVljMFoya2FvUTdNSVlUWTk2eWRPX0gtLTc2SE9EMGg1YzJ2MFhjeWZxRXp2Z3VYeUNrcDF6VDdPZE1sUUxGQmpuUFNvcnBqdUNoa1FVRGpTc0JnS2MzaERnNTlJdWxKNWpzeTRVbDRad0tPdGNPalQ3Rm02SlpPTEE5R0Jn0gG3AUFVX3lxTFBycmVoX3JzTEJOSVQ3QU56OE9Wa3l1S3JsUUZzU21WSzZ5aTIyOEhtYWxKaDlxVHNTd0FZV1haSlNXdDFPSFNCZ1lQNkNUR09oRXZ5cXdtRElwSDNsY0JRelhjSHhQbkV5UkNUYVpJNnVKTGROb2EtR1BfZXc4V0llNjVHZmFBMVJab1lXci02TkJPUlljd1U0OFBqVkRtV3c0cE01V20weFNyX21HR2d6aUY4VkdJNA?oc=5",
-      "summary": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack Al Jazeera Tom Barrack's address shows US reluctant to intervene in Saudi-Houthi conflict The Jerusalem Post Trump Envoy Tells Nervous Gulf Allies U.S. Can’t Guarantee Security Forever WSJ Barrack Defends US Decision to Join Iran War Oz Arab Media US envoy says ground intervention in Yemen ‘appears pointless,’ urges regional alliances Anadolu Aj",
-      "date": "2026-10-20 10:45 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "In their own words: Israeli politicians’ extreme speech surges ahead of elections",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUtJWmRSYTB4VThFV2V2Wnpmc0ttcTlyNlNuM1hYZGFFTjlrSTFlTVpnMThVejRFcDBwWUk4QXFtUURONEV6VjBxci1WYjh0VHdjOHpmVlJ5YUllZVhVY2RXSWVGMWJuQVBRY1hldTNlNzY0M1ZZVW9uUk8tM3Z1RXhfb3JkQkR4WF9PNEh5T2JyWElqVXF6TEUxb1dBakUxQ1hJU3VVTUVyS1o3clpVTDNWTGxwNXc?oc=5",
-      "summary": "In their own words: Israeli politicians’ extreme speech surges ahead of elections AP News See more headlines & perspectives on Google News",
-      "date": "2026-10-20 10:33 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZy12Q25TMUJxYjhSamg3ZGZYUlkwUkZBSU1nYlhRbnd5U1V5VmNXQTlBR2NSaVVJUk9zYlhSOWo0Q2NGQTdDbTBGbnZ3Sm1QczZIbG10VzZraUJSeVlJdTlXSUktV3lNZERId2pLVlNZU1pheHZKZUp6MUdWRUxiMEcyaDJuU0g2aWJ1bUhrdUhzVTJKNzJSMmlJSndiMEFEZXBQUjJKRXRXVnliQ2NnSQ?oc=5",
-      "summary": "Google Cloud Outage Takes Down Revolut and Other Banks in UK Bloomberg.com Google Cloud outage in UK eases after impacting digital banks, public sector websites Reuters Power outage at Google datacentre in London causes widespread disruption The Guardian Google Reports Cloud Disruptions in Europe The New York Times Carry emergency cash, public told after banking app crash The Telegraph",
-      "date": "2026-10-20 10:29 UTC",
-      "category": "World",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "‘Taylor Swift tells us to take the lead!’ Could highly organised pop fans clinch victory for Brazil’s Lula?",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZlpVNmVGbEFGNGJxZ0YtTEFmZmlSUXhMUFNpTzczR0VINTluY0FKSGpSU25HN1F2Q2xBWXFmeFk0SWhybVR4bjM3VEYyT2luZm5vanFYY0wzaGRiS1hYeFM1M00yWkVDWFdBQTlkU3dTQ05QR2JzcXdpb3g3bXlPalRuRVBqU3ZHVG9aMzBFZzZiOVhyTng4NUVGLUFvSU45TkxhbTI0aGJmakdwYjhzeXNvVUJta0pnM0dEc2xUam5VMG5VZ0hieU0xLW5FbVBMOW5IUnkwU0E4UWZvaWtIbkRR?oc=5",
-      "summary": "‘Taylor Swift tells us to take the lead!’ Could highly organised pop fans clinch victory for Brazil’s Lula? The Guardian See more headlines & perspectives on Google News",
-      "date": "2026-10-20 10:24 UTC",
-      "category": "World",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pakistan’s army chief arrives in Tehran amid US-Iran tensions",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlVWOVI5YmxfQ2tucDJXdGN2c1MwOU43X3dqYUkzemgzdHRlc2FLeDV4NGFTb1NLcloxQWtoNXFWZ0MxSUlFWDZFTVY2WmFISnUtckI5XzF4OGpubzhmUUM3Q1pOZG1JcnRYZVRUVi1EMk5CTDI1bk9hVjBHdWtIeDdaYmE5VU5veHBpQ0ZuNmhPakVNd0RadkdfTFZQS19fT0tvOUJBejNyVzMzZ0htT2ZBSQ?oc=5",
-      "summary": "Pakistan’s army chief arrives in Tehran amid US-Iran tensions Anadolu Ajansı",
-      "date": "2026-10-20 10:01 UTC",
-      "category": "Pakistan",
-      "source": "Anadolu Ajansı"
-    },
-    {
-      "title": "Pakistan Reach 46/2 After 10 Overs as Babar Anchors Innings",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWdGS1Z0eWtHV0JJNVEzZUd1amUyeEpzNnFtcXhmbTBMcW94ckZBTk84WEVEUlRyVUNtUlE1NE1zeXJ4RXJQNWExSE5GOUlpNmtZLXpGVkVtdHpUODdaX3dnYUJ4WWhMMTVzeWF6N2hvUlFhcl80UkNpTW93OWRXSEdab0s0Z3B2ZWV2eHhrZ3B5RXJEWTFrS0VOaw?oc=5",
-      "summary": "Pakistan Reach 46/2 After 10 Overs as Babar Anchors Innings Tapmad",
-      "date": "2026-10-20 09:54 UTC",
-      "category": "Pakistan",
-      "source": "Tapmad"
-    },
-    {
-      "title": "Iran says Pakistan’s army chief in Tehran for talks amid US tensions",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalVfQ29BYmkzTm5aWVNIOHZkYkZmeHJ2SUtGcmJGUnZiSHBTWkZuaGdvckNFMkQxRy1qRWs3Nk5fRDZVOTlUUlNQTnhzZjZKc1haV2hTSDlHN1djMW1iWXMxWkJncV9YU0xKdUpUS29LOEFCbUlWNWVlZ0JMOVB0OUN2ZjhkMkkzRUw2U1lWenVhajlvREpDVVVlb1lLOUxvZjA1cVI3azNXTWVn?oc=5",
-      "summary": "Iran says Pakistan’s army chief in Tehran for talks amid US tensions Arab News PK",
-      "date": "2026-10-20 09:53 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "FPCCI seeks U.S. investment in Pakistan’s mineral wealth",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3kwdVBNTGV3U1dtRTMwZmJaUlBlaW1QSHhmYkRFMzZZRjVFcjBvWVlQQkRkaEdQanc2c29SR1JhSVpUVWdrMDR3RktrWDdvSlp5czhJOU1NdHpiVW5wU2xzOHdjNzRreWdwOEdNSUZIZ1VLQ25TN2NiU0VwZzV6NlVkYkZMVXhTSTBWX253?oc=5",
-      "summary": "FPCCI seeks U.S. investment in Pakistan’s mineral wealth Mettis Global",
-      "date": "2026-10-20 09:47 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
     }
   ]
 }
