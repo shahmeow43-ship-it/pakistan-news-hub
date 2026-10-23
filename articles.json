@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-23T10:44:42+00:00",
+  "updated": "2026-10-23T11:46:41+00:00",
   "articles": [
+    {
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+      "date": "2026-10-23 11:44 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan’s industrial sector needs action, not assurances: Zubair Motiwala",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2tPbEdvbDhjR1lReHgzWXpva2JBeTVheU56YjhBSlBMWko2cDJqRU13cjlzTy1QcG1qWEFnbmIyMXNqaXZpRGxGb3M4ZXRqaXBHMEUtNUR0bG96dkdFQWdhRG9VRUg5TC1xN1RCaXlpanFjcHdham52d244WnZMUXJZbXVLNFpuRVYwZnV5bC10M0dSRWtralIwTHFkeWdOUXR1elp3?oc=5",
+      "summary": "Pakistan’s industrial sector needs action, not assurances: Zubair Motiwala Mettis Global",
+      "date": "2026-10-23 11:36 UTC",
+      "category": "Pakistan",
+      "source": "Mettis Global"
+    },
+    {
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
+      "date": "2026-10-23 11:30 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "PACE AGM / EGM: Pace (Pakistan) Limited issues corrigendum to 35th AGM notice",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10SURJTTFmU2NiZS1mdUhoTm1uZlY1SURnbkl3dEN2UXhoTXB4aFY1YlRJZFpJQ25BSUVKT2xLT0YzVFNXRXF2WFl2S3Y2RUthdVJ2em4xUkJMNXliUXh3YXFKeDhRTHlaUGc?oc=5",
+      "summary": "PACE AGM / EGM: Pace (Pakistan) Limited issues corrigendum to 35th AGM notice Investify",
+      "date": "2026-10-23 11:23 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "NIT Pakistan Gateway ETF resumes inav dissemination after portfolio rebalancing",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBicW11cUJxZms2SE44ZmVVR3BIc1FvdzNSZm5iN01rUXBadGFCbmdTeTFVYldSZVdjeFFwS0VLQlFFRTJUdDRvQlVyOFUwQ3Jta0ZETVhlN3RhNnFycm40QWFaRm1zUUF2TnpLLWRB?oc=5",
+      "summary": "NIT Pakistan Gateway ETF resumes inav dissemination after portfolio rebalancing Investify",
+      "date": "2026-10-23 11:13 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Meeting of foreign ministers of Turkiye, Pakistan, Saudi Arabia, and Egypt begins in Istanbul",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOajlXelp1cjhpa1JtZ2I4Q29oYzcwS1pLcEF4Q3B0OHhiaWJmRlJDWEIxbEdHRTIxMkFScTg3RWdNc2lYQTROeFIyNmNBRnZJNDB1Tm9CZExFSlZOR2k2LUI4RGRTUkZZcE5zV0ROdEZFd0xJUjBvT09UaUpibWw1MWEyc2UxdkduTy0zcjJleEh4WFZtNDhDcUJKMmtSaGN4Qzk0R1BrdmdTVlBPdDlIT1I3RGpyOThoSFh0SUxWVEotYVlpSFd6S3RtTm90cG8w?oc=5",
+      "summary": "Meeting of foreign ministers of Turkiye, Pakistan, Saudi Arabia, and Egypt begins in Istanbul Arab News",
+      "date": "2026-10-23 11:07 UTC",
+      "category": "Pakistan",
+      "source": "Arab News"
+    },
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "date": "2026-10-23 11:01 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan in Close Contact with Iran and US, Expects Restraint: Foreign Ministry Spokesman",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXBxTGxOeEJuMHJDUGt5cV9KQ01LWWVRVHBvR2JJcHJUckJzSlFzMnhjV09DNUdGYkQ0WEJvdmx6VzRVX0owcHpkYjdTU0dnbzNueUhQTVJGeFZ6WGZZY3c2TlNUalVXTWUxdHBQdV8yeVZhdHNrRmZNN3ROX3FEVlkxWm14TmNBTjVIWlNNX29YLVhMSHV3ZlVlZXVWNG1HMEhLbmJJekZSOUE?oc=5",
+      "summary": "Pakistan in Close Contact with Iran and US, Expects Restraint: Foreign Ministry Spokesman WANA News Agency",
+      "date": "2026-10-23 10:58 UTC",
+      "category": "Pakistan",
+      "source": "WANA News Agency"
+    },
+    {
+      "title": "Dynea Pakistan shareholders approve FY2026 accounts, Rs. 9.25 final dividend and auditor reappointment",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rS1Q1NVRoalhic2FCbFNwUG5jMTdLSlUyM0tpODJFNWhhUkFPSG80ZG14ZVdkb2NyVUFxNjhsdFFURXJ1UTBkQXJpUEZpbk1NdVdiVUprc3VLWFBadnlLZHpzek82b1ZpaXc?oc=5",
+      "summary": "Dynea Pakistan shareholders approve FY2026 accounts, Rs. 9.25 final dividend and auditor reappointment Investify",
+      "date": "2026-10-23 10:48 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
     {
       "title": "Journalists’ groups demand justice four years after Pakistani anchor Arshad Sharif’s killing in Kenya",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0h4U0w4NUtCcWlIYy0tSm1LWHpRRlE4a1plVHAyZTdQVmdOU2JpOXVKUGZQUTNFTDFYMm5wN0lmX2l6b2FJRW5tdVBZYlRJT21hRVZuQnphTUhITkhWbXdWZ3dYU1h2Q3VEaW9SeTRPenlsWE9za0FhYVBQSmVnMXM4bTd6cTZ0eWZGMjNENXdIZGZfOVgwamRKekZBeERyNjZaM2t1M1lQTlYwZEVYRDRKNGc0eERMZXdPMGQ2T0oxV1VNY1FJOE95cXlBU0c5ekl0U183RQ?oc=5",
@@ -8,6 +80,22 @@
       "date": "2026-10-23 10:42 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWhnZ09jWWxxQ2o3M2J1dklUMS0yaTJ0QW1ocDFianNPSE1mYnJYUURfTUMxdFJlMklNT1FXUXRVUXdHQXBPbUxjOERMb3ljdTdPQXE1NWp6djF3NjhLNjBTMVFxSGJLb3lvbW1DMzZzcElvNXVaWlQ3Z3BseFVwak16a2s4ajJ2TDBTZDctQ2ttQlVVOFFxMGtNcWE1Sm14bXV0SjltQl9HeVphOFN3VUkwUGFPSzVWZXl4MWpLNEdiR2hpN3VHcWN3?oc=5",
+      "summary": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father The Guardian Meghan says she was informed by police about 'disturbing allegations' against her father in 2018 BBC Meghan Markle Responds to Child Pornography Allegations Against Her Father People.com Duchess Meghan speaks out about child sex images investigation into dad USA Today Duchess Meghan \"deeply distressed\" as father Tho",
+      "date": "2026-10-23 10:40 UTC",
+      "category": "World",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pakistan LPG shortage worsens after border closure, traders say",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUl6WVdkTUtwSVFxeGhXWUZ1VFp4dDcxcjNPRGlQT29GY1h2V1Z0b3BTX1lHSUFNZm5sR3pFV2U0NmZJem5qMUVlVklOLUtyTC1vV19uRlNHV2ZTaGpCWFhfVU1za1BCWmNwUF9Ta295aEpsbFV1VVFNcDhQSC14Mk5ocXpZejhpZWhublZ1Z2IyaW5OekltS3JDYTd3a2J3WGV6UnJTNFY?oc=5",
+      "summary": "Pakistan LPG shortage worsens after border closure, traders say Investify",
+      "date": "2026-10-23 10:37 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
     },
     {
       "title": "Malawi opposition demands answers over president's prolonged stay abroad",
@@ -34,9 +122,17 @@
       "source": "Reuters"
     },
     {
+      "title": "World Bank calls for reforms to sustain Pakistan’s economic stability",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFg2TDFKLWJLNHF0T3dQdEY0LUdTOXFGT0hnU0U4c0VlbUN2VG9JLVgtMGRjanYyU0p5VFV1WVhfMkdwY1hTYkpVWnVxTmVaVU9GSmNQTGpWRjFrT0p2YU5ZcGJOQ0tEM1I0WmRYdzAtTWRkTkNxb2xKaGVnLWpUYTQ2OGNPTWJJUjRaSFlDVG9xbU0zUGNfMnl4Wll2ZjFZSnVYMDdiNjI3WmI5VlVQVXR3?oc=5",
+      "summary": "World Bank calls for reforms to sustain Pakistan’s economic stability Investify",
+      "date": "2026-10-23 10:29 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
       "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+      "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
       "date": "2026-10-23 10:26 UTC",
       "category": "World",
       "source": "BBC News"
@@ -162,6 +258,14 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Pakistan deploys 1,782 5G sites in 24 cities",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LSHA1enRDU2RCNDVtXzMtM2RKUDJaeU5VN0IzY0hxQXdZM1hEY3Njd0lsM2JBVTNCXzhNZzYtcTJPRGNDNXFxSnNWRldLV2Uy0gFWQVVfeXFMT3Z2aS0zQ3hlZVF4aGZzXzUyM0JqUGItcnVaYU9LTXVTUS1Jd3NlTHZGZ0FLVTU2SEZQaF9fa2dsaGxjZDQ0QTVaRHRydlBXZjVvajFtNFE?oc=5",
+      "summary": "Pakistan deploys 1,782 5G sites in 24 cities Business Recorder",
+      "date": "2026-10-23 09:40 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
       "title": "Masterclass Pakistan Honours Rising Culinary Talent at Annual Culinary Awards 2026",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmlEUERUTFJtQVFMYUhjTU1pdEZCMlEwWS1yR19wMDR4NHR3WDZXRlN6Ykpnc3ZLcTBoZTZyUTZzQUVIQTNpRnk4aFJwTlI3X3FfOHNhak1QVGFXS1VScWxqbWxlMTU4ejBqdlpzQTVrMVVoNjRibHhPVVpxX0dxMVo2WnVaSlc0cG9JcEYzTXd2WG1NSXhLQW43QmE1TkN5V3JqcVViSHdWSnc2Tmw4WS04RDVxRFFidDBWRQ?oc=5",
       "summary": "Masterclass Pakistan Honours Rising Culinary Talent at Annual Culinary Awards 2026 Biz Today",
@@ -202,14 +306,6 @@
       "source": "The Diplomatic Insight"
     },
     {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "date": "2026-10-23 09:36 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
       "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
       "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
@@ -218,20 +314,20 @@
       "source": "BBC News"
     },
     {
-      "title": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3dwb0R4Z1VVa2VJenltT3B4WWEzS0xsc2Q5SmY0eEEwNy1FN2J6RlZDZE1DaUhzOTdKeHNuckEtMkJvYk0yS2VfRmtBQmhuT3VpcU5CMDFPWlBIYWRDU25XaU51SHJ5cVF2NHkxNGdLb3AtVkpuaHhOR2ZpQjk3aWd2Ni1NY04zM1dLNUxYVlctdWZnUE1RR1N5Q1dsUzF3em1pWjlqUUxpQS1p?oc=5",
-      "summary": "Israel orders ‘full lockdown’ of West Bank after military kills 2 accused of attack NBC News Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack CNN Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Live: Netanyahu announces ‘full lockdown’ of West Bank following shooting Al Jazeera Israel says it thwarted ‘terror attack,’ and other Middle Eas",
-      "date": "2026-10-23 09:18 UTC",
-      "category": "World",
-      "source": "NBC News"
-    },
-    {
       "title": "Pakistan shortlists 10 prospective buyers for Islamabad electricity distributor’s privatization",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFJBRnVhWklvRnFzSGZrcHRLcXRBaEFldUpobkVUTTRwSHVUYnRzbFdsMzd4UVlZbVN2V1MxeHY2QkU2NXVWNHBaQ3o1OTVjc3hCUVBkVkdiTTRoQU5pSEpTRTNDQU5WaWhiME81MUJYOXBmUkFUME1oQXVCR3NyU3BYcnpzWHNKb3Fyd2JCU29QNWdMT2VVVklUVUptckhETVAxdHVGNDYtd3E4UG9WOGdDeERPUUh6T0s3d3hvcWx3SEt4TTdjSkgzYVg2a0Yt?oc=5",
       "summary": "Pakistan shortlists 10 prospective buyers for Islamabad electricity distributor’s privatization Arab News PK",
       "date": "2026-10-23 09:16 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Ukraine says two soldiers died after arrested girl sent Russian poison",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkRpMjkzTHEydGR1VTdXZC1zN2JZZUdLdVhZNVBpV0ZIWWdRbFZqOWdnX2ZibThKaHNvMWdqbUdwMzNRYVBlenNuY25OaFBGcTNvaU9rc3VXTnlxenZxdDg3TE1wMl9tOU1tdXlibUpCRklmWlBfZ0NqV1BYMmhMMTRIOUNYYUo4dlFlYlZ3VjY?oc=5",
+      "summary": "Ukraine says two soldiers died after arrested girl sent Russian poison Yahoo Teen girl accused of helping Russia kill Ukrainian soldiers with poison CBS News Ukraine Arrests 17-Year-Old Suspected of Lacing Drugs Sent to Soldiers Caspian Post A Russian agent has been arrested in the Zhytomyr region on suspicion of poisoning military personnel UkrMedia News In Zhytomyr region, a 17-year-old girl was detained who, on in",
+      "date": "2026-10-23 08:50 UTC",
+      "category": "World",
+      "source": "Yahoo"
     },
     {
       "title": "Final Israeli polls point to stalemate ahead of Tuesday’s election",
@@ -266,6 +362,22 @@
       "source": "Investify"
     },
     {
+      "title": "Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1F5dV95eTN1dnN3bDJQWWs1X1VWRFNfWXVvSUpjUm9wZmxFSHl5T0pEOVlRYkJJdHA2akw1MG8zNjBVdlNxU2hPQ0lNejQ5Mmd0RmMwUW1MU1lDT21wUHk5WUIwUXY0ZEJid1lXUlZyZnhENFdKS1F0b0dPNnpLNA?oc=5",
+      "summary": "Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack CNN Benjamin Netanyahu orders West Bank’s closure after gun attack wounds five Israelis Financial Times Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Live: Netanyahu announces ‘full lockdown’ of West Bank following shooting Al Jazeera Two Israelis critically wounded by Palestinian gunfire",
+      "date": "2026-10-23 08:34 UTC",
+      "category": "World",
+      "source": "CNN"
+    },
+    {
+      "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdE1PRXlBazNqSDdfTUFVck1Qblg5cVo3M2IyckIwY3d0RWJyd19uRDFGbUE1dkgxVUU3a2cyelhqQ3BKbFZVNmNBb0NnMDdVVU5lVzh5cDlaZnFCQmlEVkQ3WUh1c19VZFNGSmF3?oc=5",
+      "summary": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths NPR See more headlines & perspectives on Google News",
+      "date": "2026-10-23 08:17 UTC",
+      "category": "World",
+      "source": "NPR"
+    },
+    {
       "title": "Gold rate in Pakistan today, Friday 23 October: Rs431,536 per tola",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUdnNUxuaUVPU19YRDBaOUVfZ2FVWGRWeEZFek5nUW8xOVdQdU5HTjIzZ2hrOVV6VElvcU0taGtmSldYWG1Hck9jMnRka3RfektMcHdwUDMtSkdLeXIwajJnUFdSRnlHb3hKOUZXN2VIdXlyRGRJOVlrWEdJMkt4X1BxT0VJZDdEeFpRTFBxNG9oQ3k2akVacUNRZWd1VXNmWERkY0o5T2JOUU0?oc=5",
       "summary": "Gold rate in Pakistan today, Friday 23 October: Rs431,536 per tola Investify",
@@ -276,7 +388,7 @@
     {
       "title": "From Buenos Aires to Colombo, discontent simmers under the surface of rebounding economies",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmd4c1NoUjhtblFiOGZ6UThLeU9KdnBqOTQ2c0dXTklMcXA5ZU9QT2pXcUlLSGlKdVVKRzZpZGVram92azF3S0VQcXN4TmpvMENXNVdhYlNCSzVlMW9pZVE1Q3Jrb3hqNjFxa20wTXZHdERSN2NuR05ONC16QkNZZm5FZWh2NVJMVmhndHV4QkNkYTJ0OWd4S0xKM2V1VElHcTdXM3pEeVh6U0FleEJjMGNEWFdfQUhrd3lCblhMUXhQU2Y2U2c?oc=5",
-      "summary": "From Buenos Aires to Colombo, discontent simmers under the surface of rebounding economies Reuters See more headlines & perspectives on Google News",
+      "summary": "From Buenos Aires to Colombo, discontent simmers under the surface of rebounding economies Reuters From Argentina to Sri Lanka, economic reforms bite at home marketscreener.com Unrest Grows in Emerging Economies Despite Economic Recovery Global Banking & Finance Review",
       "date": "2026-10-23 07:57 UTC",
       "category": "World",
       "source": "Reuters"
@@ -290,14 +402,6 @@
       "source": "Investify"
     },
     {
-      "title": "SL vs ENG, 3rd Match, Pakistan ODI Tri-Series, 2026 - Live Stream",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDdQc3JvS2syYkp5QWpQeDNxQjJIWGctUndEVlFWbGMwTElOY0hXaWRaaEJpMmlaZVE0Wm9iaEd4WkViWXVTWUpsOGFaak9JNVRaZkczdDdmd3Y2VUNfdFlfREpnUnk3NDRDTEFrdUQwc3RWeXMxdURZR3NOejRHTmZCVjd1UGY4U0hKZW9nTTl1aVV1eDd0Z1dJbkt6a0Y1eHc?oc=5",
-      "summary": "SL vs ENG, 3rd Match, Pakistan ODI Tri-Series, 2026 - Live Stream Cricbuzz",
-      "date": "2026-10-23 07:47 UTC",
-      "category": "Pakistan",
-      "source": "Cricbuzz"
-    },
-    {
       "title": "Pakistan army chief vows to pursue alleged India-backed militants in northwest",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT241VzZhVEtrdzNDVUQ2cGJ1V1ZZX1V6NzFRcThDbUJLMF9weTlqZ1dRUE5lc3FDdElXeHNvMXhzblZIV2xfaUhVblFYM3pZdlVraFVWMmdIYnFpQUEwRExMcjdMa1lGLUhYNTRXZDhEM0t4NzN5NjdCdUlva0J6VHFtNUZBWGVBWk00WGxRT2RnckdzRlBQRy13Z0RKSGZFTV9Zd2FrSWtMNzRUUnljeG0tWUw5RlYweUh3?oc=5",
       "summary": "Pakistan army chief vows to pursue alleged India-backed militants in northwest Arab News PK",
@@ -306,12 +410,20 @@
       "source": "Arab News PK"
     },
     {
-      "title": "The revolution arrives in Albania This is Europe’s autumn of discontent",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScDc5MXRmN3c1dFFOZ3QtVVNBVHpmaGQ5Ykp5UHE2bmdfME9Ra0tsVFUyb1B3WEtHZV9mc09uS25Sb3c4eHYyQzRFMkpXV0lqYy00aDQ5QnJ6Nkd6SFVqUlVfc3JuQy1jZ0FxMGhR?oc=5",
-      "summary": "The revolution arrives in Albania This is Europe’s autumn of discontent UnHerd As Albania's anti-corruption protests grow, the prime minister blames 'antifa' for dissent DW.com Albanian parliament descends into chaos as opposition backs protests Euronews Seventh day of violent clashes between Albanian protesters and police BBC Flamingo Revolution: Albania Protests Escalate over Corruption & Kushner/Trump Luxury Resor",
-      "date": "2026-10-23 07:21 UTC",
-      "category": "World",
-      "source": "UnHerd"
+      "title": "Pakistan forces face allegations of abuse, cash seizure during Nushki operation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmpTSmxRajlKd3o1dUxaeGpDQzZXTXRTVklpOVQ3WWV4R1NyVHQ4cjhkSmVPN3lEZGhZM1k5bm5Ublg0b1NsOE1ZVGQ5eG9TalNibVJ1Slg4S2xIUFc1cWZubmRoWnpncXlLUERaUGJpaDU4S19qeFJCbURtakpBbXhOcGY5T1JwNFZkTnRrUnE2UnJoVnI1aXdHQTQ5bTd0MHFsNDN6aU10cW5TV3UtQzc2ZFdJU3NBS01CcFVmYnMzNUQza05ncVExdw?oc=5",
+      "summary": "Pakistan forces face allegations of abuse, cash seizure during Nushki operation ANI News",
+      "date": "2026-10-23 07:30 UTC",
+      "category": "Pakistan",
+      "source": "ANI News"
+    },
+    {
+      "title": "Lahore tops global pollution ranking as air quality turns ‘hazardous’",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PWFpUdjh1UnJkT2dCV0p6TWUwU2hqeFM0R3Rqa1RGbWUzSWpKSUtZWlJITk9hWkVRNFdGYzhLaE1jSS1uYlFGVA?oc=5",
+      "summary": "Lahore tops global pollution ranking as air quality turns ‘hazardous’ Dawn",
+      "date": "2026-10-23 07:14 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
     },
     {
       "title": "Could the White House press pool model work in Pakistan?",
@@ -404,7 +516,7 @@
     {
       "title": "Why Serbian elections are so important - as students challenge 12 years of Vučić rule",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsMjdJWVJndExFNC1JVDhieHdXWDQtMWlBeWVEbmNoNUlCRXdVQ0lzZTlTZnQwQkhuZnBrbHE4UGZZQ0RCaDF4dC15ZERvbE91SDYzUlM3Qncyems?oc=5",
-      "summary": "Why Serbian elections are so important - as students challenge 12 years of Vučić rule BBC Massive student-led rally marches in Belgrade ahead of Serbian election The Guardian Students seek to oust Serbia’s strongman in Sunday vote Financial Times Serbia’s protesting students mount serious challenge to Vučić’s power POLITICO.eu Something Astonishing Is Happening in My Country. The World Should Take Note. The New York ",
+      "summary": "Why Serbian elections are so important - as students challenge 12 years of Vučić rule BBC Something Astonishing Is Happening in My Country. The World Should Take Note. The New York Times Opinion | How a leaderless student movement could topple Serbia’s autocrat The Washington Post Students seek to oust Serbia’s strongman in Sunday vote Financial Times Massive Student-Led Rally Marches Through Belgrade Ahead Of Serbia",
       "date": "2026-10-23 06:26 UTC",
       "category": "World",
       "source": "BBC"
@@ -467,19 +579,19 @@
     },
     {
       "title": "Pakistan’s Interloop to expand production with $23.5mn investment",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oNjlmeDRyNkVvNWpSSTNzWWU1T09wSkM4TW1PMkhCR05OOWFLZzM5Mk5xMnZLZ3V2bzhNTU5RM3dDX2ZKNHlWaDkzRkNsMUNR0gFWQVVfeXFMTV9hV3ZZYmlfbkhnYnlBeU9MVWltdVJSZGN4MmNnUW4tUDM1U0J5MDZmRW5WOEQwZnE0cEJHNG52WG5neHRhV3NXLXBGckNJbnJ3Z19CdGc?oc=5",
+      "summary": "Pakistan’s Interloop to expand production with $23.5mn investment Business Recorder",
+      "date": "2026-10-23 05:36 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Pakistan’s Interloop to expand production with $23.5mn investment",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3BCRFI5TWxKNWNRR0lUVkpVeXp0VnpEcTI1RGdKMjA5ZVVfWlFxdnlKLUhWX05UZ3Q3MzA0WVBXNlBTM0Y3OUJadFpuTFljeGh3QjlxLTVyU0dDaUU5SkozLTdTUTV4bzAzVWtaVW1ER1pIVlkwT3pkU2tpN183NElJZTdEeWgxZThiZWtuajhIVEtpVFlTNDE4aldRZ2lwemR5V2JiUlpDOTQ?oc=5",
       "summary": "Pakistan’s Interloop to expand production with $23.5mn investment Investify",
       "date": "2026-10-23 05:36 UTC",
       "category": "Pakistan",
       "source": "Investify"
-    },
-    {
-      "title": "Pakistan’s Interloop to expand production with $23.5mn investment",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2t2cWR2dGNpcmUtamRTREtGcjdmMzJiWXQ3dWNxa3QwS3lzcG9YNTRsT1FzYVRDcmtsYVVIWDV1MjBrSTVyYVo2SFY0MWV0cmppWE9JbjN0dHdSaHF3S3FKT1JOUEY4X200MFBTdlpIUEVaSGlWTV93bzVBWEZVTjdoSnVESkJ4ZV9CdEFkRHhjNW9DdmpYSXNDRVoxcHFQQk9Ba2duLS1MTk9neEHSAVZBVV95cUxNX2FXdlliaV9uSGdieUF5T0xVaW11UlJkY3gyY2dRbi1QMzVTQnkwNmZFblY4RDBmcTRwQkc0bnZYbmd4dGFXc1ctcEZyQ0lucndnX0J0Zw?oc=5",
-      "summary": "Pakistan’s Interloop to expand production with $23.5mn investment Business Recorder",
-      "date": "2026-10-23 05:36 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
     },
     {
       "title": "DPM Dar arrives in Istanbul ahead of R-4 bloc, European diplomats’ meetings",
@@ -516,18 +628,42 @@
     {
       "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
-      "summary": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead BBC Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters Rescuers search for survivors after deadly earthquake in China’s Tibet region NBC4 WCMH-TV Powerful earthquake in Tibet kills at least 16 people Al Jazeera Map: 7.0-Magnitude Earthquake Strikes China The New York Times",
+      "summary": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead BBC Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters Powerful earthquake in Tibet kills at least 16 people Al Jazeera Map: 7.0-Magnitude Earthquake Strikes China The New York Times Rescuers search for survivors after deadly earthquake in China’s Tibet region NBC4 WCMH-TV",
       "date": "2026-10-23 05:16 UTC",
       "category": "World",
       "source": "BBC"
     },
     {
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+      "date": "2026-10-23 05:05 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
       "title": "A Cancer Revolution",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmZhdXZraEtDbFVwRWl5ZXRrcTdvWUVhODBWSFRHVTUwRjhmTzNXazZ6RUZ0YzVmNkZNR19mcWJGZlNUS3MzS2FoRWJmOGp5LUIyWElaNm1weFg5d3JidlpNanNhOFh6QlVrQlZfd2Fka1Zrejh2cEd4b1FhalBULWtFbi0?oc=5",
-      "summary": "A Cancer Revolution The New York Times Pope Leo XIV cancels Assisi trip on doctors’ advice as he recovers from surgery NBC News Pope Leo will not make Assisi visit to aid recovery after surgery Vatican News Pope Leo needs no further lung cancer treatment, Vatican says CNN Pope Leo takes to popemobile for first time since cancer surgery Reuters",
+      "summary": "A Cancer Revolution The New York Times Pope Leo XIV cancels Assisi trip on doctors' advice as he recovers from surgery ABC News - Breaking News, Latest News and Videos Pope Leo needs no further lung cancer treatment, Vatican says CNN Pope Leo takes to popemobile for first time since cancer surgery Reuters Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery National Catho",
       "date": "2026-10-23 05:00 UTC",
       "category": "World",
       "source": "The New York Times"
+    },
+    {
+      "title": "A Ukrainian soldier severed his own foot to survive. Then came a dramatic rescue.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZdnBkRE5yNGl4RGRWRDJMQnJOcklzRllWbWJwcE0tWmlwcTZpVllfRXpyZzZnR3BXRzZrZjE2NEUxUXFFRlpGbHNaNkx3T3RNOTFVVk1rN3NHanBVWU1uVWdsVmRBNTAwXzdSNFVtX0FEQzlQQ0xxNklCakdUZw?oc=5",
+      "summary": "A Ukrainian soldier severed his own foot to survive. Then came a dramatic rescue. Reuters Ukraine claims world’s first drone evacuation of wounded soldier NBC News Military shows how engineering drones install defensive barriers on frontline Ukrinform Ukraine’s drone rescue of wounded soldier puts much touted idea into practice Ars Technica Ukraine says it carried out first drone airlift of wounded soldier from front",
+      "date": "2026-10-23 05:00 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
+      "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbW9VVFo4YnktLUZOMWJaQllkWjR6ZnhpLUw0WVJWYURYVGQyLWRYNHNrdGY2Y2wxYVBGei15a2JnQXhpSVlLeDFsd01MaXk5XzZiMWRxWGJIOUkyOWk4OEJ6a2JUZ1NuQ0ppWWpoQjFLejQ2cWtHQUdGWHdXMDduMG5wUHZNYzRQV2d6MzBiS2xzamFUYks2dkdVeWVoODE2SE5pXzNhREdtbk1UaWZv0gG0AUFVX3lxTE9wcjcySTFfREVFZ0tobDhkZGd3dS1VTW83cld4R3N4NncyTnA5ZXBGME9RZDJpYWJpdFlvNnRyWlg4TC12M1hXVFdWdEFvR1BhRU92dS1md05EYWw0cmpnUTVUZ3dpT2sxTDdFMmV2cGtELTdOc0daOFo5d2prWDNhYTVMck9nbXEyb2VDQWpQVnExeTFsM21randZSktfeTFOR1hiNEFScGNUT1pQaWlvekx3WA?oc=5",
+      "summary": "Keeping Madhubala alive: The fight for Karachi’s captive elephants Al Jazeera",
+      "date": "2026-10-23 04:55 UTC",
+      "category": "Pakistan",
+      "source": "Al Jazeera"
     },
     {
       "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
@@ -562,12 +698,12 @@
       "source": "Asia News Network"
     },
     {
-      "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY0J6anQ4RjZXTDhIdVNWR1JZdHdIc3dJdWhlMDdMdjBqSExXWDFDOEVtT1Bpdl9IU2NMVE5PSE53U3ZxOEo3VkpoSzdKcjRRNHFnbW9IY1N6RjZobnZmT0RtdjlTOXVFbERnTjNMTUY2NXh6WWM0YlVYbnlSOE9TLUxoSFdvUEMzMVZNdFhxRjcxNnJfSGNsRFp2aWNYUkxjY3lEWkstX1VDeEtoWUEyaXJWUkRNSjFLVFdKNFVhT3E?oc=5",
-      "summary": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn The Guardian ‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities CNN Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths NPR Heat Waves Killed an Estimated 50,000 in European Cities, a Likely Record The New York Times Tallying Europe’s Losses From a Summer of Deadly Ex",
-      "date": "2026-10-23 04:28 UTC",
+      "title": "Russia's new type of 3D printed missile will make jet Shaheds look like a 'small problem,' Ukraine's drone gurus warn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0tKVWJFS2sxZXdYY1FWSmdZemg3WDA2SnVzRTlJVEV0anVSUThyWUlDLWxKN0FsX3ZsZk9LTDIzbjNFUmduX1hKcDg0VFFBaGphcDVsM25JTzJTYWRYRm9vTDg3UlhmZEI2R1lhRFBrY2lXbXR6U3VLck03OXpIS2dSSFZ6QXFpOHdNUU5udUhmdkJHTHpTVTBVbWlscjhHNEY0VTJ6ZWxaMTUxbkE?oc=5",
+      "summary": "Russia's new type of 3D printed missile will make jet Shaheds look like a 'small problem,' Ukraine's drone gurus warn Business Insider Ukrainian military intelligence reveals new Russian cruise missile 'Filin' The Kyiv Independent 'Lost My Sleep: Zelensky Cries On Cam as Ukraine Fails to Intercept Russian Missiles| Firstpost Live Firstpost War&Sanctions: DIU reveals details of russia’s new Filin cruise missilev Голов",
+      "date": "2026-10-23 04:27 UTC",
       "category": "World",
-      "source": "The Guardian"
+      "source": "Business Insider"
     },
     {
       "title": "Foreign agency’s alert helps Pakistan rescue girl from international online abuse network",
@@ -584,142 +720,6 @@
       "date": "2026-10-23 04:25 UTC",
       "category": "Pakistan",
       "source": "Investify"
-    },
-    {
-      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTd5Q0ctSWhwUzFDT3dGbTZ6UGoxYmtFTDFpMVE3UXVCTXVpRFVQV0U2X3JoZ182SHF5MjdtNm5mTUFGWjdPejJheGV3X20zMjNfaWsyX2U4dGJGNGxWcnRnekZtLXNQYjAxanVxM3luUktmdnNsTzFHVEtiUTZ6R2p0Q09uSmtoZ3k0UTM2RQ?oc=5",
-      "summary": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him? The New York Times Eisenkot offers hawkish alternative to Netanyahu for Israeli PM Reuters Opinion | From Yitzhak Rabin to Gadi Eisenkot: A mission to save Israel Haaretz I met Gadi Eisenkot. He did not perform leadership. He practiced it - opinion The Jerusalem Post Gadi Eisenkot - Israel's 'not Netanyahu' candidate RTE.ie",
-      "date": "2026-10-23 04:01 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Russian Offensive Campaign Assessment, October 22, 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTFMWkpRT0NfN2tHWm1kbzFCM1gzZjhOVlFCcUxhYV9IVW5TR3FGSXFaUHJIUmpZTVZNUnBtcEJOWVhvQ3piQmJFTjdXdTRzVi1NX1N6VV9UVDNHd3U4TVZtLTZOVGRkT2R6UVAyNFNPeS1BYkkyOVVVTXZaREo4MWgtYXNOeTZuRF9pOHpWSm5JaV9VYWhKcXpXS1JHcms0U3dYZUJ2cmRQR2M?oc=5",
-      "summary": "Russian Offensive Campaign Assessment, October 22, 2026 Institute for the Study of War The Russia-Ukraine War Report Card, Oct. 21, 2026 Russia Matters Fabricated Russian Videos Backfire The Jamestown Foundation Russia’s 2026 Offensive Campaign Has Failed: Why Putin’s Capabilities Are Running Out uatv.ua Russia is exaggerating its successes on the front lines to influence the negotiations UA.NEWS",
-      "date": "2026-10-23 03:58 UTC",
-      "category": "World",
-      "source": "Institute for the Study of War"
-    },
-    {
-      "title": "New detention powers in northwest Pakistan raise fears of political misuse",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbURjVkZRUHUwNER1Smp1OGNrUFB1eUxQUlJxa3RYWXVDTFZMUjdCdjBIekNUbzA1STdPVlM4RHE1VmJFMk1sRXlPQThTVEN0c01LNkJxOHJEcURFUGtDWkVnN3Rnc2ZFalFja1FZTXllTkdyNFlvcEozRFBtX3BEdzhRUDNrNndtRzNQTTlFbklMQmY2UUdGQ1ZfSUxza1Bsc25Pc2R0bHB1MDJKeDRKc2ZjVW92dw?oc=5",
-      "summary": "New detention powers in northwest Pakistan raise fears of political misuse Arab News PK",
-      "date": "2026-10-23 03:11 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Gold rates in Pakistan: Rs431,536 per tola on October 22",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFlsc0RURDVKOFRnanYyc2pLMlloZFhFeVVwSnE5Y3VZZm1GZk5GcmNRWG1mRmNrX2JxYU14bG93VmtCVjRWNC00TmdqVi11Q0pBMk96MEx0VGhoWW5sZElmUzFDSVYtdHpMTHZISWVsdU03b1E1UXl2RzhBdjJxcV9vZ2JQQ2pJcmxRRGJzcGtfMjl4Y3FkN1hQMjF6QTg?oc=5",
-      "summary": "Gold rates in Pakistan: Rs431,536 per tola on October 22 Investify",
-      "date": "2026-10-23 03:00 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "IMF forecasts 1.3% contraction in Pakistan, Middle East and North Africa in 2026",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWlqSXZPQklGbVhWT2lBVnhmRV9CRjBTX2RxZHZpLWhCc0x3dGVhZ1A0MlItelBqZjY2d29TRUFjUHp5bFpCamV1TXFISHR4VjN3UTAtMlRmZ2p6SGhYUFVpVmRiQW9FeGdIT0pTZ09mU3l5LTdwd295WG9OUkFWNTFySzVBSkplWGN1WkhRem5UOXdkOWtnVG0tVU9JZTJEQmVzU2RGNDljcU5vbTFBQmdYRVo1enh3STZhYWxn?oc=5",
-      "summary": "IMF forecasts 1.3% contraction in Pakistan, Middle East and North Africa in 2026 Investify",
-      "date": "2026-10-23 02:35 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Pakistan, EU flag security risks tied to Afghanistan",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EbzBfNXl3Y3hRYmN3WWJGOVdFS3FOY2VsYUxjSm5BdlEzQ2hYblM5cmQxX01kZ0RoOU5EUUhXd01fckNIZEdyUw?oc=5",
-      "summary": "Pakistan, EU flag security risks tied to Afghanistan Dawn",
-      "date": "2026-10-23 02:05 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Pakistan, Maldives plan direct flights to boost connectivity",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PRHJPNlZHdjRBQzlHcldqaXBsNmVYdE5xeVFsRXZDUk1LYTRWNHRId2NnS0poWk01V1o2RVdGR3JVVnNpMDlveQ?oc=5",
-      "summary": "Pakistan, Maldives plan direct flights to boost connectivity Dawn",
-      "date": "2026-10-23 02:05 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "State Bank of Pakistan's reserves rise by $19m",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nZnU1bWl3elpaaHRPTTdPN3F3Mm8xbmY3LThvZjA3TzhlRUVLV2V0QXMtNFhCenRseFZvaUh5Z1lkVktwNW1ybQ?oc=5",
-      "summary": "State Bank of Pakistan's reserves rise by $19m Dawn",
-      "date": "2026-10-23 02:05 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Constituencies ‘re-described’ in KP sans mandatory public hearing",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3ZE12d21QTkRhbjZhY2RwVGI0bFF1TWh0dVhsVGhvZUN4cnJhSFhTRkp5UnFzLWEyclVSY0pxSTV1MXo0QlBNNQ?oc=5",
-      "summary": "Constituencies ‘re-described’ in KP sans mandatory public hearing Dawn",
-      "date": "2026-10-23 02:05 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "date": "2026-10-23 01:38 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan: Four years without justice for murdered journalist Arshad Sharif / FIP - International Federation of Journalists",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQTFZUldyWlVXUExMOWtiTkJEQlFGbjZpRnk4VWZRYkF5S004STZlZ0g1NlNiWllzSFJwYWFuNnRZeG9pdzg3NWlWQVVTNHVnc3FhMlpneU9MNFRtUi1jZnBVai1NN2RzRjlPRTF3aFNCY2NvY0pSUzBVQlFoenN0c3RvWEJ5ZXBoaGVnTFNZSUZSOTFjVzE4bldLREw0RXNrOENJczZla1VOWTdmVmF2SjZNQXpLaUx5TVRBTk5mUEljWU44OHI5UmZneEV0Z1dUd2FkbzhlZGVIeXZ4Y1d2LUJvMVFEMVZwTnNXOWd1TFZnVFQyN252VUV2UQ?oc=5",
-      "summary": "Pakistan: Four years without justice for murdered journalist Arshad Sharif / FIP International Federation of Journalists - IFJ",
-      "date": "2026-10-23 01:24 UTC",
-      "category": "Pakistan",
-      "source": "IFJ"
-    },
-    {
-      "title": "Jared Kushner Blasts ‘Outrageous’ Vanity Fair Over Report On Alleged Undisclosed Foreign Bank Accounts",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYnF1amtOZ0hkR2JaZkJQN3d0eWt4MFg3dkdVWDBmd2tpZ1JybjFWd0Rmd3RjY2JmMjYwLTdrLVdxZDZTd254c3NxSTZuV3ozeVVFWl94N05BSEtwOGpycDhCOFNVZUdpNmJhRTMzcFBseENra2U0b1RPTlNub0kxUDgwckV4ZHJvLWRPLXQ2MVBRYmdicWloa2U4ZTd3Q0k0U0p2VnNMTWI2R0l6MmFsN2s0TmFyWVhKLU80eXVCRWU5eGl3Ty1hRkh5ZTRJZGFWMmdWV3lDcEVYc3hpbWJzRHJOWHR1NktXY0RFQzFpSQ?oc=5",
-      "summary": "Jared Kushner Blasts ‘Outrageous’ Vanity Fair Over Report On Alleged Undisclosed Foreign Bank Accounts Forbes The Art of the Deal: Jared Kushner’s Hacked Phone Revealed More Than $700 Million in Transfers Vanity Fair Report Alleges Russian Hack Exposed Jared Kushner’s UAE Bank Account Access Yahoo Netanyahu Accused Of Helping Kushner Conceal A Billion Dollars From The UAE - Report i24NEWS Trump's Son-In-Law's Hacked ",
-      "date": "2026-10-23 01:10 UTC",
-      "category": "World",
-      "source": "Forbes"
-    },
-    {
-      "title": "Ambassador Sheikh calls for shift from ‘counterterrorism to IT’ in Pakistan-US ties",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkMzZzBvbE8tUG94dTRzV2ZFcEY4WjNCdkcwUEJlZWczNWhxLXd1c0dmSmN3Y1gtZ0ViQzZTakk2MVkyMThNNVJud2NtU0VvREx4TzRNLUxQa2k4VzBIMWFTN0UyeHcxX2ViSEQ2cG1hNHpTMk9TZ3ZjNS1PbnRvVURGd0NLYmswTmtFLUgxbWhXYzZvbEh0dUgydmdnX0xtRGwydTMxOXpIMEpjSV82WTF0VEt4WnV2MWc?oc=5",
-      "summary": "Ambassador Sheikh calls for shift from ‘counterterrorism to IT’ in Pakistan-US ties The Express Tribune",
-      "date": "2026-10-23 01:01 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
-      "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFRLNG50TnRVZ0t2T0h3M3AxR0s2SkJXbWxabnBWQU43dlY5dTNrdGZhdi1XUkxwMTc0OVBlV0NnVkNLaGhKY3k0YUJWQW03ZEJfemJPZVpkVG5sa1FZcTc5QUtFQWVDUHY1RFJZSDB2ck4wSGxUcGxaMmo1SlN2bW9xMzlPRmpMRlFGMG15bkhuUjhtV2FZcU1xcUw5OWs?oc=5",
-      "summary": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack AP News El Salvador sends troops to Haiti to rescue four service members CNN El Salvador's president threatens Haitian gangs over military hostages BBC El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted The New York Times Bukele says military operation launched to rescue Salvadora",
-      "date": "2026-10-23 00:51 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "Pakistan seeks foreign nationality details of civil servants, warns of disciplinary action",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREFzQlhEdFc4NHdLV2Zud3dKSEhKb2Fwdk5YYzBfSXZ4emZTYjZCaURPaTJVYVg5SHNfLWNWWGt5YjJTZEZVRXVfS1hxeGNUbUN5MjhsRHlEVEVQOTczaTdKRGV2WDhJNXBLazdSSl9EM29CdGFVNThYcll0cVpWbXk5V3ozS0o1SEZvTFd2bW1xeEc0SWV4Z0I0QmUwYzVpT1VHS0dmRUFHODFzRmhUaTFTbTV4WTl6Q0JvZnBHa19DUThYYW9mRm13?oc=5",
-      "summary": "Pakistan seeks foreign nationality details of civil servants, warns of disciplinary action Arab News PK",
-      "date": "2026-10-23 00:11 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
-      "date": "2026-10-22 23:55 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Teen dies after falling from moving carnival ride as questions mount over safety",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFFYTURPc3MwazJmTzY3a0dwMWhMeDdxRnZoSmxKOWJ2Q3pCS2lrMVh6X2VjWVdpd1NsdEw4REt3R1A4TWFsUkhuM0djR210bUdnMVptbGE1SHJuUk1qcGZnZzkwRGRrVlY5clJTMm12N2V0ZVd5a1VpOUtjaDBvNkxjNXY3SmZtR3NFS3dYMFlvUFE1M2Mya201SURKc3BjOXJHZ9IBqgFBVV95cUxOcGtlenJxSUZoN2FZcjcyUjZ4Z2JtVFZVUEI0YTk2YXFyZDU0SG9QcEhkRjAzWXZVRnFhZkhQanFjU2hRb1NZOWwyQUxuMmJQR3VfRTRkb0xvMlZxNWJWUkJFNDl0N2t1aUhZVjRtZDk4UU1kNDdSakRScjRxeEtkaWF5Ul9KWktfTHBPeVEzQ05zTmpEbDcwMEpoOUNXTm1SRVdrd1Z4OEdCdw?oc=5",
-      "summary": "Teen dies after falling from moving carnival ride as questions mount over safety Fox News 18-Year-Old Dies After Falling from Amusement Park Ride: ‘It Could Have Been Any of Us’ People.com 18-year-old dies after falling out of temporary amusement park ride in Mexico Entertainment Weekly Teen dies after fall from amusement ride in Mexico Jamaica Observer Teenager plunges to her death from 'Fireball' ride in Mexico as ",
-      "date": "2026-10-22 23:42 UTC",
-      "category": "World",
-      "source": "Fox News"
     }
   ]
 }
