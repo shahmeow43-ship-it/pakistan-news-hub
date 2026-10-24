@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-24T22:41:30+00:00",
+  "updated": "2026-10-24T23:37:42+00:00",
   "articles": [
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "date": "2026-10-24 23:02 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMEdmMlZaSzhHcFgtaEdjZlNkQ29JdlE3VEVRaGxyd3J2ZktQeHF0NC1RRTlnaVJKTHNBdlZwNmRVM2JSZ3ljbzY5cmdDWVRBbXJZZXRZYzEweWs?oc=5",
+      "summary": "Palestinian families displaced as Israeli forces demolish Hebron homes BBC Israel Cracks Down in West Bank City After Deadly Attack The New York Times Israeli PM pledges massive military operation after West Bank checkpoint attack NPR Israel begins demolitions in West Bank city after two soldiers killed in shooting attack CNN Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation Reuter",
+      "date": "2026-10-24 23:02 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "England thrust into World Cup mode for must-win Pakistan clash",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMVR3bVp4X2h5MXg3SDROcVcwNXFkM09CUHFZSHNueUN6OHpvYmROQkVJODhBdXBBTUpKTlBVNllmWmk0dlB5R2lvSnZqVm92M0UzeDBlT3F2ZFZmMEhfWWpEcU0xSWcxZWtZajBMV3g3blZhUm81ZHNPS0c0bUFlcjFPOGY0R1k5NEozZERZV3lScmlJNHNoSmx2cWcyRGp4alJlcGwzTm1GeURVVWg0WFpUQXdRblotdDZpUm9CQTEwcE0?oc=5",
+      "summary": "England thrust into World Cup mode for must-win Pakistan clash The Cricketer",
+      "date": "2026-10-24 22:44 UTC",
+      "category": "Pakistan",
+      "source": "The Cricketer"
+    },
     {
       "title": "Who are the candidates in Brazil's presidential election?",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
@@ -28,7 +52,7 @@
     {
       "title": "Violence flares in Paris after largely peaceful protests across France",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-      "summary": "Violence flares in Paris after largely peaceful protests across France Reuters More than 1,000 arrested in France as protestors and police clash in several cities CBS News France on edge: nearly 800 protests as police clash with demonstrators New York Post Hundreds of Thousands Protest Across France as Clashes Erupt in Paris WSJ Live updates: Protests start in Paris with another weekend of discontent set to sweep Eur",
+      "summary": "Violence flares in Paris after largely peaceful protests across France Reuters More than 1,000 arrested in France as protestors and police clash in several cities CBS News Hundreds of Thousands Protest Across France as Clashes Erupt in Paris WSJ French police use tear gas and water cannons after some protests turn violent Fortune Live updates: Police and protesters clash in France as water cannon deployed in Paris CN",
       "date": "2026-10-24 21:27 UTC",
       "category": "World",
       "source": "Reuters"
@@ -37,7 +61,7 @@
       "title": "Pakistan's Salman Agha recalled for Sri Lanka Tests",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEJFYU1kWjdNYU1XQ2ZHNnIyeV9vMWU3cDhuZ3V1RlJBYldudHJ3RGVPVHVsdHlESXg3U2ZuQVpTVTJwS0RIU05vdk9zSnZCVG9OMGQyZVkzZVBzNjBIZ1lRVURpQk4xTmNhaVN2bmtfNUdZRXZabVFFclZxQzdpd3YzQmVLdDNOTU40VjBxM0l2ZHJsU0ZtOFhlX1lqRGV0amZuRUpxUnQ2bjg?oc=5",
       "summary": "Pakistan's Salman Agha recalled for Sri Lanka Tests Cricbuzz",
-      "date": "2026-10-24 21:22 UTC",
+      "date": "2026-10-24 21:23 UTC",
       "category": "Pakistan",
       "source": "Cricbuzz"
     },
@@ -52,18 +76,18 @@
     {
       "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-      "summary": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained AP News ‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire The New York Times Suspect arrested after fire \"completely engulfed\" Hitler's Eagle's Nest mountain retreat in Germany CBS News Hitler’s German retreat, Eagle’s Nest, set ablaze; Suspect in custody AL.com Fire devastates former Nazi guest house 'Ea",
+      "summary": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained AP News See more headlines & perspectives on Google News",
       "date": "2026-10-24 20:23 UTC",
       "category": "World",
       "source": "AP News"
     },
     {
-      "title": "Pakistan, Azerbaijan take new steps to promote Children’s literature, publishing cooperation",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVRXNWlXN3FOY3FqWW1Ga0FZUFJEQnA4cVVKRFpXSjZ5QWF2ekZJNkNRM3drQ3VnNDdaMjlscEM0UTlPNTViRk51ZGJBdlVZMUhZMkw3ZnBMTXZXblF2THVGX292c2E0Sk40Z2VhbHF5RzZCUW5iUnFLZVhGSHBQZnNPSHFrc1VNMndKZl9ha0Q3YmFYTW45RDliQTNwdndYdGIxemJnRExfVndFT0RUa2NQemRnSnNWRkdzVWh5Yw?oc=5",
-      "summary": "Pakistan, Azerbaijan take new steps to promote Children’s literature, publishing cooperation | Associated Press Of Pakistan",
-      "date": "2026-10-24 20:21 UTC",
+      "title": "\"Vacate illegally occupied territory in Jammu and Kashmir, focus on your own citizens rather than taking military directives\": India slams Pakistan at UN",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRXBQUWM0UGxEQmNpM3FWdzZXZlNIVFczX0F0NHFjSUZydV9NbW5PRXU4d3RHbFg5cFRobDFkamVjeW1DVmg5ZTJvN0ZvZXNzYUxvNzBVeERrS0dPczlJUW1vZVVKVEdnNXE2QUhoT2Y4cXBBbW5BWVZVQUU0TFduMkxMSGdNVzhfdDEtWlF4ZlVhd1ptUzUtcllEYkpmeGZHN0c2OFpVcXJNdk9iWXhLTzJ1UjBQTWlPME5TNjlXODhORzdBbGhCZ2xCNTgxU3NCaVp4MjF0V3J2WUk2M2pBSlViQUtmQWZMU3hUbzRUT0ZYMWRjd215NUlITXJGUExvT3l2amZNaTljajVsMVZjMV9Mc1BRQ19HcFVLT1dCTVpiMHlCempz?oc=5",
+      "summary": "\"Vacate illegally occupied territory in Jammu and Kashmir, focus on your own citizens rather than taking military directives\": India slams Pakistan at UN ANI News",
+      "date": "2026-10-24 20:07 UTC",
       "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
+      "source": "ANI News"
     },
     {
       "title": "Pakistan says Afghan Taliban cannot dodge terror concerns by blaming Islamabad",
@@ -80,6 +104,14 @@
       "date": "2026-10-24 19:37 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWdEVTNESFY2dm5VOUhSV05QZnd1SDRsWlhtTUhoVE54ZzF5SXdrZktVUkJrcVZvZW9UVDVpT1lQQlRQYWxEeWpickVzODNBR2ZJMDdpT3lhOTdfY0JtbFF2SjRxU0hRcGhzREhOTzZuTkc5ZVJjOURJX2c1ZUNJWW9QRzMtZlhaeVk3ZTBkVlFGNURjaEV3ODVVa18?oc=5",
+      "summary": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear The New York Times Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent Reuters Washington Post journalist says attack by Israeli West Bank settlers has only ‘strengthened’ her resolve CNN Israel frees suspects in two settler attacks as West Bank pogroms intensify Al Jazeera Emboldened Israeli settlers lead a s",
+      "date": "2026-10-24 19:31 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan’s Hunger Crisis: What The Global Hunger Index 2026 Reveals",
@@ -100,7 +132,7 @@
     {
       "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDJ1SGFoTUhVdlBmTFRuTFc2eEJiMlBKc3RiWmdpQVlWZzZOTEppNkpweDlxbEJfQm5hbUdfRFB2eTN1MlZEMk1wcGxJMWtyc1NYYW5VV1p3b0RaVDh4SlpnUC13T0Fna0ZRSUpnRlBOWDd2NHVDTEZtbzM4cXd2RU1QZVVHNTVXWnd2enphaUR3NkJoQ0x1c3J3SWdjc3FLRmhNYWY3aXFhNXFKbjFxUUhNSdIBuAFBVV95cUxNMVE4bWlIamtEdEtYR2R6YnR0VW9zOGRZb0lhaURxbUNiMEhzTVVTX0VTMU9Bdmd3TkZRQThuR001Tm5za1VZLTB2dkNRb05kNWFteWZfSkhFMXB5el9sY09IVmg5NjlvRnFNS3ZhcWhaRWhRT3Iwa1VVWVZqODNOeng0amxiSldFb1daOEpGWlVNWFVKaUNMNlAxRWZwM294djdDUHFsbG9oY3lPRXJUNFJlWTBlVGhh?oc=5",
-      "summary": "Thousands of Israelis rally against Netanyahu gov’t days before election Al Jazeera At pre-election rally, murdered hostage’s dad says whoever opposes state inquiry into Oct. 7 ‘probably has a reason’ The Times of Israel Thousands rally in Tel Aviv for October 7 inquiry commission The Jerusalem Post Thousands rally in Tel Aviv against Netanyahu ahead of vote France 24 Israelis hold final rally against Netanyahu befor",
+      "summary": "Thousands of Israelis rally against Netanyahu gov’t days before election Al Jazeera Man detained after allegedly attacking Bennett’s security detail in Tel Aviv The Times of Israel Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country's history Fortune Thousands rally in Tel Aviv for October 7 inquiry commission The Jerusalem Post Thousands rally in Tel Aviv a",
       "date": "2026-10-24 19:15 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -128,6 +160,14 @@
       "date": "2026-10-24 19:04 UTC",
       "category": "Pakistan",
       "source": "The Times of India"
+    },
+    {
+      "title": "Pakistan vs England live score | 4th ODI Tri-Series",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXU3TVhHMm53enU2YmdmUXAtMjlwVVRmQmkyZFdXdlYyVUhkMXNTMTktdHJPMzVOSi1kNTlwaDdwY21rNjdyM21GTGU5RnNveVVHMGNMYkZqSnBCV3NMYndfZ0M0SExxSG51RHJjZmxMdHpqWDZUb2ZZY1B4MjVWRzFRd3hkVzdWaHQ0SzNJcnJ1N0U4MUhTUmc2eXpxcmltV3phT1FCYmZPT1pRZjFpR2gyYW5obTBMaUlmaGlKZlMxTGg4b0hzcjh3?oc=5",
+      "summary": "Pakistan vs England live score | 4th ODI Tri-Series Cricket World",
+      "date": "2026-10-24 19:01 UTC",
+      "category": "Pakistan",
+      "source": "Cricket World"
     },
     {
       "title": "Petrol price in Pakistan from 25 October: Rs377.71 per litre",
@@ -162,12 +202,36 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Pakistan U17 win One-Day series 4-1 after Yousuf's 105, Azan's 91 power hosts to 27-run win in fifth match",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLUcwU1ZqcWNaRzdtVVNYa1N5cTZ5cXNNa0JyODNOMXIyc2FraUo0eDJyTzEyVkxVd280dnQ0c2ljRUtrT2RnZHh2UnpwczFMSmRWbk9NZmI3SnZnR3Y1b0pGRWRNWVBRaTV2SWRNbEN3MjBZRnRwZm9Cb0otTnFwbl96OGt5M0JOTWxwXzVWNVRPLVY3bHMwdXJfWE45a09hVTYzVzBwNlh0dGthTzdUQ0hRUXpUc3hRaUljaDBfekd3NmIwOTVfLWh4S3hVSGRNc0pvQkhmYw?oc=5",
+      "summary": "Pakistan U17 win One-Day series 4-1 after Yousuf's 105, Azan's 91 power hosts to 27-run win in fifth match Pakistan Cricket Board (PCB)",
+      "date": "2026-10-24 18:10 UTC",
+      "category": "Pakistan",
+      "source": "Pakistan Cricket Board (PCB)"
+    },
+    {
       "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGt0bjFCcGt4RVpRTmx2dkNLbnFmdUlRY1lRcWpRa3E3RldBbGw0SWJWdnBZYW1fRE5aWDVFelZqQkR1TUpoSngxVWE0V0R3a2Vjbnpkak1OSkZpRTRRclBlNlg0eTczeXdKQi1wUF9xQ3RuUXFNNERpRlFNRGktWDRUZnU5WUhBYm8yM0dzc0RvNHlmS0U2Q0JLbEpHakNleDRudVA4bmU0Y05RZTNUTFY0VGRTNXZiT3huRw?oc=5",
       "summary": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters AP News",
       "date": "2026-10-24 18:03 UTC",
       "category": "Pakistan",
       "source": "AP News"
+    },
+    {
+      "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdnd1VzRrR1VTeW9LRDBTeU1aenEtWkNTTWJWRVBmSVFESWxfcWdMZ1VJYWdOTGdaQTcxRHJ4dVprdmVxRmZsUjRSSS03d3hqYUF5ZHVNNGx3emgzeGpHTnJ4bzlKMzJ1STgtSGYtQ3RwU0lKM3R2VUQzaEZDVkxETkFXeVhhOEVISk1MU29GR053eXhzaGFHMmR6MlB5Q1BnZHdXNXBsaW9sYmxTcXprRGotQmlUZTV4cklCRVRVNDZPTnhJYnhudmtGTjdnVnNxejhCQVBTMkF0OG1sWVBsTzhHaG9MRkFvLUtESTdvakdkam5SNHJ3VHhNVUhqTlBGV1hNdU5DZmRtcVltX3F2bEJKOEVMYVdabFpaOG5hMDdHQQ?oc=5",
+      "summary": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters Bozeman Daily Chronicle",
+      "date": "2026-10-24 18:03 UTC",
+      "category": "Pakistan",
+      "source": "Bozeman Daily Chronicle"
+    },
+    {
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTJNaE03MDRCSmxDV1hyWWNOZ3d0VzdXaFNFZ1B6a0JuSlFFQ2hJTzdSY3FPaW9jdWxpWXNjUW9wSjJ2dXFnN3RwR0pQU1pCWEJaNU44WTRURFhJX2E0X2Y4TGxnaE1vTUplQS1wY2RnalBpbGpfREdKS1pyWlM0NTVqT1YyQUo2QWZpT3RwOTExNXI2UjNfT2FtNEFHUXBXaEU4Zml6ZTNDZTlwZVBucTVpcU5DU2hyWlE?oc=5",
+      "summary": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him? The New York Times Thousands of Israelis Are Flying Back to Vote The New Yorker Opinion | Why I’m flying 6,000 miles to vote against Netanyahu The Washington Post Final polls before election show both blocs short of majority, small parties out of Knesset The Times of Israel How Benjamin Netanyahu reshaped Israel’s institutions Al Jazeera",
+      "date": "2026-10-24 17:45 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan rejects former US envoy’s allegations of arming Afghans to fight Taliban",
@@ -210,28 +274,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Two rescued after Nairobi building collapse with five still missing",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldXlLZkdROVc0NW1YRGg3cEd3cHFwMy1IN1dBMEotV2pZUXdwZE1pNnpIS3RPeWF2V0pZcXFKOXRJSWpTYlgwdzRPOFU4aWFDNUxEejFHRl9oTWM?oc=5",
-      "summary": "Two rescued after Nairobi building collapse with five still missing BBC Many feared trapped as a tall building collapses in Kenya ABC News - Breaking News, Latest News and Videos Pancaked floors, piles of concrete after Nairobi building collapse, in photos AP News Two survivors rescued as police launch manhunt for Eastleigh building owner Daily Nation Casualties feared as multi-storey building collapses in Nairobi Ya",
-      "date": "2026-10-24 17:25 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "date": "2026-10-24 17:21 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMEdmMlZaSzhHcFgtaEdjZlNkQ29JdlE3VEVRaGxyd3J2ZktQeHF0NC1RRTlnaVJKTHNBdlZwNmRVM2JSZ3ljbzY5cmdDWVRBbXJZZXRZYzEweWs?oc=5",
-      "summary": "Palestinian families displaced as Israeli forces demolish Hebron homes BBC Israel Cracks Down in West Bank City After Deadly Attack The New York Times Israeli PM pledges massive military operation after West Bank checkpoint attack NPR Israel begins demolitions in West Bank city after two soldiers killed in shooting attack CNN Israel launches collective punishment campaign in Hebron after two soldiers killed The Guard",
-      "date": "2026-10-24 17:21 UTC",
-      "category": "World",
-      "source": "BBC"
+      "title": "Pakistan LPG Shortage: Cylinder Prices Surge To 7,000 Rupees After Iran Border Closure",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWtPVEJ5OU5nQW4zMjNFc1JWQ2Vkc1M1eDZFYjlfYk1WNE1mcEtzZDVNa29zSnB1LWw4aEdzMzJtYXlCbmlBQURzQWkzc3NtTXhuQ1dONDVqM3p0RWdpMkk2bS10bEw1ZUZOdng0WlJYcFNyX3pJeHdKX2RGVFhDcUJNNThNUmh2S3BJLUFoWmNaU1BKLXFhbS1UUXpYaDdCcHM3cndNcHFJaWNCcE5NSUhLbnYwWE1KdWxlRUhCY1FabENmLWfSAc4BQVVfeXFMUHNMZ1FtM2JPM29OYzdQeDJrb0QwYk4wYjdlNjZzd3NvVE1obUZXTXVlLXFyeHZHNkx1eDdaeDhLeEg4WjM4VkdteW01Mm5vX2RlT092ZmMtQTlQQUdLUERRRWRET3E1NXNhczNXUlVYT0Y4M3VROVJRbkVPd0YwSUxZSVZHdlR1WGhEY0RpRXlXdUZSNTJNVHluSHVYOFdSVzRVRmZlRi1KT2ljbTJSNXZ6RVV6TjBoWmVyVG4xWDdDOHpZLVNOWGU3YUVXd2c?oc=5",
+      "summary": "Pakistan LPG Shortage: Cylinder Prices Surge To 7,000 Rupees After Iran Border Closure NDTV Profit",
+      "date": "2026-10-24 17:13 UTC",
+      "category": "Pakistan",
+      "source": "NDTV Profit"
     },
     {
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
@@ -244,18 +292,34 @@
     {
       "title": "Husband's tribute to British woman who died after rescuing son in the Bahamas",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUjFraXlRdndiQVhHYU8tRThKQ1ZqU3E3a1dMSGw5c3J3M2Z6aFVEcXRyUEJSNDVYcTNUd0JZMHpRTVdPMlZTd1JYWWJpNlE5dF9UcjBSZVlvRjQ?oc=5",
-      "summary": "Husband's tribute to British woman who died after rescuing son in the Bahamas BBC British woman dies trying to save sons on Bahamas snorkelling trip The Guardian Mom, 36, Who Drowned Trying to Save Her 2 Sons During Bahamas Snorkeling Excursion, Identified People.com Mother drowns trying to save sons during Bahamas snorkeling trip USA Today British woman drowns in Bahamas while trying to save her children The Telegra",
+      "summary": "Husband's tribute to British woman who died after rescuing son in the Bahamas BBC Mom, 36, Who Drowned Trying to Save Her 2 Sons During Bahamas Snorkeling Excursion, Identified People.com British woman dies trying to save sons on Bahamas snorkelling trip The Guardian Mother drowns trying to save sons during Bahamas snorkeling trip USA Today British woman drowns in Bahamas while trying to save her children The Telegra",
       "date": "2026-10-24 17:11 UTC",
       "category": "World",
       "source": "BBC"
     },
     {
+      "title": "India-Pakistan Matches Seen As A Country Engaging With Another: Shashi Tharoor",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmVkVzJHUVNRSnBmQ3RIZjZDNGthTW9WYU1kSnRwMkdYVkNWRkw1bG9LTHdlbEdvSVJlcXl1SmV1bnJNYUM4TFlDVlhkZl92R0FLWGpEd0Z3R0NtZWxXTzlfc3I1dkg2c285MlN2cmQwM2h4b0g1RUw5eDdrQ1cyNHQ5MjdJcnVjM3RKektWTktRbVFXalJBcnpRN2x4RUNydmZCYUJzY0lESHJuUm1mZWd5eFhfRnd0MnfSAcIBQVVfeXFMTnVXQUhHQ1F1dnQ0MURNcWZQMXVKam1TeWNoNG5FM1dVRzBRLXhhRDVodHdBbVp0eEdXNUw2X05rZE1WR3NWWGNySmhoblNRUG5uQzI5dm9kckZmWVQtUFozRnpiR0RyQXFnUkpwYWRwajBBQzc4bHJLY1ZFTndYT2I4c0d0NEpfcHBpMGlIRnRNeF9nZmV2amM1RzgtVFVsV0wtWlRaYy1QWGpGU2RDVEdEZXlxYzNlV3RCLUpqa1I0MUE?oc=5",
+      "summary": "India-Pakistan Matches Seen As A Country Engaging With Another: Shashi Tharoor NDTV",
+      "date": "2026-10-24 16:57 UTC",
+      "category": "Pakistan",
+      "source": "NDTV"
+    },
+    {
       "title": "Ukrainian forces reportedly strike Russian targets 2,500 kilometers from border",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlpMQjhFYzZKNlhmNjhBNC01S0NrcmpQTzVlOEpuTEcxVms4di15c0tMdm9HZ3lXOG5pNjFQeDJGUHFnenBYQ1ctUGI5SkFIRGdNR3V1bHpGd2hvamdzakRod0w2aU9hUHhHeXBIZDNiVGpfQUhaUGliaTNpZDh0N3dVUHpBSGtCRTMtLVlDbTBjZHpSeEVYU2tNd0sycE85MHRWOERUNlo5blps?oc=5",
-      "summary": "Ukrainian forces reportedly strike Russian targets 2,500 kilometers from border The Kyiv Independent Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT Українська правда Drones attack industrial hub in Russia's Omsk – social media Ukrinform A large warehouse is on fire in Omsk, Russia: reports suggest an attack on Ozon UkrMedia News In the Perm Krai of the Russian Federation, drones attacked",
+      "summary": "Ukrainian forces reportedly strike Russian targets 2,500 kilometers from border The Kyiv Independent Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT Українська правда Drones attack industrial hub in Russia's Omsk – social media Ukrinform Ukrainian Drone Attack Hits Perm Region Chemical Plant The Moscow Times Ukraine targets Russian petrochemical plant, warehouse; Moscow strikes kill 3 The",
       "date": "2026-10-24 16:48 UTC",
       "category": "World",
       "source": "The Kyiv Independent"
+    },
+    {
+      "title": "Three days before election, Netanyahu warns Iran is preparing to destroy Israel",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLTkRuQUliVVZBYU5kYU5EeElZNEZPMFZFSU4zeUp6MmNwRUFnRV9xb0RZQVFQOEFpLURVVjhHZ2JJVlk1eDhvX01KX2RuMTI5UWRPUHNuaw?oc=5",
+      "summary": "Three days before election, Netanyahu warns Iran is preparing to destroy Israel Ynetnews Netanyahu calls for US and Israel to overthrow Iran as Brent crude hits five-month high Fox News Netanyahu promises Iran regime change: Can Israel topple Tehran government? Al Jazeera Netanyahu says U.S. and Israel must topple Iranian regime The Washington Post Israel Elections 2026: Benjamin Netanyahu asks voters for time to fin",
+      "date": "2026-10-24 16:38 UTC",
+      "category": "World",
+      "source": "Ynetnews"
     },
     {
       "title": "Disruption to Iranian LPG Imports Drives 56% Rise in Pakistan’s Cylinder Prices",
@@ -272,6 +336,14 @@
       "date": "2026-10-24 16:22 UTC",
       "category": "Pakistan",
       "source": "ICC"
+    },
+    {
+      "title": "Kashmir Issue Remains Alive Because of Pakistan: Farooq Abdullah",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVJNRHhKMGRiX2VkWFBCMnloSVB4cGQzOHR4aHEtTklObmVQQUZqNmtEMVl2OGExVXBob1RoRjFxS1dmTW54MlFpQ09UWEtlV0EwSG9NVlkxVXBXVHhmRXhpRGw4VlNPZmxTUnlhV0tWVmdyb3FNLWVTckJtSFBnbk9WdXl6ZFI3UHlmaXo5MHd4VnNtUEJzNUNMakJHSktOQUc0RFdn?oc=5",
+      "summary": "Kashmir Issue Remains Alive Because of Pakistan: Farooq Abdullah Kashmir Observer",
+      "date": "2026-10-24 16:19 UTC",
+      "category": "Pakistan",
+      "source": "Kashmir Observer"
     },
     {
       "title": "Jon Ossoff’s films exposed corruption. Then his colleague was murdered.",
@@ -298,9 +370,17 @@
       "source": "AP News"
     },
     {
+      "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTksxWVk2NDZLejFtRFlEMlpsSHFvb0t4VUpwazhjNjZZM2JxTzMwWWZIUFF0d3VOZGRwSEt4QnZ0QS0yeVlmZXpIMjRFdUhiam5KOU1YVS1qQ1I1Q2hFOTBmMk9LcnFWUUxYcUhVOHVOUXFJejRYM21xRnRvTnVVMkxnQUU0TFh2ZmVqVm9kQnV4aktBRVUtSFhoanllVUVVaG5vbjhLVUU3ZzJTR21sZXQ5c0c4dl81MjN4Rmdxb1p3S2hxeTJ4eWJsWHpPWTUwblFoS252ckNHVkdBVEJWM3JvU3RRNEVhTmR1V3BuVmhFUEdrZ0tyZnZMeVdrWGpKODZzWXpFbVZySFFsS1E?oc=5",
+      "summary": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says Bozeman Daily Chronicle",
+      "date": "2026-10-24 15:50 UTC",
+      "category": "Pakistan",
+      "source": "Bozeman Daily Chronicle"
+    },
+    {
       "title": "Rubio calls on Cubans seeking \"positive change\" to work with CIA: \"Now is the time\"",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LbUJ2ek1uS2tBbzBrbUpTaG1nZTZzbnJVZDlTRHZoVGpRUFZ3Z01ka2dJZWUwLXFnNmtZdnVLbzFqMHpZRjdnSTRrYVJRWnZGS19YLVUzamN2cVk4Qk9UQ2V1LWQ4Zw?oc=5",
-      "summary": "Rubio calls on Cubans seeking \"positive change\" to work with CIA: \"Now is the time\" CBS News In Florida, Trump vows to deal with Cuba after Iran gets settled KSL News Trump and Rubio escalate rhetoric on possible Cuba action USA Today Rubio tells Cubans ‘now is the time’ to act to see political change The Guardian Marco Rubio calls on those seeking change in Cuba to partner with CIA Reuters",
+      "summary": "Rubio calls on Cubans seeking \"positive change\" to work with CIA: \"Now is the time\" CBS News Trump and Rubio escalate rhetoric on possible Cuba action USA Today In Florida, Trump vows to deal with Cuba after Iran gets settled KSL News Rubio tells Cubans ‘now is the time’ to act to see political change The Guardian Marco Rubio calls on those seeking change in Cuba to partner with CIA Reuters",
       "date": "2026-10-24 15:49 UTC",
       "category": "World",
       "source": "CBS News"
@@ -362,14 +442,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Trump Voter’s Regret Comes With a Brutal Reality Check",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejE3R2g2Q0FPV3VCQkpNeExKMEdmUl9tMUlKR05fQ0RzenFtWVJSa20xMVVIQVhrNmE5dHUwdDNicUM2MkQ4OUU4NzNqRWhMU2dWODU2UUpCSmotajZKdHkySUJvWkRDVlpCR1A1MFJtZ0NiOFVCYzQzczlLUWpmdDVRVy1oZzhkTmRF?oc=5",
-      "summary": "Trump Voter’s Regret Comes With a Brutal Reality Check The Daily Beast",
-      "date": "2026-10-24 15:08 UTC",
-      "category": "World",
-      "source": "The Daily Beast"
-    },
-    {
       "title": "Agha and Usman get test recall for Pakistan’s two matches against Sri Lanka",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnJIN2lrRUdmQjlnNnFSOUszSktLMktUNThaejBnQWFoYnB0Rm9LOUwydGx5RWNQZlZLeU84ODFDMnJRZ1lCVHRXTHY5dlR0UVdTdFBpSnpqUEVtYXdSTjZFVHJnZi1DU3E2S2lfdTQtQzFPb3pTelVoNlhNajhJSC1ma2xQUm9SY1p3S3V0MFNlWUpCQUVyR25Sd1otX3hXRVdJ?oc=5",
       "summary": "Agha and Usman get test recall for Pakistan’s two matches against Sri Lanka AP News",
@@ -378,12 +450,20 @@
       "source": "AP News"
     },
     {
-      "title": "Former skipper Shan Masood axed as Pakistan turn to youth for Sri Lanka Tests",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VjBPbmJsRDhhbFNsWmFqTWY2bXdEc0VybUhJNUdPSnVsQzY2M1hQcjhBMlRxQzZyN18yaG5hTGJiVm1ZRGRmMA?oc=5",
-      "summary": "Former skipper Shan Masood axed as Pakistan turn to youth for Sri Lanka Tests Dawn Pakistan eyeing final, England need lift after Pindi capitulation Cricinfo Pakistan U17 win One-Day series 4-1 after Yousuf's 105, Azan's 91 power hosts to 27-run win in fifth match Pakistan Cricket Board (PCB)",
-      "date": "2026-10-24 14:17 UTC",
+      "title": "FREE Pakistan Teacher And Student viral video in social media",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxORWJiZkRxVUJ4UFRCT3MwOS1QbUlkZlRmTUVtV0FfVFZlYjV6dktlcmZkRXNveHZqSEZCMDByb2s4VjZmdTBPbUtVQkJDdWlWWFhpY2Q2Nm1GNFF6RW9PcHdJMFluaGF3RENYLV96TDk1WndjTEx5RGVHNkptOXJGNDB4dkpGSFlDbE8xMnk1dXRjNzZ2UFJhUWwyc29fMkphY1ZsVWpyRnUzYlUwUFI0TmM1M1FJZE52VkRmc1MzZEo3UzZSaTZzZnU0Wnh3bm9sY0drWFBIc3hNbDRxeklhcW54R1hGN0oyY21Fa0RKVjFacXNubzgxdUc1aXN2Uk9MYk1CWWRPLXNQVVo1NUNxd296bDQ4SGxiVHRyREdJQlpNY3dyWXM3NVFfNW9XOHZtNDdIOVBLOUxGa2tsRUZwUFd5WVRJdk5sSERUVXZNNlhwb2RtaUlYOGxvRXpQNlVFM2h3V2Zfcw?oc=5",
+      "summary": "FREE Pakistan Teacher And Student viral video in social media FC東京オフィシャルホームページ",
+      "date": "2026-10-24 14:34 UTC",
       "category": "Pakistan",
-      "source": "Dawn"
+      "source": "FC東京オフィシャルホームページ"
+    },
+    {
+      "title": "Dropped midway in England tour, Salman Ali Agha earns Pakistan Test recall; Rizwan and Imam miss out",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMHo3QWpaby1IR3J6NV9keXZRZV9uZ2IxZDhjR1pDVS01MnktNkl6bFcwYXhjNUdOWVAzclZHTHBWVTRXVWpTZm82MnUtVURZMjl4c1E2WUxBVVlrQk1ZWVRjcEtxVXVpN3Z4dmFhcjhmYS1WRUVIUVFSWU1CZl9zTEx6bjlPdl9zWXowdUx3R2tRNGtMbHBmdl9xTHZyTXV2bjVLbzZGRkkyNDN1SXozTEZHRDRESlZtY3IwSy11NDVtelFKdDl0a2VNRHhwb1JHSVFMdUFuVkh4ejJKczZoVXljVnI3TXpxcWxCQXozTHJvbzNkVGNySUd6RFhvLWp5YnhRdnRETzRjUUpO0gGSAkFVX3lxTE5wWFNlQ1ZRVEdBMGJsbFdZWXVkR2kxb3ZvVjFpWmJkblJ5TXlXaGxFWVBKaS1jb3RPRDdxQ21vbXp4NmtGZmtUN2owOG5ZcjlzUEV1OVI4Z1ExR2tLZ28tOG56M0MxR0FtQ181aC1OSlBYMUppUkwzV0NpeEN2OUxXYjYyTmVNY0MxVG1lazVMMWtwbFZqcjNuTUNoUWk5bnBxa0hiU2t4Vk1JSlZITEVHb1JSWjFIMmtmU19OWGw5Q2NwcVhGWmdsMWNXcDRhTGhzRk9lY3JJVHdQZjYxOTVOVjlNMkEyTGpUQ2Z0RXlGajhjaG5ZcWt6dktIdlpYWW1BdDRNQ0IzY1FMRWF6NjRNRlE?oc=5",
+      "summary": "Dropped midway in England tour, Salman Ali Agha earns Pakistan Test recall; Rizwan and Imam miss out The Times of India",
+      "date": "2026-10-24 14:23 UTC",
+      "category": "Pakistan",
+      "source": "The Times of India"
     },
     {
       "title": "Pakistan rejects Khalilzad’s allegations of arming Afghans",
@@ -452,10 +532,26 @@
     {
       "title": "British police received allegations about Meghan’s father in 2019 but didn’t tell other forces",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXluRV9ObUN2YkpaajJhaUx5WlBOYV9COUlERlhkcXNOdzJKTXlUYndZWklZYzRfc2U0NWF2M24yQVJZVDVheVZlenp4TGVpNlAwUTMxbEl6aUY3bzRhWXB0aWwzN2YzTEFGNl9nejhrOXMyZmp3WThpOTlJM0tRZEsyQ2tzMHNyUVY4RU5DSVZ4UHBPS05tOTB4TmxrRHBCcVdzVXhwVGFHZnV5Y1pUMUxkZTZqZFdLTkxUTW1ndHYyQXBC?oc=5",
-      "summary": "British police received allegations about Meghan’s father in 2019 but didn’t tell other forces NBC News Met Police confirms it received 2019 letter with \"number of claims\" about Meghan's father BBC Meghan Markle's final letter to estranged father - banning him from ever meeting grandchildren Archie and Lilibet Yahoo Meghan Markle’s Half-Brother Responds to Dad’s Denial of Child Pornography Allegations People.com Excl",
+      "summary": "British police received allegations about Meghan’s father in 2019 but didn’t tell other forces NBC News Meghan Says She Is ‘Distressed’ by Claim Her Father Kept Child Abuse Images The New York Times 'Cops didn't share letter' and 'Burnham open to EU free movement' BBC U.K. police say they received letter with claims against Meghan's father, wasn't shared with other law enforcement CBS News Met Police Shared Allegatio",
       "date": "2026-10-24 13:34 UTC",
       "category": "World",
       "source": "NBC News"
+    },
+    {
+      "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjhCWXRmN2FBWl9QcUV2RVFoWWtnSDdnNFFRV012M1VKRFF4TUtkSUNYa2lEeTRMTkg0Mkc2dGhkMUxmOWVmMzg1OWpzWTVoNVlOYmY1WEl1UUl2N2EwQ3dyWHVpWHBUaFpoaERFTzhfc0JHOUtsRE82bVhjb0ZHVTRGU3dIaTVxX2tQWFRTMlk0aGszNnQwSFVmNkJ1YzMwQTFZQUplWWtPY0pzcHBoWDNiNnEtbVlITzdtN0tzLWc?oc=5",
+      "summary": "Pakistan eyeing final, England need lift after Pindi capitulation Cricinfo Former skipper Shan Masood axed as Pakistan turn to youth for Sri Lanka Tests Dawn Pakistan Test squad announced for upcoming two-match WTC series against Sri Lanka Pakistan Cricket Board (PCB)",
+      "date": "2026-10-24 13:20 UTC",
+      "category": "Pakistan",
+      "source": "Cricinfo"
+    },
+    {
+      "title": "Pakistan Rejects Khalilzad’s Claims of Arming Afghans Against Taliban",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXFJR3V1NmxONDk5TERYVHMydWFfdF8tbjNfZjNWLVJKWHpnUGZIV1hjQlhKTWVaZ1dYYjdUUVB4blV4SDBZbU52aVBVVXF6ZWFtUXRvdG5fNi1XUWF3Q2pDbDNoUFFhYU1SWnQwXzJiUlREbU9SUDNMTTZoc3VfUHNLNE_SAYQBQVVfeXFMTlFxSUd1dTZsTjQ5OUxEWFRzMnVhX3RfLW4zX2YzVi1SSlh6Z1BmSFdYY0JYSk1lWmdXWGI3VFFQeG5VeEgwWW1OdmlQVVVxemVhbVF0b3RuXzYtV1Fhd0NqQ2wzaFBRYWFNUlp0MF8yYlJURG1PUlAzTE02aHN1X1BzSzRP?oc=5",
+      "summary": "Pakistan Rejects Khalilzad’s Claims of Arming Afghans Against Taliban Balochistan Pulse",
+      "date": "2026-10-24 13:14 UTC",
+      "category": "Pakistan",
+      "source": "Balochistan Pulse"
     },
     {
       "title": "Pakistan unveil Test squad for Sri Lanka series",
@@ -466,9 +562,17 @@
       "source": "The News Pakistan"
     },
     {
+      "title": "Pakistan’s finance minister rejects consumer-led growth — Dawn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZDZ6bkdrODJsMWdtWFV6a3dZeGQ0Tllnb1ZNY28tWFFkNGhHZXFDb2RteU1KTHpXbXh5d1hxN0FXVlRRTDd0WmpQRmtfVlZaODVlR2dHTV9tWUdqbmNaeXFWNTMtM0FCblNzYWlXdF9GUU5NeU9ncldzYlJJQjI4bEpjV3QyNFdSV3VtalJQTmNSQnhpV2RIbkNLenJxQQ?oc=5",
+      "summary": "Pakistan’s finance minister rejects consumer-led growth — Dawn UA.NEWS",
+      "date": "2026-10-24 13:04 UTC",
+      "category": "Pakistan",
+      "source": "UA.NEWS"
+    },
+    {
       "title": "7 dead, 40 wounded in Jordan church funeral shooting",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTElhdnNRWkx0RHplT255cUItalUtOU9MUkRhemFkWEJ0NGhrZHBiMVdOWlJIU3dvM28ybEVzcHFFdGJaUXgtUlJtRFJac2tJMmFTY2FYdTZpOHRoUzlqSkJfc1pBRG1RQzd4eG1RRlplMzIwQWp2X0NCMF82ZUlGNGFPT3ExRzhodTYxRG11MnVmZ9IBpgFBVV95cUxPeW5SUnIxWFlFOFk1MnBZdDRqMEl6eTFDb19CbFdiUmROeS1jNnNiUHZ3UjdlVmUyRzBFTk5hOEtLZklOcGNreW8zUWRGUXJoNTF4ZmRWcklJRk9BaGlrckJBaDEwNFJ2OEYyZGdLMjFSa3R5U2dMZTJWMExmUlFuVXRUek5uS1ZiS2ZtSFhlLUx5UDdBelZHTW9IZUFzZDEybDBmUVpR?oc=5",
-      "summary": "7 dead, 40 wounded in Jordan church funeral shooting AL.com Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 NPR Jordan king orders 'iron fist' response to deadly church attack Reuters Death toll rises to 9 after gunmen open fire on church in Jordan ABC News - Breaking News, Latest News and Videos Jordan reels after massacre at Orthodox church; official cites extremist ideology Natio",
+      "summary": "7 dead, 40 wounded in Jordan church funeral shooting AL.com Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 NPR Jordan king orders 'iron fist' response to deadly church attack Reuters Death toll rises to 9 after gunmen open fire on church in Jordan ABC News - Breaking News, Latest News and Videos At least 9 people killed in unprecedented shooting at church in Jordan CNN",
       "date": "2026-10-24 13:03 UTC",
       "category": "World",
       "source": "AL.com"
@@ -484,7 +588,7 @@
     {
       "title": "Is Iran planning attacks on Americans; why is the US on alert?",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLW1VRmdINS01R1dERWVkVzVMbEotdHBvbHZVSGhYV3EwSm1fdjIybjhWQjVwUTh5dmRwS19yRFRwSEpOMnpvQlZmNWtHX2FKd3JVdC01SU9GV0FJVnJSUFpfUndUSk9XampPNV9iZ1Qwc3hUcnlGb2JiSi1QU185YVdGNl9oV0JibXVwd2JObFlBbjRYZGJjVXNBRnQycS1POGt0eNIBqgFBVV95cUxNdmdPeEQzVDhtUDJVRVRLTUYzQ0xCZjFWZGU2ZlNjWDNlVlhTRzJqSm1mZmphWEdZTjlWRTVVUUFRWFVOdm5TRUt2eDRDWUNRdHpVVjlEV2dWTl9oVC1ULW1Sdk1QMUNDcS1aeklWNGZWcVJBX01YUjBKYmNXWnJrYUNUX1ljRXZKM3ZTaWxtcDhlcERILW82bjdZWHJtRUthVWwyN0ZFakRzdw?oc=5",
-      "summary": "Is Iran planning attacks on Americans; why is the US on alert? Al Jazeera Iran has \"increased efforts to target U.S. personnel,\" intel chief warns CBS News Fred Fleitz to Newsmax: Skeptical of Iran Attack Reports Yahoo U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans WSJ US is reducing staffing at 4 Middle East embassies over increased threats from Iran AP News",
+      "summary": "Is Iran planning attacks on Americans; why is the US on alert? Al Jazeera Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans WSJ US is reducing staffing at 4 Middle East embassies over increased threats from Iran AP News Iran has \"increased efforts to target U.S. personnel,\" intel chief warn",
       "date": "2026-10-24 12:56 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -492,10 +596,26 @@
     {
       "title": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHh5UlhVbktTLXFoQ0NjSXdJRXJyQ2JRT3lrWThzWGFOd2FTQ2s1ZlE2cndoSzV6U21pZ2FCN0ZXSjBYX3htMk1aNk9Cd3hGMFNVRGphNnNGRXlsY0FsQU9xQlVNTHQ2bmhKS1dkOTFGX3pYWWZ3WTV2MTZ0WUpka0tWTUc1N2d6ckQtUFNiYzVKd2ZFWEFiLXlNVy1HV21oWEtlN0xiVFBxNFd5T1B5bHlwTkk1bGZiaFpReUxqQUlCMFdv?oc=5",
-      "summary": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators Euronews.com Albanian police fire tear gas as anti-government student protests turn violent Reuters Thousands gather at new Albanian antigovernment rally Al Jazeera Albanian Protests Turn Violent as Calls Grow for PM to Resign Bloomberg.com As Albania's anti-corruption protests grow, the prime minister blames 'antifa' for dis",
+      "summary": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators Euronews.com Albanian police fire tear gas as anti-government student protests turn violent Reuters Thousands gather at new Albanian antigovernment rally Al Jazeera Flamingo Revolution: Albania Protests Escalate over Corruption & Kushner/Trump Luxury Resort Democracy Now! Albanian Protests Turn Violent as Calls Grow for PM to",
       "date": "2026-10-24 12:56 UTC",
       "category": "World",
       "source": "Euronews.com"
+    },
+    {
+      "title": "Riyadh Air Moves Flights To Al Qassim Airport, A 4.5-Hour Bus Ride From Riyadh",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2xGMk5MZGFQV1ZCNGhYNXgyd0dvbnpGSnVaWXRQTFFPS2xaM0FFOE9zaTZrY0hxNlZ4N2dpNThENzg0bUl4X3pSYTUwblktWU93Wk1pODZFMkZBOHJMaGoxemMzLXlKTEZuLW5pOEhVVGZiWXlPOTNkdWlqbTNhNA?oc=5",
+      "summary": "Riyadh Air Moves Flights To Al Qassim Airport, A 4.5-Hour Bus Ride From Riyadh One Mile at a Time Travel Advisory: Saudi Arabia October 2026 U.S. Embassy & Consulates in Saudi Arabia (.gov) Carriers reroute Riyadh flights to airport four hours’ drive away Semafor Riyadh Air is No Longer Based in Riyadh: Airline Relocates to Airport 400 km North to Keep Limited Flights Operating PYOK Riyadh Airport Closure: How Airlin",
+      "date": "2026-10-24 12:44 UTC",
+      "category": "World",
+      "source": "One Mile at a Time"
+    },
+    {
+      "title": "Suspect accused of assaulting female scooty rider in Lahore granted bail",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMUI5NjBxemxrRVJOb0Y3ZXM4OEZrMWxTcVFJVTZOU245c3phTmFwS1o3Z3lJQVNUMHZVcDROVFR6UVVkMFhmZw?oc=5",
+      "summary": "Suspect accused of assaulting female scooty rider in Lahore granted bail Dawn",
+      "date": "2026-10-24 12:37 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
     },
     {
       "title": "\"Sedition\": BJP Slams Farooq Abdullah For Remarks On Kashmiris, Pakistan",
@@ -504,14 +624,6 @@
       "date": "2026-10-24 12:33 UTC",
       "category": "Pakistan",
       "source": "NDTV"
-    },
-    {
-      "title": "Pakistan Test squad announced for upcoming two-match WTC series against Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlljT1hxWGVLRkVmbTljUlY2QUZzV3Bra2VFU2xfcHFuVWhNTmxZOFFEOGY0V2xoVFVGd3hQcHJaSmktY0xDcWVMV01NWGRLVVdwOWQ0U2N1WG9Obk8xdjhMSE1CYlJXY1NnOGVNb2R0LVNNa2R3dGRLRXQ5RWNwSzA4eHd3U3A0bFFWS3FHSHRGYnFBQm5HNHB3MkZxZUhYeGVkUGN4MWducXAtR2Zjd1VqNVk3UmZPdExxNjVXMW9Uelh0NzItZlJB?oc=5",
-      "summary": "Pakistan Test squad announced for upcoming two-match WTC series against Sri Lanka Pakistan Cricket Board (PCB)",
-      "date": "2026-10-24 12:30 UTC",
-      "category": "Pakistan",
-      "source": "Pakistan Cricket Board (PCB)"
     },
     {
       "title": "After Taliban Opium Ban, New Global Hub Emerges In Afghan Borderlands With Iran, Pakistan",
@@ -525,7 +637,7 @@
       "title": "Report says Netanyahu ordered change to Israel’s position on Falklands; FM denies shift",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlV3UV9aTnVraXU4VmFBZXZ1Y1k0VTFLelRXdG5Qc202bV9JR1lMZ0VDeXRUdXdTMi1WN09MS2VQOWNqalZ4ZnBOazhTcGNhZk5PQVFDdjFvMDRYRkNtaVgwS3FLTE1raUVIcDYtSVFJVkpsX25LanJ4b3lnUUVCazBuMHVnbE12WnVpbDg4bi1kal9hMHlNR2ZLaGQ0aEczZUNTZEtTSk1RRmxFaXlZU1lLWWo5ZVnSAbwBQVVfeXFMTUR2WkJHY1NJVGhnZUthUXBNS0QtRGZSSFh2OEt0d1ZvbFBOQWpqNnhSdzlLOXhOME5aMndxZi1tbS1peWtvZnMwb1RnV0xsQWxtNUtsZzJyNUVRUFNuNnlUWEs0NFprWFBhUHd5Y1dwVFRRbTJMWWs5Mjg2akZtamcyZFI5SGJSODdwd2g2YXRMaUdsandIQ2MxYS1hTzFXYjZBYW1URlQxVWtCOEpMdENJQzB0LWFDT1BXSnQ?oc=5",
       "summary": "Report says Netanyahu ordered change to Israel’s position on Falklands; FM denies shift The Times of Israel Netanyahu switches Israel's position to favor Argentina in dispute over Falklands - report The Jerusalem Post Report: Netanyahu has told Israeli diplomats to support Argentina's claim over Falkland Islands, call for direct talks with UK The Times of Israel Israel Denies Report Netanyahu Ordered Falklands Policy",
-      "date": "2026-10-24 12:25 UTC",
+      "date": "2026-10-24 12:17 UTC",
       "category": "World",
       "source": "The Times of Israel"
     },
@@ -544,14 +656,6 @@
       "date": "2026-10-24 12:12 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Shaza visits Pangyo Techno Valley to explore Pakistan-South Korea tech cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm5WWk9qY2pzSjExUklFOTZYV1pkZVZiQ1BwRUxvMGs4TDV3QlBrVVNyYmprTmJUZ1RCSEVPZGc4TEZwRTlYQXlWT2IyVlBGSmJvbU9lN3BMaDI1cVA5enhvZEg1R2pCWVJrZHV5TjZFU0NmeHlPeHhPTjU4Yk9sRFZSZHpNNmFFbjZZenVWandwRExKWnFkdFc5VjhnUmJTNVd5aGlEejdYWWFhM2xQVlpnUGhxWGQ3?oc=5",
-      "summary": "Shaza visits Pangyo Techno Valley to explore Pakistan-South Korea tech cooperation The Nation (Pakistan )",
-      "date": "2026-10-24 11:44 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
     },
     {
       "title": "3 artists from Pakistan, India and Bangladesh archive memory through art",
@@ -596,7 +700,7 @@
     {
       "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUVWS0U4d0pkZjB4bTZFOFI4T3pQQ1hucnZZRG1MbktvUVVhczRwYW1mUzRxWGZjUjBuUURuemNMM3dMMk4tY3RESmtpZU94eTR6djAxX0hmU1d4a0lRc1RjclZzN09nZnpTWFFJVTV4dk9IWEctdWkxY2JqWDVtbzJhQTBFMkR4NHQ3UWI5YUdCQQ?oc=5",
-      "summary": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future The New York Times Analysis: Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave? CNN Alberta’s vote has softened the rhetoric, but peace and quiet are not guaranteed The Globe and Mail Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support CBC Alberta welcomed migrant workers. Now, it",
+      "summary": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future The New York Times Analysis: Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave? CNN Alberta’s vote has softened the rhetoric, but peace and quiet are not guaranteed The Globe and Mail Resign, Danielle Smith. Resign The Tyee Alberta welcomed migrant workers. Now, it wants to restrict their rights The Guardia",
       "date": "2026-10-24 10:00 UTC",
       "category": "World",
       "source": "The New York Times"
@@ -616,110 +720,6 @@
       "date": "2026-10-24 09:50 UTC",
       "category": "World",
       "source": "AP News"
-    },
-    {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "date": "2026-10-24 09:46 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan Railways declares emergency until Dec. 31 amid safety concerns",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWp1WThrVHdoRUF0aWg0eFoxREtlQ0Fic2ZreVhyUTFtQ2JhclJWS01wa3d0eDBUX2p3NlZvYmQ0RFF6NGdjMEUtM25ucmNKVm9xODExYXBHSVBtbE5jMFBXRDBBNmlEbnNpXzVJaTlCSmlQYktkdmMxRUhFVF9pakhxZkV3SUpjXzFuRGZMY0hBSVBMcHUyVXh6S0FOZS1ZcklxYVlNekFFTlRWSmtoQw?oc=5",
-      "summary": "Pakistan Railways declares emergency until Dec. 31 amid safety concerns Arab News PK",
-      "date": "2026-10-24 09:43 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
-      "date": "2026-10-24 09:38 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1ZMTVhDSzRSR1lvSmloVko4NEV0aUZka0JITV9UWkdmSTlmT3VmeGVUMGhwRlFoakJaMHAwVzl1R1RTOTNfVFVEUmU5c3NfVWJUVHlCZWl3d0pRUHViZkVBSWZwT2NtTlJhWFZ1WmliVWFROW5PUjVpbWhyME4wUVJSSFh2X25zclY4aWRBMUNqS3diWG1POHdQT1Zra0JLTTdnRUVCV2cwOWV2VGNjZFJ3TDBZVkxEZTI1bWN5QjY?oc=5",
-      "summary": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills Middle East Eye",
-      "date": "2026-10-24 09:25 UTC",
-      "category": "Pakistan",
-      "source": "Middle East Eye"
-    },
-    {
-      "title": "Key Pakistan Market Stats and Economic Indicators",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlk1d09ock5vYnByblZzN2hKeGRwVVI5aXEwSFptMy1OUk1LV001ZmRxZ0VSYmFBQkdKeVZucVNMRmdsUUNzNnh5cEllX2VCS2FFV3ZSWTNlT3NtQnZwUHp5Wm9XY0VVTHNlTXYxUkZaNnlETzNxQ2FEU2lUbEF5dlBVellHMXhiUDcwMzd6bHRUanVTQ2o0?oc=5",
-      "summary": "Key Pakistan Market Stats and Economic Indicators Investify",
-      "date": "2026-10-24 09:24 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Section 144 imposed in Upper, Lower South Waziristan over security concerns",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNU2VHZzJYSlJ1QXZFTF9XY1VvNFVvY1dTU3l5THVOQ2hNdVhjTkE0eERvMEdRSlhiRm53TnRtVzY0LVliV1hRLQ?oc=5",
-      "summary": "Section 144 imposed in Upper, Lower South Waziristan over security concerns Dawn",
-      "date": "2026-10-24 08:48 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia, European powers urge diplomacy amid Middle East conflicts",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVp4ejhkblhxOUktbmU3Y2VBZG1Ockx1Ry1iWDRlSF9mUXdEbjhXNmxwbV91NkRFWnFkcnBGTmhtQ21JdEFoNThtdWFGanR0b2dieDk5anNheUp3dkhIUzVQVlZvYmxhOTZhUUVsYUduSGhIZHVRX2ZHbVBFa0lfZTRNV183ekc2V01HdjhGU1lQcHE2RlRWMF9LZE1nWnpTZVVyM3ZuUnlHUGprcE5YMmVFN3NJWFVqamIxXw?oc=5",
-      "summary": "Pakistan, Saudi Arabia, European powers urge diplomacy amid Middle East conflicts Arab News PK",
-      "date": "2026-10-24 08:10 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "How reliant is Ukraine on US support – and could Kyiv carry on without it?",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTl0UUtZbWpxSE1IM3N1cnc1c0RsQzYtdnBTeWFaMHZpMjJWZUg5NG13UFhpYlprMHdYN2VVSjl1bFZHeUFmQUJ6YUF2UlFqX0ZRZHpfbDNtMW9pNkI3RE14X2RUbzFIV0UzWjRtSHh1ZVNtOWF0WjBZd2xPVm03VUNsSjJCS2NieWo1c3lzYw?oc=5",
-      "summary": "How reliant is Ukraine on US support – and could Kyiv carry on without it? CNN Key dates in the latest slump in US-Ukrainian ties Reuters What Shifting U.S. Support May Mean for Ukraine The Atlantic Ukraine: With or Without Trump Comment is Freed | Sam Freedman Is the U.S. Overlooking Ukraine’s Strategic Military Value? American Security Project",
-      "date": "2026-10-24 08:00 UTC",
-      "category": "World",
-      "source": "CNN"
-    },
-    {
-      "title": "4 children killed as van plunges into ravine in Neelum Valley",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mOWJpZDVCX1NJaXB0T1VBR0ZtdGtUZ2lma1NyVmJVekNVMGZXMVMwc2dHMVc5cjViZms0ajdkX3ByaElkQmo2NQ?oc=5",
-      "summary": "4 children killed as van plunges into ravine in Neelum Valley Dawn",
-      "date": "2026-10-24 07:54 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
-      "summary": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect AP News See more headlines & perspectives on Google News",
-      "date": "2026-10-24 07:37 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "date": "2026-10-24 07:17 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "On World Polio Day, Pakistan urges parents to ensure children’s vaccination",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDllcFJNYmdOMGlvU3VvVVk3SHpHaGtoWGVMUGc1OXJZVVl2aDJudTRtSERkZjctU1p5blJRaFdKYm9ndFg4M1BfOVVmMEhtSHBtbDBoVHFrR09PcW9qbFZiTWwxNy1hUGhFYXpiZmE5RHBJN0JfMXRRdFo5aVZtUFhPaEVpNEFhd2VhdXJYY3Fnc0dBSFhNTGdaWUxuNnVlNlVpUlNDU01rcTE5WE9IUmFHVDE?oc=5",
-      "summary": "On World Polio Day, Pakistan urges parents to ensure children’s vaccination Arab News PK",
-      "date": "2026-10-24 07:14 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Google illegally cut down 250K trees in Finland for data center, driving wolves into villages and infuriating locals: report",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckpvd1VyUzRoeWprYXp2WnNkVmxreU1Na21VV3BMUUN6Qm9OYW9ZVDFGVXd1OHBqUDdVREtrRDk1c0hkd0NtRkZPTU02WEtYM2pRWE5QUXFEMWhNWjZ6blIxRWNUcktfSktNb3VNaFRqX0VSNHU3dEF0Z2lOQ2lsVUliREI5cXUwLUItWDdfZGVka1NCUHY0cXhWNlB5LTJjMmVLN1Eta1NWZXJ5RVVhMk1TWFVfQ3RZR21zZE16SVlreGlUQlE?oc=5",
-      "summary": "Google illegally cut down 250K trees in Finland for data center, driving wolves into villages and infuriating locals: report New York Post Google told to halt work on Finnish data centers after clearing an estimated 250,000 trees Fortune Wolves Descend on Finnish Villages After Google Hacked Down 1,300 Acres of Habitat to Make Room for AI Data Centers Futurism Finns Are Seething After Google Illegally Toppled 250,000",
-      "date": "2026-10-24 07:01 UTC",
-      "category": "World",
-      "source": "New York Post"
     }
   ]
 }
