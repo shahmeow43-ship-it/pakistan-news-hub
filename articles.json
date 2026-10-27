@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T01:01:27+00:00",
+  "updated": "2026-10-27T01:52:42+00:00",
   "articles": [
     {
       "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
@@ -24,6 +24,14 @@
       "date": "2026-10-27 00:08 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOODBwVkFieUl3WXJRR2ZJU2ZVNFJyOVlQdjEySko4WHBmSWhZVmZjRURScU5nS3pYbjVDa2wyalc1cEUtM3ViNTQ2Vi0ydzhFcVM1V0hyallWa3FaYm9namxmTGx5SGNZN3lhNzk1MVV3VDVlZkxIckNadTg4SF9lTF9PQ0hiQktBYjRUMmdmLUwtT2x5WEhhMzBfRkNvQnFRcGRQai1zOXNsX2FHR2dRRnJiVEpyemlQbUZsZjJTcXZGbS1MSVMwSHVmbk1Jc1dkcF93dFNWTnNXbkhObWNr?oc=5",
+      "summary": "Pakistan burdens public again as govt hikes petrol price by Rs 1.54, diesel by Rs 2.16 per litre ANI News",
+      "date": "2026-10-26 23:37 UTC",
+      "category": "Pakistan",
+      "source": "ANI News"
     },
     {
       "title": "Kashmir dispute: PM says Pakistan’s position remains clear, consistent",
@@ -90,9 +98,33 @@
       "source": "ICC"
     },
     {
+      "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDRFc3AxTEo4WkdsTmE5RzVMcEhkOWlsUGoxVDJBVlNCaVJIeWRSN0tjMDdHOVV1MVlGLUhJX3ViNFhjYnZQQVlveUM3S1ZleFBWWkpJRTdtUjJNZ2hmR0h4NHhKN21vbVN0VjluV2JSUkNCcHgwNHN3aVdtTXcyMXFSd1VwNThlTHVRMnF0SUF1bGNYUHRZM0V3ZHQ?oc=5",
+      "summary": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders The Guardian China's big political meeting could see Xi 'tighten discipline' in party BBC China's Xi opens Communist Party plenum, aims for firm governance measures Reuters Xi’s party: What to look for at the upcoming Chinese Communist Party plenum Brookings ‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next",
+      "date": "2026-10-26 23:03 UTC",
+      "category": "World",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlBybTNnVWhNZGdEUGloLUh0Rld5dmoxY3VWT2IzU3dxMG1tSkhrdEg0eHVKV0JraFJtdXc5NEpJUzlETFBzT3g3YWswR2N0SkZUbTk1eVFucFYzUW9yaEw2dUsyWk1Jckx0djFJV2QxQTV3SXpjZVhZajd0aUpEMkJaUFFUZ9IBiwFBVV95cUxNUnptTmF3UE0zMXdPR19faVV5SnNBdzJVemNvTWVZSzBqTWhKcjJORXRqRW43YzJDMlRRMVhLVFRkX0x2RGw4ODBGaGJDcGlBaThWb1duSDYxSHJIUG5JUU1PT2tjLXlRYVN6eHpmQnRrT2V5LUxkU2h0ak85RXFpTE5EUktIUnZ6SlRJ?oc=5",
+      "summary": "Israeli election draws tens of thousands of citizens flying back to vote CNBC Opinion | Israelis Have Chosen to Be Feared, Not Loved The New York Times Netanyahu faces first national election since Oct. 7, 2023 Yahoo Netanyahu’s legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack AP News Israel's Choice Time Magazine",
+      "date": "2026-10-26 22:46 UTC",
+      "category": "World",
+      "source": "CNBC"
+    },
+    {
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5",
+      "summary": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say The New York Times Netanyahu reportedly pressured military to attack Iran in run-up to election The Guardian In ‘unprecedented confrontation,’ IDF chief said resisting Netanyahu’s order for military action tied to Iran The Times of Israel Netanyahu fights for political future as Israel heads to polls with Iran threat looming Fox News Netanya",
+      "date": "2026-10-26 22:44 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
       "title": "Thousands of trucks stuck as partial Iran-Pakistan trade resumes",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjlFU1hHcjhvaVNoYVNaZHdEdS1rdUdvR3kxSWNxY2U4aWViYm10ZVlraXZHNlpwal92Vkl5VnhTS01yRW1GYXIwcnVrQWpONjVWN0U0dzZMbG5PQmVBZDNtRHhWc1d3QkdNZEM5b2ZyMEtHNTcyLWdMT2pheTFIZXhiRXlXWFExUmxUV3hldGc5OVdhcG9YMklJSXQ1WEdpWm0ydA?oc=5",
-      "summary": "Thousands of trucks stuck as partial Iran-Pakistan trade resumes Arab News PK Pakistan condemns Houthi attacks targeting Makkah, Madina as 'grave violation' of Saudi sovereignty Dawn Pakistan, Iran, Türkiye and Saudi Arabia agree to continue talks on regional security The Nation (Pakistan )",
+      "summary": "Thousands of trucks stuck as partial Iran-Pakistan trade resumes Arab News PK",
       "date": "2026-10-26 22:41 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
@@ -112,14 +144,6 @@
       "date": "2026-10-26 22:18 UTC",
       "category": "World",
       "source": "Reuters"
-    },
-    {
-      "title": "Iran, Saudi Arabia, Turkey and Pakistan agree to further talks",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0RDZ0otSWtOWFA5RnVRTlVwd0p0ZldWTG1xeFhFUXBCQ2VwSE5HSXdDaHl3ZTY0Q01xbV8wbmFZQlNyRmVpVFIyeEkwRXUwTktBNjRXXy1vN21COXZITnFiU0JibjVLRFozMlJLRFVsa19RdmdNYVFkcmtuZzFFVkd2UVYtRXdmZ21XZEt2MA?oc=5",
-      "summary": "Iran, Saudi Arabia, Turkey and Pakistan agree to further talks The New Arab",
-      "date": "2026-10-26 22:13 UTC",
-      "category": "Pakistan",
-      "source": "The New Arab"
     },
     {
       "title": "A wounded Ukrainian soldier waited 2 days to be rescued. Then a drone flew him to safety",
@@ -180,7 +204,7 @@
     {
       "title": "What Vucic’s defeat means for Serbia’s foreign policy",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHY2M2NFem5tWU1HQVpJRHNPTVFWbTg0OExYQjdQVE8zOFR5a1VCejN5VDF3aTQ0UGJpa3ZDUE16bEM2YzI3V3M2Y2lRcXJEY3VlSC1CeXh1cndxdGRLMmVXc2NwU3lrTlFVSzlNZTRMWFkwc29QVUlvNlJCWWZJSnBKRnZlYTJZUGFqUXRYZDJ0YWc4eWtrNtIBngFBVV95cUxPYmFyaDY0WWpKV0o4b1BpMHNRZHE2ZmQ3NUdxX0EwNDZDZXBSNVZ2aDZEdldGaWlVZFB3aW5PT0VoYlRub3E5RXgzMVItNzdadklWVnNFdkJidE84YXRBcE5oQ3NKUlpBdV9jN1oyY0o4NS0wcENyZHY3aHRFenZLU1FxbW5mRTBDU25EcE5MV2hYb2drOEQ1NVlGYUg5UQ?oc=5",
-      "summary": "What Vucic’s defeat means for Serbia’s foreign policy Al Jazeera In Serbia, a very different student movement just ousted another European strongman CNN Student-led movement ousts Serbia's right-wing ruler in historic election PBS Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students The Economist Serbia’s Election Shows New Vulnerability for Nationalist Populists The New York Times",
+      "summary": "What Vucic’s defeat means for Serbia’s foreign policy Al Jazeera Aleksandar Vucic Concedes Defeat in Serbian Election The New York Times In Serbia, a very different student movement just ousted another European strongman CNN 'The smell of freedom': Serbia's student movement celebrates election triumph NPR Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students The Economist",
       "date": "2026-10-26 20:41 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -196,10 +220,18 @@
     {
       "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkp2ZG1GVGZRTUJhYVdqUmsybFdqZ2tKd3pOVUs1Y3pxdWdEdGFuc1paYzJkR1pNS0FnRDdoM2xyeHBMdkNaTGVvQ2RQOEVUZlhnZ0xDTHU4TEhxMzVPQWZweGhrTHJYcUZOZ3oxUXQyVk0wa01xOHVoOUViMk5TQU1rN2xLelREa1o2SzZBa2VJRlhIcTNSUEpMZG9IeFk?oc=5",
-      "summary": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says The New York Times UN inquiry says Israel kept committing genocide in Gaza after truce Reuters Israel committing crimes against humanity in occupied West Bank: UN Al Jazeera 'Legitimazes Jihad': Foreign Affairs Ministry slams UN report accusing Israel of genocide The Jerusalem Post UN-commissioned experts say Gaza ceasefire has",
+      "summary": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says The New York Times UN inquiry says Israel kept committing genocide in Gaza after truce Reuters 'Legitimazes Jihad': Foreign Affairs Ministry slams UN report accusing Israel of genocide The Jerusalem Post UN Inquiry Finds Israel Committed Crimes Against Humanity in West Bank Haaretz Israel committing crimes against humanity in o",
       "date": "2026-10-26 20:30 UTC",
       "category": "World",
       "source": "The New York Times"
+    },
+    {
+      "title": "Iran War Updates: Tehran shrugs off Trump's attack threats, says diplomacy ongoing as oil prices stay high",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0ktWWprVTV3bjlvb05YbXU5UU5DbHBXNWs4dmZzMFNab3BmSTQyejhwTk5jNmRZVDd4N3doRkdBU3BQTGU1SjBLOUFMc21xN21MSWRTVkdZV05QaS1fdUVoOHFScFp3NnotcTV3NHlfRW1iaGNDR1B3eGlvSkJDTEwwWUQ3ajNYVzhBQlZfMzN2TnVxOFh5aw?oc=5",
+      "summary": "Iran War Updates: Tehran shrugs off Trump's attack threats, says diplomacy ongoing as oil prices stay high CBS News Iran says messages are still being passed to the US amid war concerns, and other Mideast news AP News Iran sends conflicting signals on US deal as Trump raises prospect of strikes Iran International Iranian FM: Another attack by the US won’t change our policies The Times of Israel Tehran vows to stay th",
+      "date": "2026-10-26 20:28 UTC",
+      "category": "World",
+      "source": "CBS News"
     },
     {
       "title": "Pakistan’s changing development assistance landscape: Manifestations, implications, and opportunities",
@@ -234,28 +266,12 @@
       "source": "The News Pakistan"
     },
     {
-      "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5",
-      "summary": "Netanyahu reportedly pressured military to attack Iran in run-up to election The Guardian Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say The New York Times In ‘unprecedented confrontation,’ IDF chief said resisting Netanyahu’s order for military action tied to Iran The Times of Israel Brazilian President Luiz Inacio Lula da Silva wins runoff election against Flavio Bolsonaro | LIVE BLOG ",
-      "date": "2026-10-26 19:52 UTC",
-      "category": "World",
-      "source": "The Guardian"
-    },
-    {
       "title": "Aurangzeb reaffirms Pakistan’s interest in strengthening economic ties with Ethiopia",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGRKX1cwSjgtamp1MnJCaGJwMWEzNHc3b2xrbVVVbm4zaDlsdjdSek9ZblRKVFRISGNpWktuQzZ1ZFozdVZpOUs1UEJydGxaZEk4RFJRdjc1N19HTVgzRWpnOU9jM19MaDBhQ0M3SzE3UVJDZU4wdzdleVJQX3BWNFhodDRucFoxdGVZTUxiMDdNZXgzMndHS3o3OWY1RXY1LWZOV181eTRzalA0UzZyajVaNXY?oc=5",
       "summary": "Aurangzeb reaffirms Pakistan’s interest in strengthening economic ties with Ethiopia The Nation (Pakistan )",
       "date": "2026-10-26 19:42 UTC",
       "category": "Pakistan",
       "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGZQYkpkZXFYZXFmZ2MzYjVXQ1JRUTFFU3FRS0lBMy1qV095bllLM0FUZ2ZLNlBrUmtROG11aHpOUkZ1cnlVb2E0ZllPQ1prZlgtSmltZG5rWXpFSWs2QnhEUlNvdkozYVkzbXFwbmFhdkJmTnYwMDZhaHdGR2hlVFdQQnlxNm1SQk9EWnN3?oc=5",
-      "summary": "Egypt OKs Military Aid to Saudis in Fight With Houthis The New York Times Egypt approves military support for Saudi Arabia after Houthi attacks escalate Reuters Iran’s Houthi allies may have new enemy: Egypt NewsNation Why is Egypt so wary of getting involved in Yemen’s conflict? Al Jazeera Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire Crude Oil Prices Today | OilPrice.com",
-      "date": "2026-10-26 19:42 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Japan rebuilt itself; why can't Pakistan?",
@@ -282,12 +298,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Iran says Mecca pact states agree to boost cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjZqVnhxNmJJMDNWWEZkYjAtSWVxbVBKZENjMDZqd1JfcGpWdUhWdGJ1S2tHM0lDcEp0clVQVUV3Nl9mcjZqVGJ4UWdENU1CSGZmMEdVMml2T0UwOU9VTmZlamhxNDlOa1VENzl0Z2xITmNnbjNMTC1uNndyS0hNb3hoUUtPUzgwU0lhUTk4Zk45YjZWZnFwY295RXBzbEJPTHR5ZTJ6ZGJ2RHM1WmkxU1czc2VlWjlESzU00gHAAUFVX3lxTE04TzhkRlV1Ym5FMms4ZmVYY05fOWxfeExwb181SW1QTzh1UlVfei1nZS1FZzNIcURMMFd1Z1cxSDZxY01MV2Z0S0tCYkNQUEFmNHg5bEpCMnE1cWlTd1BtVC01cHZHUDVsOVIxVWZaMnBpaTNMMm44UGpHVW55U013RmxtY3FtTGpOREJ5UFVpWUtWb2htZzRGYWRSVFR6R3F4NVkyYWRUaTFHd0x5dHNjZFQ3WHI0U1NIRUtxMXFvVA?oc=5",
-      "summary": "Iran says Mecca pact states agree to boost cooperation Al Jazeera",
-      "date": "2026-10-26 19:22 UTC",
-      "category": "Pakistan",
-      "source": "Al Jazeera"
+      "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
+      "summary": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate Reuters Egypt OKs Military Aid to Saudis in Fight With Houthis The New York Times Egypt Parliament Backs El-Sisi’s Offer to Defend Saudi Arabia Bloomberg.com Why is Egypt so wary of getting involved in Yemen’s conflict? Al Jazeera Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire Crude Oil Prices Today | OilPrice.com",
+      "date": "2026-10-26 19:18 UTC",
+      "category": "World",
+      "source": "Reuters"
     },
     {
       "title": "Iran, Pakistan, Saudi Arabia, Türkiye agree to continue talks amid fears of wider war",
@@ -322,20 +338,20 @@
       "source": "BBC"
     },
     {
-      "title": "Saudi Arabia executes man for crime committed when he was 14",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm1BU1hueUVVUGNISnMxZG9WTUVka0pYdFpUOUl1X2RMMUVfbk9aY2d1VG1Ldkt4RXNRZGp3Qkk0VVBKd29teWdoeDdac3ZtcG5zb25CaHJ6cWpWb2NUelNyZkRLWFdCdUpFa3VSbFN6T3JLbG5pTTNrVUJJd01QVkdTM2c3RGdEWndCVHpXUmIxTHZpMkdmMkNGME5vaHhZR1E?oc=5",
-      "summary": "Saudi Arabia executes man for crime committed when he was 14 The Independent Man, 29, Executed for Crime Committed When He Was 14 Years Old People.com Miliband urged to save former child activist from execution in Saudi Arabia The Telegraph UN Experts Condemn Saudi Execution and Demand Urgent Reprieve for Two Men at Risk Devdiscourse Saudi man at risk of execution for offences in his teens: NGOs The New Arab",
-      "date": "2026-10-26 18:34 UTC",
-      "category": "World",
-      "source": "The Independent"
-    },
-    {
       "title": "Pakistan raises interest rate to 12 percent as Middle East war fuels inflation",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHQtNzRnOU1NZWxzRnA2cVB1X1Bpb3dYaUl3a2FFeVprUm5hYVBlN2QwNzZfWFBPZnpRZ2lSSVdJa21EQWxzUTB6blVVcWRyeXJpZ3BmakZobDQwSXY2NW53QzdkcEdxY29CQWtXaXVJV2FNd3JtZElDa21LazQ3LU5QekcxZkRlYnZISmpZazJwLWJFZzE2Tm1RSzNsVG9DLUlNcmxBOHNjU3FPTzFNM2tNV2dEQVM2NzFJ?oc=5",
       "summary": "Pakistan raises interest rate to 12 percent as Middle East war fuels inflation Arab News PK",
       "date": "2026-10-26 18:10 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan, Iran, Türkiye and Saudi Arabia agree to continue talks on regional security",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDBCbGw1TDVOZzM5UXlUMjlhUXlvb0xTZzBYTFpreW8yZUZmaGhuTWx5SU1NRHdfdHRXZmhiRGtpTlJYZHk4LUlPNnlmMl91MXVoR0szbjF4RVh3NmZkNHRwSkwtdGVPcDF5WDdrcENaZ1BxZGZ6bDZ2N2xYX2xMeThXcEZweFA3X3RPUTRBQWhWYjdTSkp1ZTc4RjRnTHNiN3ZQRTRuNUllUFNSNXBSdA?oc=5",
+      "summary": "Pakistan, Iran, Türkiye and Saudi Arabia agree to continue talks on regional security The Nation (Pakistan )",
+      "date": "2026-10-26 18:00 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
     },
     {
       "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
@@ -370,17 +386,17 @@
       "source": "The Nation (Pakistan )"
     },
     {
-      "title": "Türkiye, Iran, Saudi Arabia, Pakistan agree to deepen security ties | Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRlNCNHc5cDBmeDF3U0swajJvY3BqTF9kX2lZLVh6eTFXS1FJSVRfOFRWb3hrZEc5VDF2X0J0cjl2WTV5OHd3cUFYTlV5Vkg1N0VzMkpTY1FtQjlhX05QYURDbDJzeWY1MWYzbHNQV1FrT0tTWXAtZTJlbUpOUEdGYTVDZ010Y0ZELVpJWVg3MDBzNmJaZ1dhMmlVTEJQNkFWaHE2VEkyNkRpUnRGelc0YlgxWFFXQmNvZzljZUJHeUhtVlBXWU9FdlpjMzJIZlpwVk9zZGZNaWowdjg10gG0AUFVX3lxTE9UUGE3ZGs2dS1FQnktVE5NakZFWUlyRXNJR2dkSWw3RVJyTm83SnQxTkZkdWdWa1N0ZkItVUZrYTF5QmFkWUVYeFotZFJoZ1Zqa003TTNMNW5YbWR5b056SU9jdWg3enNfa3JneC1xd0xGcjRVMnpNNjBqU2lUSWROdldfU0R6d242MFRCUjJ0MkZDMEZwRnNlZEktSElEWkxFNFJDSkRCdkdOdzRSWmpOaWZJbw?oc=5",
-      "summary": "Türkiye, Iran, Saudi Arabia, Pakistan agree to deepen security ties | Daily Sabah Daily Sabah",
-      "date": "2026-10-26 17:40 UTC",
-      "category": "Pakistan",
-      "source": "Daily Sabah"
+      "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVVyZ2g4M3hpMUxPYlFfOEdOVFp1NTYwc3RDTjVaSVEtdnJZMkFUbGdITTdvN0VSTzBVc3oweU11VE9DTk9jUmR0VmR4T2Y5YnI5bS1IOHFscG1ITkYtc25aaDNUNU9xamtYSml4bjlLMlNtOWZya3VlZGF3UHhfR3hSLVdtWU53OUJ6dnJxeDVkZE5XT2htSjdTcUpqdzJnSmhER3VxVVRqVFl0eVNIVEZNelRzX03SAbwBQVVfeXFMUF9DbXEzVjB0RTBUdEtoMmlkRmdoOWhxQTVsVkRrRzdsQkNUQ3EtOTkyS3VoODluM0g1VnlqdmFJWVYtVm9lTWRLU1h5dXFzRHh2RnlmbzFqVVUwX2N1R1pJdkE2aGR0akRBc2pRblZEVEtMOWJ4ajYyN2FYZVhFWm9WM0tNSHFtSGxCeFJMMThZTGs1MVo4UzJTbjNZR1JlaTYxVnFuN2QxTjJCX3d2M1k3NFVrd3lqTkhjeC0?oc=5",
+      "summary": "Jordan arrests three suspects over church attack in dawn raid: What to know Al Jazeera Jordan strikes Syria after church attack, killing at least seven people Al Jazeera Jordan says 3 arrested in deadly attack on Greek Orthodox church CBS News Jordan strikes southern Syria after linking church attackers to 'terrorist groups' Reuters Death toll rises to 9 after gunmen open fire on church in Jordan ABC News - Breaking ",
+      "date": "2026-10-26 17:25 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
     },
     {
       "title": "Pakistan set to face Sri Lanka in fifth match of ODI tri-series on Tuesday",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFBvR0s0cEZCaUFTRXNBT2V4NUZBa3BSVWh2TF82ZUNWOThzX2RkVXpCNW5mYlNVNHQzNHoxVk5BeV80WmNoNmxNMjV2aUd5d3pYS2N1cjljOGdoejJ6akc5a21FS05Ncl8xSEhkSGNpc0R2QW5kbDBOdmJrU2lsOWVjV1hIWlJQMWdWU29OaXkxRmlHV0xQM295TFZEZW9hOWJ2OVNvT2Q1N0JNNkw3R0hDbjcwZml6U2RYRk0yRTY?oc=5",
-      "summary": "Pakistan set to face Sri Lanka in fifth match of ODI tri-series on Tuesday Pakistan Cricket Board (PCB)",
+      "summary": "Pakistan set to face Sri Lanka in fifth match of ODI tri-series on Tuesday Pakistan Cricket Board (PCB) Pakistan replace Saim Ayub with Sahibzada Farhan for ODI tri-series Cricinfo Saim Ayub released from Pakistan ODI squad Pakistan Cricket Board (PCB)",
       "date": "2026-10-26 17:22 UTC",
       "category": "Pakistan",
       "source": "Pakistan Cricket Board (PCB)"
@@ -392,14 +408,6 @@
       "date": "2026-10-26 17:13 UTC",
       "category": "World",
       "source": "USNI News"
-    },
-    {
-      "title": "The anti-Bibi candidate who has Netanyahu on his heels",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hLXQ1aFVkUU5SRlFhSURsTjBOX01ObmxiemhNNl85Tk5sN2NTZERtd3hjQko0eXpSUVNmczlIUzhUU2YtNW1ZRE84YWktNHdhUGxLaUU2T0lIZjNuaDA4b0ctNUtRb255WHRJQ1JsWWtJQi1VcHg4?oc=5",
-      "summary": "The anti-Bibi candidate who has Netanyahu on his heels Axios Israeli Jews Across the Spectrum Face an Election of Fears The New York Times Explainer: Israel election: What happens after polls close? Reuters Israel's Choice Time Magazine Netanyahu's political survival on the line as Israel votes Reuters",
-      "date": "2026-10-26 17:11 UTC",
-      "category": "World",
-      "source": "Axios"
     },
     {
       "title": "World leaders scoff at Trump mulling Orbán as UN secretary-general",
@@ -418,12 +426,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRFBLUm4xY3VObEM5VWZJaWVGWjVZSU1ZWTczb21sdzYwZ1FEa2dEakNvSXp4NTlOWFpnbC1XMlhJbDRPNjBPbUFYaGZyYm9YNzIweUJUcGdPazA?oc=5",
-      "summary": "Algeria to send troops to Niger in first foreign deployment since 1973 BBC See more headlines & perspectives on Google News",
-      "date": "2026-10-26 17:00 UTC",
+      "title": "Why Some People Are Paying to Make Friends",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LWldzc1ZTNmZna00tdDMtTEpiM21hdXpRaVh5eFg5b2NhTjdWUFFYbFkxaGJPOVhHZUVMVHI2RVpwRVl6YnpUZ3o0OHJJaTVTWUJzM1VxcFJHdDRDbDJjU3pXYmpwTUZaOGlSR1FsN3NXdw?oc=5",
+      "summary": "Why Some People Are Paying to Make Friends The New York Times Why young Indians are meeting strangers over dinners and game nights to find real connections: Inside the growing business of friendship and the fight against urban loneliness ET Now Paid companionship in India: Can loneliness become a business? Firstpost Dinner with strangers, ₹1,500 a ticket: the economics of India’s at-home social clubs Livemint",
+      "date": "2026-10-26 16:56 UTC",
       "category": "World",
-      "source": "BBC"
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan Media Monitor | Edition 11 | October 13-26, 2026",
@@ -432,14 +440,6 @@
       "date": "2026-10-26 16:50 UTC",
       "category": "Pakistan",
       "source": "Journalism Pakistan"
-    },
-    {
-      "title": "Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjRabGg2QlpWeVRfZEowcUdSRmdrZ2hNSlZveGhlNnFISXMxZzc5S2VlUlZZRkVabVdNNlMzZC1SQ2FYa1lreDB2ZmNBY2JvQ2ZFY3pIQkZLTlpqTG1yOVpxUTFZZTdsZU1INTVjMnVva2h2SnJHaG1lQ0xEdDEtcTQ2TTRLc2pMYXJZTGk1UmxoeWpSclF3Sw?oc=5",
-      "summary": "Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison The New York Times Australian judge rejects prisoner’s claim that access to Vegemite spread is a human right KCCI There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned The Guardian Convicted killer fails in bid to overturn Vegemite ban ABC News & Headlines – Australian Broadcasting Corporation Australian murderer",
-      "date": "2026-10-26 16:45 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Iran, Pakistan, Turkey and Saudi Arabia Agree to Continue Regional Security Talks",
@@ -524,7 +524,7 @@
     {
       "title": "Cartoonist Sues Japan Over New Royal Succession Law",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGFoV3VPUEV1VTB1TUpxeWlvZkF0RkhNSjRPUXRVS1hZMHB1emtOeUlhOEE3Mk1QSlZ3NkJHX0NqRDlsbndiVHFiRDhEWXdpTGdjdDc5ajVtYk5RdjRJb21PY2lEWGtDNFFFVENSUFV0ZWxHZFdwei1teWVlUTF5cDNhTF8wWF9tOERtaGJfY0RIZzZfaS1j?oc=5",
-      "summary": "Cartoonist Sues Japan Over New Royal Succession Law Newser See more headlines & perspectives on Google News",
+      "summary": "Cartoonist Sues Japan Over New Royal Succession Law Newser Manga artist takes Japan’s new imperial succession law to court over male-only heirs Japan Today Revised Imperial House Law comes into effect, but challenges remain The Japan Times Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect AP News How Japan's Reforms on Imperial Succession Affect Its Monarchy Time Magazine",
       "date": "2026-10-26 16:24 UTC",
       "category": "World",
       "source": "Newser"
@@ -636,7 +636,7 @@
     {
       "title": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting?",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX25oaTlpMF8wR0VNVzlzNGtjVmZocTlRSWNyLXBRNlE5Z2g4NjFIVXUtMUduV2ZoU1hId3djQWZYYlpoLXkzT3VxSjJxcmRqNklNcFpsTXgyVnlmdURNU29PbWxmVFJBbWpPcHU5RzVSVXJrdzA4ME5CdzBqX1lWd2RPQWpCVV9uOUZHTXFOeGtuODBEZFRFTmQtMDJGazJwY1RRb3lFNWpiYWhGTU5Da2dZUUJTaUZLc09Ub2R0enQwclQx?oc=5",
-      "summary": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting? Euronews.com Iran war updates: Tehran says agreed with Mecca pact states to seek peace Al Jazeera Saudi defence pact countries push for peace in Tehran as Houthis launch more attacks Reuters Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate CNBC Flurry of Diplomacy in Iran Amid R",
+      "summary": "From the Mecca defence pact to Tehran talks: Is the Middle East’s security landscape shifting? Euronews.com Iran hosts Saudi Arabia and regional powers as fears grow of return to war CNN Saudi defence pact countries push for peace in Tehran as Houthis launch more attacks Reuters Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate CNBC Flurry of Diplomacy in Iran Amid Reports",
       "date": "2026-10-26 15:07 UTC",
       "category": "World",
       "source": "Euronews.com"
