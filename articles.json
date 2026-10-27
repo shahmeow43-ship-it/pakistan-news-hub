@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-27T22:47:01+00:00",
+  "updated": "2026-10-27T23:42:52+00:00",
   "articles": [
+    {
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "date": "2026-10-27 23:41 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "date": "2026-10-27 23:27 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Israel election: Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+      "summary": "Israel election: Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu BBC No clear winner in Israeli vote as Netanyahu loses majority, exit polls indicate The Washington Post Rise of Palestinian parties in Knesset will redraw Israel’s political landscape The Guardian Israeli exit polls show election deadlock, no clear path to power Reuters Israeli voters decide what kind of country ",
+      "date": "2026-10-27 23:14 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
+      "summary": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans Reuters European Leaders Split Over Phone Call to Putin The New York Times Norway and Finland hold rare call with Putin to discuss ending war BBC Vladimir Putin lectures Nordic leaders on Russian history Financial Times World in Brief: Nordic leaders speak with Putin; Anthropic files its IPO The Economist",
+      "date": "2026-10-27 22:59 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
     {
       "title": "Afghan Taliban mortar fire kills 1 civilian, wounds 5 in northwest Pakistan border clash",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDV1UGRsMkdwYWtGV09zaXFncTc3ZGU1M1hRc2JrX29sdGNxVEdleUN2elM5c3o3dUE0Vklhb042NHFRVDVwTXUzQnM0YUlvbkhXbTBiVGdDRElmNjJmQlhOMU0xd0JNUXVsMnppRkRaNTh0TXhObm1tZWtzT0NSR0diWlN4bEJyNEU2dkdmNVUtSVU2UFI2eHZzVzN3eVlUNzlWczdKdkp3OVNtUExwMHk1bnJuWm1Na1QwZk5ScmN5bzg?oc=5",
@@ -26,14 +58,6 @@
       "source": "The Express Tribune"
     },
     {
-      "title": "Israel election: Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
-      "summary": "Israel election: Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu BBC What to Expect Now That Polls Are Closed in Israel The New York Times Netanyahu and Likud ministers in no hurry to arrive at party’s election HQ in Jerusalem The Times of Israel Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp Al Jazeera Israeli exit polls: Netanyahu bloc loses, but Eisenk",
-      "date": "2026-10-27 22:28 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
       "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -42,20 +66,28 @@
       "source": "BBC News"
     },
     {
-      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "title": "China’s top-secret spaceplane can’t hide in low-Earth orbit",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEtDdklVNmpXVTlrUGdYLUZTZXgtQWtqSFQ2RnhKTGhFUlJWUF9ETWxsTTg5RlI5eTRlY3EzS2U5WC1IeVBpYjdJb095aEhZeXpjQzFtOEQxLTcwclU0SjJ5MEIxNlIzSk1pUl94V1IwYmNoMXU2QXJlV3JIalRJcW5xQm1pblJXb1BacTg2SmdPeFhTN1FRMTA1ejk?oc=5",
-      "summary": "China's top-secret spaceplane can't hide in low-Earth orbit Ars Technica DIA Releases Challenges to Security in Space DIA.mil China could field directed-energy weapons in orbit by late 2020s, U.S. intelligence says SpaceNews China’s super-secret space plane visible in clearest photo yet Popular Science DIA: China has tripled its satellite fleet since 2018 as expansion continues Breaking Defense",
+      "summary": "China’s top-secret spaceplane can’t hide in low-Earth orbit Ars Technica China’s super-secret space plane visible in clearest photo yet Popular Science DIA Releases Challenges to Security in Space DIA.mil China could field directed-energy weapons in orbit by late 2020s, U.S. intelligence says SpaceNews DIA: China has tripled its satellite fleet since 2018 as expansion continues Breaking Defense",
       "date": "2026-10-27 22:04 UTC",
       "category": "World",
       "source": "Ars Technica"
     },
     {
-      "title": "Munir Takes Trump-Backed Iran Proposal to Tehran",
+      "title": "Pakistan’s Asim Munir Carried Trump-Backed Proposal to Tehran Talks",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43eTE5czc2MlpaSEFlYTlwbHNYR2M4S1JsNk85WWM5YUJyQXpYZl9FejRzeWJvVFJoQ01QdXFITm1CaUJ6SE03aHkydU1obFpCVE1lWHIxUXg5aVdCQUNxdG5KejY4cDJ0ZUlaQw?oc=5",
-      "summary": "Munir Takes Trump-Backed Iran Proposal to Tehran https://houseofsaud.com/",
+      "summary": "Pakistan’s Asim Munir Carried Trump-Backed Proposal to Tehran Talks https://houseofsaud.com/",
       "date": "2026-10-27 21:51 UTC",
       "category": "Pakistan",
       "source": "https://houseofsaud.com/"
+    },
+    {
+      "title": "Canada, UAE sign trade deal as Carney seeks new trading partners",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlZyZUhRTFlaX1JCLVRSSFJCcXFLT2ZCNGhkVTRUcW8xelVUeWZXUlR5cHpIZEg2WDd4UnEtZjZHTUE4NmprZmxJN1hKa0lVdHRCay14czZsdldteVE4VndYbHZtUGpSenFHcElzVnlVUVVXYWRQbUUzVnVZblJSeFZrc21iUk9QYWFfd2lxQ3Vidw?oc=5",
+      "summary": "Canada, UAE sign trade deal as Carney seeks new trading partners Reuters Business leaders and Emirati officials on guest list for Carney’s dinner with Abu Dhabi Crown Prince The Globe and Mail Canada, U.A.E. sign defence, energy agreements during crown prince's visit CBC Canada Signs Military MOU With U.A.E. As It Backs Sudan Massacres The Maple Canada, UAE to sign economic partnership amid US tariff war fallout thec",
+      "date": "2026-10-27 21:48 UTC",
+      "category": "World",
+      "source": "Reuters"
     },
     {
       "title": "Pakistan vs Sri Lanka - 5th Match - Highlights",
@@ -90,14 +122,6 @@
       "source": "Investify"
     },
     {
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-      "date": "2026-10-27 21:12 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
       "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
@@ -106,18 +130,18 @@
       "source": "BBC News"
     },
     {
-      "title": "European Leaders Split Over Phone Call to Putin",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2pwMF96endmTnpwZlhtZ3hsNUtKTDVWWm1PRnN2RUVmRHNmZUZsZWdtUFVtMWlaTmdHTC1hcmJ3dTA0WFNNWnZTWlFHdU9qTmNvNXBvcnBuRlhSYVI2VnVkUDZ3WUVaS2NfQjZlLUR4N0lfTjNIQmctWHd1c0hzcHRnTlk?oc=5",
-      "summary": "European Leaders Split Over Phone Call to Putin The New York Times Norway and Finland hold rare call with Putin to discuss ending war BBC Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans Reuters Vladimir Putin lectures Nordic leaders on Russian history Financial Times World in Brief: Nordic leaders speak with Putin; Anthropic files its IPO The Economist",
-      "date": "2026-10-27 20:49 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
       "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
       "date": "2026-10-27 20:44 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "date": "2026-10-27 20:42 UTC",
       "category": "World",
       "source": "BBC News"
     },
@@ -132,7 +156,7 @@
     {
       "title": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFmMnNzZmVXS3VnMFQ5WHdOT1VmU090cUpfU3c0SE9TaWhzbE5HYUVZQ2VKaXZ6T0RmMXk4SE1YZG5rNDBac1A1WEswT0JLR01lTTJ6WU5jb00tRnN4cU5NRHBtNHZ1RzVpd2gyUkVXNzdVZnlGcnFoWUhTS1F1NkVXYjBmdHFwdUxVbllyNzdKWkhMbTFmdnVST0hZeEYwalhIb1NaWW5ZRC1P?oc=5",
-      "summary": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders AP News See more headlines & perspectives on Google News",
+      "summary": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders AP News From John Paul II to Pope Leo XIV: 40 years of the ‘Spirit of Assisi’ Vatican News Pope says 'there is no such thing as a holy war' in message to religious leaders NBC News The 'Spirit of Assisi' at 40 National Catholic Reporter Pope Leo to interfaith peace meeting: ‘War can never be waged in the name of God.’ America Magazine",
       "date": "2026-10-27 20:07 UTC",
       "category": "World",
       "source": "AP News"
@@ -144,6 +168,14 @@
       "date": "2026-10-27 20:01 UTC",
       "category": "Pakistan",
       "source": "The News Pakistan"
+    },
+    {
+      "title": "Quebec’s separatist leader threatens to play spoiler at Carney’s EU summit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTA3eUszYVdGcEdFWW8wam4yQVhnTlRuQ0FXX2NuSWtpbWVkV3pvNXUwaWNRZ1o0RnVHazk4LUJxdXpJejRGQkNUSC1WcW95NXhaMTUza245VEVSNFVlLV93WkNreW51bWJ6UEZGbGJUY1N6TjFuZ052eDJ3M1NFT1lTQ1JrSmpvbTZEQVVOZVB6ajlyN0Fham5oRFNYYnhncV9IYk1xVnI?oc=5",
+      "summary": "Quebec’s separatist leader threatens to play spoiler at Carney’s EU summit POLITICO.eu ‘He was invited to the dinner and he refused’: PM Carney, Quebec premier feud over EU dinner CTV News PQ accuses Ottawa of muzzling Quebec during upcoming Canada-EU summit CBC 'He was invited': Carney accuses St-Pierre Plamondon of refusing to attend EU summit dinner Montreal Gazette Trump Cheers as Quebec Premier Slams Carney Over",
+      "date": "2026-10-27 19:57 UTC",
+      "category": "World",
+      "source": "POLITICO.eu"
     },
     {
       "title": "How wartime urgency pushed Iran to court Saudi Arabia, Turkey, Pakistan",
@@ -170,17 +202,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Top Rubio adviser for Venezuela and Cuba leaves State Dept.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm1Qd21FZXdOa1htdi1jbmVIVDVXQXFUblNkWHpmdXpoRDhDeEx0UTlHRUJQZENVZnJsMEwtSnJiVHV5RGRvY3dEZzlRcUZDOFV2d0w4YV9BRG9qcjBON2NJUGZLRlV2T3lrUHhuZlhQTWpmUTgzRFRoLTRmQVJnTkZBalJxZEI1?oc=5",
-      "summary": "Top Rubio adviser for Venezuela and Cuba leaves State Dept. Axios",
-      "date": "2026-10-27 19:30 UTC",
-      "category": "World",
-      "source": "Axios"
-    },
-    {
       "title": "Dutch zookeeper dies after leopard attacked her in the animal’s enclosure",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3dCbHIwMWxOQ3hQSjNwY29KRXRqbHc2bHBiSnhlNGlPZk04Y05ubkx6TEwzdF8yeEN4bmo3WFZ0Zld0N3h0aVZRVFdzRlZ0UXoxLWxrSkZvQndJbVR3VVNHbFI0czlvWWJpaVFtbm5adkdWdkk5S2dRWVNHYi1LN2JYbGRINXduVUNxd0JHczhfSVEzUm4tZ3F3bTg?oc=5",
-      "summary": "Dutch zookeeper dies after leopard attacked her in the animal’s enclosure AP News Dutch zookeeper dies after being mauled in leopard enclosure BBC Zookeeper dies after she was attacked in leopard enclosure, Dutch safari park says CBS News Zookeeper dies after leopard savagely mauls her inside animal enclosure New York Post Longtime Zookeeper Dies Days After Leopard Attack Newser",
+      "summary": "Dutch zookeeper dies after leopard attacked her in the animal’s enclosure AP News Dutch zookeeper dies after being mauled by leopard BBC Zookeeper dies after she was attacked in leopard enclosure, Dutch safari park says CBS News Zookeeper dies after leopard savagely mauls her inside animal enclosure New York Post Longtime Zookeeper Dies Days After Leopard Attack Newser",
       "date": "2026-10-27 19:22 UTC",
       "category": "World",
       "source": "AP News"
@@ -192,6 +216,22 @@
       "date": "2026-10-27 19:20 UTC",
       "category": "Pakistan",
       "source": "The Guardian"
+    },
+    {
+      "title": "Ukraine war latest: Zelensky reveals details of 'Operation Veles'",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXJhb2xiYzgyNnpsdnNqNFpOaHFDNUwxdkpmTWpHazdaVGNhOTJQYnVsWFJtNzAybHF2eXlJMUxGRjZoSjFNSEpjVlBuaVVLRFluWUQ0S09DbzJVS2VDdzFCNEdwX1lOeldvcFN3MUFkQTkxazVPc3J1NnY2Vi02VWRoNkZDMmtTN0U5LUd5eUNlYllKeWc?oc=5",
+      "summary": "Ukraine war latest: Zelensky reveals details of 'Operation Veles' The Kyiv Independent Ukraine's Zelenskiy says territory recaptured, forces on the offensive Reuters The New Subterranean Front The Atlantic Zelenskyy on Operation Veles: Ukrainian forces have successfully adapted underground advance tactics Українська правда The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines WSJ",
+      "date": "2026-10-27 19:20 UTC",
+      "category": "World",
+      "source": "The Kyiv Independent"
+    },
+    {
+      "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTVJd2ZMcXlQRTd0VDFmbGswTW1CVHNBRHdUelBWMXpTejh6OEpjbk5JSC1RcHM2aWxmNlJtNUdzRkY0M0RDQ1BramYwM2xhUklGNWlpRG5Wc21nTDBfcG9vUU1zQTE0Q2g3YlZPbHFlV0FaNTF0SVBSTmtURHlsZjdHWkRMSjA1TlVuTUE3VlhWaC12WjA4RmNESzVQaXBsWGtKc1licmpqbjZia3lB0gG0AUFVX3lxTFBsZllWZEJ1bzYyU3dtNGhlSnBPblNnS0lRNmZwVU52RnJ0ZE1nY2pCWHNUaVBLb0xpc1lRV1huWHBBcTJPWklwYnJBNkRfTEdDVGRWRWlXeWZMbnA3aUlyQi1kcHpHSllMVXZFZ3Fickd3ZzVsM3pwNjIxT0U1WWctcmN5ZHJ4U3pCVW93bWY5UTlURGJJd0JJdDBGaHhhVlVONHk3cHdOT0RZVmNWSDBtY1NYRA?oc=5",
+      "summary": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong Al Jazeera RFK Jr. falsely says Arab Muslims don’t produce prizeworthy science, literature The Washington Post Kennedy’s claim that Arabs ‘don’t produce science’ meets a Nobel Prize reality check Anchorage Daily News US health chief RFK Jr faces widespread rebuke over his anti-Arab remarks Reuters RFK Jr accused of ‘blatant bigotry’ over crit",
+      "date": "2026-10-27 19:15 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
     },
     {
       "title": "Pakistan govt keeps ‘off-the-record’ contacts with PTI: PM’s adviser",
@@ -208,6 +248,14 @@
       "date": "2026-10-27 19:01 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKQS1VMWl2RG9qUmtQZ2E0aHhOSDFDemlrTHdxNWpzMFF2T25MWjM1cTJiNm5LTjctNHRqX1NqejJrc2xoYWpLclduVGZMVlZscWpVWF8yUzFKRlk?oc=5",
+      "summary": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds BBC See more headlines & perspectives on Google News",
+      "date": "2026-10-27 19:01 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
       "title": "Petrol price in Pakistan from 28 October: Rs379.25 per litre",
@@ -284,26 +332,10 @@
     {
       "title": "Pope's cancer is a 'gamechanger' for papacy, Vatican foreign minister says",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3FOSEdGM0hJaEZTR3ZvYlR1bldmYm5KU1JmVC1MQ0VVcE1WNG55NnJNcWNicHZOUHVfa1hwYWlsSUJzcFBJNENNdUdzb0NBdU5uOW8wd05yS3hIYU10S3JOQUpmVm5TRGdqUk9EYnR4NHdMQUpnVVd3U1R2WlBsc0FleTJiYUlITDcycEQweW9jNllHUWo2Wlo1a2UwLWtCVVdCLTJqUGdNbGdWMktNd2hsUQ?oc=5",
-      "summary": "Pope's cancer is a 'gamechanger' for papacy, Vatican foreign minister says Reuters Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy AP News Pope Leo to return to his adopted home on South America tour Reuters Pope Leo's doctors confirm his visit to Latin America two weeks after lung surgery National Catholic Reporter Pope's South American trip to go ahead following lung cancer surgery",
+      "summary": "Pope's cancer is a 'gamechanger' for papacy, Vatican foreign minister says Reuters Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy AP News Pope Leo to return to his adopted home on South America tour Reuters Pope's South American trip to go ahead following lung cancer surgery BBC Pope Leo's doctors confirm his visit to Latin America two weeks after lung surgery National Catholic Repo",
       "date": "2026-10-27 18:21 UTC",
       "category": "World",
       "source": "Reuters"
-    },
-    {
-      "title": "Trump allies fall in two elections as Netanyahu faces next test",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE5KdnJDMTdZV3B4bW5BVDFBcFoxUWN4OXlDQ2t3UmFlSkRqQ3lOZE9QR0dNMzkwYnJGNFdLaUFQVGtvOXAwcEJpaG44T3pfOWlEbXBEeWloV3dDS05fX0NWcU93UlNhbFZjSWltcnRfcGZQenVZbXZONGo2aGJCNTdqOGhzTUl3dU9CZmRqYw?oc=5",
-      "summary": "Trump allies fall in two elections as Netanyahu faces next test Axios Election Surprises The New York Times The far-right just lost. Twice. Vox Surprising election results in Brazil and Serbia NPR The Spirit of Democracy Remains Strong Persuasion | Yascha Mounk",
-      "date": "2026-10-27 18:18 UTC",
-      "category": "World",
-      "source": "Axios"
-    },
-    {
-      "title": "Iceland And The New Arctic: Geopolitics, Innovation And Pakistan’s Third Pole",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzZqV2lFTlFuQ3prOFktd3JlejJXWjA0bUtIUmpDdTA1bEFqcmVUNHdLYkhpaEh2M29McTBHMzJoUTFMUDZnWHlVb3ptR19NM3FJY21hOXdmOVBvMWt5Q0ppSkVYbHh2TDZqNm9uQVJvZzBfZ05DRmhVcWlNOEozWmY1elB4M0RKdmhRMFNQeG1vTy1jcGdGekNPNUdJZHV3dGNTQXNkYVZNQQ?oc=5",
-      "summary": "Iceland And The New Arctic: Geopolitics, Innovation And Pakistan’s Third Pole The Friday Times",
-      "date": "2026-10-27 18:08 UTC",
-      "category": "Pakistan",
-      "source": "The Friday Times"
     },
     {
       "title": "In Pakistan’s Punjab, toxic air threatens wildlife amid a monitoring blind spot - news",
@@ -336,14 +368,6 @@
       "date": "2026-10-27 17:54 UTC",
       "category": "Pakistan",
       "source": "WION"
-    },
-    {
-      "title": "The Pakistan-Afghanistan War: An Endless Conflict?",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS3BjeGpBMWJucFl1MndyT29qOG9ST1V3U1FuNGxJV2g4TnluRm1WMC1RVzlxVWlCNTRGUm9pdVI5U3F3NVdlV2xVUVY4b3VTR29xcFozTHBpcFhZRUlSRUZXSXhUeVpEZXkydG9KQUVkM20zMlVwaUxUM3FlQzJEaXpB?oc=5",
-      "summary": "The Pakistan-Afghanistan War: An Endless Conflict? The Organization for World Peace",
-      "date": "2026-10-27 17:53 UTC",
-      "category": "Pakistan",
-      "source": "The Organization for World Peace"
     },
     {
       "title": "Sri Lanka Beat Pakistan In Lahore To Reach ODI Tri-Series Final, Eliminating England: 12 outlets compared",
@@ -410,28 +434,12 @@
       "source": "Reuters"
     },
     {
-      "title": "RFK Jr. Makes Bigoted Remarks About Arabs on the Campaign Trail in Michigan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2drdTVLRjZyelBqdVhZUTdMVUM3dERNa21ObXdKd2FRRjJQcXk4aDJucHJoLUVveTZjOFJfdEtncTZ0NUhId2tZN3FtOEhHazR6T2tKTE1rS1UtaVBxNFRwWjBVNFE5cGJYd1dhR1BLV0tNbl9RMmlJZ0JWVkI2ODdGQQ?oc=5",
-      "summary": "RFK Jr. Makes Bigoted Remarks About Arabs on the Campaign Trail in Michigan The New York Times FACT FOCUS: Kennedy's claim that Arabs 'don't produce science' meets a Nobel Prize reality check AP News US health chief RFK Jr faces widespread rebuke over his anti-Arab remarks Reuters RFK Jr. falsely says Arab Muslims don’t produce prizeworthy science, literature The Washington Post RFK Jr accused of ‘blatant bigotry’ ov",
-      "date": "2026-10-27 16:18 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
       "title": "18,000 Iranian Containers Stranded in Pakistan",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUxRSE94UENkTmtNd3lvQTNfREZvcjRxam9UZ04xamxRMGU4RUhEcVRtSGx6VGR2dmE3MmpWZVRDcW8tRDVIb3JDZ2hCdmJuRDRPY3B6cEFIb1hhdzI5Njg5WktzN3NSRGVwQVpaUXZNdTVaNVdZM0ZDMURfMzFZdGRNVV92czNxNlE?oc=5",
       "summary": "18,000 Iranian Containers Stranded in Pakistan IranWire",
       "date": "2026-10-27 16:12 UTC",
       "category": "Pakistan",
       "source": "IranWire"
-    },
-    {
-      "title": "Australian Murderer Has No Right to Vegemite, Court Says",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjRabGg2QlpWeVRfZEowcUdSRmdrZ2hNSlZveGhlNnFISXMxZzc5S2VlUlZZRkVabVdNNlMzZC1SQ2FYa1lreDB2ZmNBY2JvQ2ZFY3pIQkZLTlpqTG1yOVpxUTFZZTdsZU1INTVjMnVva2h2SnJHaG1lQ0xEdDEtcTQ2TTRLc2pMYXJZTGk1UmxoeWpSclF3Sw?oc=5",
-      "summary": "Australian Murderer Has No Right to Vegemite, Court Says The New York Times Australian judge rejects prisoner’s human rights challenge to Vegemite ban NBC News Convicted Murderer Loses Legal Effort to Eat Vegemite in Prison People.com There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned The Guardian Australian murderer loses bid to eat Vegemite in prison BBC",
-      "date": "2026-10-27 16:10 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Karachi court rejects TRG Pakistan suit against SECP",
@@ -458,20 +466,20 @@
       "source": "The Washington Post"
     },
     {
-      "title": "Pakistan’s many faces: Subordinate, subservient yet duplicitous",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2RWcEVlcjVYdTZ2ZlN4RmZsM0ZlUGFTZEh4SVRobXZLYlRtMU5WdFdONHo1MkVQLWpxNDc2TEFkYzZMeUViTnB6bVVIb1FiTE1Yc1ptZkcyQWVwYkQyQlFiajl2VUhaX0ZvUXVyZGtnN2M3b24xSGxZRlJNTFlWVzFrZkVTSEdMTzkwVjRKUkNqUllPVmNOMUFmLV90bHBnVDlN?oc=5",
-      "summary": "Pakistan’s many faces: Subordinate, subservient yet duplicitous Daily Sun",
-      "date": "2026-10-27 15:57 UTC",
-      "category": "Pakistan",
-      "source": "Daily Sun"
-    },
-    {
       "title": "Pakistan party says will proceed with Islamabad march over petroleum levy in mid-November",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONmNBdHJFU1dfSnJXUUJ2RWNMNER6blU4UW9kbjlqYjhheUg5SUE5a0pUbXItX1NqcDVZNW5kVDZ1Ujd3SHFNNF8zY3BkclNJSjVnQnhyeEw4WG5ycFRDa01ZLTFmU0lRczZtXzdqaHpQbGVsTXJkUEJzUHBqQk1sUWZodEtiTFVMWTY2VHpxMG42MnhCWG9jVE4ybl85VVpvcFlmdm56d2VHQjE1T3p5SjZkSHJDNUhQcHJaWXpaZ1ZQa2VfVGhGSk5R?oc=5",
       "summary": "Pakistan party says will proceed with Islamabad march over petroleum levy in mid-November Arab News PK",
       "date": "2026-10-27 15:56 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1NjV09KOVd5T0R1Tkw5ZHVKX0pKeU82cHNiN29KUUdETTRpV0xjVU8xcEUteFFpLV9KdzQ4MURsUmphdkFSWThNdHhyZFA4YXdQQVdtQXZZbVI5c1FSRVlRYjJMZnZMc3JyLVNhYjMwSVJHbWFCcjAybzV6SHdyX0hvNXZvX2E2V0ZKUlA1S1REVWpFaFd0ZU9tdzFVX1dsNU44UFMxZzJEMjkxRXVxX1loazFmc0hD?oc=5",
+      "summary": "Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals Euronews.com It’s hard breaking up with Washington: Why Canada’s European defense turn has limits POLITICO.eu Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say CBC Carney moves to remake Canada alliances as US ties strained Yahoo Cart, meet horse Politico",
+      "date": "2026-10-27 15:44 UTC",
+      "category": "World",
+      "source": "Euronews.com"
     },
     {
       "title": "West warns of famine risk in Sudan as civil war grinds on",
@@ -484,7 +492,7 @@
     {
       "title": "Monaco Royal Family Rocked by Mysterious Death of Prince’s Cousin",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFNaQlFjUlota2hNdm5YZmJfUFVHbWZYbXZLY3hHN3B3TEFKYkl1VUJzRjFURVd2N0pkc1gzVmV1N3NwMnJlVi0za3pYd0pqSzl4S3dhQWFPa1dRUG9QTUFfWWFpdjYxcy1rTUNqS2RLTkpZUFgyQUFOSnA2ZHV0bmlWQUdUWGpDM0VFdl83aEhQNUNvMThhNFh3?oc=5",
-      "summary": "Monaco Royal Family Rocked by Mysterious Death of Prince’s Cousin The Daily Beast Antoine de Massy, Relative of Prince Albert II, Found Dead in Monaco; One Person in Custody Nice-Matin Prince Albert of Monaco Mourns Royal Relative’s Death at Age 29 People.com Prince Albert of Monaco’s cousin found dead in park aged 29 The Times Prince Albert and Princess Charlene Mourn the Death of His Young Cousin Town & Country Mag",
+      "summary": "Monaco Royal Family Rocked by Mysterious Death of Prince’s Cousin The Daily Beast Antoine de Massy, Relative of Prince Albert II, Found Dead in Monaco; One Person in Custody Nice-Matin Prince Albert and Princess Charlene Mourn the Death of His Young Cousin Town & Country Magazine Suspect detained after Prince Albert’s cousin found dead The Telegraph Prince Albert of Monaco’s cousin found dead in park aged 29 The Time",
       "date": "2026-10-27 15:35 UTC",
       "category": "World",
       "source": "The Daily Beast"
@@ -496,6 +504,14 @@
       "date": "2026-10-27 15:30 UTC",
       "category": "World",
       "source": "AP News"
+    },
+    {
+      "title": "‘He’s united Arab Israelis’: Ben Gvir’s harsh policies drive high turnout in Arab towns",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2ZMSU12UmwwMWJvaUdRTHM4WWdiNFB1VTFrUnc5aEhLQUNTOVdYbzlkQ0g1dWJOU1JJM29ZWWNQeVYyRnA5ckpyTlZQODc1bFhrSzhpRXFQYWtITW5DajlfV1dTWjlIdGkxSldHZm1Pd0VaU19LRllUSTZIQUQ1OVcwMmV5NUtKNXBldWVKRXhjUTVYUjZZZ0tfY2Jyb3I2ZjgtbXN3SE9TNm5fU3JFMXZtTdIBuAFBVV95cUxNREJ2MGFNbk1HakwzbjB3aGpjejBkaVZuS1RWeHRQV19aSFRZY1NlelRDMFpiQU02blVUVGhpTER4b05OS3VsU3FseUtBRTlWd1A2elFpQ1pqQW1HVXJYdTVtUEZXOE0tQzdhcFlaMFZ2N0pTckw2TVhRdGkteWJxUGxqQXhFZTdFTFRaa0pJY3lHeHdfTjc4YTF2aHJDTTVfdDNrMzhSTjN0MXJ0TndJVHVTYkZaNHMz?oc=5",
+      "summary": "‘He’s united Arab Israelis’: Ben Gvir’s harsh policies drive high turnout in Arab towns The Times of Israel Israeli election exit polls: Arab parties soar to 17-18 seats in next Knesset The Jerusalem Post Arab voter turnout surges as parties projected to nearly double their seats Ynetnews Ra’am says Israeli police seized ballot boxes in Negev Middle East Eye Arab-Majority Joint List Head Says Party 'Cannot Be Ignored",
+      "date": "2026-10-27 15:24 UTC",
+      "category": "World",
+      "source": "The Times of Israel"
     },
     {
       "title": "Humayun Saeed calls for Pakistan's own OTT platform to take dramas global",
@@ -522,14 +538,6 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Pakistan Railways directs private operators to honour passenger travel concessions",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0x6V3YwaHllbTZDYjRTZFpRajYwbUltV3doZnhEMlczenZwYnpUaUpFRE93VE14WHdEY3ZTNmRXQ2YyYnJuQlc0WlRTT0I1NEtOMnR5NjBkM1hsUmk1WXFuUnA2T21JalRSM1FkVDl1QTZDcXFUZFc4eHFuZlRnUU9CWnUySzRyN3hJak9pVWUxS3B3RS1NQjB0RWJLQnBzWm9pX1Q4NWFiY0M5eUstRS1rcHFETFJs?oc=5",
-      "summary": "Pakistan Railways directs private operators to honour passenger travel concessions The Nation (Pakistan )",
-      "date": "2026-10-27 14:53 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
       "title": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVRLT2NkWkt0dVNFbmdndEhyaHQtWXZpTDFYa3NwZjFMZGZDVUJheUlKN3MyWV9xaDBTNm9YV3JQeEhxN0VIazJGWVZfbV9Za29Ud2tDeXNYMXlYUmFUSDZrdlFGbDVzR1p5RlVCMWZpbWdaMUxCQ1VEWFRCdTFUSHk1czJVOHFRNlZrVTY1VkFSMG51dUhIWUJpdm9Sd9IBowFBVV95cUxOa1ZlQWlXRTMwaV9IUHZHMUxiUGZ3YmZvS0EwOHhOMzdJSTN4WE9RejhsalI4dHJaUXhsTlpDOXNGNXNvMEtsR3lxazdkWVIxUmRvZ2NHeTV6NnJGM1I5bi1UaEVzQXFCQ2FVVEZkSlBmaGxWdEV1anVyOGJWRkdIc0sxeGEzcnZmSlFHNW1Eb0l5YjFxS2Z1RFR0TXBhRWhiXzlF?oc=5",
       "summary": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy Fox News",
@@ -546,14 +554,6 @@
       "source": "Investify"
     },
     {
-      "title": "Pakistan reviews AML-CFT framework, approves key regulatory changes",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWxTVUh5M0tOdG9wdlJrMnNyRkJKRnR5dncxRm13RklEckRoSUlhOUIwRGgxZUxiTklsNFhsQ01UU1VtNzR4MUlFRWxHeTFQYmt1TTlNX3BFSGdfNTlXSU95aWN1WVdmQW1yS2V4SjlkSUx3R2NSaTZDNWNlRnJaMzlmX2Q5aUVRS0xkZ2pQMC13LUtpeVpuXzh2Z3BvaUh3WE16Yllza0ZOd9IBVkFVX3lxTE9relpzZVBra01OUkVsR1pEZmplTUZfd3F4M29jbk5kSi1qd2ZkMU40c1pwSWpVR0JxRzlrZ0NfSHo5c0laQ20xcGV0VFM1alFVRlBiTERR?oc=5",
-      "summary": "Pakistan reviews AML-CFT framework, approves key regulatory changes Business Recorder",
-      "date": "2026-10-27 14:41 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
       "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
       "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
@@ -564,7 +564,7 @@
     {
       "title": "Putin Warns Against Attempts to Exclude Russia From Global Natural Gas Market",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUnhlYi1FSUtyOTVKb1ZqNTRfVkdiODlZeEx4SkZXVFVOLVJnX3FvSDU1SDJtZXM4S2tCQVIyaERsZ19zTWZwYThld2pSdFpWOXFQZ0xqSHlmb19VVXNHUjhTWGtnWmZZM3oxZXo1UWkxUTdBWGlSRmd5OVh5YjRreTZxVVlWcjJoQ3FWMzZxT2xKVjN5RnpVQ1gwa20yejZwV1F3MWNqYmZ2aEVPTW9CeURkSnNydkRLYU5rRGRjSUo2QUpp?oc=5",
-      "summary": "Putin Warns Against Attempts to Exclude Russia From Global Natural Gas Market The Moscow Times See more headlines & perspectives on Google News",
+      "summary": "Putin Warns Against Attempts to Exclude Russia From Global Natural Gas Market The Moscow Times Plenary Session of the 8th GECF Summit Президент России Putin says curbing Russian gas raises consumer costs, hints at US cooperation Yahoo Putin Backs Iran’s Criticism of Western Unilateral Sanctions 8AM Media Russia Gas Summit chronicleonline.com",
       "date": "2026-10-27 14:28 UTC",
       "category": "World",
       "source": "The Moscow Times"
@@ -594,36 +594,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Madushanka skittles Pakistan for 110, secures SL's entry into final",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmJCNzVtcmtYa0E1RlpacDYtSGVyMlJHVzJmcXRwUjgwQkNfNDZURU9qUVh5dnVHNTQxNTJHQnJKRllaRFFRQjZKc1RYcUVUQWgtWTJ5UjRsX3ExOUVzSFh5WDd5bDRiTW9Ub1hVcmNYWFRXSUZjaWZSNGhNTk8xdDZhYnBrS3h4dnpPS0pUY2xQWllRMW8wUzJoWVFYYVJKN3BnZkF1LXZxMFZEVkFOcUFQVzVZTkRRZmI4WUhGS01Udw?oc=5",
-      "summary": "Madushanka skittles Pakistan for 110, secures SL's entry into final Cricinfo",
-      "date": "2026-10-27 13:50 UTC",
-      "category": "Pakistan",
-      "source": "Cricinfo"
-    },
-    {
       "title": "Paris Was Dethroned as the World’s Most Romantic Destination—and the New No. 1 Is a Gorgeous Island in the U.S.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYW1jbVlKWmZ3ZWV6OW54V2xTeXgtSDdkRkQ2T2pKSzFXX1JodDFZdHk2SE1TT3AzaUFxVktvTkNjMnBldGxrTWRQSERfUDY4VnlsY0kyUXhkWi10VXZTODM5S1FSTFYwTkUzdnRXczVEcThxNVpOdklYNXFieEtVOHdKZVVYdw?oc=5",
       "summary": "Paris Was Dethroned as the World’s Most Romantic Destination—and the New No. 1 Is a Gorgeous Island in the U.S. AOL.com",
       "date": "2026-10-27 13:50 UTC",
       "category": "World",
       "source": "AOL.com"
-    },
-    {
-      "title": "Pakistan’s last antique restorers give old treasures new life",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX19CUTYyWFdLMjBwdDFwU0YyZVdQYjN2Tzk2X2VEWTBNbFowVnpGMGNnNzhGZVhZeFpEb2tUZWlKR0k3Z1g4THN0Y245ZjFhZGpjMWU2eEFLbkhlUGNBNThQZGhrRnBRWVRraUhZUXRFQmhSSUNqejlMV1Nlam5DWk5TT2lGa1liZWE5WmVWZFFEX0hsdEZTUVowdklhcUs3bkxZ?oc=5",
-      "summary": "Pakistan’s last antique restorers give old treasures new life Arab News PK",
-      "date": "2026-10-27 13:45 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Gold price per tola falls Rs1,300 in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWjJ2V0pwcE5Iajdhdzh2ZHRWSWFKMm1wX0pLcGgxbDJNMXc0TEY2V1A2dG83YlZWYm1WdVJkYV9LRUVEeTJvMThSZlpiWDl6dlpsZi10Vmc4RnlSVHZCOHJydDd1RFBPYktSbGl3SDh5VS0zNjdtT1VvMjBJMFhvbXk0SHRySDBkNUx4V1FadXhrUQ?oc=5",
-      "summary": "Gold price per tola falls Rs1,300 in Pakistan Investify",
-      "date": "2026-10-27 13:41 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
     },
     {
       "title": "Most Drugs Entering Afghanistan Are Smuggled from Pakistan, Says Taliban",
@@ -658,12 +634,12 @@
       "source": "Dawn"
     },
     {
-      "title": "EU divisions persist on ‘associate member’ label for Canada",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNay1RcWp5akpZR2l3NTVFamYwaDJ4NlVIQzJwSEkyVzkwTlVwak53VUlnd1NSSmZhRVFIc190Mlo1REc3X29yTDVNTVc1NkthQUpMaEZQeTN2aXRPODAwcEJyaGJ5TzhwUzdGQ3VYTzBqMnNIb0RTQWxZcTlxc2NmN1JYNTVFUDM4ajlrdw?oc=5",
-      "summary": "EU divisions persist on ‘associate member’ label for Canada POLITICO.eu Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say CBC It’s hard breaking up with Washington: Why Canada’s European defense turn has limits POLITICO.eu Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals Euronews.com Cart, meet horse Politico",
-      "date": "2026-10-27 13:07 UTC",
-      "category": "World",
-      "source": "POLITICO.eu"
+      "title": "England in Pakistan: Harry Brook's side out after Sri Lanka beat hosts",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMEhOZFh1YVF6dFpFNkdqZUFiR2l0Tm14YTJ2dG1XdjFoOG9pS3FZbW9GOXRCajk2NGQ3WnZvSHFxMXUtcVVBR19xUFZ0NnBJdkNLYVhTbEl5RzhDbEx5RExtQ2VqcUU?oc=5",
+      "summary": "England in Pakistan: Harry Brook's side out after Sri Lanka beat hosts BBC",
+      "date": "2026-10-27 13:01 UTC",
+      "category": "Pakistan",
+      "source": "BBC"
     },
     {
       "title": "Türkiye's Parliament advances joint defense pact with Saudi Arabia, Pakistan",
@@ -700,26 +676,50 @@
     {
       "title": "At least 62 people killed in attack on a community in northeastern Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTdxTW1yWDd0SXN3U3UycjE0Mm1pNjc1SXkydFRDQUY5YXAwandYbEVSVkdBbm5PUmV3REFoOWxjdmItZDlhUDlvMVUycXVfTkRDbHc2QkFiYkszT2hpS2lMNEJqUVR5Sk1tUU1VNEFWNmJpVGZSS3hPOC1sRlZheE5Ta3pOdURK?oc=5",
-      "summary": "At least 62 people killed in attack on a community in northeastern Nigeria AP News See more headlines & perspectives on Google News",
+      "summary": "At least 62 people killed in attack on a community in northeastern Nigeria AP News Death toll in Nigeria village raided by gunmen rises to 48, police say BBC Death toll from attack by gunmen in northeastern Nigeria rises to 62 Al Jazeera 62 people dead in attack in northeastern Nigeria AL.com At least 62 killed and thousands displaced in gunmen attack in northern Nigeria Sky News",
       "date": "2026-10-27 12:41 UTC",
       "category": "World",
       "source": "AP News"
     },
     {
-      "title": "Man who fractured cyclist's skull in road rage attack given supervision order",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTFhlU3hwbzdjTXRfRDN5LV9wSHRwdnZtX3Y3VzY3QjdrOGlPS3RaeEo3cDNwQTQwU09tclAwZXNXbGRsc090SDdGdFpWNzdzQmwyTlNqZWZhUk0?oc=5",
-      "summary": "Man who fractured cyclist's skull in road rage attack given supervision order BBC See more headlines & perspectives on Google News",
-      "date": "2026-10-27 12:41 UTC",
-      "category": "World",
-      "source": "BBC"
+      "title": "Pakistan ODI Tri-series 2026 final: Teams, venue, date and start time for PAK vs SL vs ENG One-day contest",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXRCWG5INmhuZ0NtTEE5ODdxY0p4azlTRDhPRVJHUkVSYVlJcE12cUNZMnc1VlowOU9kSVp6WW0xUFptVjhDdXlQak9OVEFlcFZXZkhlSnRXT196NDM2Vzl0V0NxTTdNVW1yWFBDTVZDWTZDaVAxOGQtOEpqMnctMWtPNA?oc=5",
+      "summary": "Pakistan ODI Tri-series 2026 final: Teams, venue, date and start time for PAK vs SL vs ENG One-day contest Yahoo Sports",
+      "date": "2026-10-27 12:17 UTC",
+      "category": "Pakistan",
+      "source": "Yahoo Sports"
     },
     {
-      "title": "Pakistan Moves to Merge Privatisation, Public-Private Partnerships | Dawn News English",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0RYUmE3b1loWjdNMTVoMm11cUp0VVI5cllHRVNaX3pkb3k0QzhXeU5OVnYwUmh0SkJVUUcyZm1URDNBbEg1OXdveGpEZnc3T0ZOaENnMzRDMUFueU1CcGs4d2o4aFUwUHRfTHNBemQ4ZlZub1pnOWFvN3FWX2w4WHA4Wm95X1JOSzR2TVZBYmppeU5vNmVxOWtjV0hyYUFGNV9uREJaem5TelEzcXlXZl92M3F4bTEx?oc=5",
-      "summary": "Pakistan Moves to Merge Privatisation, Public-Private Partnerships | Dawn News English Dawn",
-      "date": "2026-10-27 12:30 UTC",
+      "title": "Pakistan rupee extends gain against US dollar",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6MzRWcmh2T2NTUUFpbC1YT3E2MUwxZmlQd3lxTUEtMjJxQnl4RmxhNDhuUnBRWU9KSHVkMGU0UnNUMmI5WGZGRkZwNEdDSGp40gFWQVVfeXFMTUZ5d0JVaXRteDY2bERHYXVHQ09VTUR3M3VCbkhrQVZkV3lrNFJWTGxwblA1MUZ3U2FjUVBGbEhXSWUzQTEyeXc4a2lhRVRFd1dCdzFHUmc?oc=5",
+      "summary": "Pakistan rupee extends gain against US dollar Business Recorder",
+      "date": "2026-10-27 12:09 UTC",
       "category": "Pakistan",
-      "source": "Dawn"
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Why reported Khamenei call for end to 'neither war nor peace' moved markets - a bit",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbl9kZ2lKRkdjTHkzVUlHNXFGanVydG90WWVjWDBfdmx3cHUydFF6cFV5eEp6bXJqRFRhWlNXU1poMWpWUDFGVXU2WjMzV3U4azJEUncxZTVScGk2eERpei1hMEFZSGxvV3BBSUJ5Skp0M1RITEpRQ3NSaUt1czJwVW8xRkxITGQxLUpoUzh3cUh4X2pXcURHRWFxaGVXQXh4MTFTSzRDTlJPckhfdE1oQUE2bDdNYXRmM1hfVE1XV2RDVE1paHY1TERoT3k1b2lH?oc=5",
+      "summary": "Why reported Khamenei call for end to 'neither war nor peace' moved markets - a bit Morningstar Oil prices fall after Iran supreme leader and top security official discuss conditions to end war CNBC Iran’s Supreme Leader and Top Security Chief Discuss War, Hormuz Bloomberg.com Why reported Khamenei call for end to ‘neither war nor peace’ moved markets — a bit MarketWatch Iran security chief meets Supreme Leader after",
+      "date": "2026-10-27 11:45 UTC",
+      "category": "World",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "date": "2026-10-27 11:44 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Madushanka wrecks Pakistan as Sri Lanka press for final slot",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnVDZ0JmU3k3UWl1MThWZHdlVFFScUxCMkJQWmV6WW1TNjFyM3lqUldDdkRPWmwxN2RDSkdUemZZZHJsclkxMUJKUzFKbXNYQnNnMjA2M0djYUxYLXJjSjJaZmJtdU9kRjBDX3BPUm1xclV2UjlNWWlhYXFKTWQwd3l3?oc=5",
+      "summary": "Madushanka wrecks Pakistan as Sri Lanka press for final slot AFP.com",
+      "date": "2026-10-27 11:28 UTC",
+      "category": "Pakistan",
+      "source": "AFP.com"
     }
   ]
 }
