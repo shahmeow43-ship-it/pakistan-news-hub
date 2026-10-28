@@ -1,6 +1,86 @@
 {
-  "updated": "2026-10-28T09:59:12+00:00",
+  "updated": "2026-10-28T10:57:11+00:00",
   "articles": [
+    {
+      "title": "Pakistan says Makkah defense pact plays ‘critical role’ in promoting lasting regional peace",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTjhQbkFNOHZEN0tzYzFpMlFuSDN1Q21QNXVPbEpISlNVdGFrZHdHWDFZaVNlT1lxWEkwYnlMQkUwYVZ5UVh4WXBWR0gtd3pBTlEzTldnaFFiX1ZUTi1xei1ZWFN0Rk9YcjhrQWdSanhWS1JIVVdRV0ZodWZ3WmQtMFJaVDA3Mk4tRmx0amJsSGZFM2ZoeHRsaTFqUVRKRTZ3c0h1NjFWeEZjdmduRnhTOG82OXdXcnV6M0ZTZGhmd3RwemNKSjB0SlZR?oc=5",
+      "summary": "Pakistan says Makkah defense pact plays ‘critical role’ in promoting lasting regional peace Arab News PK",
+      "date": "2026-10-28 10:43 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Best Foam Mattress Brands in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oVElJUXRwYmRWYWxBRTRpQkNIZkdfWkZ0ME9YaXVtZkdDdjJFRXA5SElLWXVVVFlvOHVVbkpaeXEyZ2dZQ09MLVFnNmNpRlJkM2dGcUxJZkxjbVN1WFQ5QndlOEEwLUZNY2U0U1ZaRWRFM3NUalFWVmFTNnQ?oc=5",
+      "summary": "Best Foam Mattress Brands in Pakistan The Nation (Pakistan )",
+      "date": "2026-10-28 10:42 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
+      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+      "date": "2026-10-28 10:35 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "date": "2026-10-28 10:31 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan bars Taiwanese airlines from its airspace in line with One-China policy: report",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTZ5LU9KVmpSVmJ2cWFNeDI3OUl4QjFkQ1h2NmQwWEZjVUF5M2d1MTlnMkFrUDZpZlJybWsxSjI4SE10cTVrN0l0UTNzamttNThhckxfRE80d2EyendmT3RNNThNOTROUmhNc2NIWGRfN1k3VDd2VjlsZjJ4WV9EX1BNbjA4ODlXZEttV0lMZFJxMTM3dkxKdzlqcmRMQktSLVEzQ1EyeDVxLXNHOWQySHgtMkk2RWlmdFVYaGtn?oc=5",
+      "summary": "Pakistan bars Taiwanese airlines from its airspace in line with One-China policy: report Dawn",
+      "date": "2026-10-28 10:27 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Weir eyes long-term investment in Pakistan’s minerals sector",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjJUVlBScldPekI4TE5sRklYXzJUVXJUM21CbERRcl9oc0dST3V3VlAwUEtIQ1hkTjh4Z0FGV2hESlNKWkF3Sm5BZzNMYXl1aGxsRFk1bmZHX2RqU0RUVlFBTVRFUVRoX2k4dFZmUkdDMHgtY3pLdmhWZ0lPLXdySWlocjhZUEJheTYzNlVEdlRSRW5xcHZfcGdrNXE0TThq0gFWQVVfeXFMT0U1dHk3UmZjemI2bTdXQWpPWUdtNEd0UGp5YU93OFBJMUJ1QlAxNWJuZnVMalJDR1FybTVXYU42dEw3RDBOWmhVNU1sWG5EWlFPN3dJckE?oc=5",
+      "summary": "Weir eyes long-term investment in Pakistan’s minerals sector Business Recorder",
+      "date": "2026-10-28 10:23 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Israelis await final election results as Netanyahu remains far from defeated",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+      "summary": "Israelis await final election results as Netanyahu remains far from defeated AP News Netanyahu survives another day with unexpectedly clear backing of Israeli Jews Reuters For Israel’s Arab Minority, a Historic Show of Strength The New York Times Israel’s voters deny Binyamin Netanyahu a majority The Economist A bitter night in Israel for all who craved a fresh start. Netanyahu survives – and we are more divided than",
+      "date": "2026-10-28 10:09 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Religious freedom champion tells UK Parliament that extremists in Pakistan have terrified Christians and other minorities into silence",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbnhMel95ZHdGd0l3VTlGRFVadkRmWjdndU1BTnk2U0l6N2QzWHV1ZUJ0VzVnOTdPTm8ybkJxUXNsNk5Pa2JySGpIbHc1NVNMT1RGbk4xVlVNYUVuemNKUzRYQmVnN1Y2bXZvRHQ5SGZjT3c3YTRKUVhYUGctVldkMVk4WGtGQXlCaTNaUVY3NHp5RXlqV2dZOW8zQndaaDhDcTR0YlFaUl9tMWk2eC1Ma0Y1UkFyZw?oc=5",
+      "summary": "Religious freedom champion tells UK Parliament that extremists in Pakistan have terrified Christians and other minorities into silence Aid to the Church in Need",
+      "date": "2026-10-28 10:00 UTC",
+      "category": "Pakistan",
+      "source": "Aid to the Church in Need"
+    },
+    {
+      "title": "Otsuka Pakistan board approves restructuring of Hub facilities",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ1BpbURNY2h4aEVIZ09Pc3hKNWh0cDFvUXlIWW5XVnNGcmN4ZTFQNnV4b1pGMkNLdGdNX2NkcEV1VlBwUUZsZjFNQnZqbzM1TDUyTzAwVXhuellNSHItUGJRaGRCUlNSeDJ0a1VkNzBGQzVfQlZnOU55LVlackx3MDVJNEo1VTVGc1U0ZkNCNnNUSXEzZ1kxaTgxSXB6WGwtX2JhR1gxQ0w?oc=5",
+      "summary": "Otsuka Pakistan board approves restructuring of Hub facilities Investify",
+      "date": "2026-10-28 09:54 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "One-China policy: Pakistan bars Taiwan carriers from airspace: report",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjBkRDRiZU9XTWZiUUo0MWhJN0VHN185RzhkcGV6T01oOEQ2enBDWnBZNVlRa2RXN2Y3UzZISDh1R3Z0QzBjVk0zbnZiLTlFN0JNUjA5a2pNQ2plQ044UWhxRkY0STEzV0tCNjJydG9VMlFILWNqQm0ySElORnJVb21ZZzdZOEU0OEs5NUUyMEpfSDBlalZhUEJBTW9QRG1wU1o0RXdmcWdDWGlzclVR?oc=5",
+      "summary": "One-China policy: Pakistan bars Taiwan carriers from airspace: report Investify",
+      "date": "2026-10-28 09:47 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
     {
       "title": "One-China policy: Pakistan bars Taiwan carriers from airspace: report",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDBqUUI1T1dmZEpCNUhscTdfMG1xYnVYOERsU20xdkZkT1VDOVB2UVdDTHRJZXdVaWVvRlQxLWh4YXVHUFlfYXVxX19CVVc0VHh5WFcxY2lUblB0bHdOUDhzYUN2QTdYZy1sNEotMVEzeUdHN1lTTUV5bTFlM2EyMWMwVVluWlhoVWFjT0FKTkg2bU1pUHJXU0ZvaGY5OXZmZUtjbUJLdU92RFXSAVZBVV95cUxOcXp1NFFBYkdWelRFVU5HazVfR2c3aDg3TWRjVVhZSXBrMmpjay1rTmMtajdQU3RCNzBLRmlhaHBXSDdyMlh1U0JodEFmRGE0NzFxZWRpQQ?oc=5",
@@ -16,6 +96,22 @@
       "date": "2026-10-28 09:42 UTC",
       "category": "Pakistan",
       "source": "The Friday Times"
+    },
+    {
+      "title": "Colgate-Palmolive Pakistan to acquire P&G's Port Qasim assets",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORE1aczhQc0FJempxbTVjQldCNUtPUC1JTjllVEQ0Zkl1aVJPTV9aa1BUVDItSDlSd3JCYW1ZZUxLa0dDcENlVUlqR0xUVXdWT280c0pCcVNoMkllZVVHR2ZwN0ZJd2RJQXUtMUo1YVNwNDZ1RzFTOE80MVpfdElpQkJQSEtSRnZmdjMtcVB1VkdrdGNzaDB2b3VwYVFGbGZWMXVtQlAtUEVUa0dl?oc=5",
+      "summary": "Colgate-Palmolive Pakistan to acquire P&G's Port Qasim assets Investify",
+      "date": "2026-10-28 09:40 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfRFl6WmZqOFVDQjg1NU5IbGJOZlA0Nm1UeTJfWUpiR2Frcjd1ZU9CeUZBVHZQN2hpSWFTQWNqaUJXZVdnQWxmMVNZcXNMa0NLNW5vcU1iZzZVUXNrWFAtcVg2YldaWFg4UEc2dFhpSU1NbmvSAXhBVV95cUxQV1FtLXNuMEUwdV9KRVVhU054RHlNTmh3VTRiS3ZVdlUtdjlEQjVzOFlzR3ZoNV9RbFVWNFNkSHpLN1RtN19GTWY5bmRGV0Jzanh1N3g1STFHZGk4ODZzX09PUWI2QUx2VnU5N3RNT1EzN1pDakVQVms?oc=5",
+      "summary": "Ten people confirmed dead in high-speed Spain train crash, local media report CNBC Two high-speed trains collide in Spain, at least 10 dead Reuters Spain Train Crash Live Updates: At Least 10 Killed in High-Speed Train Collision, Officials Say The New York Times At least 10 dead after two trains collide south of Madrid, regional official says BBC At least 10 killed in train collision on high-speed line in Spain ABC N",
+      "date": "2026-10-28 09:35 UTC",
+      "category": "World",
+      "source": "CNBC"
     },
     {
       "title": "Pakistan Urges US, Iran to Honour Islamabad MoU and Resume Talks",
@@ -74,12 +170,12 @@
       "source": "The Times of India"
     },
     {
-      "title": "Israelis await final election results as Netanyahu remains far from defeated",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-      "summary": "Israelis await final election results as Netanyahu remains far from defeated AP News Israel election results: Netanyahu defiant despite no clear winner emerging CNN How double envelope votes work, and their potential impact on the political landscape The Times of Israel For Israel’s Arab Minority, a Historic Show of Strength The New York Times Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vot",
-      "date": "2026-10-28 09:03 UTC",
+      "title": "Qatari mediators present Iran with new deal to end the war, official says",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+      "summary": "Qatari mediators present Iran with new deal to end the war, official says Reuters Iran’s neighbors push diplomacy, prepare for its failure Iran International Qatar urges Iran to reopen Strait of Hormuz amid US mediation efforts The Jerusalem Post Live Updates: Qatari mediators hand Iran new proposal to end the 8-month war, report says CBS News Qatari mediators presented Iran with new deal to end the war, official say",
+      "date": "2026-10-28 09:07 UTC",
       "category": "World",
-      "source": "AP News"
+      "source": "Reuters"
     },
     {
       "title": "India invites Pakistan to SCO dialogue in Delhi for first time since four-day war",
@@ -88,14 +184,6 @@
       "date": "2026-10-28 09:00 UTC",
       "category": "Pakistan",
       "source": "TRT World"
-    },
-    {
-      "title": "Two high-speed trains collide in Spain, rail operator says",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMlZGWkszUHlBT0x1U2VuWWw1T0l5WEppaUhORDJ0VHRQeFNDUjVYTXY4LTBkSi1uc2N5NlBqRmhGQUt6VEtCdzZXYXF4cXppNnh6NWhjQjdhdjJOVjg5MF9RS2dwdHg0NWoyMTl4QXpqbDJ2VGhiamRJTVhGaVU?oc=5",
-      "summary": "Two high-speed trains collide in Spain, rail operator says CNN See more headlines & perspectives on Google News",
-      "date": "2026-10-28 08:58 UTC",
-      "category": "World",
-      "source": "CNN"
     },
     {
       "title": "Pakistan’s Diplomatic Missions in Canada Observe Kashmir Black Day",
@@ -114,12 +202,12 @@
       "source": "ASHARQ AL-AWSAT English"
     },
     {
-      "title": "Pakistan: United Nations report exposes flaws in Sindh’s water management",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU080dTFqalRINk5kUEhDU2lyZ1RCT1BWZ05hcXdTOThnUXJRMXl0SlpjMGtSNzlaRENma0c2cVFXa0hjZEFSajZtN3J3eXhlOWprZzBMVGs5WHB2cURGWkJucVctVEdGLWlVSkJ4elVuMmcxLVZkTW9lUmNOMkZFa0JiaVpkX2VqVWpERGthY1llR2RaS2hWbDQzMm1qVnJtTC0zWGh0TllWVkpBUGxoQnJ4TkZXNzhwWUhZbmh4SWMxRmJGSXVR?oc=5",
-      "summary": "Pakistan: United Nations report exposes flaws in Sindh’s water management ANI News",
-      "date": "2026-10-28 08:48 UTC",
+      "title": "Pakistan reports nine militants killed in Balochistan — Dawn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2RWUVhQeWRkZ0hCWXdGWXRaYVVYRUtZMVp4cTNRcm1GSEZzNWh2ODBQUmZ3SVJiNW5HRU5MU1JfMWliNWFTWEpIamh0bWtaRUJWZTZqZ0xJNmZ0elJtaE5JZ3hZT05GTk5sTTd5bU1RTUh4bUd0QzZVdFlPOUhUUmtBQ0hheXJielFxZm1CNnZqTTdTWUpJM2ctYnNrVGZKSkFEODkwVQ?oc=5",
+      "summary": "Pakistan reports nine militants killed in Balochistan — Dawn UA.NEWS",
+      "date": "2026-10-28 08:43 UTC",
       "category": "Pakistan",
-      "source": "ANI News"
+      "source": "UA.NEWS"
     },
     {
       "title": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
@@ -130,20 +218,20 @@
       "source": "TRT World"
     },
     {
-      "title": "Pakistan Minerals Investment Forum 2026 to be held in Islamabad",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOTZKeWZfSzJDVF9uUXFkWXFnTGI4Zl9NYXU5eU1qNFlEc0R4cmRFcFVJVGZZXzI4amxZVEl6SmgwWDNRLV9IU1lDMUtYbDNNZkNIWWtDcVpFMHZaWUxxU09PSjU2VmU0cXlRLWJncG9BOG9CallQZGhuNmhTczdtNG5XMU5DdzV0cGFQYklzVGhSQkhSZWc?oc=5",
-      "summary": "Pakistan Minerals Investment Forum 2026 to be held in Islamabad Trade Chronicle",
-      "date": "2026-10-28 08:41 UTC",
-      "category": "Pakistan",
-      "source": "Trade Chronicle"
-    },
-    {
       "title": "PTI decides to contest Islamabad local bodies elections on Dec 20",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2Y4djBseDFBcEZnbjhMQm1pcUhFWUlhaG1OeXQ5M2NhYUNlTlZWU3g5ZmxvM1NHQS1fY3YtS2wzbzN5aVV1T1I1SlNRSE9Rc2hMQTdiLXU1aWZfVUlOMDlFWEt4Rk9fSUwzcDJ2aUluQTB0Rm9UeVRCVUVBaHpwVUo0TFNfNFpmVWNQRkNmSlNHUEZ3ajVHRHBSUjVOency?oc=5",
       "summary": "PTI decides to contest Islamabad local bodies elections on Dec 20 Dawn",
       "date": "2026-10-28 08:37 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "Egypt, Saudi Arabia pledge closer coordination with Türkiye and Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzg3eU9TWkZ5cW40M3lnbndJcjc1X2xMYTNfR3NMbEtJUEUwV3BWRDdDN1pGaEs4cWw1N0RUM2l3SUdrTkFybHBVaG9QVmU4UWthR215VzlndkZMUG9tbzVJazJYZmpzdkFUcmNJdHlmNTJBUU5IVmJiVHg4Qk01QzVrekc4OEUtWmJUcENCUkFqVnpSaV9SZG1jMThqaHpCMy0wQ3RPVFdrdUNEdUlLNg?oc=5",
+      "summary": "Egypt, Saudi Arabia pledge closer coordination with Türkiye and Pakistan Türkiye Today",
+      "date": "2026-10-28 08:37 UTC",
+      "category": "Pakistan",
+      "source": "Türkiye Today"
     },
     {
       "title": "Obey or refuse? A former police chief on power and principle",
@@ -160,14 +248,6 @@
       "date": "2026-10-28 08:30 UTC",
       "category": "Pakistan",
       "source": "Bloomberg.com"
-    },
-    {
-      "title": "Gold prices witness another sharp increase in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVl9tekpTYmZwMC1jcVBmWGFwTDRoSW1OREpBYVdMbFlWSGxBWmJkV2dtSVRLU3FDWXk1VkJSR2lGUHlLYVJrajU5LXhGUjJ5UTFldVhmeHpjbTc3NlF1WHZhZE1OX2pDQmhzcUtYTk1XbUJHSk9EaXZTWTdkbWdfRnM1WQ?oc=5",
-      "summary": "Gold prices witness another sharp increase in Pakistan Tribal News Network",
-      "date": "2026-10-28 08:26 UTC",
-      "category": "Pakistan",
-      "source": "Tribal News Network"
     },
     {
       "title": "Colgate-Palmolive Pakistan to acquire P&G's Port Qasim assets amid agreement",
@@ -202,12 +282,12 @@
       "source": "Investify"
     },
     {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "title": "Pakistan fails to protect children as online sexual abuse cases remain underreported, warns HRCP",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS1o1Z2F4bElmMXllVE5aVWZfT09Bd0NSd3lxc1VVQnhwSUdnd3M1VWZFenE0dHZIcGplRHBGNm1iYmFkVE1aVVpEODhEQ19ZVUpJMVRLdmV6TGh1bUNuRkQxTGtLc0RVd0JkSjZwdEFlVGdLQ3F1Z0hzVHcxM0pkbFlBN1loWmluUjRJUVlLX0JOMXFkalFhVUJuaEhTNi0ySHU0cUNRSmZieUZyY0JpWmNKSnV2bE1ZSTNXbnB4WHZORkRlM1lKWmtIaWhiOEVQMlZ0cWEtY0J4a2tXM29WM1R3?oc=5",
+      "summary": "Pakistan fails to protect children as online sexual abuse cases remain underreported, warns HRCP ANI News",
       "date": "2026-10-28 07:53 UTC",
-      "category": "World",
-      "source": "BBC News"
+      "category": "Pakistan",
+      "source": "ANI News"
     },
     {
       "title": "Afghans compete for jobs, homes as millions return from Iran, Pakistan",
@@ -258,6 +338,14 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Air Pollution Cuts Life Expectancy in Pakistan by 3.9 Years: Report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUdlOGhtaC05RDJyWlBwSW8tblBmQXRpSTIzanpzeWF2NV9lMEJNd0FpQVRiLXBnQ0ZucHJKdnpGU0lCZ1g4bTZ2a1BLNkNIRjlvellUbFJLLUNwWFgyVjhrQ21UZmlCeHhLRjFHOHhHYWQ5RUtDWFBrSmc2dFI2NHpfLWpxbVlGYnl1ZUI4b05TSE9CeHNrUWhOU1pWdUVF?oc=5",
+      "summary": "Air Pollution Cuts Life Expectancy in Pakistan by 3.9 Years: Report Energy Update",
+      "date": "2026-10-28 07:32 UTC",
+      "category": "Pakistan",
+      "source": "Energy Update"
+    },
+    {
       "title": "Gold price gains Rs3,500 per tola in Pakistan",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU052OFQwOW9QVG4zUHZVRFdaaDJHVHl3emY4czVrbkE5TW53TElxX2pvMi1DV3d3NF9UX3dlNnFkN01lOGZQUU5ZbHIzTUJ3QVd4bG92T01HVjJ3Q2NwcDcwbU02UDNfWlROZXozQmxKVTFBMWh5TXotcFNEWWxjMW1XaHNZcnFmSXJ3ellRQjNGUQ?oc=5",
       "summary": "Gold price gains Rs3,500 per tola in Pakistan Investify",
@@ -283,27 +371,11 @@
     },
     {
       "title": "Lahore again ranks world’s most polluted major city as smog worsens",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFBYLWhpMk9DTVUzMjY2S1ppRG5pYTFrYUlGSWZ0aENBZUN4aV9US2M5Z2NwMExKS2RuWGZONFBCWnV1T25zWHAzNHM4dGxJeFJvTDNYUUxwQjR2VzRfbE10Q244YTY1NkxxSlgxemdRWmR2dExKdXN4cFgydkdMMnJXaUR4RHlweTExTGtRdEFBT0RnbGdLcU1nSEdhRjZacWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBROFVyMFZYLXhNSXRTYVh6Q0ZIbEN3UnpvZ1VIQWRKckFRMFM2NzNMbWxqYkdIXzRuX1hrY29HX3NBZ3liT1JoNQ?oc=5",
       "summary": "Lahore again ranks world’s most polluted major city as smog worsens Dawn",
       "date": "2026-10-28 06:53 UTC",
       "category": "Pakistan",
       "source": "Dawn"
-    },
-    {
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-      "date": "2026-10-28 06:53 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan’s diplomatic missions worldwide observe Kashmir Black Day; reaffirm support for Kashmiris' self-determination",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTkI5cVhmMERxb1M2RlkzSGdpakl5ZDl5X3pkQjJXbHp6NlZYZTQtYk9rNlR4eFJuZXRaempxeHZaTjRGNkI3MHZhaWpNMk54Zlo0Y3ZKcm92dnRTWXd3RXNBSHM2dG9WNGY2OUZ6WkEzbG1LenpBeHE2M2RIaDZWemFNd196Q0VHUGxoS3h5bEczX0VsS2lLOEdFTjk4ZlJscXAwN0dZSFpBV1NTczdobHhjSTByUlN6ZFdKbmhHYmtJdlYtaW4yR0pIU3lDb3JhakJBMmMycWozZDlqUk1icUVsWXFZNUx3SzJhWkN3?oc=5",
-      "summary": "Pakistan’s diplomatic missions worldwide observe Kashmir Black Day; reaffirm support for Kashmiris' self-determination | Associated Press Of Pakistan",
-      "date": "2026-10-28 06:45 UTC",
-      "category": "Pakistan",
-      "source": "| Associated Press Of Pakistan"
     },
     {
       "title": "Iran urges regional security cooperation sans ‘interference’ after talks with Pakistan, Saudi Arabia, Türkiye",
@@ -356,7 +428,7 @@
     {
       "title": "Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3BJak03a1hsY1ZnRkRnajVvZjVORmZHRWtQOHljLXk4bGkxSnNFZUxlQ0NRUHZuU2FsU2N0WUdZbDNzbTFpa0oyVDVXbVVHcUhGYUExRW4tcy1lV3pXYXhicU5HSFRDQkgwRk1uMGhPbFlrLW1QWEtxRnZTc2pTaGJXQmZWNzZfRWhadg?oc=5",
-      "summary": "Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy AP News Pope's cancer is a 'gamechanger' for papacy, Vatican foreign minister says Reuters Pope Leo cleared to make his trip to South America after successful lung cancer surgery CBS News Pope Leo's doctors confirm his visit to Latin America two weeks after lung surgery National Catholic Reporter Pope’s visit confirmed: ‘I look forward ",
+      "summary": "Top Vatican official says pope’s cancer diagnosis a ‘game-changer’ for the papacy AP News Pope Leo to return to his adopted home on South America tour Reuters Pope's South American trip to go ahead following lung cancer surgery BBC Pope Leo's doctors confirm his visit to Latin America two weeks after lung surgery National Catholic Reporter Pope’s visit confirmed: ‘I look forward to returning to Latin America’ Vatican",
       "date": "2026-10-28 06:11 UTC",
       "category": "World",
       "source": "AP News"
@@ -378,14 +450,6 @@
       "source": "Digital Pakistan"
     },
     {
-      "title": "Evolving China Pakistan Relations from CPEC to CPIC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1JiOHNlQ0NCUHVNaUQwaTVCRVVmZWpiX2M1WGFTV1VacFhHXzQ4eE1rVkEwdXBZYUVmYmw5eTVnbEl0U3duUEF0UHJwZ0w0NjBfNkktSllSVmxpUlk5ZExwY0tnZ3hYTEJMYVU1TFU3dE9YTlBDOU1Ub1VKRXVLU3drYUh3bWlyaXRITnpQMkc?oc=5",
-      "summary": "Evolving China Pakistan Relations from CPEC to CPIC Security Risks Asia",
-      "date": "2026-10-28 05:38 UTC",
-      "category": "Pakistan",
-      "source": "Security Risks Asia"
-    },
-    {
       "title": "PCB and Allied Bank sign MoU to promote School Cricket in Pakistan",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWxyckFORzN2SU04U3NRT29zZTUxN1hyV3NIT2RTbzFLM09DUV9XcEgybEpPcVRiNERaNldTby1qS1BleGp2Y2hUWmF1cWJJSC0zVk1weFh5REtDMWRnajlNbVAzYmkyWkl5ZGJPemxRT2cwTHRzUGlCSG1sbHJLaDliZ1FHZGNtdktJdEVjUDlhN3VMZjFiVUZSR3dLamw4Q083OFF1MzhKQV9ZSXVRV21FdWNXUQ?oc=5",
       "summary": "PCB and Allied Bank sign MoU to promote School Cricket in Pakistan Pakistan Cricket Board (PCB)",
@@ -400,6 +464,14 @@
       "date": "2026-10-28 05:22 UTC",
       "category": "Pakistan",
       "source": "https://cpecinfo.com/"
+    },
+    {
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOblFuMEQ5X1NYc3lURHVDNzZpTmlKUTNiS3V1czBMUVVzczRVejl6dURfa19YNFlubWdwbmZqMHkzbUFLdy1VM3diT2NCU19FbHM0eWVNeHlxWk42MjNfLWRHZDZNMDBJUHRKZlpITkF3YVA4WlNNM2tnZ0hpM1JNUUZzeFZxWXp0ZFFidVhXbk94Si1ad2lYb0Jn?oc=5",
+      "summary": "Israel’s President, Isaac Herzog, Faces a Difficult Choice The New York Times Israel's unassuming President Herzog holds keys to next government Yahoo Israel: A parliamentary democracy San Diego Jewish World The Israeli Electoral System Is Not Representative Of Proportional Representation Electoral Reform Society",
+      "date": "2026-10-28 05:18 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Rewriting The Code: Women, AI & The Future of Pakistan",
@@ -460,7 +532,7 @@
     {
       "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZYXowQXp1OElaVTdJajJmZ21xcmNXWXNqck56TXJyNFZqNHRLTTVhRXVLZTQwc0J3cThWTGladmo3X0FfQzIySEF3dXdNbTljTkkta0VJR0o5VkU?oc=5",
-      "summary": "King acknowledges 'suffering of the past' as Caribbean tour begins BBC King Charles Faces Calls To Do More Than a Speech During Caribbean Tour Yahoo King Charles to discuss legacy of slavery with Commonwealth leaders at summit The Guardian King Charles says Commonwealth to confront slavery's injustices, as calls for reparations grow Reuters What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the C",
+      "summary": "King acknowledges 'suffering of the past' as Caribbean tour begins BBC King Charles III can't escape Britain's role in slavery as he tours the Caribbean 10TV King Charles to discuss legacy of slavery with Commonwealth leaders at summit The Guardian King Charles heads to Caribbean as calls grow for slavery apology CNN King Charles Faces Calls To Do More Than a Speech During Caribbean Tour Yahoo",
       "date": "2026-10-28 04:32 UTC",
       "category": "World",
       "source": "BBC"
@@ -524,10 +596,26 @@
     {
       "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
-      "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says AP News See more headlines & perspectives on Google News",
+      "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says AP News Nuclear Inspectors See No Evidence Iran Fixed Bombed Sites Bloomberg.com Security Council, 10253rd Meeting (AM) Iran/Non-proliferation UN Meetings Coverage and Press Releases Director General Statement to the United Nations Security Council International Atomic Energy Agency UN Nuclear Watchdog Chief Urges Iran To Gran",
       "date": "2026-10-28 03:18 UTC",
       "category": "World",
       "source": "AP News"
+    },
+    {
+      "title": "One killed, five injured on Pakistan-Afghanistan border — Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDIxb2Y0WnpucE44Zng5dlp5Mk5SMVJuNzBNbzFNM3pla2lMS1E4MFZKTWR5T19FMllBS1Zzak5aNWV5cGJHSGVuOTJfLUdSci02SmJzWnlKdlVQZTVNNVg2Qlp6V0syYlV3dHdTRkluVmV0TFNmSjA3UWljand5LVl1QndEY3ZQQ3hDeEJFX0YyNXZHWWNZMkZNUG9QVl9NaGNsbXNPZUtBUQ?oc=5",
+      "summary": "One killed, five injured on Pakistan-Afghanistan border — Dawn UA.NEWS",
+      "date": "2026-10-28 03:11 UTC",
+      "category": "Pakistan",
+      "source": "UA.NEWS"
+    },
+    {
+      "title": "Nathaniel Comfort’s misguided take on The Selfish Gene at 50",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjJfYXVtbDFEWlJDSDgtM1ZPdHJWWnJPSkpXeFlWUlNIRnNGdE40XzFpRDEwcUxBcEpwMlp1dHdzVzFHeU9oSTFvdXNfbkVsOHZYZU5td0RGdFZYeTJLaFFZTlpVV3hBdVh4RnhrUDU5dmJtMTAxSVJYeVR6ZC1OcTA3Z1NCdzlzVFRvS1RoSEZXYWVQOHhiX2IxMlVTdw?oc=5",
+      "summary": "Nathaniel Comfort’s misguided take on The Selfish Gene at 50 Why Evolution Is True “The Selfish Gene” turns 50 The Economist",
+      "date": "2026-10-28 02:39 UTC",
+      "category": "World",
+      "source": "Why Evolution Is True"
     },
     {
       "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
@@ -538,17 +626,17 @@
       "source": "BBC News"
     },
     {
-      "title": "Pakistan warns against escalation in Iran crisis, urges diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbEpKbk5Qa2JCN0FiT2JmSXNQNi16Y3gxN3J6VVNOanlkdFcxalB6OG5VOTNwb2dYS2p0ek5wcWdGMDJYdlpzcQ?oc=5",
-      "summary": "Pakistan warns against escalation in Iran crisis, urges diplomacy Dawn",
+      "title": "Pakistan Petroleum Ltd earns Rs99bn profit, makes 11 discoveries",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiMk1paXBKOUkwaWRYVC12RUtnRUpueGlVS0dtZHIwekFieEdjbGd0V3B4bVpTSU10dERrQ1lVdENNWXZMeFBYcw?oc=5",
+      "summary": "Pakistan Petroleum Ltd earns Rs99bn profit, makes 11 discoveries Dawn",
       "date": "2026-10-28 01:51 UTC",
       "category": "Pakistan",
       "source": "Dawn"
     },
     {
-      "title": "Pakistan Petroleum Ltd earns Rs99bn profit, makes 11 discoveries",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiMk1paXBKOUkwaWRYVC12RUtnRUpueGlVS0dtZHIwekFieEdjbGd0V3B4bVpTSU10dERrQ1lVdENNWXZMeFBYcw?oc=5",
-      "summary": "Pakistan Petroleum Ltd earns Rs99bn profit, makes 11 discoveries Dawn",
+      "title": "Pakistan warns against escalation in Iran crisis, urges diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WbEpKbk5Qa2JCN0FiT2JmSXNQNi16Y3gxN3J6VVNOanlkdFcxalB6OG5VOTNwb2dYS2p0ek5wcWdGMDJYdlpzcQ?oc=5",
+      "summary": "Pakistan warns against escalation in Iran crisis, urges diplomacy Dawn",
       "date": "2026-10-28 01:51 UTC",
       "category": "Pakistan",
       "source": "Dawn"
@@ -570,28 +658,12 @@
       "source": "Dawn"
     },
     {
-      "title": "NA, GB Assembly adopt resolutions on Black Day",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51Ujl4eHJVTVdwMmROVWtJQ25VUEdwUDI3OUxCYVM3XzNudzBJekNWOHRoc0RZSDVydTNCd0ZZOEp5Wl9HZ1hoRw?oc=5",
-      "summary": "NA, GB Assembly adopt resolutions on Black Day Dawn",
-      "date": "2026-10-28 01:51 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
       "title": "China-Pakistan Information Corridor launched in Pakistan",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40V0xLQmIzN21ZVmJYSXNMaXlyTjd2MmhMSHV4WERISjNGZWlTdWdzS2lpanZIREJnUml5dXVaWWs1WkpTMXRmeXZaekEyWVJnazd3czg0WC1RbklaSEJHUHdHTGM?oc=5",
       "summary": "China-Pakistan Information Corridor launched in Pakistan People's Daily Online",
       "date": "2026-10-28 01:47 UTC",
       "category": "Pakistan",
       "source": "People's Daily Online"
-    },
-    {
-      "title": "ASEAN envoy to lead humanitarian mission to Myanmar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVDBiTUtVdXhyTk5manktYnZ3anFPSUVJYXdtV3BSLVJRQmRsaXNxVU1COHViWkJ6ZFlhbGplZFQ2MzNBZDNoY1VSVHN2X0FVRnl4QjF4SjNPcU9OS3pNcGpaYWdDelNWYkV4Slg0QnBDSi1JQmY3XzZ3cWpRRUVndGQzWmQwUExuSkNpWHpGVUkzWEVPck9HQndNcGswZnBLYkE?oc=5",
-      "summary": "ASEAN envoy to lead humanitarian mission to Myanmar Reuters See more headlines & perspectives on Google News",
-      "date": "2026-10-28 01:21 UTC",
-      "category": "World",
-      "source": "Reuters"
     },
     {
       "title": "'Pakistan to welcome Indian Punjab CM'",
@@ -610,28 +682,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOblFuMEQ5X1NYc3lURHVDNzZpTmlKUTNiS3V1czBMUVVzczRVejl6dURfa19YNFlubWdwbmZqMHkzbUFLdy1VM3diT2NCU19FbHM0eWVNeHlxWk42MjNfLWRHZDZNMDBJUHRKZlpITkF3YVA4WlNNM2tnZ0hpM1JNUUZzeFZxWXp0ZFFidVhXbk94Si1ad2lYb0Jn?oc=5",
-      "summary": "Israel’s President, Isaac Herzog, Faces a Difficult Choice The New York Times",
-      "date": "2026-10-28 00:48 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
       "title": "Babar's form no concern as Pakistan look to tri-series final",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORE4wTXE1emJTQzdIaXVNQURPRGtiVXpoeFZaVmE1SXVFbGxHb09Vd3Ixc1VGM25jSzF6OGU1ZWV1bVQ3WmZrTHRPNU5rQTNBbGRkTXZQcFdjVU9ES2hNTjZZOFNkSC1TR0NOS2k0MTVLT2szYTIxWUNILWhkVDROeGh6ZmpObVFHWGNSOHY0TnpHZ0Fwb0lJYw?oc=5",
       "summary": "Babar's form no concern as Pakistan look to tri-series final ICC",
       "date": "2026-10-28 00:40 UTC",
       "category": "Pakistan",
       "source": "ICC"
-    },
-    {
-      "title": "Healey seeks to steer UK through 'difficult moment' with low-key budget",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWt5eEVYVG40UkFvRGh3TmhBeFAzMDdOdVp1aW5kekhwRFUzRWxJdTVPRl8xZUt5QVl5bm9xbXczdE5DMHlpdE5JSWR6eEZGREI5VnU0TVFreVdyZ3lJQ2lRQnJqTjQydFphUmZaOFg3YlNRdlBsZ0s3TGVaQndkby16NkZMU3I1Q0FucHgyekp0MjFsWmI1YXBkMlpNRjVFNFlSVTJDeFhQQlowaHVzeQ?oc=5",
-      "summary": "Healey seeks to steer UK through 'difficult moment' with low-key budget Reuters Budget 2026: six charts that reveal the economic realities facing the chancellor The Guardian Bond Traders Bet on UK’s Newfound Resilience to Survive Budget Bloomberg.com U.K. Fiscal Discipline in Focus Ahead of Burnham Government’s First Budget WSJ Budget 2026 predictions: When is it and which taxes could Burnham raise? The Telegraph",
-      "date": "2026-10-28 00:03 UTC",
-      "category": "World",
-      "source": "Reuters"
     },
     {
       "title": "Pakistan decides to tighten its AML-CFT regimes",
@@ -645,14 +701,6 @@
       "title": "Pakistan’s economic squeeze: stabilization without relief",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWg2N2RNUU42QWVfMVVHbzhyLUQ5TWV2UFFkRmszQTdzZTIwd1pBcWhlYXc1MGpTaWU5ZTRzWnhzV3cxS0J3SnU3WFV4cWJlcFc5VkRrdHM0NmlOTmhySmdlVzRhSDZzZDFiRGVKcVotQzNuM2xESndJYzZwOWlBVzE4OEMxRUdWUUM3d2c2M2ZZbVpTTkFHQ2ptNNIBVkFVX3lxTE1oRXJ1S2VhUGFLSVdkdm0xd0p0bkliQ0dYTDFlZmZ1alFfQVBHWmtZMkVQcWxTdElEcnkyM1dtelM4TjBEOUpFVU5oOXlrQWJjZFlsZUtn?oc=5",
       "summary": "Pakistan’s economic squeeze: stabilization without relief Business Recorder",
-      "date": "2026-10-27 23:46 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Pakistan to continue supporting IIOJK people: Sharjeel",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNG9VNVNMSmE3bUg2djB1TXBUY2FNRUR4MmxWRzVxMlg5Tnk2ODZpZzlWVWRmNE9sXzQtbWpGV0I2bXNaeTJ4RmFMenk3ZmhrM3hEYUNHamxHeWNjMXdnSlZwaHhGdFRPTVhESnBsOVVuN3BZR0JJemZmby1wbTVtUkw4S2lLdlJITTQtTzdob1dneUFYVHBLMtIBVkFVX3lxTE15a1dzOHNnc2xPV1BEbk1rQXZpQmM3TTREZjZBc2VKNm9TMVhpTllWMHVDMndTMm5YWFh0dGs4czk0N0N0TmNwbTczV1BIZ3FDakdVNDhn?oc=5",
-      "summary": "Pakistan to continue supporting IIOJK people: Sharjeel Business Recorder",
       "date": "2026-10-27 23:46 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
@@ -672,54 +720,6 @@
       "date": "2026-10-27 23:46 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
-    },
-    {
-      "title": "China's families are now supporting more old people than kids",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-      "date": "2026-10-27 23:16 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "China's families are now supporting more old people than kids",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQWHowZnFxSFEzUG95UDBoQWpVcTFUeEJ4eEdCS19GTUtfbWdraTJnZ0pRdnk0RjdzLU9OaWtfZk5rWnV4VnUxVEpyZEdndHFUeE0wMXF1V0I2OTg?oc=5",
-      "summary": "China's families are now supporting more old people than kids BBC See more headlines & perspectives on Google News",
-      "date": "2026-10-27 23:16 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Thousands rally outside Portugal's parliament over housing crisis, police operations",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVVMNDA5ellNRWdhT0pZeklKSC14Ulo1cUtpR2ZtbzVsSDZVc0VvaE9GNDZBaWVaTmxOaWpRb0k2cWZCU3BzblA3TEZ2ZXcyM0dzWWhPRm82T01XZjlMb19jWlpwdi10dXFNREYwQ3RrdEJIQTVpemFralRvekZRZE9FRTdLZHpob1N3aGpFOGVkMHp6SW5qVnIzU0JMc2d5MVRpM2VjR0tYd09SYWJXWnRjY3EzS183elNWeg?oc=5",
-      "summary": "Thousands rally outside Portugal's parliament over housing crisis, police operations Reuters Thousands of Portuguese gather outside Parliament as housing protests swell AP News Portuguese police clear Lisbon housing protest camp, arrest 25 Al Jazeera Portugal: housing movement advances under whip of repression In Defence of Marxism CORRECTION Portugal Housing Protest dailyrecordnews.com",
-      "date": "2026-10-27 22:49 UTC",
-      "category": "World",
-      "source": "Reuters"
-    },
-    {
-      "title": "‘A government of paralysis’: Ben-Gvir rejects unity with Eisenkot after election setback",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcmZYbnMyemxwZ0tPdWEwczV2Sk9Mdno3dFRUT3prYnhMcS00SG5ISVk0cmotTERBVkgxbXZpVFJOZnh2UnVQT21GM0dseDNsZTZqYVhB?oc=5",
-      "summary": "‘A government of paralysis’: Ben-Gvir rejects unity with Eisenkot after election setback Ynetnews Itamar Ben-Gvir and Bezalel Smotrich Diverge in Israel’s Election The New York Times 'A terrible mistake': Ben Gvir warns Netanyahu against notion of unity government with Eisenkot The Times of Israel Israel Election 2026: Itamar Ben-Gvir, RZP projected to win 12 seats in next Knesset The Jerusalem Post Ben-Gvir reminds ",
-      "date": "2026-10-27 22:19 UTC",
-      "category": "World",
-      "source": "Ynetnews"
-    },
-    {
-      "title": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEQ4aXRxak9YazJ6cHdyRU0zOERvRFlIOV9HWldZeEU3VXEtejNHZThWWHp3TU1LLThqeHItX3BqTjBMQU13X2VCOVgxV0RkZldtMEM2bHYzWGNTR1A4U1pjejhvTWZCLUZneWR2cHlUVlNEZVNGZlpha3hCYTlQSmlLZ3NPQXFTcDhwUlVjcHBKeF9zTURQamNNakI2ak5uUlF1cEJWZkZiRk1QcnVRVkV3dHdvSTI1bDFvaG1BSjBFUQ?oc=5",
-      "summary": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive Reuters Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict The Guardian The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines WSJ Zelenskyy on Operation Veles: Ukrainian forces have successfully adapted underground advance tactics Українська правда The New Subterrane",
-      "date": "2026-10-27 22:18 UTC",
-      "category": "World",
-      "source": "Reuters"
-    },
-    {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "date": "2026-10-27 22:11 UTC",
-      "category": "World",
-      "source": "BBC News"
     }
   ]
 }
