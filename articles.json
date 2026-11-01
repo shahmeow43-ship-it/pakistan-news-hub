@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-01T20:48:08+00:00",
+  "updated": "2026-11-01T21:47:04+00:00",
   "articles": [
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "date": "2026-11-01 21:16 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "date": "2026-11-01 21:01 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
+      "summary": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends BBC Ukraine news: Russian attacks leave tens of thousands without power as Kherson ceasefire set to end DW.com Russian strikes leave thousands without power in Ukraine, says Zelenskyy POLITICO.eu One injured and building damaged in Russian attack on Chernivtsi Yahoo Russian strikes cut power to thousands in Ukraine as drones damage Russian fa",
+      "date": "2026-11-01 21:01 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
     {
       "title": "Can Pakistan cash in on its diplomatic clout?",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHJjWjVaTjkxaGlrc0Z5anUtaHVJSzJUNWVFQXBQNUxYM3Q4eEFFbDZPYWJxa2VPU2ZxRHE3UlBRTlNicmZ1SlZXSkRVUmhaejFCZ0NyV2VpWEJvdy1uY2J1WXg3bGlQR212ZjNiR1BwcE1Qb0dBQmNLRnhBREl0Ri1ZTUJrSGgw0gGQAUFVX3lxTE9XSHRDc3ZLNG1lN3VzV3VEMmlXVmN5R05CdFZ5TW1xZEJTWHJlalpMSzl1Z2VZTk5XNHRWTkhuZzlwUnNDMjZxbUpJdEkyNzRUTHN6Qy1zU3hwU3hubi1VNm5vYmpUZWZnWHZ5d1FpT3ByNGJORjg5S0U5TklycnVLcXBTMFU3dlBkdE8tbURiQQ?oc=5",
@@ -10,17 +34,9 @@
       "source": "The Express Tribune"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "date": "2026-11-01 20:11 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdHdybEcyVUp1Mkhoa2FDdndrNDNhXzhRNU9DaXdaalBfbVljanZQREMyYkNEY2E2SmEyNGlhQVJKS2tlT21FZjRHXzQ2RU9rMkNGeXgxVm1IYkE?oc=5",
-      "summary": "King to address slavery in Antigua as PM says he is open to possible UK apology BBC UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda The Guardian Britain's king and queen attend Sunday service in Antigua Yahoo U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery The",
+      "summary": "King to address slavery in Antigua as PM says he is open to possible UK apology BBC UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda The Guardian U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News Burnham ‘open’ to UK slavery apology, but not reparations: Why now? Al Jazeera King Charles must gently rebuff the slave reparations claima",
       "date": "2026-11-01 19:58 UTC",
       "category": "World",
       "source": "BBC"
@@ -40,14 +56,6 @@
       "date": "2026-11-01 19:48 UTC",
       "category": "Pakistan",
       "source": "The Express Tribune"
-    },
-    {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "date": "2026-11-01 19:48 UTC",
-      "category": "World",
-      "source": "BBC News"
     },
     {
       "title": "Pakistan retaliates after Afghan Taliban open fire on border posts in South Waziristan",
@@ -84,15 +92,23 @@
     {
       "title": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
-      "summary": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president AP News See more headlines & perspectives on Google News",
+      "summary": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president AP News Bulgaria’s acting President Iotova leads in run-off exit polls Al Jazeera Bulgaria heads to polls in shadow of Black Sea drone attacks TVP World Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show Reuters Ukraine-Skeptic Faces Challenge in Bulgarian Vote: What to Watch Bloomber",
       "date": "2026-11-01 18:34 UTC",
       "category": "World",
       "source": "AP News"
     },
     {
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xYUdPY3o4XzBZR09wYW0tdjBEMUttWHFLOGY4eVdLUFVYQ0RpMDJaTU5WdWNtSy02QUFrLVZiNXpqRjlLaUFZZGpSUGpKS2Fta1BfVDJoam5CdTA?oc=5",
+      "summary": "'Fascinating' rare beetle found in Wales again after 60 years BBC Rare beetle that oozes substance from its knees when attacked rediscovered in Wales The Guardian Rare hitchhiking creature discovered clinging to life in hidden coastal haven InYourArea Patience pays off for rare species in only Welsh location Nation.Cymru Rare Oil Beetle Is Breeding Again in Wales After Decades Missing Around Prague",
+      "date": "2026-11-01 18:04 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0?oc=5",
-      "summary": "Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times Gulf States Fear Fiercer Iran Retaliation If US Strikes Again Bloomberg.com Mideast leaders call for calm as fears mount of a renewed war in the region, and other Mideast news The Boston Globe US State Dept. official says ‘hand of negotiation extended’ to Iran, but all options on table The Times of Israel Arab states demand response",
+      "summary": "Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times See more headlines & perspectives on Google News",
       "date": "2026-11-01 18:02 UTC",
       "category": "World",
       "source": "Financial Times"
@@ -104,6 +120,14 @@
       "date": "2026-11-01 17:56 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
+      "summary": "Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit Euronews.com Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ Ukraine Hits 10% of Russia’s Oil Refining Capacity in Just",
+      "date": "2026-11-01 17:45 UTC",
+      "category": "World",
+      "source": "The Guardian"
     },
     {
       "title": "Security forces respond to unprovoked firing from Afghan border posts: DC South Waziristan",
@@ -122,20 +146,20 @@
       "source": "BBC News"
     },
     {
-      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
-      "summary": "Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post Russia opens terrorism case over Ukraine oil refinery attack ABC News & Headlines – Australian Broadcasting Corporation Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ Russia says 'massive' drone attack targeted 'indu",
-      "date": "2026-11-01 17:22 UTC",
-      "category": "World",
-      "source": "The Guardian"
+      "title": "Clashes Between Taliban Fighters and Pakistani Forces in Paktika Leave Three Dead and Injured",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vcDA1V3ZBOGdBSjkwbFp5dmZIRnVDR1lvZjVqV3FOdzZxY2Nsc3Z6aDNjQkkzd1RkMmVIMDBMNUFicmRNOXZCOWhoMjZiZzZFdmxxeGtiV1BJX1NoaURDUmdkWTZkb2JBV3BqZC1jVE4zLTkx?oc=5",
+      "summary": "Clashes Between Taliban Fighters and Pakistani Forces in Paktika Leave Three Dead and Injured 8AM Media",
+      "date": "2026-11-01 17:27 UTC",
+      "category": "Pakistan",
+      "source": "8AM Media"
     },
     {
-      "title": "Pakistan embassy dismisses reports of attack on ambassador in Tehran",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk5vOUluenAzNVVQR240bEZjYl8tNV9RT1NJTmRHZ1N6Ukhfa0M0YnhlYTYwQU5tLURCTl9LbUhyOXlLQmFuYlBqcXJDS3c0Ylc3b2FZR1ZkYXNaVWhBYXZaSFRBWm9TRkhOUm1VWEhjVEpNNTdDaUt0cERCVXpxaUt2V21EQ2J4eS04aS1BR1BEd2lPdG0xMjcwb1g4ekJ2T1diVXpKRUtlSkx6Wlphc3hn?oc=5",
-      "summary": "Pakistan embassy dismisses reports of attack on ambassador in Tehran Pakistan Today",
-      "date": "2026-11-01 17:21 UTC",
+      "title": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13cGVCMVJqLS0tR2NIdUp5ODRnbGsyWWt1bFdrQkpRcDNvNXE5eHVlc0VRUVV2czh3aERoOUZYd2xKNkEtSzVsbA?oc=5",
+      "summary": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran Dawn",
+      "date": "2026-11-01 17:25 UTC",
       "category": "Pakistan",
-      "source": "Pakistan Today"
+      "source": "Dawn"
     },
     {
       "title": "A college student's jet-powered drone may have just broken a world record",
@@ -202,6 +226,14 @@
       "source": "The New York Times"
     },
     {
+      "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHlwMnhBTVNCaFdjUzYxXzlQb3BITDNJaFpUMXpLX1NEbTBPMy0xRTh3Ml95R0hKb3VRQlcyZThtUkJ1MHBTMENDb1VRNWVmcm91RGEydUVpNUxXSVJkd0RJMkFNLUVxSUZ4WnhET1lZeVNzbktKZEJDLVdfb0l6TU5EbWpPSFdKV0VJLW5oLVlqWm5RUVFTbnYxbDNRS0N6MUlsTTlTZnc1MTRJMFZoaEl6NzfSAboBQVVfeXFMTm9SeEJ5SW53djJPSkFUTUg5MUdBRmZXUGNhWmVlZ3c4NlVldkd5Y0hYWXNRN0p4cGI3QWE5dEg0aWZRcm9YMmpibDNwYnFieDVUbmdpN0RtR0VvemVyb082b2pJX0NDNXM4dDI3QlVVbFN4N2NETVVxc3ZhcWstU0lrTkswMVdZVFlLU3YtOWlDejdZakljTlpsNGFfQUo3SUFRM0w0NTY0R2V5WTdGZWZDSjhPNktLTXlR?oc=5",
+      "summary": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash Fox News The Benghazi test eKathimerini.com EXCLUSIVE: Greek PM calls Turkey-Libya maritime deal 'void;' calls for global truce after Black Sea attacks Reuters After EU rebuff, how Turkey is courting Egypt for maritime deal Al-Monitor Mitsotakis: Illegal Turkish-Libyan Memorandum Cannot Erase Greek Islands’ Rights The National Hera",
+      "date": "2026-11-01 16:49 UTC",
+      "category": "World",
+      "source": "Fox News"
+    },
+    {
       "title": "Pakistan military spokesperson says ready for drone warfare — Dawn",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0pCSXB6TF9tR1JnUXQxMEwwemlBcFVIZWFPTzV5Wk1xeW5hdURWa1pTU2F5ZFVibGlpMGNxUTM0S3RIX1ppZUM0LVc3cExPaklwR2h1eXdPM01QVWdqZTktdlBjdmQxQ0ZVYkFfc0RHZWtPSTJWVHU5R3MwYjlFWDNIcUpLWFQ2VWVLcWFNYUliRHp4SnVINzIwTXE4c3h6SGc1TWtn?oc=5",
       "summary": "Pakistan military spokesperson says ready for drone warfare — Dawn UA.NEWS",
@@ -210,17 +242,9 @@
       "source": "UA.NEWS"
     },
     {
-      "title": "India sponsoring terrorist groups operating from Afghanistan, says DG ISPR",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2hsMTdGMk5tZWJxdlV6N2ZjMGV4Y251MnJteVk2YlFRLTRrS0dDdnYxN2FCTnBMOEdja2RWMElXemJjMTJCNnhxYWZZT1Z3eXpEVndDUml0djRUdU5sdEoxcm5pbUxqVE55a3pVTUZwd25zOVBsbUN6NFlSZUZZVG4yMmVuNkF3bXpCaXo3V1cyVndrY01yLXdkT1dzR0dCMnllVUJ5TnpWajl3TUdrQTM5QdIBVkFVX3lxTE5VclJXWHZuUlh0bjhfUEY1Qk54RThzZXZNaVdrUVp5aGp3N1ZDT0ZZeXp0ZTNrbWZtNjFoNkpNQndqVnBrSDMtc25iZWprbTVlYUlyYjZR?oc=5",
-      "summary": "India sponsoring terrorist groups operating from Afghanistan, says DG ISPR Business Recorder",
-      "date": "2026-11-01 16:29 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPak5HczFEUE1vRVhLT09jWVpUMVNIVHdkMUVCYmpJWTFmdXpGLVA1TktkdmJJOWpTbXlXSGJaYWkzdEIzZ0ZIMTRXZWplSjc3Y1BtNGMtc3R2YmFXM2JZaTFOaEM4NS1RNWZ0ajk2QnJ0aVVSOUtXRWhEa1V4aTFOYTRETlBGM2JSSWJfajlhRE53cnZw?oc=5",
-      "summary": "Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election NBC News Netanyahu’s Bid to Stay in Power Will Test His Political Savvy The New York Times Eisenkot hails election chief's approval of vote, says Netanyahu trying to 'delegitimize' results The Times of Israel The Bursting of the Tel Aviv Bubble The Atlantic Israel election: When will government be formed, who will lead it? Al Jaz",
+      "summary": "Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election NBC News Netanyahu’s Bid to Stay in Power Will Test His Political Savvy The New York Times Trump, Rubio say more Iran strikes are still on the table, but not likely before midterms Fox News The Bursting of the Tel Aviv Bubble The Atlantic Israel election: When will government be formed, who will lead it? Al Jazeera",
       "date": "2026-11-01 16:26 UTC",
       "category": "World",
       "source": "NBC News"
@@ -244,15 +268,23 @@
     {
       "title": "German ministers vow tough response to Frankfurt riots and looting",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2l3Y3cxckRlRlpIRFQzT2FWa0YzZHcxYTdSV3dDY29iN0FNUHdqa1hKWkxFdU40NFI5MG8tWEV2SU54cng3NXpoV3JhdzdjVVRKZHJPYmlPNVBYTG95Y1lQYW1PbzVscnpHZ0plMGhET096ZDNjdEg0dTlzd2dPNVNlOXV3N2NiOW5rXzRsN3VZc2pSQWk0TUxkLXl4ZTRrcV9mMW9UWnUtSzlPajJaLS16Qm8?oc=5",
-      "summary": "German ministers vow tough response to Frankfurt riots and looting Reuters Germany blames infiltrators as Gen Z protests turn violent CNN Peaceful protests in Germany spiral into violence and looting BBC German rioters loot shops as 'Gen Z' demos turn ugly RFI Germany news: Gen Z group calls for new protests DW.com",
+      "summary": "German ministers vow tough response to Frankfurt riots and looting Reuters Germany blames infiltrators as Gen Z protests turn violent CNN Germany blames migrants and leftists for violent protests The Telegraph Germany news: Gen Z group calls for new protests DW.com Shops looted as German cost-of-living protests turn violent BBC",
       "date": "2026-11-01 16:24 UTC",
       "category": "World",
       "source": "Reuters"
     },
     {
+      "title": "Russia suffers ‘deadliest month of war so far’ as Ukraine strikes missile plant and oil refinery",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekJFSmtadHFBVkMyWmJBaUlhNnM0WUgyUGh2eWI1SmlTQzd5YUNScm9ORXpwVnBSbXNJZi1iX3M5aFNBRE1yZWFabzJ6UVlHeXRKbmlOMFVDcFpubHJXampIUGhKT2ZiS3V6S1h2cVo1dEZ6RFFJTGlROTNjWjYxSGNRay1yX3JrUGtKOU00MmxtV05oeHQ3ZkZheDVtc0g0THBLQTU2YTFzc00?oc=5",
+      "summary": "Russia suffers ‘deadliest month of war so far’ as Ukraine strikes missile plant and oil refinery The Independent Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began New York Post Zelensky: Ukrainian forces liberated more territory in October than Russian invaders seized Ukrinform \"Enough to fill 200 Moscow Metro carriages\": Zelenskyy reports record Russian losses in October Укр",
+      "date": "2026-11-01 16:21 UTC",
+      "category": "World",
+      "source": "The Independent"
+    },
+    {
       "title": "Inside the leaderless movement set to govern Serbia",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObnJKRWFTZkhoajJxSHA2c3Y2cFpKMzB3T1Vpd09oVWY0cHBwNHJRc2J1a20xQ1RZdVV5aEM0RUtSUllNMFpQdUpYTkw5UmRDU0U2Wm52VkVBdldFNV83dW1keVA0dTJ6N3o2RDBiYk1abHdheGM0SDZrRkNTSURZQkh3WE4?oc=5",
-      "summary": "Inside the leaderless movement set to govern Serbia Financial Times Serbia after Vucic: The winners are losing patience DW.com Serbia's victorious students call for key state officials to resign, graft probes Reuters Student-backed election winners demand sweeping resignations in Serbia BBC Serbia’s students found a new way to topple a strongman The Economist",
+      "summary": "Inside the leaderless movement set to govern Serbia Financial Times Serbia after Vucic: The winners are losing patience DW.com Serbia’s Gen Z Students Toppled a Strongman. Now Comes the Hard Part. WSJ Student-backed election winners demand sweeping resignations in Serbia BBC Serbia's victorious students call for key state officials to resign, graft probes Reuters",
       "date": "2026-11-01 16:12 UTC",
       "category": "World",
       "source": "Financial Times"
@@ -284,7 +316,7 @@
     {
       "title": "Green Party at a \"crossroads\", says former co-leader Adrian Ramsay",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYLTVrSHpUTFNUaVBGcWZvMlBZY2dtSTZfSmQ0dEdMYklFZDZOejFpQndUSEVnYmR1ZTczd2YyczkxbkdLWXZzQzZnaDVWOUVkaURWUFVBMFNJVUU?oc=5",
-      "summary": "Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Green party must avoid being taken over by hard left, says former leader The Guardian Senior Greens warn party being taken over by pro-Palestinian activists The Times How did eco-idealists of the 70s descend into Israel-hating Greens of today? The Jewish Chronicle Ex-Green Party leader issues 'hard-left takeover' warning as Zack Polanski faces pre",
+      "summary": "Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Green party must avoid being taken over by hard left, says former leader The Guardian Senior Greens warn party being taken over by pro-Palestinian activists The Times Ex-Green Party leader issues 'hard-left takeover' warning as Zack Polanski faces pressure GB News How did eco-idealists of the 70s descend into Israel-hating Greens of today? The Jew",
       "date": "2026-11-01 15:52 UTC",
       "category": "World",
       "source": "BBC"
@@ -306,12 +338,28 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Five teenage boys stabbed by 'unknown group' during Eastleigh Halloween party",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlg3eUdjN0FQMWQ2Z0dPSlplYWY1RC1XVkt0VTk3WnI3cTdzZ0Z1TGZVNklHbWtwMnlIa3hEN0Y3bER5NDZ4Y240WjRuZWd2Wjh4RW5mZFZ3bklLUTFZNTlvaWJycmFtRVAwalVFcXFqcloyMU9TdXF5Y3hORzBsTGlTalZ3WkFEVTZ3bmFMS3pqT1pRQ3Rzd0k3YWllMXU0X2RIb1l3?oc=5",
+      "summary": "Five teenage boys stabbed by 'unknown group' during Eastleigh Halloween party The Independent Five teenagers stabbed at Halloween party in Chandler's Ford BBC Five teenagers hurt in stabbing at Halloween party in Hampshire The Guardian Five teenage boys seriously injured in Halloween house party stabbings The Times Five teenage boys seriously injured after being stabbed at party on Halloween Sky News",
+      "date": "2026-11-01 15:46 UTC",
+      "category": "World",
+      "source": "The Independent"
+    },
+    {
       "title": "Pakistan sees 37 percent drop in ‘terrorist attacks’ in October, kidnappings surge— report",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0phXzZubUtGZDhWS2lrbTBjY0xrLS1OaDJwdmhZbkFQVWZaYTNwYThIX2s4S3AzRExLNmgwcVc0bGdPLXprSWFPOGVkLUdTSk1udEl0ajBSdGxSVlN0TnBHNWZwT2REU2Z5dmR4bExJaElCMDlMTW9hOWZVa1FBdy1iQ0xLcUVWNnVLWmgxZmFwZDI4NmFhQzROT3FBVzJEZVA0TTd6NFBpT3RYd0ZVTDVpdENWSjlDNWcyOXAzOHNXRjEwaWc?oc=5",
       "summary": "Pakistan sees 37 percent drop in ‘terrorist attacks’ in October, kidnappings surge— report Arab News PK",
       "date": "2026-11-01 15:39 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
+    },
+    {
+      "title": "Afghan Taliban Lack Capacity to Absorb Pakistan’s Military Response, Says Spokesman",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZR2NoQjE1d0hnMEs2WGJja2QxYmVSbF9mYWlPNXhra0swYlF3d1hkTDNBMkd5Ny16RHpaVGt3cXRVNW5qTVZwNVpMdXh4Q1E?oc=5",
+      "summary": "Afghan Taliban Lack Capacity to Absorb Pakistan’s Military Response, Says Spokesman thekabultribune.com",
+      "date": "2026-11-01 15:26 UTC",
+      "category": "Pakistan",
+      "source": "thekabultribune.com"
     },
     {
       "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
@@ -322,28 +370,20 @@
       "source": "Bloomberg"
     },
     {
-      "title": "Russian strikes leave thousands without power in Ukraine, says Zelenskyy",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmV4WUFSUnFmS0hCOC1RSXFYT09OcWtCNGI3V3Z6OVRnUl9YOHFrdGNVMVNqUmU0WU84R212WnFQUTJNQ0xBZWUxUlBiNGppOGZ5QWlIZF81NGpCOGtydUZaYTFyMHlIc0I3RDlGZVJLZ2xWNzNpcU9UVWJ5aWczQi1rYXFRd21YTDhZYkthLUoyRGhvVlhYTlhuc1p6Rl9WbFU2OHROTGk?oc=5",
-      "summary": "Russian strikes leave thousands without power in Ukraine, says Zelenskyy POLITICO.eu Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours BBC Russian strikes cut power to thousands in Ukraine as drones damage Russian facility Reuters Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push NBC News Ukraine news: Russian attacks leave tens of thousa",
-      "date": "2026-11-01 14:48 UTC",
-      "category": "World",
-      "source": "POLITICO.eu"
-    },
-    {
-      "title": "Iran, Qatari mediators hold third day of talks to end US-Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
-      "summary": "Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters Mediators continue US-Iran negotiations amid war rhetoric: What we know Al Jazeera Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms Axios Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says CNBC Persian Gulf scrambling to prevent Iran war from again hitting its door",
-      "date": "2026-11-01 14:43 UTC",
-      "category": "World",
-      "source": "Reuters"
-    },
-    {
       "title": "Terrorist attacks drop by 37pc in October: PICSS",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VQ1Y0OHVRLWJNMzVRUFlXNjlBcHNtNG5ScnhjQzVRNEdna1ZIX0hpVGFYN21BUmoySmZPd2Q1TnlEWTZjWlZjVg?oc=5",
       "summary": "Terrorist attacks drop by 37pc in October: PICSS Dawn",
       "date": "2026-11-01 14:39 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "French high school blockades to restart on Monday, student unions say",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVB3T0xBSHNYOWFMNHB0cy10YXpFcTJZajVjTDBYTGxQV21NM3MwRWtJbEpSc1VaNFBvbnY5V3I3LU9kZEl4c192eE1XVmVCNTZBejFJZEdYUVE0X2VEc0RJYm5aOU9udzdwRkRaTjZzSEtzYXQxVXJ0ZFBiX1VOMU43UThWTmRnWklLS25UaE8xUThBTmV6ckNjanlpTUgtcG9neVZ1ajh2d0F2NDdKMWh3?oc=5",
+      "summary": "French high school blockades to restart on Monday, student unions say France 24 Inside France’s Fiery Protests: ‘We Feel Completely Lost’ Rolling Stone Europe’s Gen Z is outnumbered by elders. Youth protests are a plea to be heard AP News Four lessons the US can learn from the youth protests in France The Guardian Gen Z's frustrations rightly boil over in French protests | Opinion USA Today",
+      "date": "2026-11-01 14:31 UTC",
+      "category": "World",
+      "source": "France 24"
     },
     {
       "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
@@ -394,12 +434,12 @@
       "source": "The Times of India"
     },
     {
-      "title": "Ukraine Liberated 96 Sq Km in October, Inflicted Record Losses",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HR2dKR3BFMDFkeV9aLWZ6SmhxRThDZ0Yyd09FbFdWXzY4M1FyY29pTWRfZFJkSXkzUlBmaG1fT0hqSU50ZkpYNF9MQQ?oc=5",
-      "summary": "Ukraine Liberated 96 Sq Km in October, Inflicted Record Losses Kyiv Post Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One. The New York Times Ukraine's Zelenskiy says territory recaptured, forces on the offensive Reuters Russia set a record for losses in October, and Ukraine took back more land than it lost Euromaidan Press Ukraine Goes Underground Near Kupiansk As Front Lines Hold Against",
-      "date": "2026-11-01 13:14 UTC",
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDc1ZXlCVTU0M1RYcWo5bG9kdGJhVEg3Njk3THFkQTNoV0lHT0dpdVN0OEU2UzlIUklveEFrV09iWFlXZ2xmNnZvYXdCYWtKYlBNV1NHLUVZa2lCTDFsNHVZWXJkQjk0a25ONTJYNkdUTzhtaFdDVmhkTU9EblZuOVFJOUJWa1JhbnpPMkZzUnNZanBqUkxHUjdMSEJZUdIBowFBVV95cUxQdTY2dC1IM2ZTakowQ3BFVm9XdTN6Z2tIdGV3UW8wdDJyV1BtM3BNS0xHTm9naU5EUGVJRWs5OUZYcjgtUlM4UF8yNWp2OFNSZ05pZ19EclRjNll4bjR5NFRiSGEyZG5CdlhSdDRFOGxGOVR3eDlLUkpoaW12eHd6cVBWblVFeDlzSVJ6U3RBT195SWMzaFdLWVJwTzViaUJQaVVr?oc=5",
+      "summary": "Iran and US explore diplomacy amid rising threats of war Al Jazeera Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news AP News Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms Axios",
+      "date": "2026-11-01 13:12 UTC",
       "category": "World",
-      "source": "Kyiv Post"
+      "source": "Al Jazeera"
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -424,6 +464,14 @@
       "date": "2026-11-01 12:41 UTC",
       "category": "Pakistan",
       "source": "وكالة الأنباء الصحراوية"
+    },
+    {
+      "title": "Poland’s fight over its constitutional court gets physical",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGFPSEVYTklDSjBBMzBOYmNYOG5feGQyZ1ByczA0XzQyRDNlX051VHl2OXJPM3J0WGlqeEtBMW51ZC1SdlFNUUNiSHFTY2U5VkNFakdSekdvV0dDaWRtdHM2UUNiV1g4Uk5FN0FQczZCbjFGMjI1Y3JQYUZMbW9SRnFvcWxaMnZXZkRxNXZmV0MwTU1iU2I2ZktZemRnbW5JcGdR?oc=5",
+      "summary": "Poland’s fight over its constitutional court gets physical The Economist Bitter spat between Poland’s pro-Europe PM and pro-Trump president erupts CNN Polish PM Tusk vows support for tribunal amid court crisis Reuters Protests erupt around a top court in Poland after its president is suspended ABC News - Breaking News, Latest News and Videos Tusk defends overhaul of Poland’s constitutional court despite protests The ",
+      "date": "2026-11-01 12:35 UTC",
+      "category": "World",
+      "source": "The Economist"
     },
     {
       "title": "Taliban and Pakistan Confrontation: Real or Staged?",
@@ -458,9 +506,17 @@
       "source": "Daily Sun"
     },
     {
+      "title": "Plymouth aquarium shark that helped 'dispel myths' dies",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10amFUZlBKWWZoN2ExUUZyMUJBNkVuZnJFbjBJMXZlVmFNMWpZLVpfUjE1NGVuUWFfM3JTRFQtRFNfM3liQ2M2UEdJd0FRYlh2V2hfZ0FzNExpNUk?oc=5",
+      "summary": "Plymouth aquarium shark that helped 'dispel myths' dies BBC",
+      "date": "2026-11-01 12:13 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Iran warns of 'geographically unrestricted response' if US attacks",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1ZwazBHVTQyY3RoX1hoUkhYSXo4LTR0MGZoUGpZNlhtbTlSMG1VNGRNLVNHUjNuNTF0c1BjcnpEa2JqVGhMX2VabHI3V3RrbllISnlpV3lneTM1UU9FVWlleFhpLUpSMk1Nal85amhDbEw4VnJwdHpUQk04TXExRVJzXzJkVk1rWEFPYXV6V1R0S0t4VTFzNnlvdmt3bWkyOTJic3VCYndKTFBOVlduYXVWT3FKVHlKT2VCem9sTQ?oc=5",
-      "summary": "Iran warns of 'geographically unrestricted response' if US attacks Euronews.com Alongside Zini, election chief says vote was ‘conducted properly,’ results won’t change The Times of Israel Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News Iran Update: October 31, 2026 Critical Threats",
+      "summary": "Iran warns of 'geographically unrestricted response' if US attacks Euronews.com Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News American Bombs And Iranian Civilian Casualties Forbes Iran Threatens Wider US Strikes Even as Talks Make Progress Bloomberg Iranian army: War could be longer than previous one, Trump won’t dictate its duration The Times of Israel",
       "date": "2026-11-01 12:10 UTC",
       "category": "World",
       "source": "Euronews.com"
@@ -500,7 +556,7 @@
     {
       "title": "Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXNsWlQ1THZ3UUp4S2ZjSGd3T0xZRkRTVC1PU2ZrTUc0SVpHOUFUQkdqb0RJUnpZQjhMWnRKdWNYRWhrZk5oVjNtbzI1M1ppRVdpcU9FLTdTMGRGeUdLSEZ0SW9lZDNNTVZJdHlNeUFfbll1UFprR3hwV01qM1QybzkxS21TSmo2TnJfNGdlUWN1dzdCSjVN0gGXAUFVX3lxTE5fMWZHOFlKZXhMcDhFSHJneUNoWlZWVjVtVW5Ed2dkeWp6NjdpYi1HMV9EaFMxOGJVemk4QmFyZUg5bzNDdDVjdkhSNkNJZjZYRVlfVE4yd3dXc2NIY2U5WUpDeDI4U2RmWl93UXZ4Wk96dGVJUVN3eWNwemQ3MFFXYjhiRENPZVZlVmxOdjNfRXc4Z2RhVzA?oc=5",
-      "summary": "Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto DW.com Police storm Portugal housing protest camp Al Jazeera 13 arrested as Portuguese police clash with protesters RTE.ie Police clear new Lisbon housing protest camp after thousands rally Reuters Portuguese police clash with housing protesters, arrest 13 Yahoo",
+      "summary": "Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto DW.com Police clear new Lisbon housing protest camp after thousands rally Reuters 13 arrested as Portuguese police clash with protesters RTE.ie Europe protests - as they happened: Police clear Lisbon camp; looting damage in Germany; 500 arrests in France Sky News Portuguese police clash with housing protesters, arrest 13 Yahoo",
       "date": "2026-11-01 11:32 UTC",
       "category": "World",
       "source": "DW.com"
@@ -508,7 +564,7 @@
     {
       "title": "Are the Houthis attacking Mecca and Medina? Saudi claims ignite battle over Islam's holiest cities",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ac2JLMWlkaEVPUXdZdG5uQ1JFWDVjMEhzbjF2MU5LQnJWdGhTUUIxQW8zeFlQYTAwQm1nOGloTDZNWDhQWkhrOXNTTFQ3bHFjV1ZiTHRR?oc=5",
-      "summary": "Are the Houthis attacking Mecca and Medina? Saudi claims ignite battle over Islam's holiest cities Ynetnews See more headlines & perspectives on Google News",
+      "summary": "Are the Houthis attacking Mecca and Medina? Saudi claims ignite battle over Islam's holiest cities Ynetnews Iran war updates: Houthis target Riyadh as coalition intercepts missiles Al Jazeera Saudi-led coalition says it downs drone over oil-rich Eastern Region Reuters Saudi-led coalition says it carried out ‘precision’ operation against Houthis The Times of Israel Coalition Targets Houthi Maritime Support Assets in S",
       "date": "2026-11-01 11:26 UTC",
       "category": "World",
       "source": "Ynetnews"
@@ -548,7 +604,7 @@
     {
       "title": "Mapped: The New Time Differences Across North America",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwY0hDb3R4WENTbVBnQUc0WUpEeHFYNDE3SFByU3Y1X2I2c0xHeTlxRzRpY0lITlM5ZzE2ZmpodVA0ZTlmSjJiVzFJb3J3b0Q0ZGxqM3VLYzZmZVhWSmN0UzQ2NlRaQVJfeXJ3bXRwdGhZWGthc3B3?oc=5",
-      "summary": "Mapped: The New Time Differences Across North America Visual Capitalist Clock change creates time-zone discrepancy for Amtrak Cascades, Victoria Clipper riders KOMO As WA falls back, British Columbia keeps clocks on daylight saving time KNKX Why sleep experts say B.C. made the wrong call on daylight time CTV News More Canadian provinces are ending time changes. What does it mean for your health? CBC",
+      "summary": "Mapped: The New Time Differences Across North America Visual Capitalist Clock change creates time-zone discrepancy for Amtrak Cascades, Victoria Clipper riders KOMO As WA falls back, British Columbia keeps clocks on daylight saving time KNKX More Canadian provinces are ending time changes. What does it mean for your health? CBC Why sleep experts say B.C. made the wrong call on daylight time CTV News",
       "date": "2026-11-01 10:47 UTC",
       "category": "World",
       "source": "Visual Capitalist"
@@ -586,26 +642,10 @@
       "source": "Investify"
     },
     {
-      "title": "Russia Claims 674 Ukrainian Aircraft Destroyed. Ukraine Had 212 Total.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMDR5cUpEWWxvQ015SHRZSGVPQmhfV3RNVjRYQjgzTVpkMExEWkpNMXJCVXIyNXNDR1dNMUNTZ0V2QmF6NlhyTmZoTmlRYUdNNExSZGc5amV2OXgwQkpSUGsxbjVGY1VCRXl1YUIzb3o4eEJNb2JnbjZNeVdIQUlzcS1GOWFRNVR5YlY4TXBrYTJPOGtiUG1kdFlMRkQ2N1F2ejc1ZkpOX3pJU1JNRndKS2RlUWp1SzRJdFhjaGpucw?oc=5",
-      "summary": "Russia Claims 674 Ukrainian Aircraft Destroyed. Ukraine Had 212 Total. Forbes",
-      "date": "2026-11-01 10:19 UTC",
-      "category": "World",
-      "source": "Forbes"
-    },
-    {
-      "title": "Why Did russia Use Mostly Conventional Shahed Drones in Its Latest Attack on Ukraine?",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQm55cWg0VldlaXQtc3ZkdzdzcnpfYVE1MnIzTUJuUFhteUhzUmJod1NRMi0zdVhzMURvUmJ0WndiV0ZlbHZYN0x3R2kzeWRBeVViQmVmSXRaXzBSYnkxRnZYbklWWm5xR0JuLXlYTGpOaFpWRGlfU2ItWTVsSFVrXzZRQ2NZY0NLTVFzS3hycUxGR2VsSWN0bGxRQTR3Q3ZfeXQ4VUhROFByMlRZa1Bhb09acVc2SUxCbHJNemRvR1ZxWmpq?oc=5",
-      "summary": "Why Did russia Use Mostly Conventional Shahed Drones in Its Latest Attack on Ukraine? Defense Express Air defense neutralizes 122 Russian drones, two Banderol missiles on Saturday Ukrinform Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say Reuters Russia Downs Record Total of Ukrainian Drones Amid Summit Bloomberg.com Balloons Carrying Drones Disrupted Operations at Moscow Airports; Fire Near",
-      "date": "2026-11-01 10:17 UTC",
-      "category": "World",
-      "source": "Defense Express"
-    },
-    {
-      "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdkZWRERFVRb19QREpIRV80dUcwNHFuemI1NGxtcV9XbGt2YnZSTmZXSkladVRUcUVfVDBzbmNFYkxXcS1TRFZWRXlxQmppczdYUkFKRDAxU09JeEVtaXB4VHdFbUlCa1RTNldWa2Q2bnRRbjdNcU9DQjE2N3hlLVN3TlU?oc=5",
-      "summary": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80 The New York Times Trump, 80, Shows Fresh Signs of Decline in Damning New Analysis The Daily Beast Trump Unbound CounterPunch.org 6 times Trump humiliated himself over 48 hours from a public meltdown to explicit comment about Minaj The Mirror US Roaming Charges: The Anal Stage of US Politics CounterPunch.org",
-      "date": "2026-11-01 10:01 UTC",
+      "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDM4ZTF2cFZ4VkNmb3kySnllZEs2Y1BWVE45dXA5V21UdjVvUVBUR3NLN1ZkLU02dFFlbmcwZVJfXzJrazAtY2NpWTI4X3dOTTdvblFsRXJoQUdqb2NrMDNzQnpnNlNBTEVreHlWd2dyQThwZENBZ3dsZk1fOHhkLUxtZVpQRk5lNUloQnR4VXNvX2gtc0hjekF1TTI?oc=5",
+      "summary": "How a Little-Known Company Dominated the Persian Gulf Oil Trade The New York Times This Oil Tanker Tycoon's WhatsApp Messages Drive Big Market Moves Bloomberg.com Iran says Sinokor vessels face legal action; South Korean shipowners deny link Reuters Iranian Forces Threaten Sinokor with “Legal Action” for Hormuz Violations The Maritime Executive Iran Warns Sino-Trans About Vessel Traffic in the Persian Gulf WANA News ",
+      "date": "2026-11-01 10:02 UTC",
       "category": "World",
       "source": "The New York Times"
     },
@@ -634,14 +674,6 @@
       "source": "Arab News PK"
     },
     {
-      "title": "PM Shehbaz welcomes Pakistan’s election as G-24 chairman, calls it diplomatic milestone",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeTRJSDVIYUhmYnFzMzJ1WDNsaUIzTHVvdHFEd012dE5NZ0xIcHc0V20weFNRRG1kMjVDNUthWklIemVvcWN6VGZEalQ3bDZKaDlXaGNtamxIZGl0UENlb0VlOGh4M2Z5bnA0aGtoX3hVSDdPNml0ZmlIeVNHNUNaeUp1NDc2LXRPYXZxNkNtekhCLU8zcW00QzFndVFLWmlpdUxXMTBoM0tyZXp0RDlReHNYZWpOeDJqYUE?oc=5",
-      "summary": "PM Shehbaz welcomes Pakistan’s election as G-24 chairman, calls it diplomatic milestone The Nation (Pakistan )",
-      "date": "2026-11-01 08:56 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
       "title": "Kamindu says dew factor favours Pakistan",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeldrV3VKeXc1Tzd4X0VUTDZtWXlfTmtIVi1iU3ZKRGs0RkVNYkRobjRXMWt0a0dnd3RDRlNHU2MtVGlBUjZOXzVHRnRfVVhZUElZY2xhdXlPaE9fRGd6dThWR3FWdFF0ZXpORFFtZmZDa2JXWmNST2JtaW5FbUxSNnExNNIBiwFBVV95cUxQUXpLRGRKcjh1VndJb1ZZaXJ1WXpzZ3lGcERfTnMxdnUwSVM0WnkxTnVZRlpIbE1MX1JwUTFDelBOd0FXS0NVSDhzZ2c2am00ME96bm5oWDgtTkFqSEVwX3hYbjNjMktLMkxvUzZiZ3lZdjJhUzJBOWdKSjQ0a0d1UzZjWVpUUDdMYzEw?oc=5",
       "summary": "Kamindu says dew factor favours Pakistan The Express Tribune",
@@ -660,8 +692,8 @@
     {
       "title": "Donald Trump loses allies after elections in Serbia and Brazil",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV4U0NwMVZKWllGQ1h1UmNJMTJTMk1MVWxWWDlGeEhlSnI1bVF5X2kwWUZyaE82cmpXeEhfTmZ3TThEcS0yMWJvRlhuZ2NtdktMSHY5T3prTHg1NENxQVZtS3luXzN6T3dybVpKQmFKM0dTMjg4eW40UkFZaEpvVEJOSU03QWxzX2NTZzZaOGdVc0RvczFPUzBHTdIBmwFBVV95cUxPaUE4OFh0aU9YallUUnl6V09vYkhpX1VPYUI2SFRQM2REUGY3N0JRYnR6RUx4TVgxQlJ6bUdDY0RpRGVQS1l2YlZTMDVMSk9hamtKV3Nib1NpUV9wQ1Z3R2d3T0lRUW5TM3BjR1BUWWVES2ZUcHR0dFhPX2xGdWZnZXlMeXNvRldlRXB4NW4yVkZha24tNGhaN0FTaw?oc=5",
-      "summary": "Donald Trump loses allies after elections in Serbia and Brazil DW.com The Midterms Go Global as Voters Beyond US Turn Sour on Trumpism Bloomberg.com Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say The Guardian How elections worldwide are testing Trump’s influence abroad CNBC Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts s",
-      "date": "2026-11-01 08:33 UTC",
+      "summary": "Donald Trump loses allies after elections in Serbia and Brazil DW.com The Midterms Go Global as Voters Beyond US Turn Sour on Trumpism Bloomberg Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say The Guardian How elections worldwide are testing Trump’s influence abroad CNBC Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts say S",
+      "date": "2026-11-01 08:34 UTC",
       "category": "World",
       "source": "DW.com"
     },
@@ -688,38 +720,6 @@
       "date": "2026-11-01 07:56 UTC",
       "category": "World",
       "source": "The Times of Israel"
-    },
-    {
-      "title": "Taliban Spokesman Calls Rubio’s Remarks on Pakistan ‘One-Sided’",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xb2ZnUExuVl9OZ0hhajFPOTRHNW1OMl93d1hSSWpuRVpjSUxRXzc2aGw3OTBYemxIUEljZ082LTMteG5YSHR2TG0yenZqbWc?oc=5",
-      "summary": "Taliban Spokesman Calls Rubio’s Remarks on Pakistan ‘One-Sided’ thekabultribune.com",
-      "date": "2026-11-01 07:54 UTC",
-      "category": "Pakistan",
-      "source": "thekabultribune.com"
-    },
-    {
-      "title": "Pakistan assumes G-24 chairmanship, vows to strengthen developing economies’ voices",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHNvN25xYVVGb3g2N1RrdjMxZzUzd25Dcm9lWTYzaW1vQkpUN2s2dEdXY0VyaVoxM3BGM3BVbW4xWDdTS0UtUXBHWHliTW1vNDJRandNUmhxRFFEZGVGc0w2M2I4djFDOGlSQjdZUGc0Yzk3ZUdhWnpUYl9OVlNsWlA4SVBkOUFBYjFLLXhDZzBGN1BsTGNBQnJJRmR1cFpmcFRiWjEzNC01cklyM3plbGpkanFmYzF2RlBhYXpTOA?oc=5",
-      "summary": "Pakistan assumes G-24 chairmanship, vows to strengthen developing economies’ voices Arab News PK",
-      "date": "2026-11-01 07:45 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFdVVExzZ0Y0Z1JSZUZUMmprS21oWXlFcUFIUThETkJHN0dRZjJZV3o4ekkyTk5DM084cHM1R3pTV3JOQThELUxRcHBUS0tZaVBfcFJ2Z3ZHOXpmNjBFOU9mdXZ3MFFMSTQ2TGdpLTJOeWdPRTRoZFBnQmZtcnhJWVctc0ZlTnVGQThFVXh4dElGQ1htR1RQMTR2a3dPdU1mWF84enFUM0U1SVdhVW9nMXgySE9yQdIBuwFBVV95cUxQY2pKbVJZeGJhRjYtSWR0VFgwakJ0aVNEUGpLVk4tU0RYWjRScy1FTVdPZktqWkRCOGM3VTlZV3hRRi0tQWdfYWpibDltekoxajJFRFktOVExdGk0Y1ZVRWVkYXFwVFd6U2doZkdWUVJsZHRndDdpUkpSU0JQV0JSVDRoa1k4OGVZbEpPS2xxUU5OdHE0ZUxQdDJJakpGS0VhOGp3M21ONU56ZnBKcE9aU2xaOEFXM0FVU29z?oc=5",
-      "summary": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon Al Jazeera Israel demolishes gunmen's homes in West Bank operation that has displaced thousands Reuters IDF releases recordings of terrorist house demolition Israel National News Israel Palestinians West Bank chronicleonline.com 5 injured in thwarted potential ‘major attack’ at Israeli checkpoint in West Bank: Israeli officials Rural Radio Network",
-      "date": "2026-11-01 07:45 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV0tua0JOeXFjNTN5OXpjRjlCcGkwWk1Kem5SSzh4SGRZZUM0aFZPU3BnMFBBMjlISEpweU56TGlkRTVFMjd6REtZQ2JrTmlFV3dyelAtVnhmZWxNampITEpmYVlXTHJLRThVcEszZlVNZ0s0ZlVlN1hBV1IwYmg0TTZvRVY4REdqSHVOVVYybFNoMlV0VGRLYjlFTnZvOVZEZERpZjBtbVVaTC1jaGRtYzNVdWYwN3ZBQzVXQXZ0MHp6dVRGRFI5NEd4UzZpekkyNkZZamI5M0FSM0ZXOXRCMi1ZMnF4d1lIOFJsaXEySEl0TTVQbmfSAfwBQVVfeXFMTVB6NFpUWUROYzBNTHQ5Z0F1d3lkNV9mcF9DMmYyZVJ6VlNmNlFjc195dW1QY1lrRngzRC1UbFotbmZnVm5WRGMxenlsUkZEMDdaTkV3RTE3bE9uaWN6Ry1LMkt0bC1xSkJmTlk0UEFxdnBrNzkzTnBlUEQ5N1U0bzJSUlJ5M2lfVFdQTU1vSFQ0TVRERkVqRlpVMUQtd1RQVTBzTGkwZVZQZ3dySERSYm5KaEtnV2pxa0QyOWdSUVh3QjJfbjNkUktIMGRpNW5LZU1NSkV4MzBFa3JGX1VqbHJfZm4tT00tSTRGUml1ZFZLX2ZJTnJxbXhOeVVy?oc=5",
-      "summary": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats The Hindu",
-      "date": "2026-11-01 07:30 UTC",
-      "category": "Pakistan",
-      "source": "The Hindu"
     }
   ]
 }
