@@ -1,10 +1,50 @@
 {
-  "updated": "2026-11-01T08:08:38+00:00",
+  "updated": "2026-11-01T08:57:11+00:00",
   "articles": [
     {
-      "title": "Pakistan becomes chair of G-24 bloc of developing nations, reaffirms pledge to a fairer global financial system",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "date": "2026-11-01 08:43 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Rubio says US open to role on Pakistan’s Afghan terror concerns",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2ZUMG15ODJzUW1sS1pqRlJuaU5OWlk2Y1lub2Z2OHVPNWx6ak1pcXg5REFkVENqMVlMYnJpSmtQN2w5RFRMMTFkV2FSdFF3Ylh3RlU0VEhfc0QxNWtSV3hWN2FfUGJaOV9QRkY5cmNNaVdMeHhWTHhsbDhVcE9aeWFjVDlFcFViYUpkRUxyVks3WHI3R3FVTlZ6S1gwcmlx0gGoAUFVX3lxTE45Ync0QnJuWGZpQW1kcFhseGladV8wb0VNd29kSlo5OXlFVVBFRVNmMXE1VFJ5WlNtN3J1dWd3VnNvbVgweHI4d1dnMVZsZVFaa0I2dVhHZUJ4MWJPMnpzaDR6d2NPeE0zekk0UGVfZnFVSk1wWEgzUVVSRUVwOEJYZmZSb2ZQZk5xRk45cGVmM3lhTENLSVJMVEg0bUVRdXN5Q2FnaWxzcA?oc=5",
+      "summary": "Rubio says US open to role on Pakistan’s Afghan terror concerns The Express Tribune",
+      "date": "2026-11-01 08:19 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Pakistan welcomes US role in facilitating talks with Kabul, stresses security concerns",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbzlJaDhDeDgxV0YteklveUxNdTZIVXcwN0lIM3FocUN6UGtTSEw2QnNxaFE0V2VIdzZGVGhBYlRQWXd1Rmx3ZkJNaVZBOUI2ZVB2Wk4wYllVclBMSFFwckdWb0lkaGJqamRoN3BlZzdOQ0JkZkliN1M5T2ZiMUlzc0NjZ2tVc0Z6T01oRUVtckt4R1RuS3JFWnlobi1pMExlSkhoOEpsLTFRQy1xdF8zT0kyamlfMWhYZ01GclB1THlHNkg4?oc=5",
+      "summary": "Pakistan welcomes US role in facilitating talks with Kabul, stresses security concerns Arab News PK",
+      "date": "2026-11-01 08:17 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan takes over G-24 chairmanship and outlines priorities — Dawn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTRCYk14aDVwZlNRUDZKZkFGSzFDOFV0YmlESk9FbnRXZGkwSXRJZEhBSkNrbWgyTEx0alpZX3ZWSzVxT0ZkelZVdFdpZzhuX3pwdTdNZHRndHM1S0hrdXh5SEVQM1RaUHNTd04zTW5tcE1uNVZicnM5cjVmdmJaOXVtT01FMXFxMElEdWFESXk?oc=5",
+      "summary": "Pakistan takes over G-24 chairmanship and outlines priorities — Dawn UA.NEWS",
+      "date": "2026-11-01 08:17 UTC",
+      "category": "Pakistan",
+      "source": "UA.NEWS"
+    },
+    {
+      "title": "Iran appreciates Pakistan, Qatar’s mediation efforts amid fears of fresh US strikes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDdCbmttbEFaUlBPSWVMVTRwZ0dlWkxKQjkyVENmenkyWmlBRWJHOW41Q1dpZWdoWi0wTHNsbUZUX3k4ZlZMV3ozeUZwX1Fia1RGTDdaazVqN0FKeFM4c0VfZXJBUlltdndqSjJUdy00SmdNYU9wMFdYYm40WVM5cFNrcWVpMEVCOE93V2l3NV9oMVpadHdGZkpjM0FkckpObXA5ak5FN3ZGNzJnZ0hNMlJCMi1XNUUyUHVUcE44OA?oc=5",
+      "summary": "Iran appreciates Pakistan, Qatar’s mediation efforts amid fears of fresh US strikes Arab News PK",
+      "date": "2026-11-01 08:11 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan becomes chair of G-24 bloc of developing nations, reaffirms pledge to fairer global financial system",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYnRvSGlFQV9mYmZZRGlOV1c5a3N5NnJhM3JMb3N4WExkREpvVGhubkxaZVpUR29rRFNsbWxjMDd1dUVSb3kwTmx6LUQ5N0hNSHBUQXZYV1g0aWdwdHZSYjBGVUlCTi1yT2luMXYtWFQyWlg3aElOUjZHcW5pa2twVUp1QzgySjMyNmN6NlpmR3RFbHF5V2lKTmlodU5wQjA0SjRYN1M5MjVlazVmU1pQQi1oS3Bjb0NsT0tuT2VlV01YQ3B6Q25GamxtRGNlb1pNRjVzbXBSc05sbnM2?oc=5",
-      "summary": "Pakistan becomes chair of G-24 bloc of developing nations, reaffirms pledge to a fairer global financial system Dawn",
+      "summary": "Pakistan becomes chair of G-24 bloc of developing nations, reaffirms pledge to fairer global financial system Dawn",
       "date": "2026-11-01 08:04 UTC",
       "category": "Pakistan",
       "source": "Dawn"
@@ -18,20 +58,20 @@
       "source": "Digital Pakistan"
     },
     {
+      "title": "Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGRXYUF6bnluV0h4VVVObWgzZzhJZ0tRZ05KMlZZcmMzZmNPd3ZWdml5dGdxVnBOcFk4Zk5wNU0tVEwyTTRKSXJ5dlhTTHZCVGg1dTNHLTBFc2lWY3ZlRWpYS1EtX0NUQXIzUUpyYXZXczZKamlJQ1BTUm5jMkJ4d3drUkZ2MzdRWHJUN0F4a3dsTUdUV04zaWdsSFNpTU1RZzlIVXJRaXZkM3JB0gGyAUFVX3lxTFBWVXpjTkxpT1hja1NQOFZBdk5nUE9NLUhXaUpuR3JaQXBKWWE0SVVZMHY3WnlpemFTSFNLaVZfdG1Xd0VicHBOMktndElXNkdxQXlpSlNiUWRvSGZNajhLOGNXVDVWbDZrcEFsV3gyd1B6MDhnREZuMnJDNmVvUk90NXZ0OUVqTEN1SzFRbzJmNThUSTBuNEwtTnA2d09wTmFVSnExbHliNW83ZHNsRjZCVHc?oc=5",
+      "summary": "Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside The Times of Israel Majority of opposition voters back Eisenkot-led government with Ra'am The Jerusalem Post Israel’s Jewish and Arab opposition parties should work together The Economist Israel’s Arabs are now kingmakers and they’re ready to oust Netanyahu The Telegraph Tibi to Eisenkot: We won't join government Israel National News",
+      "date": "2026-11-01 07:56 UTC",
+      "category": "World",
+      "source": "The Times of Israel"
+    },
+    {
       "title": "Pakistan assumes G-24 chairmanship, vows to strengthen developing economies’ voices",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHNvN25xYVVGb3g2N1RrdjMxZzUzd25Dcm9lWTYzaW1vQkpUN2s2dEdXY0VyaVoxM3BGM3BVbW4xWDdTS0UtUXBHWHliTW1vNDJRandNUmhxRFFEZGVGc0w2M2I4djFDOGlSQjdZUGc0Yzk3ZUdhWnpUYl9OVlNsWlA4SVBkOUFBYjFLLXhDZzBGN1BsTGNBQnJJRmR1cFpmcFRiWjEzNC01cklyM3plbGpkanFmYzF2RlBhYXpTOA?oc=5",
       "summary": "Pakistan assumes G-24 chairmanship, vows to strengthen developing economies’ voices Arab News PK",
       "date": "2026-11-01 07:45 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "date": "2026-11-01 07:36 UTC",
-      "category": "World",
-      "source": "BBC News"
     },
     {
       "title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
@@ -104,14 +144,6 @@
       "date": "2026-11-01 06:56 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
-    },
-    {
-      "title": "One dead, 18 injured during stampede in Sialkot at TikTok star’s wedding event",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2daV2lPRDBYQkJVTHZHcmUyUjd4UV94ZDhrS2toODM0MWV3S3padGZhUlZhMzRnb25jZjhKMmUxUDM1SjVQaHBmbXhNcUNfNHZXUnBkWXdST2RnMFVHanhKc0hPLTFNZFNIYTZBRWxydE1hZGNNX2tJSmliS00zTWJLa2JVUFRlV19PSnJkZ2ZKUTN1QkticmJ6MnJjLXdUNzZ4WU9keGJuZEh6ZFJWcVZtRTRJdXNt?oc=5",
-      "summary": "One dead, 18 injured during stampede in Sialkot at TikTok star’s wedding event Arab News PK",
-      "date": "2026-11-01 06:41 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
     },
     {
       "title": "Pakistan court to hear petition on restricting social media for children on November 6 — Dawn",
@@ -202,14 +234,6 @@
       "source": "UA.NEWS"
     },
     {
-      "title": "Pakistan level with India; Fakhar's clutch game: Standout stats from PAK-SL tri-nation series final",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQi1tajl4X0JMV09MQmFYN2dXQlVzQ0xjbE5lOE10bTZJT3Y3aEc0YWF3QjUxMXVfMVZGRHFYSERLX2hPUjF5VXpiX0pETXI0M1hRLXNGMjRqbGFFT28xbmI1d1JUQmxUVE1OZFBVdl9nRE1rQnpLeEZ5TDd1Ui1HREZ1OU1aYS14NUdKeDgyRXpRTk9MeV9ublB2Y2FZbm9Ma3o1UEdYMGwyMUxfUkJiQ3RXUE9BLWJ6MFFBeV9yYXpNTWJtRkpWSlNFOURJTUZmeHFORWJLSTl2VU1WaWFHc0RCNU56cm1h?oc=5",
-      "summary": "Pakistan level with India; Fakhar's clutch game: Standout stats from PAK-SL tri-nation series final ANI News",
-      "date": "2026-11-01 05:16 UTC",
-      "category": "Pakistan",
-      "source": "ANI News"
-    },
-    {
       "title": "The victorious Pakistan squad members celebrate",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMklEa0JhSkcxZVRxTURfb0RsbGFrbEo4aVdVZFVEZ0l3aWdOUUZKWWd3NXMyUW01MFo5bC1LWEk3V05CSThfRmo5MWgwb2QwdHZadjhQNEpRZXFwSGNUZ1lfaTdnQ1FTLWNyN1BxeHFzTDlQYmxEMDcxaVJvd0VKV0FiZGEyWWVYS1BsRHpXUQ?oc=5",
       "summary": "The victorious Pakistan squad members celebrate Cricinfo",
@@ -224,14 +248,6 @@
       "date": "2026-11-01 05:00 UTC",
       "category": "Pakistan",
       "source": "UA.NEWS"
-    },
-    {
-      "title": "Iran appreciates Pakistan, Qatar’s mediation efforts amid fears of fresh US strikes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDdCbmttbEFaUlBPSWVMVTRwZ0dlWkxKQjkyVENmenkyWmlBRWJHOW41Q1dpZWdoWi0wTHNsbUZUX3k4ZlZMV3ozeUZwX1Fia1RGTDdaazVqN0FKeFM4c0VfZXJBUlltdndqSjJUdy00SmdNYU9wMFdYYm40WVM5cFNrcWVpMEVCOE93V2l3NV9oMVpadHdGZkpjM0FkckpObXA5ak5FN3ZGNzJnZ0hNMlJCMi1XNUUyUHVUcE44OA?oc=5",
-      "summary": "Iran appreciates Pakistan, Qatar’s mediation efforts amid fears of fresh US strikes Arab News PK",
-      "date": "2026-11-01 04:58 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
     },
     {
       "title": "One Dead, More Than 13 Injured in Stampede at TikToker’s Henna Ceremony in Pakistan",
@@ -268,7 +284,7 @@
     {
       "title": "Bolivia declares state of emergency over El Nino weather pattern",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjhNQVZoVXhtYXI4RGx2Q1NfcFRvMnFrSzRqV3lqOTFVcU85YUgyQmw3QWZJWHVLcmFTcmpRX01DcmxxOVBNc1ROSDlFZUJEUXBMY00wT0RCamdTMW5aYVJPNkljMlZmUC0wTWhhWXRja0ZJVkRJZWZsazJIbjExS1BoaURjVXQxR3ZpcHlqN1FoN2l6OTBpMkNZSUhZZ1J6VDZNQUV1OEzSAa4BQVVfeXFMTmp6MnhUenBXRmR4X1ZoaGh0S2REMk9oZDh5eTdQdVJmeGZ4N1l1ZkR3RVVkS2tsMkp1dmFPdGc1NGE1NHJtN2xZZTVOdjNENnRxTnFiRFdidDRHRXd4QmxmYkNIYXE3Slh3VGNNNTFKbHcxLVZpSXRPWnpWMUNLbV9kNGJTVlhpMmxrVzFoU2I0Q1RjMHdjZWo3TFF2b2ZrY2E1WXctRGk1RnEtbGx3?oc=5",
-      "summary": "Bolivia declares state of emergency over El Nino weather pattern Al Jazeera Bolivia declares nationwide state of emergency over drought and flood risks The Business Standard Bolivia declares emergency as El Nino intensifies, threatens severe weather DW.com Bolivia declares state of emergency due to Super El Niño Novinite.com Bolivia declares state of emergency over El Niño — Channel NewsAsia UA.NEWS",
+      "summary": "Bolivia declares state of emergency over El Nino weather pattern Al Jazeera Bolivia declares state of emergency over El Nino CNA Bolivia declares nationwide state of emergency over drought and flood risks The Business Standard Bolivia declares emergency as El Nino intensifies, threatens severe weather DW.com Bolivia declares state of emergency over El Niño — Channel NewsAsia UA.NEWS",
       "date": "2026-11-01 04:08 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -315,7 +331,7 @@
     },
     {
       "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmRwRFJ1M3Y3Wk5VTU50eVUtckdwTWRpWGJ1enlnc1l3am9ScHdpUXMxSVZPdlJSTGZnVDJVTFJlSkN3WHpsSjJ4ak1wMUx5ckRZdHRwRXJobWI4VmpmS0Z1ME1OMVRFSHdGMXdNUGR6YjctVlRQb3JPMm53dTJSemtBbXMxcUVYZmlDSTU0UjRUc1c5WHRlS0IzRXR2UXVLbkwyeWxzRWs1VTFuZXdKRGNldTZVNzVsZ21vS0xYOTBPQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeE9RMVgwTWdDN3ByNHJaQ3hRZTNkTmdfNzcwNVdBU3E3cTk4NUZ3Q2liZDZKZHlscm1UZ0I4UlFvSzgwQXZDVmlXcGZwVUhTWjBVZ092TDZwTElnRUR2b0FQVTgyZmJGT3haTGoteWVYeUx3SElsUWhQM1paRGZOUzFNSWJRLUVT?oc=5",
       "summary": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem. The New York Times",
       "date": "2026-11-01 04:01 UTC",
       "category": "World",
@@ -386,17 +402,9 @@
       "source": "Gulf News"
     },
     {
-      "title": "Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGRXYUF6bnluV0h4VVVObWgzZzhJZ0tRZ05KMlZZcmMzZmNPd3ZWdml5dGdxVnBOcFk4Zk5wNU0tVEwyTTRKSXJ5dlhTTHZCVGg1dTNHLTBFc2lWY3ZlRWpYS1EtX0NUQXIzUUpyYXZXczZKamlJQ1BTUm5jMkJ4d3drUkZ2MzdRWHJUN0F4a3dsTUdUV04zaWdsSFNpTU1RZzlIVXJRaXZkM3JB0gGyAUFVX3lxTFBWVXpjTkxpT1hja1NQOFZBdk5nUE9NLUhXaUpuR3JaQXBKWWE0SVVZMHY3WnlpemFTSFNLaVZfdG1Xd0VicHBOMktndElXNkdxQXlpSlNiUWRvSGZNajhLOGNXVDVWbDZrcEFsV3gyd1B6MDhnREZuMnJDNmVvUk90NXZ0OUVqTEN1SzFRbzJmNThUSTBuNEwtTnA2d09wTmFVSnExbHliNW83ZHNsRjZCVHc?oc=5",
-      "summary": "Senior Arab MK says Joint List ready to back anti-Netanyahu government from outside The Times of Israel Israel’s Jewish and Arab opposition parties should work together The Economist Tibi to Eisenkot: We won't join government Israel National News Arab Joint List chairman says party will not join government The Jerusalem Post Israel’s Arabs are now kingmakers and they’re ready to oust Netanyahu The Telegraph",
-      "date": "2026-11-01 02:36 UTC",
-      "category": "World",
-      "source": "The Times of Israel"
-    },
-    {
       "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUERhVWJoQkxxNnNJMTAweURfZC1paFdKUDhIZFVBSGNjVGJqLUt1OFRiSnFwR0VkSDZjZE9UV3dRaGRCV0dUSENJZUVNdnBVNnJBUU53dFBsSy1wd0tzdG1OaG1WZi1kc3dmS0FJNG9wM3QtLWttR3JhVkRBWHBLaTlRRXR6TlV6U2hYZnMyMlRLUTkxX1M3Ri1vb1VZbmZZUVVVeHJyeXoySFNaTjNvVkN30gG3AUFVX3lxTE5KdFhzaWRtcWozRDhSYVp2LTJsLU1zeEpBMERRd2w2dFlEZzh3MU9uRFUxUFd0UUl0WnpsQkhTZ05sMEhMaUZZeE1uT19kVTZwNEpMcmptOVN2emtwb0hySlVzcVVSQS1DWEc2amE5OHpERURhRTJ3Rk1teklYVnBzSTFONGotVWZhSlZfRDUtOTJhb0U5OVFMRXlHUWcxc0d3a1AtelJNM3p3T1pMNVRhUlhxTDZORQ?oc=5",
-      "summary": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu Al Jazeera The Bursting of the Tel Aviv Bubble The Atlantic Israel voted for change, not another deal to keep Netanyahu in power Ynetnews Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’ The Times of Israel Gadi Eisenkot is the bereaved general trying to outmaneuver Netanyahu The Washington Post",
+      "summary": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu Al Jazeera The Bursting of the Tel Aviv Bubble The Atlantic 60 for Eisenkot, 46 for Netanyahu: Who gets first shot at forming Israel's government? Ynetnews Israel’s election results are in. Here’s what could happen next AP News Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’ The Times of Israel",
       "date": "2026-11-01 02:08 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -434,6 +442,14 @@
       "source": "BBC News"
     },
     {
+      "title": "PIA resumes direct flights to China",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYMG9IM3ZQT1FIeDgtQVduRVVxbWNRb1p5R2xZdXZ0SEI5d3hqSXltV090MEE3S19US1pieW9vNU1PVUwwWDlzeQ?oc=5",
+      "summary": "PIA resumes direct flights to China Dawn",
+      "date": "2026-11-01 01:28 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
       "title": "India’s water blackmail",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mdUNnUDhJbWpqNFFUUXdONWlNek1HaUx6c0RtN0luc3N6ZWZQWmRMb0dzb1F4STZpVDR1ekdlbV9xLWFlanhxSg?oc=5",
       "summary": "India’s water blackmail Dawn",
@@ -458,28 +474,20 @@
       "source": "Dawn"
     },
     {
-      "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
-      "summary": "A third weekend of protests in France as youth-led rallies sweep Europe AP News Isolated clashes in France after peaceful marches, as police brace for Halloween night violence Reuters Massive protests sweep Europe over cost of living and strained public services NBC News Youths Protest in Europe JW.ORG Police clash with masked rioters after largely peaceful protests across France The Guardian",
-      "date": "2026-11-01 01:25 UTC",
-      "category": "World",
-      "source": "AP News"
+      "title": "Consumer firms defy economic headwinds",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95NVpVeXd1X2FyRzZlZ0Q2WE5BNDh5cm0wZlRxMkNpOE9wUXIyWExQUUw2ZnBBb3h0RWVoc2dVUUNwcnRoOFJxbg?oc=5",
+      "summary": "Consumer firms defy economic headwinds Dawn",
+      "date": "2026-11-01 01:27 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
     },
     {
       "title": "Taiwan says China harassing shipping with east coast patrol",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmpudFJ3RHh6NXBMa1hnRnV6WFRyZ0VXM3d2dlhJMEJPRTdmbmg3NG1NVzJRa3hFNnhUN1l5cjAxR01IN3l2N1pzS0htLXMwZGVxVUdFQ3JJdFU1LXRDVTJaVmY0Ny1UWG9CY2NwRmlXZjl6S3ZLdmVGYThIa0JrM2FjSjJhcU9vT1ZNRWxGWTRiWXFoY2dKZUpQamlDVlRVYlIzTHdQc19WNVk?oc=5",
-      "summary": "Taiwan says China harassing shipping with east coast patrol Reuters Beijing ramps up maritime patrols around Taiwan, prompting Taipei to shadow ships South China Morning Post China Scoops Up Data That Could Aid Its Forces in Waters Around Taiwan WSJ Taiwan flags ‘obvious’ threat from over 50 Chinese ships Honolulu Star-Advertiser China & Taiwan Update, October 27, 2026 Institute for the Study of War",
+      "summary": "Taiwan says China harassing shipping with east coast patrol Reuters China Scoops Up Data That Could Aid Its Forces in Waters Around Taiwan WSJ Beijing ramps up maritime patrols around Taiwan, prompting Taipei to shadow ships South China Morning Post Taiwan flags ‘obvious’ threat from over 50 Chinese ships Honolulu Star-Advertiser Fujian coast guard conducts routine patrols in waters near Kinmen CGTN",
       "date": "2026-11-01 01:20 UTC",
       "category": "World",
       "source": "Reuters"
-    },
-    {
-      "title": "Toronto police identify suspect in MAC Group CEO mansion break-in",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX21mWURLOUtzejdrdi1MaE9USEhCWlRTWTBBWkVmWTlIQjRwSGk3T21PZV9kMjFYa1p3alVJeEF3aXlpR3BtMUE5YzFadTJPbFBrZ2ZGeXFJVHBZWURMeUg2eEM0WlRNV3dMNTdRaG5PeVQwbmZFV3I4d0ZfZ3gyZnlGcThBbHlmUEJnUDA4Qks1Y29yYmR1ejhuZG5idXZMd1pIU1Zvd0hYamc?oc=5",
-      "summary": "Toronto police identify suspect in MAC Group CEO mansion break-in New York Post Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery Fox Business Police identify suspect in violent Bridle Path home invasion CityNews Toronto Manhunt under way after Toronto CEO and family violently attacked in home invasion BBC Suspect identified in Toronto home invasion where residents wer",
-      "date": "2026-11-01 01:20 UTC",
-      "category": "World",
-      "source": "New York Post"
     },
     {
       "title": "Arts Council of Pakistan Karachi stages Ariel Dorfman’s psychological thriller Death and the Maiden",
@@ -518,14 +526,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MaEc5N21LeEtBM3AwTlRrbkdpWE5tdnR1bmw5eTlfN0ZsdHBlcGduemszdjdnLWh1SEotUFZ0R2RPZlkyZHdHR2c5ekl5ZkJ0WFljS3BUdTRIc0k?oc=5",
       "summary": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán BBC See more headlines & perspectives on Google News",
       "date": "2026-11-01 00:55 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Rahul Gandhi: India's opposition rallies against voter roll revision exercise",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZVJlSWV0RXVQNlpUckJvWnh1b0h3RWtEaU8wQTh0SGp4OXBlbHZqeUZfY0hRbmlwdE1YVE5jc2ZwLXJBSVNfSXFBcXBhMEtITzRNYTVLM1lkQW8?oc=5",
-      "summary": "Rahul Gandhi: India's opposition rallies against voter roll revision exercise BBC Indian opposition parties stage new protest against the elections chief The Hill Indian authorities tighten security ahead of big opposition march in Delhi Reuters India’s Congress Party Plans Mass Protest in New Delhi The New York Times Sonia, Rahul Gandhi, Mamata Banerjee among INDIA bloc leaders marching to Ramlila Maidan, demanding ",
-      "date": "2026-11-01 00:12 UTC",
       "category": "World",
       "source": "BBC"
     },
@@ -586,14 +586,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Can Unity Secure Pakistan’s Western Front? – OpEd",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTklkZzk2UlBTUHR1Vk9nakhHcVk4Z0JFWVJfbnRna2k2UDBDUkJxVVpOSE1WLVg2Y0tnR2RwU2ROMGw4b0UxNGVKZVB3bThubms4X2FyaGlYUkZ4UmQ3T08tcWVNblJTaU9rSUx3WlNPTkJwOG40V0ZEak5Ic213TlBoZkVjVHEtT3ZVRDJR?oc=5",
-      "summary": "Can Unity Secure Pakistan’s Western Front? – OpEd Eurasia Review",
-      "date": "2026-10-31 23:03 UTC",
-      "category": "Pakistan",
-      "source": "Eurasia Review"
-    },
-    {
       "title": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmtxM1NKZjFSUWFCMC1QYmV1SUVPa28zbHMzV1RCWDVhaks5RDZfTWR6Y1FTQW5yMXpVenFUZF90eUhwdFZ6OVV0ek9JREtzSnktbTdoZGljNG81LW5fTXNJNDc3NXk1dlJVbkVDelh6cXBmZWNFRUY5RExmcVpETWJYbTU2WEJYUzRXdGwtSFVqd25tclp0TWEtLVVBMWNQMW1DbjBRUXNqcEJqbEVQdE1B?oc=5",
       "summary": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor WSJ See more headlines & perspectives on Google News",
@@ -652,7 +644,7 @@
     {
       "title": "London police arrest 139 as hundreds protest Palestine Action ban",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNam1UMDNjenNVXzcybTdDd0twaF9lLVNwTzB3V1JVSUNSZlA1UFlKZUZJREtOYVBLbnBLYV91Q2JyenU4NGozZ3R3ejJudVh1TGxTeHgtWHR1eng4MHFmX2lDbVNMZzJQOWh6QjZ4NUJjVVZseVg2UmJVd25LREg2OVRSZjB0eWtoYWhQVW5nVmgzdDFWaUdTRlB6OE1teFJQYlo2bkVVSkx0Z9IBrwFBVV95cUxNdVNqNXZDOU9UMDlNNl9qU3hibWJVNDhLT3dScUFLZHdhN05kbkQ5bGJ6NVVwclliVDZHQ3k2ZnZYTzJtZUw4SVhLZzZnTUhqSTRPWWg0NjI3RE5KaUVQNFQyc3RfUkxiOXd6TnhqQlpkTk1yS0hQcWtSNUdwTWthUUZmMlJ5UFJ1ZGZkdXpUTlpIWHNCbHZpTXRvOUlXeDVma1ZtMTJBaVA3MDlfZFow?oc=5",
-      "summary": "London police arrest 139 as hundreds protest Palestine Action ban Al Jazeera Almost 140 arrested at protest against Palestine Action ban outside US embassy in London The Guardian Dozens arrested outside U.S. Embassy in London for supporting pro-Palestinian group CBS News London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group AP News Police Threaten to Arrest Anyone Helping Prot",
+      "summary": "London police arrest 139 as hundreds protest Palestine Action ban Al Jazeera Over 130 arrested over Palestine Action terror designation protest outside US Embassy in London The Jerusalem Post Dozens arrested outside U.S. Embassy in London for supporting pro-Palestinian group CBS News Almost 140 arrested at protest against Palestine Action ban outside US embassy in London The Guardian Police Threaten to Arrest Anyone ",
       "date": "2026-10-31 21:45 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -674,12 +666,28 @@
       "source": "New York Post"
     },
     {
+      "title": "Massive protests sweep Europe over cost of living and strained public services",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenVfTGpZR2o3aVZmVVlIaU1fUU1TZGc0ZDhtdkN2Nkc5N2tyZFVpa05IdXB2ODVMVzB6eWd0V2piUjZISFRIeGJQM3ExRC0tWXhlcmItNVFTbGctLVVOdzk2VVFNNTYxdldqaEZRODZuRHdvd0FSNkxvbFJ5dlY0eE5yRFdUNk4xWnRDbm1EbDZ5XzVqNFctZ3VaSkY0MEVBRU8xQTJEUE0wX1UtamZGQmJyVXR1NEU?oc=5",
+      "summary": "Massive protests sweep Europe over cost of living and strained public services NBC News Isolated clashes in France after peaceful marches, as police brace for Halloween night violence Reuters A third weekend of protests in France as youth-led rallies sweep Europe AP News Clashes Erupt Again in France, After Festive Start to Day of Protest The New York Times Tension and clashes as hundreds of thousands protest again i",
+      "date": "2026-10-31 21:35 UTC",
+      "category": "World",
+      "source": "NBC News"
+    },
+    {
       "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
       "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
       "date": "2026-10-31 21:29 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
+      "summary": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg Iran warns of unfettered retaliation if attacked as mediators try for peace Al Jazeera",
+      "date": "2026-10-31 21:25 UTC",
+      "category": "World",
+      "source": "AP News"
     },
     {
       "title": "Pakistan, Saudi discuss early GCC FTA signing",
@@ -704,14 +712,6 @@
       "date": "2026-10-31 20:03 UTC",
       "category": "Pakistan",
       "source": "The News Pakistan"
-    },
-    {
-      "title": "Minhas' match-turning 61, Fakhar 127 take Pakistan to tri-series title",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQk5WdkZqalA4LUtVWmw1c3JtUElkVy1iLUFoM3ZrblJQVXlSNTdCdjQwR0JVUGdKVVktd3NIcmF4VUNHZTVHLWJmQ0ZWREFrUXFlZWRJWU9YQ19oSXZjUXZfUkF6cDFVblpta2JUZWx6T1lnTE5PTUtuS1RDa2FpWl9YMUdhNWEzZmZtN2tWQ3RhNUZYMl9MRlJWZVI5RUxkc2ptck9BbTlKTFZPN01UVmwtWndaVlBSSmNwVg?oc=5",
-      "summary": "Minhas' match-turning 61, Fakhar 127 take Pakistan to tri-series title Cricinfo PAK vs SL, Final, Pakistan ODI Tri-Series, 2026 - Live Stream Cricbuzz Fakhar's 127, Arafat's 31-ball 61 lead Pakistan to tri-series title Pakistan Cricket Board (PCB)",
-      "date": "2026-10-31 19:50 UTC",
-      "category": "Pakistan",
-      "source": "Cricinfo"
     },
     {
       "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
