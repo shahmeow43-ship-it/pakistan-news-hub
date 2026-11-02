@@ -1,29 +1,93 @@
 {
-  "updated": "2026-11-02T20:00:09+00:00",
+  "updated": "2026-11-02T20:55:13+00:00",
   "articles": [
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "date": "2026-11-02 20:23 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Ukrainian and Russian emergency alert apps send false warnings after hacks",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3Y2N21HYXFTVEhxMXpodFhHQ3dNemkzQ3dTVHpqXzhoQTA0dG1fdFg1QWw0X3REUW9CZUVoWEFYMXpoZWc5OFFmbmg0X2dSaGVVS3hfSlJVTHYySkZKa2Z3dG51S09zSlQ3d1o1enB2UmZ1QXdBSVp5cGt1Q2piLTlRNnAyek02NVpBTy1lYjBocTdlWGZ3R093bzlTZFROZDljWjV2LTViN1Bxb0Y3MG5XTFlFaWhaX1hR?oc=5",
+      "summary": "Ukrainian and Russian emergency alert apps send false warnings after hacks The Washington Post WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system PBS Global News Podcast | Ukraine and Russia hit by fake emergency alerts BBC Fake nuclear attack alerts hit millions of Ukrainians and Russians on the same day Yahoo News Canada Fake warnings of nuclear attack posted on h",
+      "date": "2026-11-02 20:22 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUJZWTNJRE1SSUNjaWlrcFJrSFBqdE5reVpSQzA3b2xOX2dlX1lUR2pIeWRrSWlwcERyOVg0NUh6SVhwTnVHbkpPVzFDMVJacl9ueGRVb3pySzRZVFBqQ0lPMkJELUU2bDQ3UnNDcWtuRVZBcmR3aVFkam5mSUFrVUdpMy1TbFpTejRhR2xFcHJUZVE1Z2RMVFBUamtITnN0VGZZN3pVQW5YSHhYcmROTV9OSHJwZGJzTXNKbHMyTDFMZUpldXhHX3Zn?oc=5",
+      "summary": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash Reuters",
+      "date": "2026-11-02 20:21 UTC",
+      "category": "Pakistan",
+      "source": "Reuters"
+    },
+    {
+      "title": "The Al Mayeda Strike Shows the Limits of Pakistan’s Hormuz Mediation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEt4aE5YNGJHQWRyWk1vLUlQZXJrSGRfcXkzd2hCaWsyY2tnU2NBbmFHX1JpTXZuVWZpcURaWnJHbC1GWHZqY0syeTdfTlBUakxJaWNnakg0M1lQelRqWFBFcUJBTldqLWpiWDB6c2l6bTRHbXdHZTR2MmYzMjZEcHFpZ0dmYnNGR2FLQUhKVGpBcU8yNW1tb0RWN0RiUi1laVE?oc=5",
+      "summary": "The Al Mayeda Strike Shows the Limits of Pakistan’s Hormuz Mediation The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "date": "2026-11-02 20:16 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine"
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "date": "2026-11-02 20:08 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "date": "2026-11-02 19:58 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities. BBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
+      "date": "2026-11-02 19:49 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
     {
       "title": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWVWWDlkaXg5ZDdDZ1c5R21YM3FiSm5xbkVDYTBFTHFQdmlLdFRCOFdBbWtNVjBBLVBmTVM3aUFQZGg2c3duOFFINjNKSkxTbkgwd2NXYXhZQ0hiM2FTYjdkTUk5V2g4ZFdiQnhGZmN1VklkQlozamlESzdYYWNmSFBZdw?oc=5",
-      "summary": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled CBS News Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Iran pushing accelerated plan for ceasefire talks with US Al Jazeera Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS Iran says contacts over ending war cont",
+      "summary": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled CBS News Iran war live: Tehran says ‘intensive’ US talks ongoing, war still on table Al Jazeera Qatari mediators arrive back in Tehran for talks with Iranian negotiators on deal with US — diplomat The Times of Israel Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Ir",
       "date": "2026-11-02 19:40 UTC",
       "category": "World",
       "source": "CBS News"
     },
     {
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlJJZ3ZjWHRZWEIzODdjQTdqQ01oZWFzWG9ZbEdVMzUwV2N0Tk5Gd3QtVlpvOFhCZkR4VWZ4N0NjRmpHV2RZb3I5bnZrMEJxUTZPUWh6cU9tZnU2TnlDcEhnUTR3Z01BS3p6X1hNOVVodzByeHlJOXRqSzVSUjdmWGRhbm1SR0xTdFZHOEgwMzNUY2dNNTU5amVSWk0?oc=5",
+      "summary": "King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times King's role is not policy making, says Palace in slavery apology row BBC As reparations debate grows, Caribbean campaigners point to one British family's example Reuters Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong The Guardian The UK’s stance on its role in the slave trade is shifting, ",
       "date": "2026-11-02 19:37 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "date": "2026-11-02 19:33 UTC",
       "category": "World",
       "source": "BBC News"
     },
     {
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlJJZ3ZjWHRZWEIzODdjQTdqQ01oZWFzWG9ZbEdVMzUwV2N0Tk5Gd3QtVlpvOFhCZkR4VWZ4N0NjRmpHV2RZb3I5bnZrMEJxUTZPUWh6cU9tZnU2TnlDcEhnUTR3Z01BS3p6X1hNOVVodzByeHlJOXRqSzVSUjdmWGRhbm1SR0xTdFZHOEgwMzNUY2dNNTU5amVSWk0?oc=5",
-      "summary": "King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times King's role is not policy making, says Palace in slavery apology row BBC The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table AP News Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong The Guardian UK PM Burnham says he is 'open' to formal apology fo",
-      "date": "2026-11-02 19:37 UTC",
-      "category": "World",
-      "source": "The New York Times"
+      "title": "Pakistan, China seek stronger political, institutional ties as Chinese minister visits",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTN0eDI1NFRHNVpod29tWE1CTUJtV2syNktLMWxndmNlVkpJUG9neHRkVFpndk5EbHpDQkhwSURYUnVNNFhXeWZrQ0dJMzhyUDVQVEM2dGcyM3RBcXZwbDE2ZE5kXzVDTVd5Mzc1MC1LRkFXZERYVkRUTE1CZXpOdG9waGE1eFAtZUFqQnExaVNJdGg1d2NHdVh4eHZzOVEwU2ZVMi0wMzAzZXdJUzh5OS1Ic3pUOUNvVXA0emF3?oc=5",
+      "summary": "Pakistan, China seek stronger political, institutional ties as Chinese minister visits The News Pakistan",
+      "date": "2026-11-02 19:32 UTC",
+      "category": "Pakistan",
+      "source": "The News Pakistan"
     },
     {
       "title": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait",
@@ -34,6 +98,22 @@
       "source": "Reuters"
     },
     {
+      "title": "Anonymous Celebrity Accused of Sexual Misconduct Set to Find Out if He Can Be Named",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmpwdjF1RkhKNkZwMi1uSDNlWmtYRmQ0ZVJUa2RuYVFVYkpDRlRLLWU4MUpfYXRhc0JRdlRsVVBtN2pFWi10VHdCdFJsaUxSQkI4THR5NjdPM2M5LVJ0Y3dqQ1J4SDNiVHNvNDBSOE5keDEtTDNtZmZjRVRPdkpkZURPTmdfZUs5SDZoRHIzcXJkUW1Yb3NyMXAzOW9ZYnV5emtMbE1yMmN1c1U?oc=5",
+      "summary": "Anonymous Celebrity Accused of Sexual Misconduct Set to Find Out if He Can Be Named TMZ Using suicide as a weapon is cheap and wrong The Times Unnamed celebrity accused of 'inappropriate sexual activities', court hears BBC Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. Variety Male celebrity accused of sexual misconduct ",
+      "date": "2026-11-02 19:09 UTC",
+      "category": "World",
+      "source": "TMZ"
+    },
+    {
+      "title": "Terror Attacks in Pakistan Drop 37% in October 2026",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuSC1fX0Mya2w0azJReG1VTHhGWU8tYkU2WXVzbC1HUW9GMmpXUk5vZEt6MEg1dnlVV3FpNGtZSkVCbTJUeF93U0hDT1pwcWoxWTE2d0FmZ3FmSWgxUzZsYjBsLXpiRi02blVMX1NvVU0?oc=5",
+      "summary": "Terror Attacks in Pakistan Drop 37% in October 2026 PICSS",
+      "date": "2026-11-02 19:06 UTC",
+      "category": "Pakistan",
+      "source": "PICSS"
+    },
+    {
       "title": "Pakistan govt urged to strengthen national halal certification mark",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0ZfN1pKeEdWekxSS0pUZlFhSHEzeGNCZXZXVlpaM0Exd1NyNGh0SUxvY0pjUzZZN1hYZGlkZGRNcWwwX19wWGNHbXVWRG1Xa3FNQnVmWHVsWjg5N3JLYnhvTUFVcm9CTjQ3VmI1RDNGdldfNURZbFFXWVdVODJQTzhoTjkyTWpsRnhCY29Ib1JEbjBDQUN3dUU0OEdxbkJWd1dockp5VDdZYVXSAVZBVV95cUxPX2dyeEk0cS0xX0hHaXZGZm5qTnNmQnB6WmNFSVZQQ0lHVEhvQkdObDVzS0NHdTdLVjU0dWg2c2Z4Vmdya1VFYjV6eWVPWkJ4aDRhSk5hUQ?oc=5",
       "summary": "Pakistan govt urged to strengthen national halal certification mark Business Recorder",
@@ -42,9 +122,17 @@
       "source": "Business Recorder"
     },
     {
+      "title": "New CB90 CX Is Bigger, Optionally Crewed Evolution Of Saab’s Proven Combat Boat",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3ZJb2NKSkZOZjhxSjB0YTVQRjRQR0g3TDYwSXR6ZDZyckk4Z1AxRnZYS1I5Y3NPVjg0Y0NaemR2WDJPV3JFWUVsbzRxbV9rT3ZLNUJ2SmJVZW1TYmlBU0JqY0lyVkVHS2FFcF8zVjZlVG56NXVlNmtab1o3VDJVX2NLR0RMSXY0bzQyN0MwNU1zOEhKV3lrbDMwNXN3SUxNOWxR?oc=5",
+      "summary": "New CB90 CX Is Bigger, Optionally Crewed Evolution Of Saab’s Proven Combat Boat TWZ Saab unveils new speed assault boat for Swedish Navy Breaking Defense Saab unveils optionally crewed CB90 CX ahead of Euronaval 2026 Naval News Saab Unveils CB90 CX Family of Boats for Anti-Ship Warfare, Air Defense, and Reconnaissance Мілітарний From Prototype to Production Line: France’s SMOKERS Tender and Saab’s CB90 CX Point to th",
+      "date": "2026-11-02 18:50 UTC",
+      "category": "World",
+      "source": "TWZ"
+    },
+    {
       "title": "What are the planned changes to immigration rules?",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0VlY5ZWdiTGQ0QnNZYkx0bThIbmJsQThPVk9IOUNsZXZmVFJRSHEyLTF1WFBQX2JoUVhHR0dQaFFDOXBUdkNWYlNFZzVJRTc5bEkxS1VobDFPRHc?oc=5",
-      "summary": "What are the planned changes to immigration rules? BBC Shabana Mahmood scraps plan for migrant care workers to wait 15 years for settlement - live BBC How will UK immigration rules change under Shabana Mahmood’s latest plans? The Guardian UK exempts care workers from plan to impose long delays on immigrants seeking residence Reuters Britain says many migrants will have to wait longer to win the right to stay Yahoo",
+      "summary": "What are the planned changes to immigration rules? BBC Shabana Mahmood scraps plan for migrant care workers to wait 15 years for settlement - live BBC Migration is a moral issue for Burnham – but he also wants to tell a positive story The Guardian UK exempts care workers from plan to impose long delays on immigrants seeking residence Reuters Burnham’s U-turn on ILR may haunt him The Telegraph",
       "date": "2026-11-02 18:49 UTC",
       "category": "World",
       "source": "BBC"
@@ -58,28 +146,12 @@
       "source": "Daily Sabah"
     },
     {
-      "title": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSl9iWnFmU3lqRFlGUXJNRXp3bXNoVC1JdGlwaXJXaVppM1hJVE0yNW85R3BJbFRIMjlMZU9tajFndHd0TnFQSDdScHlWd3pFbmhzcl9kTXp0WElfSUNUV1BNRjdUWkJNNkpxR05uZUoyM2E0OElxWk5EdlExRHhYbTZxb0lqb2pIaURqdHV0bDVYaElNYnd0aWxSNFBjQlBRU1NGdUU1eTVHRXc2cXJCRzRJWnN5LURNQ1hIaE5EM09UYVZ4aDh4dnF5c0Vwd3paSko0MUxKeTdhUQ?oc=5",
-      "summary": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade Dawn",
-      "date": "2026-11-02 18:35 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
       "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
       "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
       "date": "2026-11-02 18:34 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNam5ieDJudjhFckV1ay1jVlMwbGtIRGxMUURpNDIxdm9mcnROc1BGOHd1VExVR05rN05LaUl0TGV6bXNvaHZ0TUUwNVlYUTc5eFlEQkp3VlVvazl3bFM3T1FHY0ZTR2NmUlloeHRXM2d2X0M2Ujd6U2YzUDN1MkdPVW9uUDZjVzFleXk3T19KWXQ?oc=5",
-      "summary": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier The New York Times Isaac Herzog: the mild-mannered middleman in Israel's political brawl Reuters Israel election: When will government be formed, who will lead it? Al Jazeera The Bursting of the Tel Aviv Bubble The Atlantic Israel election: Isaac Herzog to begin coalition consultations with smallest parties The Jerusalem Post",
-      "date": "2026-11-02 18:32 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Why one of Austin’s top AI founders says he is ‘incredibly long Pakistan’",
@@ -114,12 +186,12 @@
       "source": "The Nation (Pakistan )"
     },
     {
-      "title": "Mystery celebrity who threatened suicide over sexual misconduct set to learn his fate in court",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTkh3UmZ3MGpwanlFTWJCMXNGVzJ6UFozcE5SMjNmZGhld0VkZm5sZllYaGU5enM2Z0hCZnJBMzNvN2hlNEg4aXVoNi0tUUljN2VvU3FMSkRMTmF6eEpPOXRCRW11WWc4cWRjdFZtc1RsSk0yWVpQblZDMmREZDJEOUhFM05WeHNNTm9lZE5xN2FJQ0ZQTXREbXdsaTMwVmdKUTJSVDloaE5kYm1HUkVYVWRwazVBeXVZNHBpbGNhWWZtNUw4dnBadldDX2ZVQ1VCM29NektFS0k?oc=5",
-      "summary": "Mystery celebrity who threatened suicide over sexual misconduct set to learn his fate in court Page Six Using suicide as a weapon is cheap and wrong The Times Unnamed celebrity accused of 'inappropriate sexual activities', court hears BBC Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. Variety Male celebrity accused of se",
-      "date": "2026-11-02 17:57 UTC",
+      "title": "Labour to end power-sharing with Greens in 11 councils over Zionism row",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPQ0xwQms5QldmTDR5eDI1eE5HSkc0c1c0Q2w2WklScWxRQl9fdThNMXhGeWlSN2FUd0ZoX3N0azFxMExsd0d2ZzFjTTJYaGNpT1BESzRhSHBXaDA?oc=5",
+      "summary": "Labour to end power-sharing with Greens in 11 councils over Zionism row BBC Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Labour set to end almost half of Green council coalitions over Zionism row The Telegraph Green mayor quits party over ‘Zionism is racism’ motion: ‘It crossed a line’ The Jewish Chronicle Labour to end cooperation with Greens in 11 councils over ‘Zionism is racism’ policy T",
+      "date": "2026-11-02 17:59 UTC",
       "category": "World",
-      "source": "Page Six"
+      "source": "BBC"
     },
     {
       "title": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM",
@@ -178,6 +250,14 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Karl Bushby ends 28-year journey at mother's house in Hull",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVWtjcFNMeU45WnIwdzFncTM0Qk9ZYk1GYUdDMlFYSW1VTzVSZy1RYXYtcmhKT0FTTnpaM1pOZ040ZktKYi1nU04wbEhrMkJHY3ViVnhscXViQzg?oc=5",
+      "summary": "Karl Bushby ends 28-year journey at mother's house in Hull BBC A 31,000-Mile Walk Ends in England, at Mom’s House The New York Times ‘It’s been a while’: hero’s welcome for UK man after 28-year walk across the world The Guardian UK adventurer returns home after 28-year trek around the world Reuters Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world AP News",
+      "date": "2026-11-02 17:12 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Chinese official praises Pakistan's role in regional peace",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzJZa0RtdjVDUTRoU0R1emlkRXBWX2hXTXJwRXA1VVh6cWZrbE9Ha0RZb3g4RXdpMVU2b3ZNUF9wQ0ZxTVQ0OU0td0MybWxTN3EwQkwyczhRSkVYSTlVVjhqckdNS1c5VXBWVzMtankzUERrRmlqZnBDRkhoa2hrMVpYSmN1RHYyZWdaZTdNWEg5RWVtM1VtM3RWdU5Hd9IBVkFVX3lxTE1xTk1IWEtyZEJTeXkydW03R2xJMnVTc1JDVDVvVnZ3QkpvdGF0d2pqS0hJSk9jNlBHODJPR3AzOExVSmpDNUVjVndDVm1WRno4SXVHaS1B?oc=5",
       "summary": "Chinese official praises Pakistan's role in regional peace Business Recorder",
@@ -212,18 +292,10 @@
     {
       "title": "Netanyahu lost his majority in parliament. Now he claims elections were stolen",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzFGMkNHTDBwaW5NRjR2R0xiYzNVd1ZMejBfSUZVLUNnUXgzdHlQQmp0Q0hmSTBTcDdTUVl4eHB6SjAzTGFNX0ZhMEJsM2M2RzJEd3FmRjFVdERaTWFhZXBGb2xiM203Y1oyemgtallVdTlDWm1ZbV80Z2RNNDR6SlpTbmlfUkk?oc=5",
-      "summary": "Netanyahu lost his majority in parliament. Now he claims elections were stolen CNN Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote Politico What next as Netanyahu's party claims Israel's election was stolen? CBS News Israeli officials say results stand as Netanyahu claims election ‘stolen’ Al Jazeera Analysis • How Trump is helping Netanyahu steal Israel's election Haaretz",
+      "summary": "Netanyahu lost his majority in parliament. Now he claims elections were stolen CNN Likud demands delaying certification of election results amid foreign interference probe; election chief refuses The Times of Israel Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote Politico Israeli officials say results stand as Netanyahu claims election ‘stolen’ Al Jazeera Targeting the Arab vote • ",
       "date": "2026-11-02 16:42 UTC",
       "category": "World",
       "source": "CNN"
-    },
-    {
-      "title": "Labour to end power-sharing with Greens in 11 councils over Zionism row",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPQ0xwQms5QldmTDR5eDI1eE5HSkc0c1c0Q2w2WklScWxRQl9fdThNMXhGeWlSN2FUd0ZoX3N0azFxMExsd0d2ZzFjTTJYaGNpT1BESzRhSHBXaDA?oc=5",
-      "summary": "Labour to end power-sharing with Greens in 11 councils over Zionism row BBC Labour to end cooperation with Greens in 11 councils over ‘Zionism is racism’ policy The Guardian Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Labour set to end almost half of Green council coalitions over Zionism row The Telegraph Green mayor quits party over ‘Zionism is racism’ motion: ‘It crossed a line’ The Jewis",
-      "date": "2026-11-02 16:38 UTC",
-      "category": "World",
-      "source": "BBC"
     },
     {
       "title": "IOM Reports Assisting More Than 110,000 Returnees from Pakistan",
@@ -250,20 +322,12 @@
       "source": "The National Interest"
     },
     {
-      "title": "China’s Message to Its Rivals: You Need What We Make",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnJIUk5OdzBMTjhkQkQ4Mlg3TVpJOHlESHQ0Zzh4Ujc3NlFjRkhDajQxbkF1dUJPVERGT2RzQ01BM19hZkxpemd2TGkyMksxMnc2YXFsOG1fN3hyZEs5ajMwaDN6bDVYNE9WUkFZcUlfRC0ySS1XdHd2OGgxa2dVN2x3?oc=5",
-      "summary": "China’s Message to Its Rivals: You Need What We Make The New York Times See more headlines & perspectives on Google News",
-      "date": "2026-11-02 16:21 UTC",
+      "title": "Major Russian Oil Hub on Fire After Strike, NASA Data Show",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnFCejIyQUpkbjc1R1RBTlp5Nlgya1g5eFg3Wi1Wcklab0pBaWJiWVI1NjVlc2dVR3dCZEZWbXNWOU9HUG5HMTV5TnBTams3SktNR1pGSk1oeV9RemhXcTQ4dl9scE1YVVpIVzB6czAxTDhQS1p3S2VUY3pQa1RLZ0JKeEw0b2czNjNQODNNUnp3eWd5M1R5U0twWDZ5UjZNbE9JWDB2bzh1WWJZ?oc=5",
+      "summary": "Major Russian Oil Hub on Fire After Strike, NASA Data Show Bloomberg.com Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump WSJ Zelenskyy: Ukraine will halt strikes on Russian refineries if US provides interceptors Українська правда Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery ",
+      "date": "2026-11-02 16:17 UTC",
       "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Russell Brand’s Defense Comes to a Close in His U.K. Rape Trial",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHlibzVGLWUzNDdsMkowMmNFODI2X3Z2S1VOM094clFDdW1oelVEaE1xTjhZNWI4NXhYRDFKVmlkejlfcVFQeFl4eGYyRS10UFRmdW82OUZkemowZjR0M0hEWGNLbHFiQXpidGZuWjMzVnFBNEtPVDNOYmN6X1drWkFFbw?oc=5",
-      "summary": "Russell Brand’s Defense Comes to a Close in His U.K. Rape Trial Vulture Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told The Guardian Russell Brand rape trial as it happened: MeToo silence over comedian is telling, defence lawyer says in closing speech Sky News Russell Brand Is Not 'Some Kind of Psychopath' Defense Lawyer Says Variety Channel 4 documentary and journalists 'poiso",
-      "date": "2026-11-02 16:08 UTC",
-      "category": "World",
-      "source": "Vulture"
+      "source": "Bloomberg.com"
     },
     {
       "title": "Pakistan retaliates after Afghan Taliban open fire on border posts in South Waziristan",
@@ -284,7 +348,7 @@
     {
       "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5",
-      "summary": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian 4 Americans among 69 people killed in train crash in Spain, officials say CBS News Photographer finds a rare perspective framing a horrific accident in Spain’s beautiful countryside AP News Four Americans and 1 Canadian among the 69 dead in Spain’s train crash NBC News 2 Cal Poly students injured in deadly Spain train crash KSBY",
+      "summary": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian Two California college students injured in deadly train crash in Spain Los Angeles Times Four Americans and 1 Canadian among the 69 dead in Spain’s train crash NBC News Cambridge scientist dies in Spanish train crash BBC 4 Americans among 69 people killed in train crash in Spain, officials say CBS News",
       "date": "2026-11-02 15:40 UTC",
       "category": "World",
       "source": "The Guardian"
@@ -314,6 +378,22 @@
       "source": "Financial Times"
     },
     {
+      "title": "Adrian Hamilton-Manns appointed new PIA chief executive officer",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UOHhLalFOSzNRUU00LVBSMXVtMlhZMjdyQVE2cHlWSFR2T1Y0STJrUk80QXhXbXlPSVQ0T0VrbVlaYXdGYllyeQ?oc=5",
+      "summary": "Adrian Hamilton-Manns appointed new PIA chief executive officer Dawn",
+      "date": "2026-11-02 15:20 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "New Cyberattack Cripples Europe's Supermarket Fridges",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlM5Rngzd0xmRV8zRHlkVTlrY2V0OXhTOHRENE5KZjFhVnZxRlRkOENWRU9Bbm1GT0wxSFZMZk01aFU5cDRjZ0ZabU5JSm9lbFZxVlF2M2d1aW5NSnRTa1lCUzhpN1lBRVlsMGlGYkZGVi10QWwxWVZEczQ2QXBXX1hCLTgzM0dBY0lXdnhoczJsYUVuMWVEdg?oc=5",
+      "summary": "New Cyberattack Cripples Europe's Supermarket Fridges Newser Shop freezers in seven European countries hit by cyber-attack BBC New cyberattack on supermarket fridges sweeps across Europe Reuters Supermarkets across Europe hit by new fridge cyberattacks NBC News European grocery chains' freezers, refrigerators targeted in apparent cyberattacks ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-11-02 15:17 UTC",
+      "category": "World",
+      "source": "Newser"
+    },
+    {
       "title": "Pakistan says refineries agree to absorb $54 million monthly to avert Rs15 petrol hike",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2Y4OG1lejhyUFZLcFBuaUlGUDNidGtYSnFyYTFKa0xYOEl5dkdJUnlfU0dpdFlSNjIyNmFfR19PdkFJZTN6LUU3YUh6eUNYSUkwemM4S1pJLWN2c0lZdlkwbXdsWWdpX25YckFCd2dNS3NYSVZqSWFqMUM2UURBeUY1Z0d2aFNweEhHTnF6LTZ6aE9BdURpTDIyWkFZLXRGRlBwek5HQU1TcDJ3UTFOd2QwZG9mczByVmpScl9fUzJKOVM1?oc=5",
       "summary": "Pakistan says refineries agree to absorb $54 million monthly to avert Rs15 petrol hike Arab News PK",
@@ -324,10 +404,18 @@
     {
       "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUhteFJwMmtiRXZXN0Y5OHNNSURkd3RfX2pzMjZKV1NQMG9PS29wb3h0Snk4clgtNHF3b05kR0JTcURVTHk0TlZXd29Dc0lNVTFBZGR4YWw0cFFzM0FrN1hrcXlGSlFsUkdxNmgtQi03cXZ5aEx5LVpFekt0QlBJcUN5cWE0X3lITTBxTjNUNTd6b094OGxQVlhwQUhNeEJtLVJQcllPcWRTTWxTeHFkZtIBtgFBVV95cUxQRm9DNy1EUlBUQUJoMkozcEpOSVp0WDZOQm5lNDhUenR1RGNRMHVtUkJrQmczSzMyWHBlalk0RFhIeE4wQkkyeEpzT0JreUNoYTROVUM3VHJHR1Rnd2JVNDFTMEJLV2Jjc0lBRGx5bDlUQnowUFNuRVVtSEhlcU1kTkdvNndMOGRfXzdzWTQzMlc0RVRhRDJpMk1WTnVYb042NFdVVzZwaS1Kazk0c09aLWRleklGUQ?oc=5",
-      "summary": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks? Al Jazeera Joint List's Jabareen: Opposition holdouts must face 'political reality,' cooperate to unseat Netanyahu The Times of Israel Israel’s Jewish and Arab opposition parties should work together The Economist Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition The Guardian Opinion | The ultra-Orthodox are ",
+      "summary": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks? Al Jazeera Israel’s Jewish and Arab opposition parties should work together The Economist Joint List's Jabareen: Opposition holdouts must face 'political reality,' cooperate to unseat Netanyahu The Times of Israel Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition The Guardian Opinion | The ultra-Orthodox are ",
       "date": "2026-11-02 15:04 UTC",
       "category": "World",
       "source": "Al Jazeera"
+    },
+    {
+      "title": "MENA Fintech Association Expands to Pakistan, Connecting 22 Markets Across the Region",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEg3NmlrQ2JZNk5KaFY3UkZvOUk4TTAzNDJUNGFLVzZmLUZhOTh5emY1eXNCWTRuWGVDaWV2NWRZRDZKTnF6OXhyV3JTQ1JlaFNXU3pDWGJlZ25aQUZnUmJPVVkya3pwdTRTalpHYjBqQWpNMjhsUGxFQW82YlZaRWlsM1N2SHg5T084cFdkMW92dUdzU3d2R2cxQ2hrOVVE?oc=5",
+      "summary": "MENA Fintech Association Expands to Pakistan, Connecting 22 Markets Across the Region FF News",
+      "date": "2026-11-02 15:03 UTC",
+      "category": "Pakistan",
+      "source": "FF News"
     },
     {
       "title": "China, Pakistan discuss ways to advance strategic partnership",
@@ -338,14 +426,6 @@
       "source": "Anadolu Ajansı"
     },
     {
-      "title": "MENA Fintech Association Expands to Pakistan, Connecting 22 Markets Across the Region",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEg3NmlrQ2JZNk5KaFY3UkZvOUk4TTAzNDJUNGFLVzZmLUZhOTh5emY1eXNCWTRuWGVDaWV2NWRZRDZKTnF6OXhyV3JTQ1JlaFNXU3pDWGJlZ25aQUZnUmJPVVkya3pwdTRTalpHYjBqQWpNMjhsUGxFQW82YlZaRWlsM1N2SHg5T084cFdkMW92dUdzU3d2R2cxQ2hrOVVE?oc=5",
-      "summary": "MENA Fintech Association Expands to Pakistan, Connecting 22 Markets Across the Region FF News",
-      "date": "2026-11-02 15:00 UTC",
-      "category": "Pakistan",
-      "source": "FF News"
-    },
-    {
       "title": "Pakistan, China discuss regional and global developments in high-level meetings",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fOHcxc1N5TlMyU1NxX29zeUJEcnZTZGxqRGx0RHdYS3dQbTZ4aVdwcTU4T0pMUDNNSXZMSEwtbVhIenpOV0dTdA?oc=5",
       "summary": "Pakistan, China discuss regional and global developments in high-level meetings Dawn",
@@ -354,20 +434,20 @@
       "source": "Dawn"
     },
     {
-      "title": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGprSkphSVBVaURoYUtYbXJZdGRRRWFRZEF4dzFtcXJlaW45aGFzTTkyS1VtMmR3eFVrT0p1M1dOWkx6VnlnZld3U2c4WkVnVjV3amQwdFhWQUdsTHRKUW1NeHQ2S0RBd2M2b0xaS2FvUlNTY3hDNW1kYkdwUVBYTjlVUGVOeW11RnFocWtuZkN4T2xlYWlpbjI2WF82Q0dlT2tPSkJwQUk0SDgyLWU2dy1tc0JvX3FnZGVCUnF3dmZEUQ?oc=5",
-      "summary": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback WSJ Trump's Iran threat renews Gulf fears of a war it didn't choose Reuters United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran AP News Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz The Guardian Gulf braced for escalation of war between US-Israel alliance and Iran Financ",
-      "date": "2026-11-02 14:53 UTC",
-      "category": "World",
-      "source": "WSJ"
-    },
-    {
-      "title": "Deportees Turn to Social Media to Share Life in Countries They Barely Know",
+      "title": "Deportees Turn to TikTok to Document Life Starting Over",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVVvRFVCVmlGU0NkcFM5TlJBcWZEVnlYcDh2OGw0dnczblMtSmJsOWhpakxqWFF6V2FtMGRyS3VyZ29KbVU0Y1Z3NDZ0ZnFRd3NaRXkzWHpkT0FnTkpqZW84aU1pLXplU0NyM0c1c2xvX1BqcnpqX01pSlhxZ3Z2TVJNaEFpaDQ?oc=5",
-      "summary": "Deportees Turn to Social Media to Share Life in Countries They Barely Know The New York Times",
+      "summary": "Deportees Turn to TikTok to Document Life Starting Over The New York Times",
       "date": "2026-11-02 14:53 UTC",
       "category": "World",
       "source": "The New York Times"
+    },
+    {
+      "title": "German Envoy Urges Pakistan to Boost Trade, Praises Islamabad’s Diplomacy on Iran",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzA4c0VXNFAyQUY5MU9jUEg2MmVJWjhEak9udE9WVzF1Q1lZY092dzRlbXlVRDdHLUlTYnJmTjdKbTZKX0dtX2J5a0p3dGhfVWJ6M0R2cWZTYk8weDNpbWFJNnFWTmhUdF9Gajg5eTUtWENlcGlVWENkRVBvaElCSFNZSWROUzBjclB4ZjVn?oc=5",
+      "summary": "German Envoy Urges Pakistan to Boost Trade, Praises Islamabad’s Diplomacy on Iran The Diplomatic Insight",
+      "date": "2026-11-02 14:45 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomatic Insight"
     },
     {
       "title": "Pakistan fined for slow over rate in tri-series final",
@@ -378,28 +458,20 @@
       "source": "The Daily Star"
     },
     {
+      "title": "Pakistan’s Reported 30 Z-10ME Deal Signals Deeper China Defence Pivot",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcl90YUpsdmcxNE9ITjdYbHhGR184ZVA0R3VnREg3a3Z0WVF6aDFzVEtXeXBtZU9vOVJ5Zkh6NzJwUmw1YklsZDQ1MGFKZVhKNW42clUwNHFONXc4djA4bHhNY0d4UWxrUVhGTkE2WjRUN0pzakFTRFc1NTR0V0V2SWNHVjQyTVRrTnhV?oc=5",
+      "summary": "Pakistan’s Reported 30 Z-10ME Deal Signals Deeper China Defence Pivot Defence Security Asia",
+      "date": "2026-11-02 14:45 UTC",
+      "category": "Pakistan",
+      "source": "Defence Security Asia"
+    },
+    {
       "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
       "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
       "date": "2026-11-02 14:35 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
-      "summary": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked BBC Global News Podcast | Ukraine and Russia hit by fake emergency alerts BBC Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say AP News Fake nuclear warning from hacked app sparks unease but not panic in Ukraine BBC",
-      "date": "2026-11-02 14:35 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzBJcThJMmVVWElIWDlMc2lQYUNOaTFWMXhIQ1ktWGRwMHlKM2tJWlJkWDAyUzV5LS1QZ1cybE5EVnNxSjhWR0NWTnlnNUZWejFCZFFDWmZ6YXBRaU5PREFlQ1RvV0I5eDZpYUx5NnpjVWRDNnJtdFR1TC1zTnFrZ21pNFd1ZmtabjRiLXV5dEg1ZVN4ODNmZnd2Tl80SmE1VHBHaGFjYWtwLWMtdUJaNWlTMWxBb1VoVG9EWlJScERhVHNv?oc=5",
-      "summary": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house NBC News After 28 Years Walking Across the Globe, He’s Almost Home The New York Times Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world WFLA ‘It’s been a while’: hero’s welcome for UK man after 28-year walk across the world The Guardian UK adventurer returns home after 28-year trek",
-      "date": "2026-11-02 14:33 UTC",
-      "category": "World",
-      "source": "NBC News"
     },
     {
       "title": "Nourishing bodies and minds in Pakistan",
@@ -428,7 +500,7 @@
     {
       "title": "How would Tehran respond if the US and Israel bomb Iran again?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHWUZHZ1N3ZHppaFdQSUtWcHVIVGxRVUYzeERWNk1mTG1WRExjeVJQNW9kOENBd3UtNWtWTUdJZW5VZUV1VXUtckg4OXJ4R1BvcnRwdjdHQmpqQ2t3OElBVkNaR3VLakJCN2oyTWNlaXBfSm5ELTZmRnlFSlBOTVZNZlJ6aUlzem5SOFJLY1dTaTQyQU9rU1Z1WV_SAaIBQVVfeXFMTmdGYTllZVRpWXY5MnlmNy03Yk9zcEw1N1J3ekV1bEtMNW5zaGU3T1Y5OFdRR3FUYzJkUi0wZjk3TVZ2NVdocV9LZW5BSktWWGYwYTE3TzI2am9rWklnYWNIbnBhMVV5dVZHVlJHOVhmblB5WXRHcDMzdl9CUlZzSGEyOU5ubldUMWpfVUlPS2Jpc3JSemtCbHlkY3gzajFpVnZB?oc=5",
-      "summary": "How would Tehran respond if the US and Israel bomb Iran again? Al Jazeera See more headlines & perspectives on Google News",
+      "summary": "How would Tehran respond if the US and Israel bomb Iran again? Al Jazeera Iran live updates: Tehran warns of 'powerful response' to any renewed attack ABC News - Breaking News, Latest News and Videos Iran warns of 'geographically unrestricted response' if US attacks Euronews.com Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios Iran threatens US bases in Europe if Trump orders new strikes The T",
       "date": "2026-11-02 14:24 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -444,7 +516,7 @@
     {
       "title": "Mystery skeleton at Westminster Abbey was likely an abbot buried in a secondhand sarcophagus",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51Z2tTYlFLd1NBRlVzUjhMaXo2NjhUZXdlcFN5SXFSUzhuR25TTTZENWFjRGFjaFZVN1FwdHNqYjgxNlJMd2ttbVhtQlRvalJMc2x5bUpWOV9qdXhRNG1BWFkxSGppNzdoMVpLZkRBdlBUNEdSN1RxUWh5UWZfUQ?oc=5",
-      "summary": "Mystery skeleton at Westminster Abbey was likely an abbot buried in a secondhand sarcophagus CNN Skeleton found in Roman sarcophagus at Westminster Abbey may have belonged to medieval monk The Jerusalem Post Westminster Abbey skeleton may belong to medieval abbot, archaeologist says Mezha.net Recycled Roman sarcophagus reinvestigated at Westminster Abbey The Past website A Roman Coffin at Westminster Abbey Held the W",
+      "summary": "Mystery skeleton at Westminster Abbey was likely an abbot buried in a secondhand sarcophagus CNN Does the mysterious skeleton found at Westminster Abbey belong to a monk? The Jerusalem Post Westminster Abbey skeleton may belong to medieval abbot, archaeologist says Mezha.net Recycled Roman sarcophagus reinvestigated at Westminster Abbey The Past website A Roman Coffin at Westminster Abbey Held the Wrong Body for More",
       "date": "2026-11-02 14:13 UTC",
       "category": "World",
       "source": "CNN"
@@ -498,14 +570,6 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Turkey’s Recep Tayyip Erdogan proposes nuclear, tech cooperation with South Korea",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGN1E2dk5hQldzWWxpeGpscEdTS1BTTHNEZmlyd19TaFZJMVFpX2RoM1VoV29hMXA4dHBWR0FkZk9sYTZUcnpqLVhHNEs1blZqQ19lbGpNTkZ1NUxvdlk0?oc=5",
-      "summary": "Turkey’s Recep Tayyip Erdogan proposes nuclear, tech cooperation with South Korea The Jerusalem Post Erdogan says South Korea could partner in Turkey's Sinop nuclear project, Yonhap reports Reuters President talks nuclear power, defense with Turkiye, Timor-Leste Korea.net Ankara seeks to expand economic cooperation with Seoul Hürriyet Daily News East Timor President Jose Ramos-Horta to visit South Korea on November 5",
-      "date": "2026-11-02 13:12 UTC",
-      "category": "World",
-      "source": "The Jerusalem Post"
-    },
-    {
       "title": "Water, food and national security closely linked, says IWMI Pakistan representative",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbm95emp5c0dLTzRfMFc1OXVzOEVkTWFpSEtxY29VcmdJbmd2VnRuSVRPVzlnYkZzay0wRGQxXzFtcFVWTjVFUmdFUE5fRVlDV2FkVUU4WXl3YVFqMWJCRF9hcXoyeDdjUVFFS1I1dmh2OUlZOHBFdDNSaFhYNmcxbVk3RVlTNmZiVEtIU1owNnBmMEpEdGQxS241Q3RyVXB1cm5DbGFfdmFvbHAzY1lQRkwwVDZJZw?oc=5",
       "summary": "Water, food and national security closely linked, says IWMI Pakistan representative The Nation (Pakistan )",
@@ -538,6 +602,14 @@
       "source": "Euronews.com"
     },
     {
+      "title": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4?oc=5",
+      "summary": "Trump's Iran threat renews Gulf fears of a war it didn't choose Reuters United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran AP News Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz The Guardian Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times The Gulf states fear renewed war after the midterms NPR",
+      "date": "2026-11-02 12:42 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
       "title": "Russian Army Suffers Record Losses in Ukraine as Land Gains Slip",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGZMV2R1aUhpRGpXVmlacFVjOGltajNURjNoVWJLMTBTRHEtVjBGRUM4XzNlLXRoZ3VqRWpMaXRtUkFrcGRFWElaYjI4emlCYVFBNDlnM0VLUUFJSEtIb09KSkU2U2s2aEhYcThlaGpTd2RaanVhd3JRMm1BUngxTWV4dmJzYzlzRDY1aUV3aUlCNUZZWmwyRXhWV0hRbjJMVG40UDZRbFRMd1dkSkZUMUhpVEVTZw?oc=5",
       "summary": "Russian Army Suffers Record Losses in Ukraine as Land Gains Slip Bloomberg.com Russia's war casualty toll in Ukraine up by 2,100 over past day Ukrinform \"Enough to fill 200 Moscow Metro carriages\": Zelenskyy reports record Russian losses in October Українська правда Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began New York Post Russia suffers highest monthly combat losses si",
@@ -552,6 +624,14 @@
       "date": "2026-11-02 12:30 UTC",
       "category": "World",
       "source": "CBS News"
+    },
+    {
+      "title": "Russell Brand Is Not 'Some Kind of Psychopath' Defense Lawyer Says",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHRCVHVrLTB5Ti00bXhla3g4WDJfSDlsdjRoY21RMXY0Tk5rYUxUc3RTRnZvTjg3OTFwMTAwUFE1OGRpejRZdFQ4aUxOWm9IdkR6R3JGOHJ3TkNqSnpjNGQwQXp3ckNwMFRfZkh3bzhaYXAydzcyUlE2MmdQeXh5LUdkam91TldfQ0loNXVtNlJ6dFZkOTlr?oc=5",
+      "summary": "Russell Brand Is Not 'Some Kind of Psychopath' Defense Lawyer Says Variety Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told The Guardian Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears BBC Russell Brand rape trial as it happened: MeToo silence over comedian is telling, defence lawyer says in closing speech Sky News Russell Brand’s Def",
+      "date": "2026-11-02 12:29 UTC",
+      "category": "World",
+      "source": "Variety"
     },
     {
       "title": "Pakistan, Bangladesh explore new avenue for industrial cooperation, economic partnership",
@@ -572,7 +652,7 @@
     {
       "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzExSjhLZldVQ054Vnd4REUzSnJ0WlZoU2VCSnRRWjNFb3p5b1JqcmpjcXpPYUpfQkJwckRIM1pILWdqekxlaDJKQU9BVmRaWXlrUS1PQVdtUWRZdFdLRFJ1VGZJeXd4NXJmYURPb0tEVUk5TEdQRkNBREI4d2Y3Z1dhZnpkMG5zdjRmRGo1UzdZLXppQ09JV19uWVc2TDNia1FkZWtJbDVHVE5paHlWWGdpSE55QdIBuwFBVV95cUxQbGc0ekM3d3Bad1pCRmY3ZWpTbHd2UkdFM0VGZUtmU3JVdWdlM3dNeUZSVUdjZkJSZGhSRzRUVjdpUWJ5MGNEemJLNGwwUDNzUXZaMGY2UVpPckktVjZ6cGQyMnh5eW9JS1NnQ0I2MTU2Q3pkNkRwTTJlY1poLUtzQ013MHFGU1U3ejkzdWJBTE0wUy00Q2EtVmRxNU5FMzVfallBRXFhN0lRWHB1aFAxRXBPVUtfMHgzS19R?oc=5",
-      "summary": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis Al Jazeera Yemen's Houthis advance to within 80 km of Aden, sources say Reuters Yemeni army captures strategic mountain range in Al-Jawf after battles with Houthis Saudi Gazette Yemeni Armed Forces: 427 Houthi militia members neutralized in our latest strikes CGTN Yemen army carries out 951 strikes on Houthi targets in 24 hours Arab News",
+      "summary": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis Al Jazeera Yemen's Houthis advance to within 80 km of Aden, sources say Reuters Yemeni army captures strategic mountain range in Al-Jawf after battles with Houthis Saudi Gazette Yemen army carries out 951 strikes on Houthi targets in 24 hours Arab News Yemen: Gov’t Forces Killed , Wounded in Two Houthi Attacks Yemen Online",
       "date": "2026-11-02 12:22 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -610,6 +690,14 @@
       "source": "BBC News"
     },
     {
+      "title": "You can go your own way: US diverges from world on emergency preparedness",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzdzcXR0SkxnNkpMQ1hZcHJNY2FSakZ2cjNTZUN5Uzk2N1lLNW1aSWJxemJwMURiaG9XYU8tZjFlZEM1UXE3Q1JibjlxQVdSVWpPbUx3cFB5Q2hvRk9SNm4zWmlxU3FZMm92YXBCOFRPY2JnVGZSUW0zVEJWdTRLaC01R19QZFo2Q1E?oc=5",
+      "summary": "You can go your own way: US diverges from world on emergency preparedness The Guardian The age of prepping is here Financial Times How to prepare for an emergency: What households in different countries stock up on BBC Map Shows Nations Urging People to Stockpile Food as France Issues Warning Newsweek Water and baked beans sell out after public told to stockpile food The Telegraph",
+      "date": "2026-11-02 12:02 UTC",
+      "category": "World",
+      "source": "The Guardian"
+    },
+    {
       "title": "US-Backed $4.4 Billion LNG Project in Pakistan: What You Need to Know | Dawn News English",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclNBVWRLSFlLNVhmRmJyaTVOcXI5WGN0dUNtXy1LcmRQMV9TZ2ExQkZaeEJoREdTV3g2b0F6RWNaV1Q1MkROLWwzUzU2S29IV2xlRm9ReUVNVnoxaFRnVy1KVWk3RmMyM2NqS3A4NGhndzloNlVIZkdYXzB3dEZuZ2ZXZVoxN1EyY2FlWXp5QUhkVGFVSW5WMjV4THVsVm5DOXFWMXpwanQ3S0ZCeW9rdXdRaHJ1SHdCT1E?oc=5",
       "summary": "US-Backed $4.4 Billion LNG Project in Pakistan: What You Need to Know | Dawn News English Dawn",
@@ -626,100 +714,12 @@
       "source": "Reuters"
     },
     {
-      "title": "Pakistan fined for slow over-rate in tri-series final",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nUDhKamF1NnR2ejBKRkFuYjdIY25jM2hZbXZRdUZXcVB6SDhEcG1CR0pTNlczWTd6YlJmUFRwQTB3VmVaWnFIRg?oc=5",
-      "summary": "Pakistan fined for slow over-rate in tri-series final Dawn",
-      "date": "2026-11-02 11:55 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
       "title": "Up in the Clouds With the Pope, It’s Still Commercial",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWm5DVnJqV2FwS3ktcm5TZDBmQ2p0Zmc5ZndHWWljY2k5cGVXMFptYjdEekluRWQ1cV93NmtYeFlBRDZKcGh2RDhOcW1nTlpNYVlkTmxvQ25mbjAwcGJoNjBSZWdKX2hXeWNRZ19aWHFOa2UzSnVrcTYwcDItV3U0WDBKYVdROU5YRVI1dA?oc=5",
       "summary": "Up in the Clouds With the Pope, It’s Still Commercial The New York Times",
       "date": "2026-11-02 11:49 UTC",
       "category": "World",
       "source": "The New York Times"
-    },
-    {
-      "title": "Map Shows Russia Losing Ground Amid Heaviest Casualties Since Start of War",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3B3d0ZGUi1ObnY4UWlnSktQRzVpa1BDZkdGdnhUcDlqODZNX0hfbHVKMF9VZ1dxLWFLSjhKUlJuRU1kZ1Rmdm8yZkZzWk51Q2tYTDFSV3JfQzZjRGgtNjY5WTczTXJha3YwNmpZNDNkSHpwbElraXV5eHpLbndzaW9aRkhaYlFOenUwbmxsMzhORkFSQVBHVm5EbGZSRV9pYjRyVEttTERHUTU4?oc=5",
-      "summary": "Map Shows Russia Losing Ground Amid Heaviest Casualties Since Start of War Newsweek See more headlines & perspectives on Google News",
-      "date": "2026-11-02 11:47 UTC",
-      "category": "World",
-      "source": "Newsweek"
-    },
-    {
-      "title": "‘I have two days until the food in my fridge runs out’: Thousands of Russian emigrants left scrambling after Serbia shuts down Alta Bank, freezing their savings",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQLVBPVmprUGNmbmxaZTVHNXdkZVduaXZIQ3hLMFJBSU9XYnV0RzhTYWFSc2ZlQ2ZrWFlEMXRra2dOX3A4cHFBQ2g0X2w0ZS14OTRJX0E1bUdtNXpCOERxRGstdlBZaC1neFlKTV9GaXhEM01UcmpoQ3lOWFFJbzZVZWVKbkF6amVKcHUxbGh0aVNiVnhFbGdnX1ZVQjg4X1liTl9HSTRqMk96RC1EeGkyZ1poX2QybnVORm9FYk1lTjZlaFVYWGlYR2pxWXdQXy1FdnhXYTJXXzVtS2I1Y0RDZ01DRjIwUUZMSnlFTjFqeVdzY0VWaUJVTU84R2tUQXlEX3N4YWZILW1kaEUzMG1Xbmh2V2xaUnp0dkt6UVBFeXVmZ9IBpwJBVV95cUxPYUdicXVKNy1xZDQ2UVg1UG1abUVMYVBnQ25VclM0dnRaZnZ6ZmtwWVoyYmthQ2hPYXVOU1lmMXRWRFpyYUltNldGbktSNnpRWXZFQlVuc3BmNHZndzk5WXVvT0hHNkRGN1VjQVVFMEJ1ejFFLUMzcFVzWHdfSlNzMEZMaGVjMHBVOGV5YXdpMFpzQ2tVS2E3X1Z5OHFRNHdSNVlPei1fRmhCV2ZrUWJSdEFVQUdXSzFFcDNrZ1ljbFVEZ204SFM0V0wzcEF0dlZEZU1pV184MS1aajhxUUhhbmdwcVF4ZU1NcTNaTkhRcDNVVDBTMWtSRlpaYllMaUtqZlF5SkcxSHFndWQ2M0JFZ1RMaXZpUWQxNF9jQ0t2aXVnbEpmVzRV?oc=5",
-      "summary": "‘I have two days until the food in my fridge runs out’: Thousands of Russian emigrants left scrambling after Serbia shuts down Alta Bank, freezing their savings Meduza See more headlines & perspectives on Google News",
-      "date": "2026-11-02 11:44 UTC",
-      "category": "World",
-      "source": "Meduza"
-    },
-    {
-      "title": "Belgian prime minister quits after budget talks fail as king mulls whether to accept his resignation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejZQTk9uS2tNZXUyeDA0WUFCaUpXNGZkN1VCX2xVY2pqUWE4LXExczlDS3pXRlNFSHZIT2VLektDTXBZYVB4NzFaY2RjY3kzaFgzOURYRkE3RFpLdFR6c2ZHbXlPaDgycXRHaTh4TVk1MTBOd0YtMFZwNGJxSm1mdGZ5TjlNRTBiNThKMzRiN2c0NmJiYlJ5T2RyY0RJTjlBUXhVaUV2YzhLQnhR?oc=5",
-      "summary": "Belgian prime minister quits after budget talks fail as king mulls whether to accept his resignation AP News Belgian government in crisis after budget talks collapse Reuters Belgium's king considering PM's resignation, palace says Euronews.com Belgian King calls for political responsibility as he considers PM De Wever's resignation The Brussels Times Belgian PM Who Blocked Ukraine’s Russian Assets Loan Offers Resigna",
-      "date": "2026-11-02 11:40 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "Pakistan fined for slow over rate in tri-series final win against Sri Lanka",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGkxb0ZiaVZwSWJCU2J5MXZETGJ1RGxiLVhHT2dHSmx4cWxGSHIxbUNyY2U2RHlrQWdBNVdoLVpVcUlGLWpmOVdFR2xRazZVeXdhbXNQTFFCd1hyaVM1c0NNUjAySHB3LVhEUXNtdXRSNU9hVHRKM1V0ZW55TEpINWgzUDhXMkgybXV3bFoyRllMcFNYbWEtYU9kclJubENpZWhFR3dvek1ERXhJMUpVRjdTS3DSAcYBQVVfeXFMTUV5MnE2NmtzaGJ3RF9uVmJHUjNzRzFGOGFqYmdybnJJeFk3RmJaRkozM1g0QTR3YVQxNGVlYTNCLWZicXVMbWN0Nl8tUWNtSV8zYWx3al85eGxiR19JSmxfamV6ZGpUaFZrZnNQT2tvS0hzdllPbXV6WWV3MXpNMTRjWng4WlJMN2FzYTlrempEeFJFVEdocEQ3dDVjSGVuUzM4UEY4MUt2SEJPQlJHMlllWWc0ZjgzcU56bW1TU3picGROYUNB?oc=5",
-      "summary": "Pakistan fined for slow over rate in tri-series final win against Sri Lanka Cricinfo Pakistan’s past and future make a bid for the present Dawn Fakhar's 127, Arafat's 31-ball 61 lead Pakistan to tri-series title Pakistan Cricket Board (PCB)",
-      "date": "2026-11-02 11:34 UTC",
-      "category": "Pakistan",
-      "source": "Cricinfo"
-    },
-    {
-      "title": "IndiGo may fast-track overseas growth amid Pakistan ban, Middle East disruptions",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSXlOMFZiYjY3VmNFNFVpWThOMWpFOU9uRG5PQ0JJV1ZuaGR2U0lncEdETVZ3SmRnZXA0RGwxSFcxUzRYZTVUUFd4bWRiM0x2aUl3djZiNWxBY2l5RzhKMkNWbUloRzh4TnVONnVra3l6dTZ4LU5RdVR1WWJSYm9BV3N5S19fbk5DNXRsTmdzSHljaDA5ZFhSbVQ0Y2FBeV9TNkw4eE83bGwwSTg5cWRPak81ZUtPODQ4TWdhYw?oc=5",
-      "summary": "IndiGo may fast-track overseas growth amid Pakistan ban, Middle East disruptions Arab News PK",
-      "date": "2026-11-02 11:28 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan’s LPG Crisis Needs Supply-Side Reform, Not Just Price Controls",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYU5yUWxlaWRpZG9sNU9kRzEtZWI5X0FITHB6dUkwMUR0d0luYW93cEhSUjFyZFJETkRFcHRjNGVtazJSLVl5bUdyRjQzcVAwa3owQ1NGb3dPUV80dGdnajZxMmlmYm1OV3pzaHUyQVhNZUUyOVlWT3IzbGVGb0V2NEhDcjFNTnltNm1fQ256aGdndFg3dEJmdV9hTWJ3Ml9idXlFc3JoZw?oc=5",
-      "summary": "Pakistan’s LPG Crisis Needs Supply-Side Reform, Not Just Price Controls The Friday Times",
-      "date": "2026-11-02 11:05 UTC",
-      "category": "Pakistan",
-      "source": "The Friday Times"
-    },
-    {
-      "title": "'An icon of Soviet space exploration': The Russian stray dog that beat humans into orbit",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTJXVnd1RlNfWkVZWW45dXB2Ul94VzdRSUd6bVNHY1FrQ2llbzItUU9nVGo0U0VFbzM3bDVHQjg3a3hmTVJka2NmUXdTMW5Qc2dZMXdLYjdOdUlrSmVHN3pLYU1yVmRYQWY1UURiMG5Xd0tYakhCc2djeXB6QXZTZ1Z3YTNYNVNfckFjT1NIamdndmJvb2tYTXRyWGZEYWtqcl9qYUJkVEs5N0x4cnNTNzBTdkpickl2UlBaNEpoRk0?oc=5",
-      "summary": "'An icon of Soviet space exploration': The Russian stray dog that beat humans into orbit BBC See more headlines & perspectives on Google News",
-      "date": "2026-11-02 11:00 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Pakistan, South Korea sign MoU to strengthen judicial cooperation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnNxZ0hNYUh4SFk0bmlaWHJYYnRJOG8zMGszbTNoN1U3MmlzWllHTDZqUENud0NmVFBtM1dWQ1VReUNLX0lCc0RPQmlINTRTUDd5c3hJdUMtMVJVV2ZZbmR3NXVpVVVTRUU0dlJYYk1XWEZWWTYtdTNtb0wxMzVfWkp6V0xERnZ0Szl0Yml2VURqQncwcFF3bjJpT3BGZ2xv?oc=5",
-      "summary": "Pakistan, South Korea sign MoU to strengthen judicial cooperation The Nation (Pakistan )",
-      "date": "2026-11-02 10:51 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-      "date": "2026-11-02 10:48 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Donovan Marx farm attack: Five arrested after South African farmer shot and tortured",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HM2VzbVZ4aUtsQ1NMTWpYaGtMN185ZnZYQS13TkpkOUR3VXZoendENmZwSU1HM3BKUGtLbl9LV0lkdDJrbmJ5RHdwbnJtS25iMFNzR2hEREQtM3M?oc=5",
-      "summary": "Donovan Marx farm attack: Five arrested after South African farmer shot and tortured BBC South African police arrest 5 after farmer is shot, ears cut off in violent robbery AP News EXCLUSIVE: State Department accuses politicians of endangering Afrikaner lives after gruesome farm attacks Fox News ‘We never called for literal killing’ — Malema defends ‘Kill the Boer’ chant Daily Maverick MP in hot water over farm attac",
-      "date": "2026-11-02 10:48 UTC",
-      "category": "World",
-      "source": "BBC"
     }
   ]
 }
