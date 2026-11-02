@@ -1,6 +1,182 @@
 {
-  "updated": "2026-11-02T07:47:31+00:00",
+  "updated": "2026-11-02T09:18:57+00:00",
   "articles": [
+    {
+      "title": "PIA Boeing 787-9: Pakistan’s First Dreamliner Arrives in Norse Colours",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjBIbDVwcnh6UWhWZUs0TFhHU1J6eGlULVBsZ1J5ZVowcENvTGxBNHpIdXRYSXFuR2Y4Smo4cDhXbkplekZLaEJpODE4VHRpWVFTMFprZmFKRkxLRlV5R21HclZaZERaWnEwbFlqN2Z3ekpCR18xVUtBcjh3a01rNDFfaHBLdXFXMTlGazV6MjBnRlUwQ1hheTdtRVp5UkNnZVdoclN1Q3pJQQ?oc=5",
+      "summary": "PIA Boeing 787-9: Pakistan’s First Dreamliner Arrives in Norse Colours MiGFlug",
+      "date": "2026-11-02 09:17 UTC",
+      "category": "Pakistan",
+      "source": "MiGFlug"
+    },
+    {
+      "title": "Gold gains Rs2,400 per tola in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KUm1ZVHhLQUZKZHAzMVN2dkhwSmVFN1lNbERadnNWcTd0M3BXUldZazlPNGprX09xR2JNYlVlZHpUREhVRnNMN1RZaVB0TlpnQTVLSmFuZWVOcjgtRUpkek5PMWVVSWVzbkRCOUwyY0l6RDDSAVZBVV95cUxNVWtqaHNrZ3pYeXZDNUliWk5iNUVoaDd2eHFvc3VZdTlJaWotVmVaZU9femdoSkZuQ3lYcENBRnpDMWJRcHpna2VNU1IzZV9lXzVZMklZQQ?oc=5",
+      "summary": "Gold gains Rs2,400 per tola in Pakistan Business Recorder",
+      "date": "2026-11-02 09:14 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Nine killed as small jet crashes on Florida street",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "date": "2026-11-02 09:10 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Qatar Opens 30-Day Visa on Arrival for Pakistani Nationals",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTFB0NFIzQmJjNmEwWms4R3dLamFJc3lvSnFmT2pINmp6WGs5RWR0VGVvWlphb2dRS1ZkeFpGRnNybS14ekZOaUtSZjRURVFnRWpfYjNZM2tuN3BTNzU4WXhfTTkxVEpkMmprOG5GRnpWVVExVmdueHRENms1cmZhRjBMSGVWdw?oc=5",
+      "summary": "Qatar Opens 30-Day Visa on Arrival for Pakistani Nationals The Diplomatic Insight",
+      "date": "2026-11-02 09:05 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomatic Insight"
+    },
+    {
+      "title": "FinMin says government mulls tokenising existing Eurobond debt",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1ZmZTYzVWVmR3dYRWExT04tdjZZRGh4TjVYZ0c1YVI3OFFtV2cyZnV1MUFycy1UQ0szWm1VcHVfUzZRWlBiMlppVHl3X1dkN2RaeWIyZS1TWEZZQ3Q2bVpLTXFoRnhIUW5uV1RTUUVJYzQyc3hYUHFwLTVVNmotRGJnTm9OVVdzcWpQS0xZR3FhU3luQzhzSV9PUDhMa3BrRzRXLXlSTkJQWkpldzY2WTZqNHBXMVcyei1VZktEWHQ4Zw?oc=5",
+      "summary": "FinMin says government mulls tokenising existing Eurobond debt The Express Tribune",
+      "date": "2026-11-02 09:01 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Strikes Carried Out On Several Taliban Border Posts, Says Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FMjZodVZqWkg1S0g1bzRhbXJlbFViZlM0Y2tiSExaWHh4eU1tRnB6RmhFV2pHQW1OMk1BWVVEZFBXSmdUR1duZUhHNEpwZVU?oc=5",
+      "summary": "Strikes Carried Out On Several Taliban Border Posts, Says Pakistan Afghanistan International",
+      "date": "2026-11-02 08:55 UTC",
+      "category": "Pakistan",
+      "source": "Afghanistan International"
+    },
+    {
+      "title": "Over 8,000 police personnel deployed to protect polio teams in Pakistan's Karachi",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXlRdUlSUlgwaHgtRjNKSi1pUUlOWkxjUkRGNFBDQXA3bWZ5d0xTNDdTTUpCUmJOdVJxQWp3TzBPdnppWUJWZkxkMzBGbmtWVVIyX1BaaVF2dUFSWUh6SnM1eXRLYnQzdDBEYzc2MFVjNjFQdFdSVUJkM0R2UkRacDhiN0pTeFZZclZVUXRxeC1pOWVkcVVDNjNEY0FZVTdQbGtKLW1jajI4WEF0dUp0R0pBOWhTNWFXR3R6ZVdwVVp4SWs5Wk1DcU5jRXpUcFAyMkg0U3J4Vjc3cVXSAeIBQVVfeXFMUE11ekNHM0hhN1dkb0RwWmRKbThGSS04UTJVUGRUWVQyVVJCUDNqQzBlNk1QZHpPeTlPZEVwejkwMVBzUHV2SjQ0RHhlTGZwNjIxQ00zak1tRG9KbnR3bk5HS0h4VjkzY3dWZHoxb0tsbDJkSTJtV1dhbTN5NXpIQzJka3hFSnNGUEdTTkgwTE1DZVZjeU10ZXo1NWJhekhwWklQRXZBQXVFenAwTEUyUFV4cXNXMnBzZ0s1dXlnaWQ1VmlLRGhXLWxTVFNZdFNkbFgyeGZsMjh6ZS1XY2FXQkRYdw?oc=5",
+      "summary": "Over 8,000 police personnel deployed to protect polio teams in Pakistan's Karachi The Hindu",
+      "date": "2026-11-02 08:42 UTC",
+      "category": "Pakistan",
+      "source": "The Hindu"
+    },
+    {
+      "title": "Pakistan takes over SCO Interbank Consortium chairmanship for 2026-27",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXZXU3N5QzBmOS1RZjFUNTlCY045QmFKWS03LXpzN3lPSm9sdHpkRklWVXRpWUJDRFJrYjZaeUxXby0xcXlqSXlZeU40MlJDS0hPY3R5VjhfTWswY3gyRUhsWFdlU2dGaVNPTzBTVkFURms2NDV3d0VoNllJWlY3c0lSTV9CQVljMktWUmlnU0l1WVZzb2VMYjgwS3MyV0RfU1h5TUhQSm84VENRZmp1MmJR?oc=5",
+      "summary": "Pakistan takes over SCO Interbank Consortium chairmanship for 2026-27 Investify",
+      "date": "2026-11-02 08:41 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026–2027",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VSXhnYlBBeHRpWks2bHhZYW1vYkRYd0t6TnNnNk9NZHFJWVBuUnhqZk1WalFrY0NmVE4tc1ZkTFVuVTlVMlFCYWhSc3A5WWhaM3A0NQ?oc=5",
+      "summary": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026–2027 AzerNews",
+      "date": "2026-11-02 08:41 UTC",
+      "category": "Pakistan",
+      "source": "AzerNews"
+    },
+    {
+      "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "date": "2026-11-02 08:33 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmptZFJEU2swVThvczdzLW8tSVI4WlViaHhQNUJIU3F6bWtvWVRjamp1cENHbDl6dldsVmxjVkkwcngta1FObVBaVEo5Ri1tc3poQll3UVFtYW05M0FZcC1kSkxPS0M2NzA3UkRRNUdHdmF0eG9saWZDeDE0d2x5MHl4dk5wbTJ0STVWRnpOVENST1I5eERTWWlZQkIzQnBxZXQ0ck9TVWJKTm8td09r?oc=5",
+      "summary": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27 Arab News PK",
+      "date": "2026-11-02 08:31 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan: Teacher shortage, security fears shut seven girls’ schools in Khyber Pakhtunkhwa",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMzR5akdiUGFFRDNlNTE2cTM1dlRvMEpVWXhUazZabUdPZlE2VXNzREk2Zld3TERibUZxNzZ5ZElIU1JPMVM3SkRsN3R3elRBc0lpZHFDUEZ2b2YtaXFrMXowb3Z4ZGgxeERibWY0cUJPQUtsTURnNElsRGJsNmpGN0QxUkdhRThGOWtDOFk4ZTdkY3NRQ1Qza25oalRMemJuTzk1dDJNMWFtS2VRbnJPWjBxQTJPTEk0aTFQNkZSR1NDc3J1c3NvcHZMSXVTR3dkMXA0YUllZHZjdGZI?oc=5",
+      "summary": "Pakistan: Teacher shortage, security fears shut seven girls’ schools in Khyber Pakhtunkhwa ANI News",
+      "date": "2026-11-02 08:28 UTC",
+      "category": "Pakistan",
+      "source": "ANI News"
+    },
+    {
+      "title": "Pakistan eyes Eurobond tokenization, awaits cabinet approval",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUy1PRGlGUEZKVThfS0JmTWN2STVTOXpaaHZnc21KVGplRTdfS2Y0akg3YUdMOVhqVElZQ01KbU5aRkFNRGp0SHJBbFRtLXl5dU14WlNVSTBpWDRrY2xGWklYT0FFZnc2NlZsM0M4OFljUVlxdnNieHNmRXF6blFfQnpCczA1SnQ5cVBSbEJ0MjYzcFFrajlNTjRLbnlzTjNBZXFybA?oc=5",
+      "summary": "Pakistan eyes Eurobond tokenization, awaits cabinet approval Investify",
+      "date": "2026-11-02 08:24 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "The Islamia University of Bahawalpur - Celebrating 100 Years of Excellence in Education",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcDlYejQ1cGdRZkNiX0FuWUJZM2lRV1g4RGc0TGVaS0RLVi1SOV8yS25OQmd5WmZxQ0Znd1Rsd0lCM1d3NWV0cnVnRnZIeC1xbDFuZnF1Q0hTQWlnRldMYlN3aXEyc0xnSGs0VWZSZll0OG1nVExzZVlkWUdFZlJiVWNobTZTWURzSm9vRUpPZkxiY1IwUmdBZktNQzhDb05uRnNTOTVTMXgySDRiWE9ta18wZ3U5Ym95UDBybWlvdEcxUjhhbW9GV1J5a2E4bThKRjd4UVVjNEJsTHIySFZfQg?oc=5",
+      "summary": "The Islamia University of Bahawalpur - Celebrating 100 Years of Excellence in Education The Islamia University of Bahawalpur",
+      "date": "2026-11-02 08:24 UTC",
+      "category": "Pakistan",
+      "source": "The Islamia University of Bahawalpur"
+    },
+    {
+      "title": "From chicken to vegetables, Lahore consumers pay well above official rates",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdG9HNXltd3V4X3F4M0xGODRwcEpXeTNac2xkM215UDVEbnF3NDFoYkdaYTF3SWFReXVzTU1TTUgzOGNxOTVjMW1uRjZaakwwaDR5bUd1VjFFYWhJNVdXaDkwYTdPUElJX05uSE1LdWZpTTJmMEh3MnFFaDVsQmhkcElMVm13MjFrTUFWbWt6alFRX1pvVV8wZDNXQWZMWGFZRzBjLU1LZERhUWtSdDY1VmM0UGpKblk?oc=5",
+      "summary": "From chicken to vegetables, Lahore consumers pay well above official rates Investify",
+      "date": "2026-11-02 08:19 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan eyes Eurobond tokenization, awaits cabinet approval",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFVHWW9YdWlUM1JlSlEzenBuZ3BLVk0xZTcxQ1VsNGw1UmxzRFRvVy1PYjZfVFRxLVRNT3pYVEVJRUk5V2Z1T05fTnB5QVAyajJMWDkwaEhRVnc5UzZueEl5RHNuMFZSYlpNMFkycWJtYldKeFQwRWYyTWdBYUMyVlZpQ1RFXzRFVG9DcFpBbVpodVNNX2c?oc=5",
+      "summary": "Pakistan eyes Eurobond tokenization, awaits cabinet approval Mettis Global",
+      "date": "2026-11-02 08:16 UTC",
+      "category": "Pakistan",
+      "source": "Mettis Global"
+    },
+    {
+      "title": "Pakistan assumes SCO Interbank Consortium chairmanship for 2026-27",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVJ2U1dfeFVRUDN3ZF80ZWJldlhuR0ZyRWgwd19EVXJINGtwMF9IY0NUeTdoS2FLajQ0cGFZQUQyZnhycFhKNGtPRE1STHVlaDNtOUdBRll6YlJtcUhzWklPOF81WS0xcnpReW5udnFWUzFNUnZDbDRnLU9oaTdDdm1FX3JrNVMxVG93M0ZWUTV2OXlBbGdNSWxaZXJTUEdHeWQzSTVB?oc=5",
+      "summary": "Pakistan assumes SCO Interbank Consortium chairmanship for 2026-27 The Express Tribune",
+      "date": "2026-11-02 08:15 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+      "date": "2026-11-02 08:03 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "How crypto world made inroads in Pakistan : The Indicator from Planet Money",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVkxHSzBybEVIUi1YekF0anpRT3ZaT2RQNWpyY2RUM25va0RaWTNSa0hMdVVFZlRZSkNjaXY3Vm9jN0oydDJaeHJoaG1rbi1KR3FTWHczdld0c2s0WThJaVFMS1B3RzN2ZDJBb1hvbC1TNHdMUW9vQ2lLNk9IRkQ5WDliaFJqZkJOX1FyelJkSQ?oc=5",
+      "summary": "How crypto world made inroads in Pakistan : The Indicator from Planet Money NPR",
+      "date": "2026-11-02 08:00 UTC",
+      "category": "Pakistan",
+      "source": "NPR"
+    },
+    {
+      "title": "Chaudhry: Taliban Cannot Withstand Pakistan’s Military Actions",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTDNIWTJaWlNhcHJsUXljdnBhZ0d2aGpzVFh2THlKVmdQNVc4VGN2Y1lVMkwtSnNCV250YnJaYUd2MnB1ZlU1UzVTd0JMWVEyNTc1QmxyaTYxZW1jN2ZiWElCaVFhbDRVeGVjWkhCYkhCQW5CR1laS3dsUVo2Vno5ZmUxRDJGaUdnWXo4?oc=5",
+      "summary": "Chaudhry: Taliban Cannot Withstand Pakistan’s Military Actions 8AM Media",
+      "date": "2026-11-02 08:00 UTC",
+      "category": "Pakistan",
+      "source": "8AM Media"
+    },
+    {
+      "title": "Singapore's HugoHub makes first live bank deployment in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN1V1eDY3cXBrZWhUMHhaZ3I0VU9zNWY2T3dnR1VLY2tTc0JZZmk3RU9MT0c5N1RDdWI3RkRjQnZqdVZnTzRlemQ2TmJrQ2tKUUVPNUhhcEozSmF5SkpZQkdScjZDSmo1NHdRdFlhR3B1dGZNUW5KMnFrSnlNUWtWRnJmMFFPak9wRUZsM2VUVFdkVWtSQXdlWi1wQ1ZQdzU3?oc=5",
+      "summary": "Singapore's HugoHub makes first live bank deployment in Pakistan TNGlobal",
+      "date": "2026-11-02 07:57 UTC",
+      "category": "Pakistan",
+      "source": "TNGlobal"
+    },
+    {
+      "title": "Taliban government voices ‘serious concern’ over US plans to deport Afghans via Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZS1wTUJmYmVNVk8wXzlZeWtLZU5kdW9qemxuR0ZYV2V1YjIwTTdJbFNMRVREaXo2Wlg0MVZndmd0V2xrTGg0THJRM3Yta1BBWk5EQkNHNTFLTEpWR09zcXB6ckV3MlpWcDFfS0NzX2lfMkJHd25SeTBvRkRBMVlJdnhGYl9HLWJjcnJoczk2TmNMTHB6bURiVG1jU3VCSmdUemNIakR5WWM4bVU1aU9xUFNING91cHl2bUVSNjN1bWZVWWNkSEE?oc=5",
+      "summary": "Taliban government voices ‘serious concern’ over US plans to deport Afghans via Pakistan Arab News PK",
+      "date": "2026-11-02 07:48 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
     {
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
@@ -10,12 +186,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "date": "2026-11-02 07:33 UTC",
-      "category": "World",
-      "source": "BBC News"
+      "title": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVJWYnVaZU91MlRRZ2c3bjdqT1ctekFTVnVIdnRPZ2lzNlNVcVdLRFoydmRlOGVHMlk0cEUyVG5rM3B5OE80RVVGeFo5dHNhNkFYeHpTR1N1VDdUVlJ6cWZaUzFfa0tDa3pRY1pfbXNPSG4wM3dTbV9GWk5XMnliNFVvREVSYTE0LU1lRVl5UG00bk5nS0dWc252VlhWNnVRVFdXdlNoNUhLQy1kaFM3MHhZV0N0WFRHSWpMOVhzbDJodHgxSnF3?oc=5",
+      "summary": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM Arab News PK",
+      "date": "2026-11-02 07:41 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
     },
     {
       "title": "Taliban voices 'serious concern' over US plan to deport Afghan migrants via Pakistan",
@@ -27,17 +203,9 @@
     },
     {
       "title": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazZ1a19oUFJ1M1lOZFVRWjAxM1RwOWRIWDVSUzR2dWtPaVMzOE5LUE9nb0VPVXI4ZzI3bEp6MEdwYmxpSEd3dFhyUE9rV0Y0TFhNMHpxVHBfVnpuU2FyVFUyekw3QTFnQzZ5STZZazFWOTZFWEdERUZCYXBycWt6Qm02cGg0RlhDczRTWFQ2b1FEbGFTTWhJeFFIVWxiZW5KaW90TGtB?oc=5",
-      "summary": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27 Dawn",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWlYQzZudGhSeE5ubWpXUU82eFFZd1dPcFlreFZBclhTRk0tcnBmQkNsTGYtQVZ5MDM3eVhqWlZXVEZWWkJUbS0yR001NlduaXUyaEs2Wjl5NzhZYXRBcW5vYlBKTXZmbkgtZTVvMGZhc0RnbDZoN0l6QnNPRmlSVlJmUzZXRnNxRzlwNUtQWDU0cFprbXdPV094dlNnSU52dHFpcldYRTYwOVpTVnJNelh3?oc=5",
+      "summary": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27 Investify",
       "date": "2026-11-02 07:25 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Karachi Port handles 101,000 tonnes of fertiliser, wheat from two vessels",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNVY0tudHVobFBfOURfYlNkc3VNYmRNT1h1MzhKUXRtQ09pNU54TmRiaVY2TENaR0o1T1M2eHZ3aWp5NV9vOFVMZmlHbWY5RVIzaTdReEZfT2hTdTlXeGhUWnZjaWVpMG5NVk1heTZzdGctRmF5SWxWS3NKdkRPUDJIeHlOeEhEckZ6RUo2VnRmZTFoSl9mbFF2UmJITjVIZXRnR2dVVUl0VU10cFVZa1F1VmloUQ?oc=5",
-      "summary": "Karachi Port handles 101,000 tonnes of fertiliser, wheat from two vessels Investify",
-      "date": "2026-11-02 07:23 UTC",
       "category": "Pakistan",
       "source": "Investify"
     },
@@ -51,6 +219,14 @@
     },
     {
       "title": "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE5kSjgxMGF4N0dhU1hkVEp0R05oU0tMX3BoaHVxaF9vS1N2WGVrSlBueHRoYXhWVHBzYnJuNDE5VWxkZ2J3b0Z6bXFzNXRNNTd5SkpBRTc0QTVJNWNrb252QU1qcUx1aURrdmVjRUFvVTFITTNFZFhfYUQ5eVR2b2NKOEdnTWZ1U1ZvSmJnOFBlbVNnYV9wVHAteUl1blYtek5BQU53UXJ2MXVMcDZNaNIBVkFVX3lxTFBSdGpQaFllX3hmcjZVRGR2LW9IYm9sRXR2SWIyMTdWSGZfQ0JqbkZ5cXVwODRwY1MzNENCdkZjdmNLQ1FfNXB1TjRRTWtkOW9GOTMwRlp3?oc=5",
+      "summary": "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb Business Recorder",
+      "date": "2026-11-02 07:09 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGVuSk5LNHFZLXlLbkEyNHBPR2h2TlpPbzVRRl8tVl9zU1NXY3ptZGtnd1lLclVrb0N1anFNU2czeTB4aWpfY2xxSGhkZWxPUXlLNlJfNDRERUZrMDF0ZHhTRktPU1FxbzFXdUdJUGlsUHpmekRiM2pIcjBZN2VYT3poNTNKQ2JtZWZqblFYc2NkSjQtMWhXMkhEWjVXZ2lCWktBZWtOZmpZTTN3V2VWXzB0cXo?oc=5",
       "summary": "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb Investify",
       "date": "2026-11-02 07:09 UTC",
@@ -58,12 +234,12 @@
       "source": "Investify"
     },
     {
-      "title": "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE5kSjgxMGF4N0dhU1hkVEp0R05oU0tMX3BoaHVxaF9vS1N2WGVrSlBueHRoYXhWVHBzYnJuNDE5VWxkZ2J3b0Z6bXFzNXRNNTd5SkpBRTc0QTVJNWNrb252QU1qcUx1aURrdmVjRUFvVTFITTNFZFhfYUQ5eVR2b2NKOEdnTWZ1U1ZvSmJnOFBlbVNnYV9wVHAteUl1blYtek5BQU53UXJ2MXVMcDZNaNIBVkFVX3lxTFBSdGpQaFllX3hmcjZVRGR2LW9IYm9sRXR2SWIyMTdWSGZfQ0JqbkZ5cXVwODRwY1MzNENCdkZjdmNLQ1FfNXB1TjRRTWtkOW9GOTMwRlp3?oc=5",
-      "summary": "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb Business Recorder",
-      "date": "2026-11-02 07:09 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
+      "title": "Ukraine and Russia air raid apps hacked to send fake radiation alerts",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+      "summary": "Ukraine and Russia air raid apps hacked to send fake radiation alerts BBC Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks BBC Ukraine and Russia Report Cyberattacks on Emergency Alert Apps Bloomberg Russian emergencies ministry's mobile app hit by cyberattack, TASS says Reuters Ukraine says air alert system hacked after false radiation warning in Kyiv Fox News",
+      "date": "2026-11-02 07:03 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
       "title": "Pakistan-Bound Qatar LNG Tanker Struck Near Hormuz Despite Prior Security Clearance",
@@ -106,20 +282,20 @@
       "source": "Energy Update"
     },
     {
-      "title": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVJWYnVaZU91MlRRZ2c3bjdqT1ctekFTVnVIdnRPZ2lzNlNVcVdLRFoydmRlOGVHMlk0cEUyVG5rM3B5OE80RVVGeFo5dHNhNkFYeHpTR1N1VDdUVlJ6cWZaUzFfa0tDa3pRY1pfbXNPSG4wM3dTbV9GWk5XMnliNFVvREVSYTE0LU1lRVl5UG00bk5nS0dWc252VlhWNnVRVFdXdlNoNUhLQy1kaFM3MHhZV0N0WFRHSWpMOVhzbDJodHgxSnF3?oc=5",
-      "summary": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM Arab News PK",
-      "date": "2026-11-02 06:39 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
+      "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5",
+      "summary": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Bloomberg Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times Egypt fears escalation in Iran war would be more destructive, foreign minister says Reuters The Gulf states fear renewed war after the midterms NPR Mideast leaders call for calm as fears mount of a renewed war in the region, and other Mideast news The Boston Globe",
+      "date": "2026-11-02 06:35 UTC",
+      "category": "World",
+      "source": "Bloomberg"
     },
     {
-      "title": "Lahore's air quality index crosses 530 as pollution reaches hazardous levels",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYlZjLVpGbzIzQTVvRzNOb2Q0X1NFSi1EcjFXdjlZT2NjYVFlQzI1aWp5M0dJV0RURDQ1eFhRWkJyanhTZ1gtWnlqWVRrSFlPWC1pMmJMbnBoN0xhMGRCMHlLYjVyX3JxdTVkeHZOUEVKbUhnWFJndzF5ZEFXaUF0NDRtTFpVLTZ5RVhWY1htdlhzdmZ5bG1qRjBzRUpzSlNUQlJWSEY2VGxfYk9oSGc?oc=5",
-      "summary": "Lahore's air quality index crosses 530 as pollution reaches hazardous levels Dawn",
-      "date": "2026-11-02 06:39 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
+      "title": "Zelensky Ready to Meet Putin in Turkey but Rejects Donbas Handover and Crimea Recognition",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BVEV0cVpGaC14MENlUFVMR1JiNGZRbTQ4NU9uRnZDcXNnaHhqR0Z4MWxjR05BeU5GTE5NZ05ndEd0MEx4RlZudkdZUQ?oc=5",
+      "summary": "Zelensky Ready to Meet Putin in Turkey but Rejects Donbas Handover and Crimea Recognition Kyiv Post Zelenskyy proposes meeting Putin in Türkiye, Kremlin says in Moscow CGTN Zelenskyy Hopes For Ukraine, Russia, US Talks By November 10, As Trump Floats Putin Meeting With Ukrainian Leader Radio Free Europe/Radio Liberty Trump says peace deal between Ukraine and Russia getting closer Ukrinform Zelenskyy must travel to Mo",
+      "date": "2026-11-02 06:35 UTC",
+      "category": "World",
+      "source": "Kyiv Post"
     },
     {
       "title": "Pakistan penalised for slow over-rate in tri-series final against Sri Lanka",
@@ -130,28 +306,12 @@
       "source": "Cricbuzz"
     },
     {
-      "title": "Pakistan docked for slow over-rate in tri-series final",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejEwT2lUUzR4SUw0QzRfT3dLekJ2ekduQU83Q1NwcURhVTNZSXR2NVphNm85a0M4TmN1UFlUUXBDOU1NSld2ZnU2cGozenpNdXRZN3Z6X3dwVWw5NXBHclJvRC1VNHBNdzE5LWIwS0w5T2dZY1hIMm5QOXozemY4cE02VzBMb2g5SEhYRWt6Mjl3MnJSQnBweXhFZG5MLXBi?oc=5",
-      "summary": "Pakistan docked for slow over-rate in tri-series final Cricbuzz",
-      "date": "2026-11-02 06:31 UTC",
-      "category": "Pakistan",
-      "source": "Cricbuzz"
-    },
-    {
       "title": "Foreign exchange rates in Pakistan for today, November 02, 2026",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWdXUEY5WTZUM0xKR244bjU4cTlGa3B2QWprRWhCcE9leXZIdFBXZ0h3UXZiUnM4MFB2dERJRXNPMUt1U0tyTUY4WHhMekVVdW9GRHZraW1BN1A5MTVITzZsRDl2OV9SbGZ2ME9RSEZ4d09WUUVvVEk1SWtPaG1TMnlqX1pybzZTa3ZzWjNEekUtZG1tNHBkbmd1N3VSWjNQcTFlMzFuWQ?oc=5",
       "summary": "Foreign exchange rates in Pakistan for today, November 02, 2026 Investify",
       "date": "2026-11-02 06:25 UTC",
       "category": "Pakistan",
       "source": "Investify"
-    },
-    {
-      "title": "Pakistan fined for slow over-rate in Lahore final after clinching ODI Tri-Series title",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbF9TbmtEMGpBZU5pbmtHS2M0d1puX0wydVN0MUphTW82cTR1dFlRTmljLU1pZTU5dXgtRlNNZFRfbUliRW5kWU50ckxoYXZwcEtmY0VmNnVEWnZtZmw5LWFSVk91WXdOZF9MRGg3d3BJOGhCdVNfa3VHM3A1eE0xNFQyRUI2b2dCeFg2OFRyTEx2elFhZXljT2pnYjJsRVpLWC1SanhJRUZkY3J3VGRsVHNDRzVQWkJ5RDRfQlRCdjBUNjRQSzJJeUxJdkYtRVJIVi1XbXBGeHVOQ00?oc=5",
-      "summary": "Pakistan fined for slow over-rate in Lahore final after clinching ODI Tri-Series title ANI News",
-      "date": "2026-11-02 06:07 UTC",
-      "category": "Pakistan",
-      "source": "ANI News"
     },
     {
       "title": "Banks in Pakistan falling short on climate and biodiversity financing policies",
@@ -202,6 +362,14 @@
       "source": "Pakistan Cricket Board (PCB)"
     },
     {
+      "title": "Milton Coleman, a barrier-breaking editor at The Post, dies at 79",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0dqWDYxaVlPaktWV3UyU2lZWHhyRE82Mnh6MEROWWlGdjZLRGRRLWlNTjBuN1Q0aFctM0VrWXRzd19NQmRtdDM5OC16Sm5xQ00xY2JIY1NrYV85R3R0b0hRdW44WnBSVDZTRXd3VFoyNkZ2ZS1ZQnRadmZwVTByUHlGWnVqZlhHSnhVQ1dtVWRSQUQ4YXRXYnJTc01jeWdZcVZCV0xHSGg?oc=5",
+      "summary": "Milton Coleman, a barrier-breaking editor at The Post, dies at 79 The Washington Post",
+      "date": "2026-11-02 05:28 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
       "title": "Pakistan launches polio vaccination drive to reach around 24 million children in 97 districts",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWFiX1V5WExFbWU3ZldocVBVNDF6YnMwdU8tbkRQYnkzWGVCdVJ5QWQ0eE9HMjFGdlFtMkNvZGt5Yjc0UjV2WTJjLVZEY3JTOFB4cXIwbFlEVW03YXpYQzZHejFfUG1VMEtfYkUtVDYxWFFLT2NfR21tMXByNzFrQ1g2TFVfNFE4Y3lQcmEwRk5DOWNsYk9GSGxJcy1HV2J4aE41a3dlQ2RfYnBsX3JsLXlkLUNpZ0JXNkZtVWoxQXpkb2VicWVEOUFqRFc0MVk?oc=5",
       "summary": "Pakistan launches polio vaccination drive to reach around 24 million children in 97 districts Arab News PK",
@@ -250,22 +418,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdEhaY19DQXQ2QTFMMGxMSGZHUmJHZTZ3S3FwMHkzdlFpMFdoSVRhRUZKdDkzdk9NdHUtT0wxOTNyVmJPVExtbWhEQ1ZvVUxvOWdfdUpR?oc=5",
-      "summary": "Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks BBC Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts The Guardian Russian emergencies ministry's mobile app hit by cyberattack, TASS says Reuters Ukrainians sent false nuclear attack warning in suspected Russian hack The Telegraph World in Brief: Cyber-attacks in Russia and Ukraine; shock ",
-      "date": "2026-11-02 04:49 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Reko Diq launch in Pakistan may be delayed until 2030 — Dawn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGlJTU1IaXM3YWFzRnBXeWlLbjY1cGU0TVZWS0RVbGxZWWNGVFAtNWVfa1plSHhYUmtvM3otckRkal82ZmpPNmhsLURBdTlQcU42QUtPUllMbkdOU2tkaTlxVkFwbm1ndnNGekFxNW4yN3hKUzB0clRHNnViZDhaUmJqMjNwUHBVdzRvdGtxQmNtZw?oc=5",
-      "summary": "Reko Diq launch in Pakistan may be delayed until 2030 — Dawn UA.NEWS",
-      "date": "2026-11-02 04:45 UTC",
-      "category": "Pakistan",
-      "source": "UA.NEWS"
-    },
-    {
       "title": "How a Democrat in Michigan rocked the party days before the US midterms",
       "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
@@ -290,17 +442,9 @@
       "source": "Investify"
     },
     {
-      "title": "Pakistan marks 79th anniversary of Gilgit-Baltistan’s independence — Dawn",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2t4eVhGUHRyNVlUZXFuaHBVc1pJdzRNOVpxdTBOVGxqUWZaQWtRUU5SempGTnVuekdnVVRVN1F3QUxjZmZTY1FBbk9uNjNwUTRqY25PWWRZak1EVlFtMUVQTEx1MDlRelR6UUttQU93S3BKLUdEeFZkSGYtQTRoaHpJWk55eDIxQjlyLUxnNWNxZWlMam50OHppaFZHMmJIRHBzZnRRTUpucW1kWHBR?oc=5",
-      "summary": "Pakistan marks 79th anniversary of Gilgit-Baltistan’s independence — Dawn UA.NEWS",
-      "date": "2026-11-02 04:15 UTC",
-      "category": "Pakistan",
-      "source": "UA.NEWS"
-    },
-    {
       "title": "South Korean army sergeant dies at frontline unit with external injuries",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSm1rUzNlZlZTYzNIdmEzVVQtdG4yMlYyUWlydnU2VzRUNTBKLTZSTzRiT0xWLXBBSlpWSnloUnJOUVVhVW9ueHRSY2FBWDExOGxRSnJyaHktNHNVeFgwUXZNZUNPelpCQ3lhNWtVYXhJcHpTcUZPRDRFZFVPVHp0YmwtQ3Nvd041YmNMRVRJLWRBVjcxYXltSmtFWEVRbF91Nkc3cVROQi1FVWFob25kdDhRR0Q0c1dRV0s2NFlxaVFkdw?oc=5",
-      "summary": "South Korean army sergeant dies at frontline unit with external injuries Reuters South Korea probes death of frontline soldier near North Korean border South China Morning Post South Korean sergeant killed on North Korean border as tensions begin to boil The Jerusalem Post South Korean soldier found dead at frontline post near North Korea Anadolu Ajansı A non-commissioned officer (lower officer) was found dead in a f",
+      "summary": "South Korean army sergeant dies at frontline unit with external injuries Reuters South Korean sergeant killed on North Korean border as tensions begin to boil The Jerusalem Post South Korean soldier found dead with visible injuries near northern border Stars and Stripes South Korea probes death of frontline soldier near North Korean border South China Morning Post A non-commissioned officer (lower officer) was found ",
       "date": "2026-11-02 04:12 UTC",
       "category": "World",
       "source": "Reuters"
@@ -362,14 +506,6 @@
       "source": "Institute for the Study of War"
     },
     {
-      "title": "NEPRA urged to revise consumer service rules over grid charges, detection bills",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMTBPMFBXWURDN21Kb2VOSXU1QV82UWhwV0FBRmxMY0FBeVotbjJCSXJFSS16ODkzbGdKOVAwb3RCOElfb3ItLUdCWGV3TUJIZENYYlhSUnlTQXUzYVBqTUkzVlNzWS1PemJ2eTdmN0pYMHZ3bVVYMmFEbEdORzJLRWN2cmtidXFiMEVGcno4MEFNVlZrWjhYTHQzdDNOVnFldE1rWC02QlZHY2w1UXZYMmsyZE91bTdTY0hPZTdB?oc=5",
-      "summary": "NEPRA urged to revise consumer service rules over grid charges, detection bills Investify",
-      "date": "2026-11-02 03:23 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
       "title": "Unified crypto industry body in Pakistan proposed",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFU5SVZhbV9CLUdXMW5aUWlwTWlKY2hXQUxWM3RUTkZ3Uk9MNXgxYWxvWVVHOG96MnpCN2tKdmZFX1B3VDVBdWs5ZWo4OFVxNENoQmo2cjZCdkJ3X3Fvb3FiOURWczltRW92ak42bWpzRWYxQWJMOE83Vm9YMTZqTU9aY2pkY3pSLTlja2dEX1U3a0MycjVN?oc=5",
       "summary": "Unified crypto industry body in Pakistan proposed Investify",
@@ -380,10 +516,18 @@
     {
       "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
-      "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News Russian Offensive Campaign Assessment, October 31, 2026 Institute for the Study of War Humanitarian ceasefire in Oleshky enabled evacuation of nearly 800 people – Melania Trump Українська правда Oleshky ceasefire expires, Ukraine evacuates civilians from parts of Kherson region Reuters ‘We Are Coming From Hell’: A Ukraini",
+      "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News Russian Offensive Campaign Assessment, October 31, 2026 Institute for the Study of War Humanitarian ceasefire in Oleshky enabled evacuation of nearly 800 people – Melania Trump Українська правда ‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories The New York Times Oleshky ceasefire expires, Ukrai",
       "date": "2026-11-02 03:05 UTC",
       "category": "World",
       "source": "AP News"
+    },
+    {
+      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdHdybEcyVUp1Mkhoa2FDdndrNDNhXzhRNU9DaXdaalBfbVljanZQREMyYkNEY2E2SmEyNGlhQVJKS2tlT21FZjRHXzQ2RU9rMkNGeXgxVm1IYkE?oc=5",
+      "summary": "King to address slavery in Antigua as PM says he is open to possible UK apology BBC Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong The Guardian The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table AP News Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery The New York Times Britain has already paid repa",
+      "date": "2026-11-02 02:46 UTC",
+      "category": "World",
+      "source": "BBC"
     },
     {
       "title": "Pakistan takes G-24 chairmanship, sets three global finance priorities",
@@ -397,7 +541,7 @@
       "title": "Pakistan Says Its Forces Responded to Afghan Taliban Firing in South Waziristan",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiSGtsbTRFbUwxaWwwMHlzTDQ5eVE4NHJIMEIyUnVtd194ODRkTDRvQ3FNVDkzaGJrZkY3NFJHdWpIanJTTldQdXhrMXE5R0U?oc=5",
       "summary": "Pakistan Says Its Forces Responded to Afghan Taliban Firing in South Waziristan thekabultribune.com",
-      "date": "2026-11-02 02:29 UTC",
+      "date": "2026-11-02 02:30 UTC",
       "category": "Pakistan",
       "source": "thekabultribune.com"
     },
@@ -412,7 +556,7 @@
     {
       "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
-      "summary": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India Bloomberg China’s Message to Its Rivals: You Need What We Make The New York Times China's New Export Curbs on Tunnel-Boring Machines Raise Concerns for India's Infrastructure Projects Siliconindia Gadkari urges industry to manufacture tunnel boring machines in India The Economic Times Gadkari urges Indian industry to manufacture tunnel boring machines a",
+      "summary": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India Bloomberg China’s Message to Its Rivals: You Need What We Make The New York Times China to restrict exports of giant tunnel-digging machines; why India could be affected The Times of India Gadkari urges industry to manufacture tunnel boring machines in India The Economic Times Gadkari urges Indian industry to manufacture tunnel boring machines as China ",
       "date": "2026-11-02 02:00 UTC",
       "category": "World",
       "source": "Bloomberg"
@@ -420,31 +564,23 @@
     {
       "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHpITnVoT04zYU9CWW12UzJaYUFLdDRDck04OV9IRmFwaXlCQ2czOVY5X1I3VVhUbVJaRE9zODRNcDBGQWJEcloyTW84UHJLRjNUUWhXMmNvVDZydmMtT3RmVnlZb0lId2xaenRJb3o0c3dXWjRfVHR5eTBtYWNETzhYd1RQazJmVVRFUkM0UjVFS3BHcndoNFctMjHSAaIBQVVfeXFMTTdvNDBlQmR4dmNuM0kwODFXaDdoRTRqNUhwRnJ6UzhLbzd0UEk5MExCbHBhM1B0aGtYMFBoVXE0MVdHWFhfaFNsaFpSUmQ1WG1RU1VQQ1FFZnBTbXUwRFpBSmRIZkxyLUFseGo4S2Fza1pYYTdXTExhckgxUkFMTG5mMEFaZU9uRGlSSDFrNXg1UnhnNnBUVmxtSkZYdk5JaE13?oc=5",
-      "summary": "Initial results indicate victory for Iotova in Bulgarian presidential vote Al Jazeera Bulgaria's Iotova wins presidential runoff, near-final results show Yahoo Bulgarians projected to re-elect pro-Russian president Financial Times Incumbent Yotova Wins Bulgarian President Vote, Exit Poll Shows Bloomberg Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president CNBC",
+      "summary": "Initial results indicate victory for Iotova in Bulgarian presidential vote Al Jazeera Bulgaria's Iotova wins presidential runoff, near-final results show Reuters Russia-friendly Yotova wins Bulgaria's presidential runoff Yahoo Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president AP News Incumbent Yotova Wins Bulgarian President Vote, Exit Poll Shows Bloomberg",
       "date": "2026-11-02 01:51 UTC",
       "category": "World",
       "source": "Al Jazeera"
     },
     {
-      "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5",
-      "summary": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again Bloomberg The Gulf states fear renewed war after the midterms NPR Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times Egypt fears escalation in Iran war would be more destructive, foreign minister says Reuters Mideast leaders call for calm as fears mount of a renewed war in the region, and other Mideast news The Boston Glo",
-      "date": "2026-11-02 01:28 UTC",
-      "category": "World",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "AI Early Warning Systems: Tipping Point For Better Climate Adaption",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tcnoxUTNrTnc3UVdySGVGUE1NVlI2c1V5QTQ2UGJjRFp4bGRqQm8zb1RnU181TTJpa3hYak10VXhLQy0xWjNzY2NBTzAtclZUR0VfWUhfUTVKLWZ4OXU5UGs3LWV1bFk?oc=5",
-      "summary": "AI Early Warning Systems: Tipping Point For Better Climate Adaption United Nations Development Programme",
-      "date": "2026-11-02 01:19 UTC",
-      "category": "Pakistan",
-      "source": "United Nations Development Programme"
-    },
-    {
       "title": "Tapping the potential of 5G",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85MkdKdFdGRVVtZFd4WG1nNlFsT01xYVJrQmV4VFhyZHNRaEg3ay11SXFoM29kUU9PTU1mQURid1lzb3RkYzh3Tw?oc=5",
       "summary": "Tapping the potential of 5G Dawn",
+      "date": "2026-11-02 01:19 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Gen Z and millennials fresh hope for stock exchange?",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZaU5rU01tRGdrUWMzWEVuUUY1b1lOWGtNR01ONlNSVjlQb3gtNW95dUZ0QkhmRUpOTFFOaTNPNzlEZWZKeG1HVw?oc=5",
+      "summary": "Gen Z and millennials fresh hope for stock exchange? Dawn",
       "date": "2026-11-02 01:19 UTC",
       "category": "Pakistan",
       "source": "Dawn"
@@ -458,25 +594,17 @@
       "source": "United Nations Development Programme"
     },
     {
-      "title": "UNDP Tech Tales: Women, Technology & Business",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBX2tkbFRRRlZzeTYwXzd1UzZBUFY2RG9iamJRcmpGaDVRaFMxUlc5UWFMSFRpVEZFVkZBMmNGQWo5N2kzbnhETHA1a3laaU1EMkhwZGZmQ1czaGxBd0tvSW1pU1NMYjQ?oc=5",
-      "summary": "UNDP Tech Tales: Women, Technology & Business United Nations Development Programme",
-      "date": "2026-11-02 01:17 UTC",
-      "category": "Pakistan",
-      "source": "United Nations Development Programme"
-    },
-    {
-      "title": "Kabul warned of ‘unbearable punishment’ as clashes persist along border",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DcHhlOGlNX2FhNDAyZGlwSl9vZDZYVWI5NnZHWVM3N1NaT3lyT2htQ3B1MG5ncXNkTkhmUm1YRVlZbXpWODAxbg?oc=5",
-      "summary": "Kabul warned of ‘unbearable punishment’ as clashes persist along border Dawn",
+      "title": "US-backed consortium proposes $4.4bn LNG project",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vWW5BXzRocGQ3WHhmb1JZamFNRWQ2SFVrNlB2cks1alhwQThkYlNIeEJWeWJMZnVFLXl0X3c3bHk5bV9LM0hqVg?oc=5",
+      "summary": "US-backed consortium proposes $4.4bn LNG project Dawn",
       "date": "2026-11-02 01:07 UTC",
       "category": "Pakistan",
       "source": "Dawn"
     },
     {
-      "title": "US-backed consortium proposes $4.4bn LNG project",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vWW5BXzRocGQ3WHhmb1JZamFNRWQ2SFVrNlB2cks1alhwQThkYlNIeEJWeWJMZnVFLXl0X3c3bHk5bV9LM0hqVg?oc=5",
-      "summary": "US-backed consortium proposes $4.4bn LNG project Dawn",
+      "title": "Gilgit-Baltistan celebrates 79 years of independence",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTUmFvSDVrZzhMMERLcS1laUg2bUpFdTJtWVI4anJnOW9DeGx1WGk3bzFvS1hHdmd0dEFzdmJCeVJtbVFIUWpmVw?oc=5",
+      "summary": "Gilgit-Baltistan celebrates 79 years of independence Dawn",
       "date": "2026-11-02 01:07 UTC",
       "category": "Pakistan",
       "source": "Dawn"
@@ -506,10 +634,10 @@
       "source": "Dawn"
     },
     {
-      "title": "Karachi Port Trust handles ships with 101,000 tonnes of cargo",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZX0dNX3lYU1VyU1BNUC1KT0pYNGRVQzFuSGNLWEpUUXZKSmROS2l3YTJ1ZFRiUFJVTnpSSEw1YllicVp1N1p5Tg?oc=5",
-      "summary": "Karachi Port Trust handles ships with 101,000 tonnes of cargo Dawn",
-      "date": "2026-11-02 01:07 UTC",
+      "title": "Pakistan outperforms Vietnam in rice exports",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXSWZ0Sm1GYUlucWY5My13UW9NQjYzNS1xbXM4WFdkSi1RWkczc1FlVkswWThYSDkxbEVyUjkzQXJPMklKa3BXaw?oc=5",
+      "summary": "Pakistan outperforms Vietnam in rice exports Dawn",
+      "date": "2026-11-02 01:06 UTC",
       "category": "Pakistan",
       "source": "Dawn"
     },
@@ -522,20 +650,12 @@
       "source": "Investify"
     },
     {
-      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5",
-      "summary": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian Four Americans confirmed among Spain train crash dead Yahoo 4 Americans among 69 people killed in train crash in Spain, officials say CBS News One Japanese confirmed dead; one unaccounted for in Spain train crash Japan Today Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says The New York Times",
-      "date": "2026-11-02 01:06 UTC",
+      "title": "4 Americans among 69 people killed in train crash in Spain, officials say",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wb3hycExQOGxzVy1MdVVBcFJncUsyVU1VcHBSamVyMUxJNlhIQmpmV1A1Qllwdm5wMDl0LXhUaHVaYjRuR21OVDQydEwta1NLXzhVQTVYc2dRaUZwZE83RlFtZXZzQU1QUS1iTmJ2bw?oc=5",
+      "summary": "4 Americans among 69 people killed in train crash in Spain, officials say CBS News Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian One Japanese confirmed dead; one unaccounted for in Spain train crash Japan Today Why Does Spain Keep Having Deadly Rail Accidents? WSJ Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says The New York Times",
+      "date": "2026-11-02 00:58 UTC",
       "category": "World",
-      "source": "The Guardian"
-    },
-    {
-      "title": "A&E warning system to flag sick children deteriorating quickly",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1cE93LTNCSnhMRnREa0lZSEN5NzNad0pja1cwMk52cURrcnRRRk16aURmSF9RMlNwc1RzOFloOHk0ZnZ0bHNuNlJKajNfU25ORkZBeFNnbHRGc2M?oc=5",
-      "summary": "A&E warning system to flag sick children deteriorating quickly BBC A&E staff ordered to act on parents’ fears The Telegraph England to introduce PEWS system to detect deterioration in children — The Guardian UA.NEWS World’s largest early warning system for severe child illness to launch in NHS A&Es across England The Guardian ‘Extremely important’ early warning system for children in A&E being rolled out in England M",
-      "date": "2026-11-02 00:51 UTC",
-      "category": "World",
-      "source": "BBC"
+      "source": "CBS News"
     },
     {
       "title": "Pakistan’s year of pacts and India’s long game | Hindustan Times",
@@ -548,7 +668,7 @@
     {
       "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVhJTExQVkd6REJ0WXJRTWFZWEJnTjBTdmc0TDZ4UHZRbUFyRldfWHB4d0pabWREaExka1p6amhVcGtWcGJfYWtuTVpxZ2d2QWphUktYUTVyUXFGYndha1RrYldJbXNjdHNaWHhBQ1pBVGh1V1BsTnliVGZMR3B1Ql9OVWpNYkw4NXV6a0JjbC05eVZfMVdaLVBxMHRmMzdPcUVfMW9hUDdqaVhreGpGanpR0gG3AUFVX3lxTE5HNEp2UnlhdXk5RHNpOS1OWEJSYmFIeWh0TFFPUHJSLTV6dTFsbkxnNHFQVTk5UUhzNWhSQ1U5NzVpSXNxUjN4NWV5Q041S2V5OHNvSnJOVVd0b3QzbDNLV29fcjRKeFc1SmY4UG11ZWdsTWtlTDZKVXhFU202Rlc5VU40c2VlcU5od2RzbHpCcUVob0Zsel9aOXBPLUZkbnk5TmlhYUU3NE40NUoyQzdOR1RvckVONA?oc=5",
-      "summary": "Israeli officials say results stand as Netanyahu claims election ‘stolen’ Al Jazeera Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote Politico Suspect in alleged Ra’am vote-buying scheme released unconditionally The Times of Israel Israel Election 2026 • Likud slams election chief for saying results valid despite interference probe Haaretz Shin Bet divided over foreign election inte",
+      "summary": "Israeli officials say results stand as Netanyahu claims election ‘stolen’ Al Jazeera Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote Politico An official from the Joint List told i24NEWS: No Knesset member from the list has been questioned by authorities i24NEWS Suspect in alleged Ra’am vote-buying scheme released unconditionally The Times of Israel Shin Bet divided over foreign el",
       "date": "2026-11-02 00:33 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -556,7 +676,7 @@
     {
       "title": "Gen Z protests in Germany turn violent as tens of thousands take to streets",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmIyNllhTkFrTXZlQ3ZqZkhUczVpY0ZqZzlONFdfUXdpWU95VkxfMy1oazdjclhEYlJSRVRac0MtcTAyak5GNGNsNXBER0Y2Vk1uRm95aDBZX292LVJDb0dlVzJLR1k0VW04Q01Cb0FaR05ZUG81WnFHZ2tWbW16YjBraU5pcVZKV0IzNGxIZzZ4MmVzRG5KeXN1YzlmN2MwdURPVXJMUDRlT1NfSExn?oc=5",
-      "summary": "Gen Z protests in Germany turn violent as tens of thousands take to streets The Washington Post Shops looted as German cost-of-living protests turn violent BBC German ministers vow tough response to Frankfurt riots and looting Reuters Protests spread to Germany as hundreds of thousands march again in France CNN Gen Z protests turn violent in Germany Financial Times",
+      "summary": "Gen Z protests in Germany turn violent as tens of thousands take to streets The Washington Post Shops looted as German cost-of-living protests turn violent BBC Germany blames infiltrators as Gen Z protests turn violent CNN German ministers vow tough response to Frankfurt riots and looting Reuters German Protests Turn Violent as Activists Clash With Police Bloomberg",
       "date": "2026-11-02 00:28 UTC",
       "category": "World",
       "source": "The Washington Post"
@@ -570,7 +690,7 @@
       "source": "The Express Tribune"
     },
     {
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "title": "Democrats have high hopes for midterms - but are the polls right?",
       "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
       "date": "2026-11-02 00:25 UTC",
@@ -588,7 +708,7 @@
     {
       "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeE9RMVgwTWdDN3ByNHJaQ3hRZTNkTmdfNzcwNVdBU3E3cTk4NUZ3Q2liZDZKZHlscm1UZ0I4UlFvSzgwQXZDVmlXcGZwVUhTWjBVZ092TDZwTElnRUR2b0FQVTgyZmJGT3haTGoteWVYeUx3SElsUWhQM1paRGZOUzFNSWJRLUVT?oc=5",
-      "summary": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem. The New York Times",
+      "summary": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem. The New York Times He’s the top snake catcher, and business is booming. There’s just one problem The Seattle Times Why Bangkok Is Facing A Massive Snake Crisis Right Now ИФЗ РАН",
       "date": "2026-11-02 00:22 UTC",
       "category": "World",
       "source": "The New York Times"
@@ -600,126 +720,6 @@
       "date": "2026-11-02 00:15 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41V0xneml3Vm91VHN3bTVkbzNhNVFBb09qM1BQR29ZNHlKeGhvZlA2cFFrM1dRQXNRWWYyZ0tKVjZPUV9GM0d0bjZxNW90TXJhdXpFZTFpMlowSWc?oc=5",
-      "summary": "France launches attempted murder investigation after petrol bomb thrown at police BBC French protest violence eases while scattered riots hit Germany ahead of school return AP News Clashes Erupt Again in France, After Festive Start to Day of Protest The New York Times From teargas in Paris to gen Z in Germany: protests across Europe – in pictures The Guardian Paris prosecutors investigate attempted murder after a Mol",
-      "date": "2026-11-02 00:15 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Pakistan assumes G-24 chairmanship",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jYUdGaEs5ZC1NcWQzdm41U19WTTZacjFGME5MVWRoOUwyRTZHdVVXNHhaRTJHaWtHYXkzU3U1dS14X2xVR0ZQM1ZITndSNnU2aWY1eV9FRlVhQzlsMTBPUjRsYnI0Y05HZ2oyTGtWQ1VIcU5sc1hLUFZjZ2hrTFXSAVZBVV95cUxOVkFtdEdXX0Z6RHIyb3h3S1NzbG54MFpzaU1YV25BUEdBbmpBeTNLUW5NaHlHNjdfOXhNRS1EY3M0Ny03bHJsNlB4UmRQVUR5NHUwZ1FpUQ?oc=5",
-      "summary": "Pakistan assumes G-24 chairmanship Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Pakistan’s most expensive lottery",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwSks1UEpzNjFSY2lQbHJiaWNnNEdSc2licTdsM1NpSlJkVlk2TFRsWVN4bWY1Q2RwWDF0cXB3SmxDV3VzblpLQTRTUUdSUWIxTTRQdXdqNktlNXczMW02eWlfc3VnQkk0dlozWDEwV04wZ2dlQU5vaUdnOHc?oc=5",
-      "summary": "Pakistan’s most expensive lottery Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Pakistan welcomes US offer to mediate with Taliban",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPczRJX2dYVloybXFDU1BMMXNfQVY0NXQ1MEJnTXFINzdaSmt0cWtvUmNaaXBaaURTT0FRTVdqWTZGQk1OLWVVTnp3dXRubDJJT2k3MXB0cUt2Q0pfQmxxUlduckdjSnFCVGpOcWRFQ3I0dVVsVDB3bDVfektMa05VWmFPNE5LTWVrcmVoTGRDOURhTEQ20gFWQVVfeXFMTm9WOHFHN0cxVHdOMTItTjBiSm11bzZNODBmcGdYdkhfVUZ2aFVVYmc2Ynp5VTQya2dXeU9iNUlINmRBVEFTVjhXaFFGaml4NWptbzRXQ1E?oc=5",
-      "summary": "Pakistan welcomes US offer to mediate with Taliban Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Forces target Taliban posts after unprovoked firing",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDROVG9PbXJjeXRId2kwdFU4c3lMaS03QnVNQ1MyMENfMjdDUXVKc2REa0pvQV8wTHY2WHNtU1Vja0RhVDhsaEVxQS1fTjR1S0EtWEludWRjVUM0UkRrNlpNUnB6bTllaUlvQ3JhaTZFLWdYNG5JdzdUY2dIQmVQVDhjRUlPM2I4TkJyYjQwWGM4N3Zkc1HSAVZBVV95cUxQUkpGZ21fUnVUT0RWeTI2RFhiVUs1Q2pDSENPXzEybUlxRUZDZkFlWVJrMlZoMkVIbU0zS1ZLMTVkd1lTNW84NXM4MDc2WDBhUmp5OWhMQQ?oc=5",
-      "summary": "Forces target Taliban posts after unprovoked firing Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Pakistan’s cooking gas crisis: a policy failure in the making",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDVnVHpKeGRxbC1mdnQyOWNFM2FaZko0RVpwUnZEOGdlZmd1bnpaSnBDdm14LWVDOXA0MjliR1lydmwtNFF5YkE4ekcxTGZQWWdtOVU4end1T0J3aWxIcWlwcjh1aXNyaXR4WjNkVTlua0JvRUZJVV9CcUNOUmZwT0VRcmpBLWNzaXRLQVlkRVVSZW40bUViQVFXRnc0QTRE0gFWQVVfeXFMT1VlX0NEYUhOVVdrV25MbjV2UmxXX0Z3TTBSZFZnamxFVGRqZ0hNY3FRVnhyNGtzSk9ha2Uya09pdUJpd2dabDhZcWZna1g3VFdlT2o5Q0E?oc=5",
-      "summary": "Pakistan’s cooking gas crisis: a policy failure in the making Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Tri-Nation Series victory: CM Punjab congratulates Pakistan team",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVFkSTE3SDV6dk9paWJNQ1l1U0lUZVFHTWZZbjJPcWFYUGEtSHRxeUlIbjJsNWVLOUFLQjBNRG1iNldQZ2pUS21Yemk3M1BhZ0RnenNSMEVPaWtzdExTM3FYc08yZGFFclk0UUV3aElrQmFLTGNLVXQybXUzQUp6Sk00SUJqVGdGWVVHaWxuNm9UNzJVU0NJVDc0TzZFVGdvOFZSSUN30gFWQVVfeXFMUDJBanR4dUotWHg0cDhGUy00dHNUQkxQakxNMjQySzg1ajlZUkhHVWpqNnUyNEpYRUZfcU5jbmM4UW94SWQxNW8xUkpmNzBVQU54eDUyVGc?oc=5",
-      "summary": "Tri-Nation Series victory: CM Punjab congratulates Pakistan team Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Eighth polio case of 2026 reported in KP",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMldYeEwwSXBwM0dFQUY0YlJQeDhwd2lVOWs3VUk4Rk9mNE1UMnNUYmRaVVFqb2JLTms5VTdrY21rdkg5UEdIVVd6RDNwY3J3QUNwN3l5TkFFdFNSOUVTdExQc1l3UHpLYjFGZEVQTk9HdFhLejd2TTR6Y1VOdzJFMlZQNndJZUHSAVZBVV95cUxPV1g5Y01LNEExUm1rcFZsR29vUGRxeDF4UnkyY3ZPZnZab3ZFMnhfcnhCWExLZ0VaeVp3MXV6QkxiSDFBbEY1WlZHWkhDem9RUWlGVmpOUQ?oc=5",
-      "summary": "Eighth polio case of 2026 reported in KP Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Chinese minister arrives in Islamabad",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTdUU3Y4MXBBZHpsQ3RJbUJtb3ZTV0JOYTEzVTd5RU45ZDRNOXdpRjVYWDNjcU9vQUkwRTdkaW5XdHpOSUE2N1hWbkRRNU15bUhCdmpiWlBBMzczaEZsQVR1Mm5CZTZNU1BhZ21LdlAzMGpMUWZqWEl6bm8tVXFXVU1ua9IBVkFVX3lxTE1qcUlvd0xTZi1BdnRTRFpsRnZrbUo3MFI5cjI3akdHbUdFTEI0bF9nOGI0WS1weHRtZzBFWjVPSXV3RWJUSVkwa1dZX2lPTDRrX1hNMkV3?oc=5",
-      "summary": "Chinese minister arrives in Islamabad Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "JI demands KE end unannounced load-shedding in Lyari",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWVIZDM1NlMxMmctamZEVXR1dURBb3A0MURoNTRkT0hWcUhOVzlFVl9LaklmaVB6dFl0T1RqMzVoNlE0eHUtQ09tME9XaHR3MDZfMkt3anRWNUJtR2N6T2taV1gtLVFPM0c5T2NQWi16NkdkbERiMjlGT0ZNbXJpT0U1SzJkblpONEZtbWh0NDV6UEJ2ZE9B0gFWQVVfeXFMUGVvdTVrVzNOZV9zenprUWl0aDBXQXFUT1pxcHRraHBuQ1hYUE56R1BITjNsT1J3SU5uei1EQ0E1UVBWdHZUbzAtS3JRS0FEU0VBeGJXZ0E?oc=5",
-      "summary": "JI demands KE end unannounced load-shedding in Lyari Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "PDP says megacity’s development engine stuck in second gear",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXo0NTJaZGF2WkFsM2R4aVR4MW5fRE0zZ01XM05McHp1VGpnaTFET0RkZWI0VFVseVJvbWJjbW1yY0NpTHYybzY4M2k4ZHV2NkFuOVJmOW0xODJoT2NGT3VSQllEX2F5RGxJUHdIdnVERW5kXzJKOVdRWmpzS0E4UnkzSk5ZQmExRXQ2RXNvODNzUi1GYXdubC1VUkdZUFXSAVZBVV95cUxNWFM0bXJrUVB5YUxMLWdGNVk2UXpJOEUwTERaaXhwUHQ3aG9FcFFFVmRfeTY0eWs3MmJkZXVVLTVqYUxpTzhqNGJETFVpVnJZenl5dHJSZw?oc=5",
-      "summary": "PDP says megacity’s development engine stuck in second gear Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Speakers urge national consensus to tackle deepening water crisis",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlhVSjNvdWpZU2lPSS0yZGJ5NjJJNVdZb0RXLXAtby1MYnYyS3cydHBWdXJob1h6eC1pb3ZHNU1zc2pLV1RjaEtoTGxVY19lZVdybWxybjV4dnB5N0dMLUxrZXFKWDlPazR1VDhjdk9lamVLSjVqNm4tMjdLd3RnakpCb1ZieW9KZ1otajExUkdtenlxeVNMNFN5QnhXay0wX250TURTRXbSAVZBVV95cUxNSkQyVWxjdzFZUEN4c0h1Z2kyUFBRZW1KZ3lkRFEybnBmZ2YwZmdnUVFzSE1zU19xU09KTkhGVXBqbFRwYVJxUWpNM3ZVQ3RXekpZR3JTdw?oc=5",
-      "summary": "Speakers urge national consensus to tackle deepening water crisis Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "The Weather",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QY01SUWZCX3k3VVU5YmkxR3FUcUc4b0NwdDYtX01lMWtZUHhLUjZRS1ppR0JjTVk2RjVWWDBDTDZUOVNYTHR3YVBPQndvSC1xcFZmU19yT1ppRkNuR1h0ZdIBVkFVX3lxTE1YVGpnRU9mcUR5aGdJQ0tTTy1KYW9iczFBVmVwQk9DQ0g4R2s3aDRqdVhrYmZYc1hWNnc2LXVEcE9lZ25OQjdzMi1mWTVVNjIza0Z0d0J3?oc=5",
-      "summary": "The Weather Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Oct terrorist attacks decline 37pc MoM",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc01SdlhNUS1vRjZHWEZLVGFsX0N4ZjlaZWdpQnY4V2EwMndPSmt2RU50TjBybW1BeDdRNDV0NzJxcnFBZ3hsUC1Uc2xJdUswVXRkOXkxbDAxTUczdG45V3VEUW9CVGIyb0k5Vmh6QWVNRThLblo3YjJ0N0RLOHhDYVBadFfSAVZBVV95cUxNMUN2Xzl3bmoydktyckdpZy10UWN0QngxQWlfV0dZamlOelA2amVlV0R6VGVqUElhSnI4bU8wcGtEZ1VsNkRmbzM3SXFRR1NUVVAyWUxCQQ?oc=5",
-      "summary": "Oct terrorist attacks decline 37pc MoM Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "CM felicitates Gilgit-Baltistan on 79th Independence Day",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRPaGdydU9fYUxod2NHRzV4QzhKWC1hZ0NKRDFDdkNlLUhDYzA0Q05OTEItc2toekJ5b0JTTnE4Q093b0ZTT3NLQm1LQnE5QmRkc1JrVHE2SFYydnJpdEFwUE9YTFdPNWJXWktQOU82NW9BWmVEbVlvMWc3Mm5qOHJFNzhIS1NiZG8zVEtDR1ozRDNhbWNKLVJwNDfSAVZBVV95cUxOc2FOOHNCOVJoQXMySE9KZlVrWWhKSXVGZWhsR2tPN1BpSi12S2JlQjRSSFdsbF90aXVJSlRVaEl6dGJ5bEdQR1BkUmsyS1l6ZzhHNGZNZw?oc=5",
-      "summary": "CM felicitates Gilgit-Baltistan on 79th Independence Day Business Recorder",
-      "date": "2026-11-02 00:01 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
     }
   ]
 }
