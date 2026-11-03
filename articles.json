@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-03T05:05:49+00:00",
+  "updated": "2026-11-03T06:04:12+00:00",
   "articles": [
+    {
+      "title": "How necessity continues to be the mother of invention in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkRCc0hLZnFnemV6UTU2UDVQZExmQVdJS0ctRjhuYnJjWlVLbEd3aEdNejFrbmZNSXZHU0JEX2xlek1XZ2VYX2ZUSXNrb0t3NEg1ZTdOMXFFbm1UMU9qZ0VlXzNWTTREQkRjN3duOWtyb3ZKWEtzM19iNTBNWFdFUU96YXRqMXZsZlU4c3ZzUzJ4VzZZdm1wZGRzX3g5R1NQ?oc=5",
+      "summary": "How necessity continues to be the mother of invention in Pakistan Dawn",
+      "date": "2026-11-03 05:53 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Pakistan must build, not just consume, fintech: Bilal Bin Saqib",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2h3VW5mMlE4NnU2RjZucHg3elI1UDBPN2JTXzU3a1lCa0xNVFl2UkNELXp4VWRBbkJITU9zeXQ5M3AxWEFFSmZtWlYxUnhWUDFNYmNaWkQ2eEg2Z2lBOVF3bUVBNlVMblo5MGhjSlE3aUpXS3Q0Tlk4Nmh1M3BPdEpLNDR3Tl9WYmRMYVEyWElQalg5VnEw?oc=5",
+      "summary": "Pakistan must build, not just consume, fintech: Bilal Bin Saqib Mettis Global",
+      "date": "2026-11-03 05:46 UTC",
+      "category": "Pakistan",
+      "source": "Mettis Global"
+    },
+    {
+      "title": "Pakistan, China reaffirm commitment to strengthening All-Weather Strategic Partnership",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRyYjBmcDBNdk1NQ3V6TlNyRzk2ZEp4eUtnLU9rMXg4UFowYUNydEFzcmJzT1JKdHlZNEtGOGJoX0c4X0VVNFk0cmM1NWlIbHYyUU5pbmlsbU5VaFBDUTNWQVhxdU9Bd3RxZGcyMFJBa3VQUnNGcEI0aXBIVW9COVFkMG13eFpYeV9fejJsTFRzaUEybm8tSmRaVnNWMzY1ekE4OVRreXp3VUk?oc=5",
+      "summary": "Pakistan, China reaffirm commitment to strengthening All-Weather Strategic Partnership https://cpecinfo.com/",
+      "date": "2026-11-03 05:46 UTC",
+      "category": "Pakistan",
+      "source": "https://cpecinfo.com/"
+    },
+    {
+      "title": "Pakistan seeks to expand export financing through EXIM Bank, digital platforms",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3U1ODlHZXg4eFYyUkpCLXVJOFNHbFFTX0l4angxc1JXLTdGWUwzSGNBQ2ZTTTZGeE1rU0JqYTQ3c0J5WHp6REx6WEJaTGE0dTU2emFkXzdpOE91cVl5ZGlBSHNDMDFYQkxtNVdMdmVlaUVEQnlDRW9IYTNKY3hEX3RUZ2RqNEw2N0FkaHg5MDhWTzBDTnJsRDZqQnZMMWdDVWd3cThDbzZXNkhLSFpaSEtkSVY1MkhL0gFWQVVfeXFMUEgzdXNEVFptMlFzMmV5S21wenlwSC01NDVrUHpOV0JCYVdRTHJIRTVVN1dSeDdjVjk2Q2NpT1hRYzRGaktoWm9TVm4zVlRBM0N1b1gzb2c?oc=5",
+      "summary": "Pakistan seeks to expand export financing through EXIM Bank, digital platforms Business Recorder",
+      "date": "2026-11-03 05:37 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Pakistan, China Vow to Deepen Partnership as Chinese Party Minister Meets PM",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcnBsSVA1Q21oVkhKNlFOb0JBYjRzek9vSXlFZ0xkUjJYUnhCTVFEa3V1SnVqOEdMazM0TF9VUzdfZ2d4RWF2WWJPWDdkRU0ydjQ2RG5uQlo2V1hTYkRWck9HdUdqNEtKalJYNE5NLVpza2RQbE90UF9ZSTZSdw?oc=5",
+      "summary": "Pakistan, China Vow to Deepen Partnership as Chinese Party Minister Meets PM The Diplomatic Insight",
+      "date": "2026-11-03 05:34 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomatic Insight"
+    },
+    {
+      "title": "Pakistan, China seek deeper strategic ties through political, institutional cooperation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdzNld1ZVZlF4UFF4b3FRVUZpNW5xeWRzNUhLeC00OE8tZ1dJMGh1LXpZakwzdkQ0cEZLTFlSUU9zeGJ6WlZTU1NuTnM0T2VYdi0yVUZ1U0xOa1FVY0Zfek1BQjljTVhTd0I0QVdxVGl5c0tRTnpMeEsxc25oX3VCbkRONnFhR3ltOGh3c2xqRmhDYWlfWlJPV3ZaVGVFMVJjNUJaX2RDMnJCd0lIOGNPZXlxaXkxdzRjZjNoVXN1Z1FHTGhH?oc=5",
+      "summary": "Pakistan, China seek deeper strategic ties through political, institutional cooperation Arab News PK",
+      "date": "2026-11-03 05:30 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan Shaheens squad announced for 50-over ACC Men's Asia Cup Rising Stars 2026",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0FxOFBuMzRFYWhyQWozb3VXOXgxUXlhZmRWNU5nQ0tSbWxLNmltQ29UU1B5MmpkWGRpWXEya1ZSVFJsbE1uTURlTmRvcm03SVJILU01VThaMDAtUEtmLUdLTHEzOFo1alBOdkx3RkVsaVBocUZoSWViZUV5R0J1eWxXYVFLeWNZZi1NdFZxR2l6MVVYWUpTdnBkZmtrQTBXQUo5bS1OX2lJbVBNMjY1dVdYT205VE16cURyemVoenlXUldmaGpqcFp4d24?oc=5",
+      "summary": "Pakistan Shaheens squad announced for 50-over ACC Men's Asia Cup Rising Stars 2026 Pakistan Cricket Board (PCB)",
+      "date": "2026-11-03 05:29 UTC",
+      "category": "Pakistan",
+      "source": "Pakistan Cricket Board (PCB)"
+    },
+    {
+      "title": "Pakistan, Bangladesh power up ties amid energy crunch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU19GSDEwOC1tZkVzUTBYTklDQjY1TEsxRmsxVTlUajBXRzFRODhUNnhWT3lySGJYZTJTNGJMN05PQkp1aWF4SFZGMmcxaFkyVnByOWJjdi00ZXRxWUx3X2V4RVVjVjRsNHJjb2czdWl5cmxCbWNxNXpTQUlNX3dEdENSOUpWUGg4RVdpeg?oc=5",
+      "summary": "Pakistan, Bangladesh power up ties amid energy crunch Mettis Global",
+      "date": "2026-11-03 05:29 UTC",
+      "category": "Pakistan",
+      "source": "Mettis Global"
+    },
+    {
+      "title": "Pakistan warns of tech giants’ influence on online discourse amid conflicts, Islamophobia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUVh3QnY2STFpeV9vSkp6bVpESFBRVjlXVzBYcjlEMW9NTE80bzFtdFVXUEdJV1M1ZXNwUHdjN2h3OEYyazNQQXZpT3JZcXVqajhXcVVTeURST1Vhd1RWNGNGZjdRZFhuRVBvYkJKMjNmcDRxa0lYR0xyVlRqQTJ4RjN5dXh3dWhhMW1HSDh3cXFMZXMwdlNRMVZ5T3Exd2lGTUhzZ3RQZFZaUnprOGU3MWsyOEs2QmQzemF3V3hYbk5BLXV4d0hn?oc=5",
+      "summary": "Pakistan warns of tech giants’ influence on online discourse amid conflicts, Islamophobia Arab News PK",
+      "date": "2026-11-03 05:19 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Fauji Foundation acquires nearly 20% stake in Pakistan Services for Rs6.55 billion",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTZOazB4MkVRMk1aQlpJdXl6azRnVlp1c2psTHpmc1U1VG5KY0tiX19YS1BfMXdJMldRYTRlVTNvZmlacWNYYzV1aHJYWVlncHcwRlhjWlNqaWFCcm4waG02UkVrb3BTekpFTTFOX28wYW45QUFKeXh2YzRDN2xyVFJWb191ekxYVmFITmhLQldMcE9fWTctbkdqc0MtUEgxVnhhM2NhTjBMaHZ2bzMtMkx5UHhSeEViY0VCWTlSU0k0UQ?oc=5",
+      "summary": "Fauji Foundation acquires nearly 20% stake in Pakistan Services for Rs6.55 billion Investify",
+      "date": "2026-11-03 05:12 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Dollar rate in Pakistan today, Tuesday 3 November: Rs277.10 (NBP), open market Rs277.30",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaklValkzd1NGSFlsR2JScFpLbHVxNTloLXphMnBXSkRsb3BPMWk4dVh0MXVKRTlBXzZJbUhZbDAyekxjOHRMbGk4QkpGd24zX25ZLWtscngtLTI5Wk93RkpCN3hTNjhxSGlianE1aXNCY1dMLVJqZlR2djRxbnVsTFV3T0FsTVJwWHhSbk9TdmRQbTlhZE5MQWp2WmJ4TW02UTRyeG4tVDZERzdLdFk4eFVnMTgxcmhsd2xET2phUVZ1bzA?oc=5",
+      "summary": "Dollar rate in Pakistan today, Tuesday 3 November: Rs277.10 (NBP), open market Rs277.30 Investify",
+      "date": "2026-11-03 05:00 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan must help build global financial technology, not just use it, says PVARA chief",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0p5N3RjSzNlMzRPSTJkOUlTYm1iRUx5V1pHLVdfOERhQ1AxR0hfV1U1ajBEcDIwdlRZRnVYZzM5OE1DNS13aUc1TFB4aW9lM0l0c1IybFNhMUpMVkNyQVpIdFRYT2xFZXdycEFBTzdKNklyQlIyaTRlNzQ2MFpPQzNaZXVNSWZJcFZ1VlFUdEZEd3JUTHlZRzNCUW5vVHdpa0tjUzE2ZWpMY1o2QVlUY1I0N3p3SnBVSUd1eVZWamU3enp5dkxZ?oc=5",
+      "summary": "Pakistan must help build global financial technology, not just use it, says PVARA chief Investify",
+      "date": "2026-11-03 04:59 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
     {
       "title": "Pakistan could serve as key trade, transit corridor for Central Asian countries: Sheikh",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjN0RExqeUswRjVnZ3FpRU5qZlJHYUN4RDRXZmtKU0JicFpTcEpOdmFLVjc4OG9SdlM4c0ZUNUtuNVFTa0xLaW5fYjRvMmVwSTdBQmRHTHpNQTFWTll5NUVRX1QtLXRxcEc4cFM2Qm56d0ZkUFNBbS1hcXNqMWZhRkpxc0xJWUcybXF2RG9pTHpkZGlNWndKX3lNLWpaRWxTaHNNQzNSLWdBbkpLMmdj?oc=5",
@@ -16,14 +112,6 @@
       "date": "2026-11-03 04:18 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan military calls the shots on foreign policy, admits Defence Minister Khawaja Asif",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUlJwNVMyNHZHOXV2WWJsX1Qyd1RzSzBRLUV0M1NpN29mRVJRNmNnYVFKNUpnVHJfa09zZmVibGxKcktDd1VvY2FYSmdUQnV4WXNXSWEwV29OaGdCWENMaExid0Juc2x6MlV4c2JoMVlCZzR5eGs2NW9BQmVnZXdsNER3QVFQSFlHWjVib0ZQQVhUalQ2RFBEUEdpSkpIeGxYZ2daRkEyOUN6THAzeWlRYUNadHQ3ZUtWcmM3X25tWW5OLUU2MmVlazJndEVsTjRkbnhmVUJJMVlDLWfSAeABQVVfeXFMTlVWYk1MUnpxdEpwOGpLZUh1ZGxkQTlhRV9McmtVNGktY29BbXpSbmhMWjNLdFZFSVdTZndzMWpqb3JCYVZDZngzRFpDbWVTMk1hNW02d1ZjY09WdUEyR1QtcXpPenJha1djRnQzaUNhS1FTS1JuQ3pMbW8tekNrVmhpUG91ZGUzY2N2NlFBelZPcm4zcTVDS1lld190QnZhdG52QTNBaGFpb1hONy00dmdNeGhSYWlkZ19BZjVlTnBTcGI1VHZhYVhRMllHejlHYnlWQ3dTTEQwRExBVjBpTjM?oc=5",
-      "summary": "Pakistan military calls the shots on foreign policy, admits Defence Minister Khawaja Asif Organiser",
-      "date": "2026-11-03 04:02 UTC",
-      "category": "Pakistan",
-      "source": "Organiser"
     },
     {
       "title": "Pakistan government enlists oil refineries to shield citizens from global price hikes",
@@ -50,12 +138,12 @@
       "source": "BBC News"
     },
     {
-      "title": "The America midterm elections as explained by a Pakistani journalist",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG94bHpyb2ZxUE13eHVBVWZjS3BCSFM0c1lvZzZHclFjTkJScGctSW1QY2RqUnhPbVBoS2pONmxRbF9nRkFkbndQWktWQU1QaGVJaGpMOXJwNm9RWV91N3J4MkwwSzUzU3d0RHdnMjRUajZ2ZkdWLXZ3TElBcXFwWDlVNXl1WVpNc0o4WlpzMEJNaUNIdFE1X2tESktXUEk0VEhCMQ?oc=5",
-      "summary": "The America midterm elections as explained by a Pakistani journalist Dawn",
+      "title": "India-Pakistan 2027 World Cup clash draws 8.4 million ticket requests",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWZEWHBZMkhJVS1JbG9XaDVpbk0tVWpvbGkwcGxXNi00dVRDWVp1NTF4WFQ2TjRCT013eXcxejVocEdnSGFTaUZabmh5Q2E3TDNFLXlLNnJveWtxVDhPTkpWX1JfZDg0T1I4Z0hIeDkyRWZFd0ZLdnZ4OGlLeDg1bXM3YnAyeDZxU0dzRVRfaHVpbXBJeEVyTGFPM3l6b25rWE1aaWhXX0lwNW5zQXc?oc=5",
+      "summary": "India-Pakistan 2027 World Cup clash draws 8.4 million ticket requests Arab News PK",
       "date": "2026-11-03 03:38 UTC",
       "category": "Pakistan",
-      "source": "Dawn"
+      "source": "Arab News PK"
     },
     {
       "title": "Pakistan reduces fuel rates as global oil prices fall amid US-Iran peace hopes",
@@ -74,6 +162,14 @@
       "source": "BBC News"
     },
     {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA?oc=5",
+      "summary": "Australia hikes rates to 18-year high to fight inflation CNBC AUSSIES HIT WHERE IT HURTS: RBA makes seismic call on rates News.com.au Australia raises rates to highest level since 2008 financial crisis Financial Times Tough Christmas looms as rates and inflation hit household budgets ABC News & Headlines – Australian Broadcasting Corporation RBA interest rates live updates: Reserve Bank of Australia hikes rate to 4.8",
+      "date": "2026-11-03 03:32 UTC",
+      "category": "World",
+      "source": "CNBC"
+    },
+    {
       "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHFSdFVCbGVzcFY0X2IyQUdUbTVqNzZlcjVVQnBNUzJETTlSczhra1hVb3JJVVZWS2l3MXdvRE91WDU5Ui1GZUpnYzF2VVlDM0IyTnhnRFdqaWtLdG1rTkdRZkJTNDVLWUlmZzBLeWhCREhZY0tnNDFjbno1ZW5SU1F3TWUtYVZodGd6bFVhbFRDSDBfYURBYzV5NGVBWEZkWm9YZjJjNnh2Q1h0aU9Heg?oc=5",
       "summary": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy Bloomberg.com",
@@ -82,20 +178,20 @@
       "source": "Bloomberg.com"
     },
     {
+      "title": "Petroleum sales rise 10% in October as diesel demand picks up",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMndubkxUOUlWXzQzV1FUODVfU1EydGFzeC1WdlN4MEZJaW53NEZfbGMtNUN3VUNxNXJ3S2VmVjV0NzNwcU1pZFZiRktCX3lIbVg1bU9DdmNnbnM1VlZCMjQ4dkpHNEtzRWxNZTg3VUFjX1pXMGs0aFFZbHlXb19xdGJkRDBrbERGRUJTZ0VoeVNlOGZvTnNFRUNmaTFoUE1VWE1DamdB?oc=5",
+      "summary": "Petroleum sales rise 10% in October as diesel demand picks up Investify",
+      "date": "2026-11-03 03:30 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
       "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
       "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
       "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
       "date": "2026-11-03 03:30 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLW9vcGZTTmhUcEFvYmhQVWFWakU0NDF1SDhZdnhBZjMya3hwVVpSVzR6SFVPY0lYTUppZkN1a1hIcnJJLTVjLVdLV3BwQU4wNjVIelVYQkNRSW1iS05ON05kakg3alpzSWNTVG1sQzJpQWYwLXNpUVZUZDhMYUg0TUI5ZDNZZW8zTk10eWYyWTVVZ0hLaTctOExOaGtYeU1va290dmI1MVdEaVVfR3FLcXZqbEJkMldrSDB6bG1RRmNJaktKa2hza1RnX2xkbEE?oc=5",
-      "summary": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade Asia News Network",
-      "date": "2026-11-03 03:21 UTC",
-      "category": "Pakistan",
-      "source": "Asia News Network"
     },
     {
       "title": "Pakistan court directs jail authorities to arrange meeting between former PM Imran Khan’s sister Noreen Niazi, her daughters",
@@ -114,6 +210,14 @@
       "source": "Quwa"
     },
     {
+      "title": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
+      "summary": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks Al Jazeera Russian bombing kills 26 people at Ukraine aid centre, Kyiv says BBC Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says The Guardian Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say AP News Russian Strike on Ukraine Humanitarian Hub Kills Dozens The New York Times",
+      "date": "2026-11-03 03:13 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
@@ -124,7 +228,7 @@
     {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QWlHTTk4T010X1NOeVFiNmJLR011RDJ4ZTY2UTVMVENCemd5M2FIRWxHUmRnN2Z1M3BVTWVyQThUczQwSmxEMHhzZnpLNURSMXpvOFF4S09YTTQ?oc=5",
-      "summary": "Trump to remove Rwanda and South Africa from US trade deal BBC Trump administration will cut South Africa and Rwanda from the AGOA trade program AP News Trump Removes South Africa From the African Growth and Opportunity Act Trade Program The New York Times Trump gave Africa’s largest economy 5 demands to restore U.S. ties, but Ramaphosa refuses to bow as he prepares South Africa for trade fallout Business Insider Afr",
+      "summary": "Trump to remove Rwanda and South Africa from US trade deal BBC Trump Removes South Africa From the African Growth and Opportunity Act Trade Program The New York Times US to drop South Africa, Rwanda from duty-free trade initiative DW.com Trump gave Africa’s largest economy 5 demands to restore U.S. ties, but Ramaphosa refuses to bow as he prepares South Africa for trade fallout Business Insider Africa US to suspend S",
       "date": "2026-11-03 03:00 UTC",
       "category": "World",
       "source": "BBC"
@@ -144,6 +248,14 @@
       "date": "2026-11-03 02:55 UTC",
       "category": "Pakistan",
       "source": "Investify"
+    },
+    {
+      "title": "US to mediate new round of negotiations to end Russia-Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmd4MGlCNkFaMVd1YWxXRXBsYmZOMXZ0YW5jdE5wUXBWX3RaVjZDOEFvaWhqLUMtQ0tZN1hReWxvZkFEUjQwUVBLcTNFUHRZRW1QQzFMU2dSdUY3NldPUlJfbER0cFJyaTBsZ0hGY1daWTV3RUkzaDRSdHlyMWRmVjFuQWJuZmx0WGtMR3RmTG80QQ?oc=5",
+      "summary": "US to mediate new round of negotiations to end Russia-Ukraine war Politico US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says Reuters Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff The Guardian U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says Axios US to hold first talks with Russia and Ukrai",
+      "date": "2026-11-03 02:38 UTC",
+      "category": "World",
+      "source": "Politico"
     },
     {
       "title": "Pakistan reviews Eurobond tokenisation, awaits cabinet approval",
@@ -250,14 +362,6 @@
       "source": "UNESCO"
     },
     {
-      "title": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhMSzhNYXI1d3dUWEIyUGJKcXpLVUJ0bFZHVl9xOFN1dmNvaFltZmFZalNSZTJROXpSaWNNOGhfT0JWT21WOG5tQkFsa0puYlRhZTdPaHg1eG5oT2hpb3Z5UmtYRlhubVVYZUhpZVN6SmhOSkpsV0dVM1JOOEFMMWRmRWlCU2hfcXA0Q2JsM2w2QkRtMjY1d9IBngFBVV95cUxOMnFQWFRKd0hHOUZ3WExUR0I0MWx1Yjc5ZEFKNWJ1VXJ4cTFHd2EyMWQ5VUx1MzJTU3E1b3hJd3NBTndHMVR2dGVyLTI0aHJJSWp3cElCTXBsOXdrOHg2N3RsSmpVRHZjWnN2M293aHB3M0ZDRDRKNnZaUzJkTUVDSDJWZlhrelpkMkpoMVpLV2tZSVhNZXZ0bU5ZeWVFQQ?oc=5",
-      "summary": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says Fox News U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says Axios US to mediate new round of negotiations to end Russia-Ukraine war Politico Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff The Guardian US to mediate trilateral talks with Ukraine, Russia in Abu D",
-      "date": "2026-11-03 00:47 UTC",
-      "category": "World",
-      "source": "Fox News"
-    },
-    {
       "title": "Experts highlight Pakistan’s growing vitamin D crisis at Lahore summit",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODVENnIzWmdHbEtGWmdxSGU0NXRzR1ozYk5Xanh4OElTQnc5dUJ2NnZQVndhb1ZJWnRFZG9wUmlTTS1XdnRoRUVSa3F1MTRPdEU3YWtQcjAxa2hHbWdMZmJwZS16SGx1S2Z1U09qbmRBX0RxSDlYTkpxMzgyay1DSk9aV2ZTZUhwTkNwQVBLMEVZNm4wTEN6b0VuV08zUGlja1ZxU1Q4VVo?oc=5",
       "summary": "Experts highlight Pakistan’s growing vitamin D crisis at Lahore summit The Nation (Pakistan )",
@@ -268,7 +372,7 @@
     {
       "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZODc2d01QUTlOLTJ3M3BWWjJlenF4cFItU2xScVpYXzhzY1J0ZWs2dzVDNzBmSV9lX1hFX0dQVE1sbjltRms4ZVBZTS1TbTd2aFNSOWFmQi10ZXc?oc=5",
-      "summary": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin BBC King's role is not policy making, says Palace in slavery apology row BBC King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times As reparations debate grows, Caribbean campaigners point to one British family's example Reuters PM to ask countries affected by UK’s role in slavery to help shape formal apology The Guar",
+      "summary": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin BBC British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times As reparations debate grows, Caribbean campaigners point to one British family's example Reuters Burnham hands Caribbean £40m after demand",
       "date": "2026-11-03 00:26 UTC",
       "category": "World",
       "source": "BBC"
@@ -276,7 +380,7 @@
     {
       "title": "Cal Poly students severely injured in horrific Spain train crash that killed 69",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeG9oQjFQS0xDcEdMTW5Bd0JmaFBLcVVVakdCYklOakJGT1UxUGZYZWttQ0hYQWwtbHlwampBTGloemtLRjZEeExNZDRSU1FjRktPLXFsSnFack94S1RsWk1Da2Fkb2s5NkJUNFVLSXpUalZsTEcwRXJfeGZmR1ZnSWFUTDI?oc=5",
-      "summary": "Cal Poly students severely injured in horrific Spain train crash that killed 69 SFGATE Cambridge scientist Marta Shahbazi dies in Spanish train crash BBC Spain train crash: What happened in the 17 minutes before impact? Euronews.com Two California college students injured in deadly train crash in Spain Los Angeles Times 4 Americans among 69 people killed in train crash in Spain, officials say CBS News",
+      "summary": "Cal Poly students severely injured in horrific Spain train crash that killed 69 SFGATE Cambridge scientist dies in Spanish train crash BBC Both Cal Poly students with severe injuries are now identified following the train crash in Spain KSBY News Two California college students injured in deadly train crash in Spain Los Angeles Times 4 Americans among 69 people killed in train crash in Spain, officials say CBS News",
       "date": "2026-11-03 00:25 UTC",
       "category": "World",
       "source": "SFGATE"
@@ -346,38 +450,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "All-weather strategic cooperative partnership: Pakistan, China reaffirm commitment",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVd6NXU3Zlh4YmpQWHYyZkQ1dy1XME1IUkY4WWxYWG9EM2p5VDNwcUJLM3dQT3V3U3RBTXJWdWI2NnZhU0NhX0g1TjRJbTJFX0RPUTVTbzQtcTFrVXF5OHdWbUNKZ1h5Q2V4U1VpQTRUX3VfY2tfTkUtLTVzdnhraEZUYlZRcGJtblEybzJYbi1mWlVLRkpkdEpsbFlGVW85SEgydnlhdHROS1E0LTZUdmI3UjFkVTk1ODdMbdIBVkFVX3lxTE9ZN0V5bE9FQUZmOVZGbWUyZlhmcVZBY3ZJd2E3aHFFOHprMXBGdGtaMV9vTndWT3lxX0E4SGxPUjNleXhLS05ibzNyOW1xLXloRWpxZTZ3?oc=5",
-      "summary": "All-weather strategic cooperative partnership: Pakistan, China reaffirm commitment Business Recorder",
-      "date": "2026-11-03 00:12 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "SDPI conference: Pakistan recommends new global financial architecture",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0JoVDg2bEVaVnFyeGowaTBhNm1ia1cyaG8yODl2djBIUnlDNXJCOVpRaEdTUVlxZFFUYjJocnlacjZUdlVEV1pNM0tKVnE3WGt4NVR0RGQzNV85dy1NUGxIdk1CYVRiR0tjXzB3dlJPSnVKdjJ2NGloMTk0WVJqY2I4UzBaWDZYd1dyMVFKM2ZRRTB5SGhZa3RsVDhPR1hGTUZpaEcyUXltMldEUUHSAVZBVV95cUxNelpKNVVieVE2VjNrV19CbVVIM01vQmlvTjlTM01RNkRiU3c1eEh3aHhPLTBtcHhoT0hZZXp3WUh2SXZNNkFNTm9NdFFpS3hfczNSQ0wwZw?oc=5",
-      "summary": "SDPI conference: Pakistan recommends new global financial architecture Business Recorder",
-      "date": "2026-11-03 00:12 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "IK meets lawyers after 7-month gap",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RN1VDYllNd1N2aVZpS0JWQVMwTzhLY0t6YUF0cTNwTnA0TjJKUWxLWDlwRUFPNjBhTGpmYnhWM3ZBMVlKSkFydkt4NGVVdVNMRVlzWHFCb2daLVloWU5pcWtUMG1HV1J2MjFGV0V4ZWFab293bTdYbC0yQ2FFTEnSAVZBVV95cUxQQVcwSU5LNVRpQnBlQWdFQjh6Z0hnM0s5aWZhMlpkek1RQkdBSHlmQ2ItanNGVkxQUEVvc0RKNE4wWVAySWlSdFp2VHRSaXI0MGZZNFR0UQ?oc=5",
-      "summary": "IK meets lawyers after 7-month gap Business Recorder",
-      "date": "2026-11-03 00:12 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Tajik envoy for stronger economic engagement with Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazBEclo1OTZFOTQzbHJELTlBVTd0Vmhzam9pX2syeW13ZlJiczBPZWZjeEQ2R2tQQVhPSDF1Y1lDM1NsUW9mRWpNVUFZOG9FVUk3QTNwQ24tNmZ1TU1DcjJ6OE5SVWdPaEh3VGlQMnJ6bDZZUUtPS3BDVS1FUXV1NW5YTUx5X25RY2hUUlFfdWI3VnNRc01yNWl4S0V5MHPSAVZBVV95cUxPMEw3N2hTX1RnTHVnTlJwNmhzSlBnX0gwajNJa285TGt2YldRWHBOMTBDZzVrem1QYnl2YjA5b0kyOGU4M091blR6elJQSVJBb2NhUDFIdw?oc=5",
-      "summary": "Tajik envoy for stronger economic engagement with Pakistan Business Recorder",
-      "date": "2026-11-03 00:12 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
@@ -404,7 +476,7 @@
     {
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQlFtX2dDT2taN0tLckw1MEJOYlJuOFNTYVRnZGtGc0FUaVFUWHVmcHRFbWg3eEkwZUZBU1I4d1hhWjlmS1ppbG9tcHV1TWtzY0s4OG81M0NLanM?oc=5",
-      "summary": "Thousands of European troops to rehearse Ukraine deployment in event of peace BBC British troops will be allowed to fire back at Russian forces if attacked in mission Sky News Multinational Ukraine force to hold first exercise in Poland Yahoo British troops to join major military exercise preparing for Ukraine peace The Independent British troops in Poland for major wargame preparing for peace in Ukraine The National",
+      "summary": "Thousands of European troops to rehearse Ukraine deployment in event of peace BBC UK and European peacekeepers in Ukraine would be allowed to fire back at Russians The Guardian European troops prepare for a postwar Ukraine mission that's fraught with challenges Yahoo British troops will be allowed to fire back at Russian forces if attacked in mission Sky News European force to hold first Ukraine support exercise in P",
       "date": "2026-11-03 00:07 UTC",
       "category": "World",
       "source": "BBC"
@@ -412,7 +484,7 @@
     {
       "title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
-      "summary": "Iran says contacts over ending war continue after talks finish with no breakthrough Reuters US signals progress in Iran talks to avert flare-up Yahoo Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Iran war updates: Tehran says ‘intensive’ US talks underway Al Jazeera Middle East on edge as fears mount that Iran war could restart after the midterms CNN",
+      "summary": "Iran says contacts over ending war continue after talks finish with no breakthrough Reuters Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Iran war updates: Tehran says ‘intensive’ US talks underway Al Jazeera Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS Middle East on edge as fears mount that Iran war could restart",
       "date": "2026-11-02 23:57 UTC",
       "category": "World",
       "source": "Reuters"
@@ -458,14 +530,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Russia kills at least 24 in horrific bombing on Ukraine school",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVAwZm8xaUJnUnA0cnV6MkhpeFZya3pyT0VHVHE5SGpndm5jYVJXSEk1WVVrS1JOUHgwZzhfUm5TYVdYZ0U4MzZkcGFpcWtjYVBPWEViNmFmcnJzZ3gtWHBCUm9oU2dmRUhfYl9oZWcwZEE2b092c1ppdEFWTUVWd2gxOFAxOXJYMEo1MUVHY3hQVmdWdHpVTFNydFdJalNWc0FFcTdLLTc3NklsWTF1bmhROVY4TXZIbFg3UGFIQkg1QQ?oc=5",
-      "summary": "Russia kills at least 24 in horrific bombing on Ukraine school New York Post Russian bombing kills 26 people at Ukraine aid centre, Kyiv says BBC Russian attack on Ukraine aid hub kills 26 as US announces new peace talks Al Jazeera Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say AP News Russian Strike on Ukraine Humanitarian Hub Kills Dozens The New York Times",
-      "date": "2026-11-02 22:01 UTC",
-      "category": "World",
-      "source": "New York Post"
-    },
-    {
       "title": "Germany Considers What to Do With Burned Hitler Retreat",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmdVLTdqTG9rT1Q4MHV0NWpBc0hLeHMyWVY3c1N0c2pvQVFCLUhMUzV3UTIwbG5FeDZESzd2UVNzbVFnaGdqYWZSQzI1NXQ4Vzh5bnpkbHRFNF9nYkl4aHpVVHljNU5fc0RpX0lZTTQxR0VySWVwcC0wTXFpeWhWdFJwQ2p4V3JGaXpyc0xoamxKbjFaTkcxLVlqSQ?oc=5",
       "summary": "Germany Considers What to Do With Burned Hitler Retreat Newser Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt? The Guardian The row over Hitler’s Eagle’s Nest The Week Fire destroys Hitler’s Eagle’s Nest in Bavaria — The Guardian UA.NEWS Fire devastates Eagle’s Nest Alpine retreat built for Hitler The Pink Un",
@@ -476,7 +540,7 @@
     {
       "title": "Labour MPs pull their punches on immigration changes",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXU0NDbUY1UlVBWXJpR1p6TExRd0lnVndRMXBFZVZLUHd1RGxVRHlsckx3N3JPLVdzQjlNRUdQeF91RXRzSWJrRk9DQkVFVk93dDJNcEJkVGdFb00?oc=5",
-      "summary": "Labour MPs pull their punches on immigration changes BBC Mahmood scraps settlement plans for migrant care workers BBC UK to double wait for permanent residency, with exemptions for care workers Al Jazeera Half-witted at best, a people-pleaser at worst: step forward, Chris Philp | John Crace The Guardian Britain says many migrants will have to wait longer to win the right to stay Japan Today",
+      "summary": "Labour MPs pull their punches on immigration changes BBC Mahmood scraps settlement plans for migrant care workers BBC UK to double wait for permanent residency, with exemptions for care workers Al Jazeera Half-witted at best, a people-pleaser at worst: step forward, Chris Philp | John Crace The Guardian UK exempts care workers from plan to impose long delays on immigrants seeking residence Reuters",
       "date": "2026-11-02 21:57 UTC",
       "category": "World",
       "source": "BBC"
@@ -484,18 +548,10 @@
     {
       "title": "Ukrainian and Russian emergency alert apps send false warnings after hacks",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3Y2N21HYXFTVEhxMXpodFhHQ3dNemkzQ3dTVHpqXzhoQTA0dG1fdFg1QWw0X3REUW9CZUVoWEFYMXpoZWc5OFFmbmg0X2dSaGVVS3hfSlJVTHYySkZKa2Z3dG51S09zSlQ3d1o1enB2UmZ1QXdBSVp5cGt1Q2piLTlRNnAyek02NVpBTy1lYjBocTdlWGZ3R093bzlTZFROZDljWjV2LTViN1Bxb0Y3MG5XTFlFaWhaX1hR?oc=5",
-      "summary": "Ukrainian and Russian emergency alert apps send false warnings after hacks The Washington Post Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN World in Brief: Cyber-attacks in Russia and Ukraine; shock endorsement in Michigan The Economist Global News Podcast | Ukraine and Russia hit by fake emergency alerts BBC Hackers send fake nuclear threat alert to Ukraine emergency app ",
+      "summary": "Ukrainian and Russian emergency alert apps send false warnings after hacks The Washington Post WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system PBS Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks BBC World in Brief: Cyber-attacks in Russia and U",
       "date": "2026-11-02 21:45 UTC",
       "category": "World",
       "source": "The Washington Post"
-    },
-    {
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWm5DVnJqV2FwS3ktcm5TZDBmQ2p0Zmc5ZndHWWljY2k5cGVXMFptYjdEekluRWQ1cV93NmtYeFlBRDZKcGh2RDhOcW1nTlpNYVlkTmxvQ25mbjAwcGJoNjBSZWdKX2hXeWNRZ19aWHFOa2UzSnVrcTYwcDItV3U0WDBKYVdROU5YRVI1dA?oc=5",
-      "summary": "Up in the Clouds With the Pope, It’s Still Commercial The New York Times",
-      "date": "2026-11-02 21:26 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world",
@@ -520,22 +576,6 @@
       "date": "2026-11-02 20:36 UTC",
       "category": "Pakistan",
       "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNam5ieDJudjhFckV1ay1jVlMwbGtIRGxMUURpNDIxdm9mcnROc1BGOHd1VExVR05rN05LaUl0TGV6bXNvaHZ0TUUwNVlYUTc5eFlEQkp3VlVvazl3bFM3T1FHY0ZTR2NmUlloeHRXM2d2X0M2Ujd6U2YzUDN1MkdPVW9uUDZjVzFleXk3T19KWXQ?oc=5",
-      "summary": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier The New York Times Isaac Herzog: the mild-mannered middleman in Israel's political brawl Reuters The Bursting of the Tel Aviv Bubble The Atlantic Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu Al Jazeera The dark paradox of Israel’s election — and ours Salon.com",
-      "date": "2026-11-02 20:30 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUJZWTNJRE1SSUNjaWlrcFJrSFBqdE5reVpSQzA3b2xOX2dlX1lUR2pIeWRrSWlwcERyOVg0NUh6SVhwTnVHbkpPVzFDMVJacl9ueGRVb3pySzRZVFBqQ0lPMkJELUU2bDQ3UnNDcWtuRVZBcmR3aVFkam5mSUFrVUdpMy1TbFpTejRhR2xFcHJUZVE1Z2RMVFBUamtITnN0VGZZN3pVQW5YSHhYcmROTV9OSHJwZGJzTXNKbHMyTDFMZUpldXhHX3Zn?oc=5",
-      "summary": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash Reuters",
-      "date": "2026-11-02 20:21 UTC",
-      "category": "Pakistan",
-      "source": "Reuters"
     },
     {
       "title": "The Al Mayeda Strike Shows the Limits of Pakistan’s Hormuz Mediation",
@@ -602,12 +642,12 @@
       "source": "PICSS"
     },
     {
-      "title": "Protesters, National Guard hold tense standoff over detainment of service members, draftees",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RwUnloR25EZmh5Z3BPTDhIT0F2Z2ZrMVVaMHhIY1pEUW1pblBqRGNqNktNU3psSFcyTF96ZktodGVKQnk0dUZoSTZDS2lTRjhRTHNfemZwenROOHoxbDZWdERnV3FqVGRHeFN2dWRIQkd5QWFCQTE1dUpuVHZyb05SLXp0M2t4cmpURzRqSV9FRnJXeHdyblQwbi1pNWdaTlhuNGd6N0p4bzI0S3pyLXl4VWlnZ3RBQm5KSFRYMA?oc=5",
-      "summary": "Protesters, National Guard hold tense standoff over detainment of service members, draftees The Kyiv Independent Dozens gather outside a private house near Kyiv saying soldiers are being held and beaten there. National Guard says the building was used to house newly mobilized troops. Meduza Prokopenko said that the information campaign surrounding events in Petropavlivska Borshchahivka is playing into Russia’s hands ",
-      "date": "2026-11-02 18:56 UTC",
-      "category": "World",
-      "source": "The Kyiv Independent"
+      "title": "Pakistan’s public debt rises Rs6.2tr to Rs91tr in FY26",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWJwQmdGZllucFdzbmFCUFR6OUIxZG9vT2t5OXFGRVNOR1o0eDZvTzZWX3hxNGkyMFBEVFdZUXltTnRYcEh6UXhfVnZnTW94U3hMRUpWZE1lSnU1TnBoSkN0blhSb2sxNEFfelVOM2gxcDFqV0pPMGdXSWdZeXFqZWM4amdoR05IMmRnUDlCaWFUUGhhQnc?oc=5",
+      "summary": "Pakistan’s public debt rises Rs6.2tr to Rs91tr in FY26 The News Pakistan",
+      "date": "2026-11-02 19:00 UTC",
+      "category": "Pakistan",
+      "source": "The News Pakistan"
     },
     {
       "title": "Pakistan govt urged to strengthen national halal certification mark",
@@ -678,46 +718,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPQ0xwQms5QldmTDR5eDI1eE5HSkc0c1c0Q2w2WklScWxRQl9fdThNMXhGeWlSN2FUd0ZoX3N0azFxMExsd0d2ZzFjTTJYaGNpT1BESzRhSHBXaDA?oc=5",
       "summary": "Labour to end power-sharing with Greens in 11 councils over Zionism row BBC Green party must avoid being taken over by hard left, says former leader The Guardian Labour ends power-sharing deals with Greens over ‘Zionism is racism’ policy Financial Times Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Labour set to end almost half of Green council coalitions over Zionism row The Telegraph",
       "date": "2026-11-02 17:59 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Saad Baig aims to build on promising ODI debut with longer innings for Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlFHbXNmSG9ENnR5ZWJRYVJUbTZRT0VyajhXcHhmZWh4RkJRejVsSjhBRnVrRVQ0cmJoNkVlaTZZVDNNTGxmRlJoWkNIYUh2SWxGRVl1dm94bUZRX3dLVEZfMUJYQnBxOXZZODlwY2pzN25sbHNBcllCcWZpZlNkX1pJOG92a3pCV1U3ZmdUUlpkYWhfcmQzcmpvaV9sSkkwT2tmU0Vzemg3SGlwVks5emZZVkFmWGszdk9URTFXQU05eFVJRmpj?oc=5",
-      "summary": "Saad Baig aims to build on promising ODI debut with longer innings for Pakistan Pakistan Cricket Board (PCB)",
-      "date": "2026-11-02 17:54 UTC",
-      "category": "Pakistan",
-      "source": "Pakistan Cricket Board (PCB)"
-    },
-    {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "date": "2026-11-02 17:38 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
-      "date": "2026-11-02 17:34 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "date": "2026-11-02 17:33 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
-      "summary": "Fighting returns to Kherson region after longest Ukraine war ceasefire BBC Operational update for the period from 06:00 on November 1 to 06:00 on November 2, 2026 Mezha.net Russian Forces Shell Kherson and Antonivka: Two Civilians Injured most.ks.ua A brief ceasefire in Ukraine's Kherson region has ended NPR In Kherson, several men stepped on landmines—they were hospitalized UA.NEWS",
-      "date": "2026-11-02 17:33 UTC",
       "category": "World",
       "source": "BBC"
     }
