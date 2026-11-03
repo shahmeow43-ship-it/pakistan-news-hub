@@ -1,6 +1,190 @@
 {
-  "updated": "2026-11-02T23:47:20+00:00",
+  "updated": "2026-11-03T01:17:38+00:00",
   "articles": [
+    {
+      "title": "Connecting Policy, Curriculum and Classroom: Pakistan’s Path to Meaningful Learning",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmlaY2NvS3BFMVhnWFRFd3YwWHU0MmFGaDRmUzZXekhxeGFOWEVTVU1tcEFERl9RYkhySjV0MzVmRmFBcTRBTElvWmZvVk5fNzVjWDdBNGhuN29jU1h5ZWIxNHhsR29kaktmb05VaXpINlNJX1V2OUdkOHdrQW1iU0hOcUlnSFpHSUZwV21LcWZLcTZhYWdVVzJoS20zc0hUYWNWUjNudml1dmlScmNWNVlB?oc=5",
+      "summary": "Connecting Policy, Curriculum and Classroom: Pakistan’s Path to Meaningful Learning UNESCO",
+      "date": "2026-11-03 01:07 UTC",
+      "category": "Pakistan",
+      "source": "UNESCO"
+    },
+    {
+      "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHFSdFVCbGVzcFY0X2IyQUdUbTVqNzZlcjVVQnBNUzJETTlSczhra1hVb3JJVVZWS2l3MXdvRE91WDU5Ui1GZUpnYzF2VVlDM0IyTnhnRFdqaWtLdG1rTkdRZkJTNDVLWUlmZzBLeWhCREhZY0tnNDFjbno1ZW5SU1F3TWUtYVZodGd6bFVhbFRDSDBfYURBYzV5NGVBWEZkWm9YZjJjNnh2Q1h0aU9Heg?oc=5",
+      "summary": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy Bloomberg.com",
+      "date": "2026-11-03 01:00 UTC",
+      "category": "Pakistan",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Experts highlight Pakistan’s growing vitamin D crisis at Lahore summit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODVENnIzWmdHbEtGWmdxSGU0NXRzR1ozYk5Xanh4OElTQnc5dUJ2NnZQVndhb1ZJWnRFZG9wUmlTTS1XdnRoRUVSa3F1MTRPdEU3YWtQcjAxa2hHbWdMZmJwZS16SGx1S2Z1U09qbmRBX0RxSDlYTkpxMzgyay1DSk9aV2ZTZUhwTkNwQVBLMEVZNm4wTEN6b0VuV08zUGlja1ZxU1Q4VVo?oc=5",
+      "summary": "Experts highlight Pakistan’s growing vitamin D crisis at Lahore summit The Nation (Pakistan )",
+      "date": "2026-11-03 00:27 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
+      "title": "Pakistan Sentences Human Rights Lawyers To 10 Years In Prison",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkhNSjFQTkhESEU2dWFCQ09wSDZfTUFDZ3QzOWFvYWNGcS1hcDZXcW1MRDIwXzJLalZUcE9jZXB1N3JCU3pWb3hkWHNOWER1V1F2Q1JUR2N2ZWp0djVUTUtWRy1xSi10RW1RNDdDc2pTbERoZWVXdkFCRnY0VHFsLVozblBObkVY?oc=5",
+      "summary": "Pakistan Sentences Human Rights Lawyers To 10 Years In Prison The Organization for World Peace",
+      "date": "2026-11-03 00:23 UTC",
+      "category": "Pakistan",
+      "source": "The Organization for World Peace"
+    },
+    {
+      "title": "German envoy says Pakistan’s GSP+ status up for renewal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZExTLTBZZ1ZVNWpheHJOd0xuVnE0aVdBRU1WSFRhQUlqMDRtRm00ai0tOFlycjZGVE9kMzVMT28yZHBIZWZKdEdEZ0hGSWM4SGZQNkNXMWktTUJWTGtxQTZZRjJwWlFtLWNPZVo0WEVWZ0NnZHVuQnMyLWNGNHhKdlpnWkM2UjQ3ZnZ3aEV1c3Q4bWZDRWtDdtIBVkFVX3lxTE9WTG9jM1JFem9RQzZVUVdEODdEd1BINWlDLVMyeVZ0Y0FBNWhBcFBRRUlXdUl3d2luQmlKSm8wcDRzNTJlajkyampaejFBZXNoR3oxczF3?oc=5",
+      "summary": "German envoy says Pakistan’s GSP+ status up for renewal Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "The Weather",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWlZ2WGttSExQOExhYk9uQWd0eEhubTdleTRERTlyb211aDh4eUN2aHFTLUdCSG0yYlZwRGxBZzVxa3daTGFfUWxpT1dVSURyVVRlVHZnUXFSZ214TlE4SdIBVkFVX3lxTE5vVFdYaFRnVGlxTGNOZy1IQmw5YzdBSERXTndPV3BfV2h5TGJRcUF1RkQwNnhqdnJiWTVZemFzZ0tFcW9MWWY0LV9mWXpEVmNSS3pYODJB?oc=5",
+      "summary": "The Weather Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "CM sets 15-day deadline for 100pc improvement in cleanliness",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXdqU3VnNkM0UEp3OVM5a2xkU3VkWWZ6a2FTYmUwQjl5WFV0UE4xN24yXzB4Mi1FaE41UGRha1dObWNzLTZqZ05ORTV3cTg1WlFuZzFram9PWHFaVzVsU1ZpemNrMUNhQnZWT2lZVGs3dmtfRFJ5WVZuSml4MXZVWDN0YUFmaXdvc1dfMzA0eU5JWmpPNDBUWlhOdnc2bmtWQmfSAVZBVV95cUxQV2J0ekl6c1pGQ21Lc2NNVko2RHBuWEFBZWFkTmhhNkZLUUtUakRSdU5KSF8zVWJmUWUyM2J1ZVZUWTRLeFUtWmo4VzEwOFhjOGVjOXgxZw?oc=5",
+      "summary": "CM sets 15-day deadline for 100pc improvement in cleanliness Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "PTI dismisses reports of ‘internal divisions’",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblJDRnlzZ0hpM19BZEZsV1lMTTNuTE1fUDBRaWIwaFdEM0FvU1B5VDBDdEd0SFdJNE1VNUNFQlVVNjVQbFJvTzFtU2VWcTdNTUdhcEZuelhoaXMzbExILXJ4dmNsVHBvMHByZ1FJSlBqTlA2dnpYZ2pzRnFxbjloZEtGTGloUjUzUWxF0gFWQVVfeXFMUGtwV0drVzJJQTFiTlBSTjl6bGl4MW8ySmJXSlRnM050NUlvMDFZMjFfQWxzSXF5aEx3N3dXM3Y1R3hHZzZfMmtOTS04NFc4LWlXeExWa0E?oc=5",
+      "summary": "PTI dismisses reports of ‘internal divisions’ Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "ATC issues notices in response to plea of Asad Qaiser",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcGxYYmxNQVZ5NVdGVDdJNWhXSkxFQUNPRjA1YlRlX2h5RTdYcURTNGpyUEdLYXVVOGlXREVOWWE2dGUxZnY0SHQ2MWl0cjF1THhhX0R5N0pyMmlMZm9SSjZVeVdEWGlzSWc3eDhIWC01a0xpUWttQ1dDTXZGOElxUDJXVGtRZ2dpazFWSkxEcUZtNkJ6MmpNbdIBVkFVX3lxTE12ckVOb1VnaFktUTlQVjM3SHBwQlVhb2F5WW9FLWo0R2JZSHN1SUtpbGN5WlFYNk9fRy1GczE3OHhfWmNvenJ5VzJodmhkcy1RbnA2aHNR?oc=5",
+      "summary": "ATC issues notices in response to plea of Asad Qaiser Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "All-weather strategic cooperative partnership: Pakistan, China reaffirm commitment",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVd6NXU3Zlh4YmpQWHYyZkQ1dy1XME1IUkY4WWxYWG9EM2p5VDNwcUJLM3dQT3V3U3RBTXJWdWI2NnZhU0NhX0g1TjRJbTJFX0RPUTVTbzQtcTFrVXF5OHdWbUNKZ1h5Q2V4U1VpQTRUX3VfY2tfTkUtLTVzdnhraEZUYlZRcGJtblEybzJYbi1mWlVLRkpkdEpsbFlGVW85SEgydnlhdHROS1E0LTZUdmI3UjFkVTk1ODdMbdIBVkFVX3lxTE9ZN0V5bE9FQUZmOVZGbWUyZlhmcVZBY3ZJd2E3aHFFOHprMXBGdGtaMV9vTndWT3lxX0E4SGxPUjNleXhLS05ibzNyOW1xLXloRWpxZTZ3?oc=5",
+      "summary": "All-weather strategic cooperative partnership: Pakistan, China reaffirm commitment Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "SDPI conference: Pakistan recommends new global financial architecture",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0JoVDg2bEVaVnFyeGowaTBhNm1ia1cyaG8yODl2djBIUnlDNXJCOVpRaEdTUVlxZFFUYjJocnlacjZUdlVEV1pNM0tKVnE3WGt4NVR0RGQzNV85dy1NUGxIdk1CYVRiR0tjXzB3dlJPSnVKdjJ2NGloMTk0WVJqY2I4UzBaWDZYd1dyMVFKM2ZRRTB5SGhZa3RsVDhPR1hGTUZpaEcyUXltMldEUUHSAVZBVV95cUxNelpKNVVieVE2VjNrV19CbVVIM01vQmlvTjlTM01RNkRiU3c1eEh3aHhPLTBtcHhoT0hZZXp3WUh2SXZNNkFNTm9NdFFpS3hfczNSQ0wwZw?oc=5",
+      "summary": "SDPI conference: Pakistan recommends new global financial architecture Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "IK meets lawyers after 7-month gap",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RN1VDYllNd1N2aVZpS0JWQVMwTzhLY0t6YUF0cTNwTnA0TjJKUWxLWDlwRUFPNjBhTGpmYnhWM3ZBMVlKSkFydkt4NGVVdVNMRVlzWHFCb2daLVloWU5pcWtUMG1HV1J2MjFGV0V4ZWFab293bTdYbC0yQ2FFTEnSAVZBVV95cUxQQVcwSU5LNVRpQnBlQWdFQjh6Z0hnM0s5aWZhMlpkek1RQkdBSHlmQ2ItanNGVkxQUEVvc0RKNE4wWVAySWlSdFp2VHRSaXI0MGZZNFR0UQ?oc=5",
+      "summary": "IK meets lawyers after 7-month gap Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Tajik envoy for stronger economic engagement with Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazBEclo1OTZFOTQzbHJELTlBVTd0Vmhzam9pX2syeW13ZlJiczBPZWZjeEQ2R2tQQVhPSDF1Y1lDM1NsUW9mRWpNVUFZOG9FVUk3QTNwQ24tNmZ1TU1DcjJ6OE5SVWdPaEh3VGlQMnJ6bDZZUUtPS3BDVS1FUXV1NW5YTUx5X25RY2hUUlFfdWI3VnNRc01yNWl4S0V5MHPSAVZBVV95cUxPMEw3N2hTX1RnTHVnTlJwNmhzSlBnX0gwajNJa285TGt2YldRWHBOMTBDZzVrem1QYnl2YjA5b0kyOGU4M091blR6elJQSVJBb2NhUDFIdw?oc=5",
+      "summary": "Tajik envoy for stronger economic engagement with Pakistan Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "TTAP assails Barrister Saif over his recent remarks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUhsQmVqTnBZYmRBYmV0NGNwdlBYZUhISVVVeUVwbUsyMGJtcVB0eGlUdFpwWlFDTlNUaVgtLXJldHFfekhBRXZjWTN3Y0gxUnhBVVZiMXVlZmozeklpRHByTm9kSllLcWdQOVYtRlZ6QjVEbFVOODRGdWJpRnJxRm9hcFRPazdnVzZQYmxvcDZrRmpRa3fSAVZBVV95cUxPWFlIWDFFU0JaaVRtOVRneUN2Z1QwbDlGeW05c190aVN0N2dIOXhZcVJXcXVPWmtLMFVZQkVReUJtbndTUy12ZFVKRmt4bXVnRWpRM01sdw?oc=5",
+      "summary": "TTAP assails Barrister Saif over his recent remarks Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "IHC to hear plea seeking meeting with IK on 5th",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFA5YkREWmhjdElodjNQV29fSHptazh1RUh1Sy1RWWt5cjhKNEhTTFpXdzhtTWhPN3ByTGhxU0lPNVNPcV9LRHhpZ3NNNnpIcWVkZno3b3F5amREbXp0TnpTaHJ2X1lRdnlhNmdVOVlwRXpvbXdqbnkxb3JXNTVjN29fNC0zc21TenhNRWZmY3rSAVZBVV95cUxQeTlpb0NTMW16TE1zSnZmMGM2dkp6c3hjclR6M2hZSEV1LUdwU0ZLUDMwZTVCQXNPbGEyMDk3N2VGak1IWjc4ajdyd1ZYRHhOVDUyTDl1Zw?oc=5",
+      "summary": "IHC to hear plea seeking meeting with IK on 5th Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Chinese minister, CDF discuss evolving security dynamics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb29oQlNzZi1xelNuZlBuMlhXWTU5Tm1GVC00TXFaY08yRGRzbmVuM0NYRzhGVUFCQU5OTGhPZjNFMENjTU1sTmxkLXFPNjV4STFqN1ZJX3pwQ1V1em43V3o2UVFwRk92aVJFcEZKNUdnZV9SMUdSelhJdHFEaElCa1MtV2J2S3k3VmMxMU54T215VE1BVV9SWkpTa9IBVkFVX3lxTFBsYkNXbU5MZm1keXMyQS1URmVoQXJuUGMydEpJaU5HRmt5TVR5eVAzQXBRSzV6SGVHcFNla28xYkp5azZUZ2F4STFyUVlkMlkzeWxvVFZn?oc=5",
+      "summary": "Chinese minister, CDF discuss evolving security dynamics Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "ABAD to organise three-day exhibition",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUtMSUR5U1piV3FOb3laVHBzM1UyUEFTRlVMcEpLcnRQcDhwX2w5R2pLZkJNb183U1JMQUlpeGZRbnJ0MDktdW9UZktRY1F5bTk2bkdZYmRvZzl4Q2R1UFlTQS1QQW12RTI4c2Q3bmNaTHV2ZnliYXpEY2NnVkFBdHdQMNIBVkFVX3lxTE5jUDV3bjdCRms1aEFxSWFic1F6LUdEZlM1ZWpVaGRoRHhyR290bHU1OTMtQno5SVlhMEVZY2ZJckJiWmRxcGJPRUFnTmd1SXU2YXA4R2p3?oc=5",
+      "summary": "ABAD to organise three-day exhibition Business Recorder",
+      "date": "2026-11-03 00:12 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Pakistan, South Korea sign judicial MoU",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUh0TmFudFF2V1hIMjRQbTRjVXJicWtCcWRTbFhqV3NsVDRLT2hnbkVDb2NYMmJUNjhyTHVwUGdXRHRVcjltdzRSdThOQ2VCQm5YR2hWSTNFUzNoYmtudG1GMDNWbXkxbmdhVlowUjMtaVBJZms0TUdSdEVMME1FdNIBiAFBVV95cUxQbGQzeVdzRmh6ZGxfY2Y5bThiVHpPRzh2TFJSQUdYNHhqMktCQ18zRzdBLTE4UjMxYWozbGFlbzE0YUd0TEQwdUZmOEs5TmRXSUxsZjFUOC1UeVg3YS1hb0d2STN3VU44Z1dsVEdBRkx5a1FwckxLMFVENXJLLUJ4eW1IcU4yU2ox?oc=5",
+      "summary": "Pakistan, South Korea sign judicial MoU The Express Tribune",
+      "date": "2026-11-03 00:11 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "date": "2026-11-03 00:09 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "date": "2026-11-03 00:08 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "date": "2026-11-03 00:07 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
+      "summary": "Iran says contacts over ending war continue after talks finish with no breakthrough Reuters Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Iran war updates: Tehran says ‘intensive’ US talks underway Al Jazeera Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS Iran’s top diplomat hopes US shows ‘rationality,’ and other Mi",
+      "date": "2026-11-02 23:57 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
+      "title": "Pakistan pins its Afghan border war on India",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDI5WnMtMmJGQjdPSGtBS0FvSkE3b2c0dUY0QnJRNnBacmVfTkNyMXo1Y1dmMlpnUHNZWnZYOG50anA5M1BIMHZxZndOeUwxMWVPR1doZ1RBVzVEUEgwYVdQalE3aFZPVlloQmZNRTVNdmJSaVdlVmdURG5fRnJVQ29FOFhET1U?oc=5",
+      "summary": "Pakistan pins its Afghan border war on India IntelliNews",
+      "date": "2026-11-02 23:54 UTC",
+      "category": "Pakistan",
+      "source": "IntelliNews"
+    },
     {
       "title": "Legal challenge to Australia's social media ban to start in High Court",
       "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
@@ -8,6 +192,30 @@
       "date": "2026-11-02 23:37 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Senior Communist Party official appreciates 'momentum' in Pakistan-China exchanges",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkNfNmRVSFZJSHEya1hWd09rVF84Q2tvbjA5bTNzMkFTd2VHTWhzMExPLWI2al9JQjRyUFRoc1ktSHpVcjlUeVdIaXdaNVhiVWhxU0lINUVuWklESjhmcUFrMnQ1OExodDV5SWVhWUtyaG9DQjNRTENfT09wSW5NaEJLQ1JqckdIMDVieDAwVlRwc1kyQzFoSUJNR3VWWTdiS1FhWTlNOE1WOXR1c3piM3EtRC1YMTFjdmh2aHktZGF1dEJldlE?oc=5",
+      "summary": "Senior Communist Party official appreciates 'momentum' in Pakistan-China exchanges The Express Tribune",
+      "date": "2026-11-02 23:22 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFdpUFRyRTdQaWZ3Y200c3pzcURYQjBOekRLZ1o0YUphWERKa05ZSVZhd3lfLVpYZllxQ0g5bEtnNVdydC03YTNHN0RQZkVQdHN5c3llaWdfbkhPcUxKQ3JYSkpNSms2WVdtT1VDQWh0cTNBVENwQTh4VTA?oc=5",
+      "summary": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal The New York Times Gulf Arab states struggle under the cloud of war NPR Conflict pushes Gulf investors to look beyond AI and energy Arabian Gulf Business Insight | AGBI The Iranian-US War and Its Impact on Startup Investments in the Gulf: Where Are Funding Billions Going? entARABI France’s Gulf Moment: Between Momentum and Commitment The Washing",
+      "date": "2026-11-02 23:12 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Powerful Haitian gang leader tells AP he wrote UN seeking dialogue as clashes intensify",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFFIaW1Ya0Q0cVFzUkVrYWNQRzBZYktPQlpOVm1yeEVZYzhNT0RJNVdKVGMwbXUtZ1dtZHZBUXI2emF0d0tFSGU5NEoxd1diLUdJSERoNEw0d2twVHpNejI2ZXNzeC0zMGRlcC1BdkQ4MUk1WkNQQklReXF6bml3aGVOOEpmOG40MC1XV3FnLXp1d1JCVXNZRHFlYzVndGlxMFlDaElfU2lzYXRKZ1E?oc=5",
+      "summary": "Powerful Haitian gang leader tells AP he wrote UN seeking dialogue as clashes intensify AP News Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti Reuters Could El Salvador’s Bukele Be Haiti’s Savior? The New York Times El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers BBC Haiti Gang Leader Calls for Peace After El Salvador Sends Troops Bloomberg.com",
+      "date": "2026-11-02 23:10 UTC",
+      "category": "World",
+      "source": "AP News"
     },
     {
       "title": "Pakistan's quiet resilience in first quarter of FY27",
@@ -28,7 +236,7 @@
     {
       "title": "Russia kills at least 24 in horrific bombing on Ukraine school",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVAwZm8xaUJnUnA0cnV6MkhpeFZya3pyT0VHVHE5SGpndm5jYVJXSEk1WVVrS1JOUHgwZzhfUm5TYVdYZ0U4MzZkcGFpcWtjYVBPWEViNmFmcnJzZ3gtWHBCUm9oU2dmRUhfYl9oZWcwZEE2b092c1ppdEFWTUVWd2gxOFAxOXJYMEo1MUVHY3hQVmdWdHpVTFNydFdJalNWc0FFcTdLLTc3NklsWTF1bmhROVY4TXZIbFg3UGFIQkg1QQ?oc=5",
-      "summary": "Russia kills at least 24 in horrific bombing on Ukraine school New York Post Russian bombing kills 26 people at Ukraine aid centre, Kyiv says BBC Russian bombing of Ukrainian aid centre kills 24 people Al Jazeera Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say AP News At Least 24 Killed in Russian Attack on Ukrainian Humanitarian Hub The New York Times",
+      "summary": "Russia kills at least 24 in horrific bombing on Ukraine school New York Post Russian bombing kills 26 people at Ukraine aid centre, Kyiv says BBC Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say AP News Russian Strike on Ukraine Humanitarian Hub Kills Dozens The New York Times Ukraine: At least 26 killed in Russian strikes on aid center DW.com",
       "date": "2026-11-02 22:01 UTC",
       "category": "World",
       "source": "New York Post"
@@ -36,7 +244,7 @@
     {
       "title": "Ukrainian and Russian emergency alert apps send false warnings after hacks",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3Y2N21HYXFTVEhxMXpodFhHQ3dNemkzQ3dTVHpqXzhoQTA0dG1fdFg1QWw0X3REUW9CZUVoWEFYMXpoZWc5OFFmbmg0X2dSaGVVS3hfSlJVTHYySkZKa2Z3dG51S09zSlQ3d1o1enB2UmZ1QXdBSVp5cGt1Q2piLTlRNnAyek02NVpBTy1lYjBocTdlWGZ3R093bzlTZFROZDljWjV2LTViN1Bxb0Y3MG5XTFlFaWhaX1hR?oc=5",
-      "summary": "Ukrainian and Russian emergency alert apps send false warnings after hacks The Washington Post WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system PBS Newshour | Russia and Ukraine hit by fake attack alerts BBC World in Brief: Cyber-attacks in Russia and Ukraine; shock endorsement in Michigan The Economist Hackers send fake nuclear threat alert to Ukraine emergency a",
+      "summary": "Ukrainian and Russian emergency alert apps send false warnings after hacks The Washington Post Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks BBC Hackers send fake nuclear threat alert to Ukraine emergency app The Guardian World in Brief: Cyber-attacks in Russia and Ukraine; shock endorsement in M",
       "date": "2026-11-02 21:45 UTC",
       "category": "World",
       "source": "The Washington Post"
@@ -66,9 +274,25 @@
       "source": "BBC News"
     },
     {
+      "title": "Bilal Bin Saqib calls for Pakistan’s active role in shaping future of global finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjBFMWplUEpPcEdmcTVpVzBsVUpHbGRESDNSTTVIUFUzeUpHMVN4R1lJRG5WM3gzVmZlTzVfbWJKSkhYdEFSeFBtOTJhQ095c19sUFJHQl85UDU1ZWRhajYxNWdfZjF1Z1ZST1N4cWFLbW9JMlB0RjFpemRJQTNTXzBza214RjRYUXNhbGZjVy15Znh6bElvZmFHTkptZklOelFaSGJGb2tTLVJhQlJvQjRn?oc=5",
+      "summary": "Bilal Bin Saqib calls for Pakistan’s active role in shaping future of global finance The Nation (Pakistan )",
+      "date": "2026-11-02 20:36 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
+      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNam5ieDJudjhFckV1ay1jVlMwbGtIRGxMUURpNDIxdm9mcnROc1BGOHd1VExVR05rN05LaUl0TGV6bXNvaHZ0TUUwNVlYUTc5eFlEQkp3VlVvazl3bFM3T1FHY0ZTR2NmUlloeHRXM2d2X0M2Ujd6U2YzUDN1MkdPVW9uUDZjVzFleXk3T19KWXQ?oc=5",
+      "summary": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier The New York Times Two visions for Israel’s future collide amid uncertain election results The Washington Post Isaac Herzog: the mild-mannered middleman in Israel's political brawl Reuters The Bursting of the Tel Aviv Bubble The Atlantic In unusual move, Herzog to begin coalition consultations with smallest Knesset parties The Jerusalem Post",
+      "date": "2026-11-02 20:30 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
       "title": "Yemen's Houthis advance to within 80 km of Aden, sources say",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRCZUUyWF9VckZ3NWJGbUV2Z3luSldoNGZIVk1zTkN4MEZ1ajdSZm4zYmNLYjhVbU5TQU9yYTU2YVVrSFY3QzNPU21wT2EwVlFlRG9mMGxkeG84RHptSzlsOUw3Zmd6SHRqZGdzM1UxQnpWZlZ4MFJSYTFTZ296c2U1T1NGZFBqd3hnazg3clVMUFJ4SWNzYUtjOVoxY2FHMHpzY3RKZkNudw?oc=5",
-      "summary": "Yemen's Houthis advance to within 80 km of Aden, sources say Reuters Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis Al Jazeera Yemeni army captures strategic mountain range in Al-Jawf after battles with Houthis Saudi Gazette Yemen army carries out 951 strikes on Houthi targets in 24 hours Arab News Yemen: Gov’t Forces Killed , Wounded in Two Houthi Attacks Yemen Online",
+      "summary": "Yemen's Houthis advance to within 80 km of Aden, sources say Reuters Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis Al Jazeera Houthis continue to engage in ‘fierce battles’ in mountains near Aden, Taiz - report The Jerusalem Post Yemen army carries out 951 strikes on Houthi targets in 24 hours Arab News Yemen: Gov’t Forces Killed , Wounded in Two Houthi Attacks Yemen Online",
       "date": "2026-11-02 20:23 UTC",
       "category": "World",
       "source": "Reuters"
@@ -82,14 +306,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Two boys arrested after Halloween party stabbings",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55ZjhvZkM0LW1oVjVqalp4QlNDV1dndnR4SmwweXFXdzNpWERCdURYbU5aalZITWNfS2llUUZzZEt5NV85YzZ3ekVxS2pTVjAteEJNNVRjcW5nLW8?oc=5",
-      "summary": "Two boys arrested after Halloween party stabbings BBC 5 Teenagers Hospitalized After Being Stabbed at Halloween Party People.com Two teenagers arrested on suspicion of murder after Halloween party stabbing The Independent Hunt for attackers after Halloween party stabbings BBC Teenagers arrested over Hallowe’en party stabbing of five boys The Telegraph",
-      "date": "2026-11-02 20:20 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
       "title": "The Al Mayeda Strike Shows the Limits of Pakistan’s Hormuz Mediation",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEt4aE5YNGJHQWRyWk1vLUlQZXJrSGRfcXkzd2hCaWsyY2tnU2NBbmFHX1JpTXZuVWZpcURaWnJHbC1GWHZqY0syeTdfTlBUakxJaWNnakg0M1lQelRqWFBFcUJBTldqLWpiWDB6c2l6bTRHbXdHZTR2MmYzMjZEcHFpZ0dmYnNGR2FLQUhKVGpBcU8yNW1tb0RWN0RiUi1laVE?oc=5",
       "summary": "The Al Mayeda Strike Shows the Limits of Pakistan’s Hormuz Mediation The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -98,18 +314,26 @@
       "source": "The Diplomat – Asia-Pacific Current Affairs Magazine"
     },
     {
+      "title": "Solano urges collective effort as Pakistan target SAFF last four",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVluTldmMGp5VEdhTmVPeFBORlh0Nk5uZ2ZKSkNCOGhFQWhRNUdrMmVfdmhFbDBUT3lHWloySndtRXZiamZZUFROb2ZYUEFCd2lhRDZZd2E1SmMtbFN6TEN5OUVieUFEb3ZFUXJQV2pVTU1naGthSUJPaUgzb1lZeGs2elZ5dVNCUHFXU1p4RXl1VHU3eG9zUDZjX3g2Nmsz?oc=5",
+      "summary": "Solano urges collective effort as Pakistan target SAFF last four The Nation (Pakistan )",
+      "date": "2026-11-02 20:12 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
+      "title": "Top players advance at 10th Sheheryar Malik Memorial Pakistan Open Tennis",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlJkaVFiMGlJXzlvV0pJTHhPN2JSanpHekQzWjR2QlY1OG81MXE0MU1KblNlU0xfb1ZXdm5VaDlISkdVQU93akpnLXVQZzlhcFM5N1NTTm5sYnpVSElEWFNfeDl5ZmJaT29wanpjSWw1aVhpTXlxY2ZGeW82djEybHI1TjJ0YjBZSmhvUmQ1RmZuYXZsaWpaaTM2VDlhZXY5T0lGREZPYUtRcWh1?oc=5",
+      "summary": "Top players advance at 10th Sheheryar Malik Memorial Pakistan Open Tennis The Nation (Pakistan )",
+      "date": "2026-11-02 20:12 UTC",
+      "category": "Pakistan",
+      "source": "The Nation (Pakistan )"
+    },
+    {
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
       "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
       "date": "2026-11-02 20:08 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
-      "date": "2026-11-02 19:58 UTC",
       "category": "World",
       "source": "BBC News"
     },
@@ -124,7 +348,7 @@
     {
       "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlJJZ3ZjWHRZWEIzODdjQTdqQ01oZWFzWG9ZbEdVMzUwV2N0Tk5Gd3QtVlpvOFhCZkR4VWZ4N0NjRmpHV2RZb3I5bnZrMEJxUTZPUWh6cU9tZnU2TnlDcEhnUTR3Z01BS3p6X1hNOVVodzByeHlJOXRqSzVSUjdmWGRhbm1SR0xTdFZHOEgwMzNUY2dNNTU5amVSWk0?oc=5",
-      "summary": "King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times PM to ask countries affected by UK’s role in slavery to help shape formal apology The Guardian Burnham to Urge Debt Reform for Poorest Commonwealth Nations Bloomberg.com As reparations debate grows, Caribbean campaigners point to one British family's example Reuters King's role is not policy making, says Palace in slavery apology row BBC",
+      "summary": "King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times PM plans debt re-set for Commonwealth nations as slavery apology talks begin BBC Burnham denies offer of apology talks made things difficult for king Yahoo British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian Burnham to Urge Debt Reform for Poorest Commonwealth Nations Bl",
       "date": "2026-11-02 19:37 UTC",
       "category": "World",
       "source": "The New York Times"
@@ -132,7 +356,7 @@
     {
       "title": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjBrd3FTdWlWY1A1aU5LUERrSHlYdUFVcnBzZVZSSVV0cnlMcG5naTY2WW1rRkVtcnZHa2tqNkkzYmc1d2tLZDJ0WlRIZS1PdUpuMWlxYUJXRk1CWFZnSW5iLXN3WGlFUU4wVXJPUHBmaGswTzhjMTlTYkFCbjNPcU9vdS1BampBbGs0WFp6WmJOTVpBaERMbENpVnl2T3g0dWxVeW4zbF9JVTZWbXdlVTFaOUJQc1XSAbwBQVVfeXFMTnZOZFpGMVJqQUsyNUwzWnVjYl9laFkyNHpkcWVmNkstdlZ1VlNuZkx2T1pHVU1EdGQyT2p4NWZRTHpPeWNzZmJtZVNKdXppN1RMNlFUTThON3JNREdLTWVPLXlzTjRGM1pZU2tMVE9TT2lPMWVMVklUb1pjdjhvMVk0bFJLaE14dU5tT0g5WVQ5UExGVFViSWlWeWRRd1NNcHZ6MGNFV0hPcUlORXFaZmUtVkZDYXNDNjJ1QjY?oc=5",
-      "summary": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab Fox News Russia Senses Opportunity in Polish Political Turmoil The New York Times Bitter spat between Poland’s pro-Europe PM and pro-Trump president erupts CNN Poland’s struggle to restore the rule of law Financial Times The Guardian view on Poland’s political turmoil: an ominous portent of bigger battles to come | Editorial",
+      "summary": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab Fox News Russia Senses Opportunity in Polish Political Turmoil The New York Times Bitter spat between Poland’s pro-Europe PM and pro-Trump president erupts CNN Poland’s struggle to restore the rule of law Financial Times Poland’s fight over its constitutional court gets physical The Economist",
       "date": "2026-11-02 19:37 UTC",
       "category": "World",
       "source": "Fox News"
@@ -148,7 +372,7 @@
     {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QWlHTTk4T010X1NOeVFiNmJLR011RDJ4ZTY2UTVMVENCemd5M2FIRWxHUmRnN2Z1M3BVTWVyQThUczQwSmxEMHhzZnpLNURSMXpvOFF4S09YTTQ?oc=5",
-      "summary": "Trump to remove Rwanda and South Africa from US trade deal BBC Trump Removes South Africa From the African Growth and Opportunity Act Trade Program The New York Times South Africa, Rwanda Lose Access to US’s AGOA Trade Pact Bloomberg.com Trump gave Africa’s largest economy 5 demands to restore U.S. ties, but Ramaphosa refuses to bow as he prepares South Africa for trade fallout Business Insider Africa US to suspend S",
+      "summary": "Trump to remove Rwanda and South Africa from US trade deal BBC Trump Boots South Africa From Preferential Trade Program The New York Times Trump administration will cut South Africa and Rwanda from the AGOA trade program AP News Trump gave Africa’s largest economy 5 demands to restore U.S. ties, but Ramaphosa refuses to bow as he prepares South Africa for trade fallout Business Insider Africa US to suspend South Afri",
       "date": "2026-11-02 19:33 UTC",
       "category": "World",
       "source": "BBC"
@@ -170,17 +394,9 @@
       "source": "The Daily Beast"
     },
     {
-      "title": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbk5BRlc4Ri0xSmdFRDdIQ1U2cHRJMUQ5cmQwUUQyelFOZDFHWFJzQURZVFZrb1ZZeXZhVElWMUJEQUxvUHlPLVk0OWFEemNyTWpVNHAxZVhNREJBOWhFUzQ5Wjd3aFpvenFGM016QkZQRHl2a1U2TFk0NFZkYlFjZEZIcXBRLUlvWmI1XzY5NFFPcEM0OTdBU3MwbGlrejR1UGd1MHdscW8zNldickJRS1hhcGdQSlE2MnZF?oc=5",
-      "summary": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait Reuters UN's peacekeeping mission in disputed Western Sahara ends after 35 years NPR Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera Western Sahara: UN ‘stands ready’ to keep supporting peace effort",
-      "date": "2026-11-02 19:12 UTC",
-      "category": "World",
-      "source": "Reuters"
-    },
-    {
       "title": "Anonymous Celebrity Accused of Sexual Misconduct Set to Find Out if He Can Be Named",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmpwdjF1RkhKNkZwMi1uSDNlWmtYRmQ0ZVJUa2RuYVFVYkpDRlRLLWU4MUpfYXRhc0JRdlRsVVBtN2pFWi10VHdCdFJsaUxSQkI4THR5NjdPM2M5LVJ0Y3dqQ1J4SDNiVHNvNDBSOE5keDEtTDNtZmZjRVRPdkpkZURPTmdfZUs5SDZoRHIzcXJkUW1Yb3NyMXAzOW9ZYnV5emtMbE1yMmN1c1U?oc=5",
-      "summary": "Anonymous Celebrity Accused of Sexual Misconduct Set to Find Out if He Can Be Named TMZ Using suicide as a weapon is cheap and wrong The Times Unnamed celebrity accused of 'inappropriate sexual activities', court hears BBC Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. Variety 'Well-known' star who says he'd 'kill himsel",
+      "summary": "Anonymous Celebrity Accused of Sexual Misconduct Set to Find Out if He Can Be Named TMZ Using suicide as a weapon is cheap and wrong The Times Unnamed celebrity accused of 'inappropriate sexual activities', court hears BBC Can Abuse Allegations Against a Celebrity Be Silenced Over Mental Health Claims? A Defamation Lawyer Explains the Unusual Case Gripping the U.K. Variety Mystery celebrity who threatened suicide ove",
       "date": "2026-11-02 19:09 UTC",
       "category": "World",
       "source": "TMZ"
@@ -228,7 +444,7 @@
     {
       "title": "What are the planned changes to immigration rules?",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0VlY5ZWdiTGQ0QnNZYkx0bThIbmJsQThPVk9IOUNsZXZmVFJRSHEyLTF1WFBQX2JoUVhHR0dQaFFDOXBUdkNWYlNFZzVJRTc5bEkxS1VobDFPRHc?oc=5",
-      "summary": "What are the planned changes to immigration rules? BBC Half-witted at best, a people-pleaser at worst: step forward, Chris Philp | John Crace The Guardian Labour MPs pull their punches on immigration changes BBC UK exempts care workers from plan to impose long delays on immigrants seeking residence Reuters UK government waters down proposals for legal migration Financial Times",
+      "summary": "What are the planned changes to immigration rules? BBC UK exempts care workers from plan to impose long delays on immigrants seeking residence Reuters Newspaper headlines: Mahmood's 'Duty of care' or 'climbdown' and 'The new cold war' BBC Half-witted at best, a people-pleaser at worst: step forward, Chris Philp | John Crace The Guardian British government sets out tougher rules for migrants looking to settle in the U",
       "date": "2026-11-02 18:49 UTC",
       "category": "World",
       "source": "BBC"
@@ -258,28 +474,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Why one of Austin’s top AI founders says he is ‘incredibly long Pakistan’",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGdHSmtoX2FtODNGTmREUFZ0R3VsZTU2NmxkMVk3SmtjN2ZMN1c4MWh4QW9HaEhIaWk3ZzBVTjRwOTJFT3BwdXFZUkFkYnJBN3NGUEhvYTVqZmZ0TWxEVHR1Q2dTb0Q3SWdGbTNCS3BoZC1xREI0WnNDamN4TUtRREVENWMzVUc2TGFmSGVmdGhPT3I3Zml5S2syRjZyMWQwNEtqN1JxZmU2X1ZSZmU40gFWQVVfeXFMT3l6NzVmUTNQLWpYcG0xVlFFLXZ0UHRhUE5fVEFqNjE0QzZrSWJSdWQ2aWRETFZKZmhSdzRZdWRZNkJYZ18zdWNReXFWdkszUE93WTBFMUE?oc=5",
-      "summary": "Why one of Austin’s top AI founders says he is ‘incredibly long Pakistan’ Business Recorder",
-      "date": "2026-11-02 18:25 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
       "date": "2026-11-02 18:25 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "France: Petition to ban TV channel accused of stirring up anti-immigration sentiment gains traction",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTGhRbkdWcjRHelBQNWVhWjVaRmR1ZFJ2VzVBOFl6ZWlRQzZSbHhQaGFJeDZIeXFUV0VYeFhpS1d2aEFqc3NkTDlSSUt2SXBSTlF1dDBLODFpWFdWbkJfTGhlUnhtYkozOWt6WjU5Z3drY0FVdnBMYTNYbGczb2VVOTdWbmZOOTdFdXl0RmxVaV9BOGvSAZMBQVVfeXFMUE53dnBpNzNmQVk5dS1QemJ3dldYcTg2MUh4RGc4aTg4eFJfVUFVVVE4RVVyLWVnSmdIcUJjRS1jYy1vOUlpRmNwUTdEZTVqQ3pHMG9TbFZWVkJWRkQzNlZGQzNHTndTRFJ0S2thbm1kVkwwM1RaUk50RUtPdlRxcnZFMEdDSllCMlUxNE1DMXR2eHY0?oc=5",
-      "summary": "France: Petition to ban TV channel accused of stirring up anti-immigration sentiment gains traction DW.com See more headlines & perspectives on Google News",
-      "date": "2026-11-02 18:18 UTC",
-      "category": "World",
-      "source": "DW.com"
     },
     {
       "title": "PM Shehbaz calls for stronger political engagement to deepen Pakistan-China ties",
@@ -308,31 +508,23 @@
     {
       "title": "Labour to end power-sharing with Greens in 11 councils over Zionism row",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPQ0xwQms5QldmTDR5eDI1eE5HSkc0c1c0Q2w2WklScWxRQl9fdThNMXhGeWlSN2FUd0ZoX3N0azFxMExsd0d2ZzFjTTJYaGNpT1BESzRhSHBXaDA?oc=5",
-      "summary": "Labour to end power-sharing with Greens in 11 councils over Zionism row BBC Labour to end cooperation with Greens in 11 councils over ‘Zionism is racism’ policy The Guardian Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Labour set to end almost half of Green council coalitions over Zionism row The Telegraph Green mayor quits party over ‘Zionism is racism’ motion: ‘It crossed a line’ The Jewis",
+      "summary": "Labour to end power-sharing with Greens in 11 councils over Zionism row BBC Green party must avoid being taken over by hard left, says former leader The Guardian Labour ends power-sharing deals with Greens over ‘Zionism is racism’ policy Financial Times Green Party at a \"crossroads\", says former co-leader Adrian Ramsay BBC Labour set to end almost half of Green council coalitions over Zionism row The Telegraph",
       "date": "2026-11-02 17:59 UTC",
       "category": "World",
       "source": "BBC"
     },
     {
-      "title": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVJWYnVaZU91MlRRZ2c3bjdqT1ctekFTVnVIdnRPZ2lzNlNVcVdLRFoydmRlOGVHMlk0cEUyVG5rM3B5OE80RVVGeFo5dHNhNkFYeHpTR1N1VDdUVlJ6cWZaUzFfa0tDa3pRY1pfbXNPSG4wM3dTbV9GWk5XMnliNFVvREVSYTE0LU1lRVl5UG00bk5nS0dWc252VlhWNnVRVFdXdlNoNUhLQy1kaFM3MHhZV0N0WFRHSWpMOVhzbDJodHgxSnF3?oc=5",
-      "summary": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM Arab News PK",
-      "date": "2026-11-02 17:51 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
       "title": "Saad Baig aims to build on promising ODI debut with longer innings for Pakistan",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlFHbXNmSG9ENnR5ZWJRYVJUbTZRT0VyajhXcHhmZWh4RkJRejVsSjhBRnVrRVQ0cmJoNkVlaTZZVDNNTGxmRlJoWkNIYUh2SWxGRVl1dm94bUZRX3dLVEZfMUJYQnBxOXZZODlwY2pzN25sbHNBcllCcWZpZlNkX1pJOG92a3pCV1U3ZmdUUlpkYWhfcmQzcmpvaV9sSkkwT2tmU0Vzemg3SGlwVks5emZZVkFmWGszdk9URTFXQU05eFVJRmpj?oc=5",
       "summary": "Saad Baig aims to build on promising ODI debut with longer innings for Pakistan Pakistan Cricket Board (PCB)",
-      "date": "2026-11-02 17:49 UTC",
+      "date": "2026-11-02 17:54 UTC",
       "category": "Pakistan",
       "source": "Pakistan Cricket Board (PCB)"
     },
     {
       "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnBxbUVVcU5fRmswTjJHQUFneGZENEVHUmdEamNKVno1blFHX1NHa2ZOUGxudUhhb0JFanFUa3hKM0Z2ay1XWlZVWjJqVVd3R0lIVDhYME52ZW9sNXl1RHFaUnJlMGVOTTlHX05FTGJ1dHRPWUlxQnJZRnZnMGE4b2ZCSUxCS2lTUXlubkJVUHd5NjRhcGRtLTRveEU5S3JsVVl1UFlMUTRya1FZMWhwZm4zTUNvU1HSAbwBQVVfeXFMTkVrWk1MWGVRWGZnVzV5SG9lWlhZZFlmTk5tekJUTXVCN0xoVFl5TWJ2XzFETDY4T3JSWGcxejBtNWExM1VIdHVPcGlOdnNBSUhDelBKcUpGMkppV3BBbXJZWDhqWTNxN3JmM0p5b202T3FTM0RKdGMzRHY1VWJuX3YwMnFpZzBEaGVyUUdlSFZyanFUYVVoZmZhTmdtaTFsWDlaa1RMcWIzMHVJZkxhRTM3RWN1UjhCblpRVHM?oc=5",
-      "summary": "British adventurer Karl Bushby returns home after 28-year walk around world Al Jazeera A 31,000-Mile Walk Ends in England, at Mom’s House The New York Times Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world Yahoo ‘It’s been a while’: hero’s welcome for UK man after 28-year walk across the world The Guardian Karl Bushby ends 28-year journey at mother's house in Hull BBC",
+      "summary": "British adventurer Karl Bushby returns home after 28-year walk around world Al Jazeera A 31,000-Mile Walk Ends in England, at Mom’s House The New York Times Karl Bushby embraces emotional mother as he completes his 28-year, 31,000-mile walk around world Yahoo UK adventurer returns home after 28-year trek around the world Reuters Englishman Karl Bushby returns home after 28 years walking 30,000 miles around the world ",
       "date": "2026-11-02 17:44 UTC",
       "category": "World",
       "source": "Al Jazeera"
@@ -364,7 +556,7 @@
     {
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbURkOHdGSS1HSFdpbG1TQXBGa2lhNkVoS3RhRHBRSVR2bTlKa0dKTTc5MFpfUHNlNFJ1LXV0M0pQd0t1QWNzLTNIcFR3ZGxDNTZzWURxc3R1U1U?oc=5",
-      "summary": "Fighting returns to Kherson region after longest Ukraine war ceasefire BBC A brief ceasefire in Ukraine's Kherson region has ended NPR In Kherson, several men stepped on landmines—they were hospitalized UA.NEWS Russian Forces Shell Kherson and Antonivka: Two Civilians Injured most.ks.ua Operational update for the period from 06:00 on November 1 to 06:00 on November 2, 2026 Mezha.net",
+      "summary": "Fighting returns to Kherson region after longest Ukraine war ceasefire BBC Russia resumes attacks on Ukraine's Kherson region after truce ends, Kyiv says Euronews.com A brief ceasefire in Ukraine's Kherson region has ended NPR In Kherson, several men stepped on landmines—they were hospitalized UA.NEWS Operational update for the period from 06:00 on November 1 to 06:00 on November 2, 2026 Mezha.net",
       "date": "2026-11-02 17:33 UTC",
       "category": "World",
       "source": "BBC"
@@ -394,12 +586,12 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Possible Roman Child's Coffin Included Toys and Lucky Charms",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWIzN09HZXFYT1VPbF9FOU80VGp0aTlfYmNtckktam1IcHR6ckRZVVloeFBGbEl2QUVndXNIZEdmZDVrOUNndzFTM0ZFQWZTUVB4TnJMN3BnRHhCaUYwQmxfblI0MGRjX011TjBPbGdiMkhQVk1TTDdEdF9iVHh4UjRYQ1lFcWpndXFucVk0UnAwZWN3MmcxUl9n?oc=5",
-      "summary": "Possible Roman Child's Coffin Included Toys and Lucky Charms Gizmodo This 1,800-Year-Old Sarcophagus Found In Romania Holds The Remains Of A Young Child — And Their Toys All That's Interesting News - Child’s Sarcophagus Discovered in Romania Archaeology Magazine Archaeologists Opened an Untouched 1,800-Year-Old Roman Coffin and Found a Child Buried With His Toys The Daily Galaxy 1,800-year-old Roman child’s sarcophag",
-      "date": "2026-11-02 16:55 UTC",
+      "title": "Doberman Meets Another 'Dog' 10 Times His Size and Turns Into the World's Happiest Puppy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Z1I1VHc5azlyRDA1ZE9GWEw0ZmFGSWtmUEoxdUVibnhTdkp1dy1FLU5uVXFIc1piLVM0X3lhZmU3UkFiOWJMMjR4UlJDZ1dXcGFVSXpVY3pWeDNzeGRHMzdYSS1EdG9Valo2SC1FaE9QNjZaUXllSkxOUlBKZGM?oc=5",
+      "summary": "Doberman Meets Another 'Dog' 10 Times His Size and Turns Into the World's Happiest Puppy ParadePets",
+      "date": "2026-11-02 16:48 UTC",
       "category": "World",
-      "source": "Gizmodo"
+      "source": "ParadePets"
     },
     {
       "title": "Why Orban and Vucic Broke With Trump on Election Denial",
@@ -450,25 +642,9 @@
       "source": "Investify"
     },
     {
-      "title": "Haiti Gang Leader Calls for Peace After El Salvador Sends Troops",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0swV0Z5MkJuU21TY0xEaEY5QzdsbUFGLVRwYlBDaDA4Znp1VWpjc1prbUloNTc2U3JVbk02LVRGTzB4X3lSaVppbXJ3RWtLanhkcm9GQkdtU0xFR3ZSMWttdmNFSXNxcVZyeDJxWnlTbUhEU2pHNXNROTlCeXlYcGdjY0prSUs2YWtRVTZOSk00R2Y5WHFHajVZUW9rRWtDbTEwcDNscW9wVkZjUlI0czA2V3k4Zw?oc=5",
-      "summary": "Haiti Gang Leader Calls for Peace After El Salvador Sends Troops Bloomberg.com Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti Reuters Powerful Haitian gang leader writes UN seeking dialogue as clashes intensify ABC News - Breaking News, Latest News and Videos Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs AP News Could El Salvador’s Bukele Be Haiti’s Savior? ",
-      "date": "2026-11-02 16:31 UTC",
-      "category": "World",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Can Pakistan Help Break China’s Critical Minerals Dominance?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZk5QRGVDanpTRzNLWlV6cVNycEUxQ0ZjQnZnVXpUNWVmekRiZVI1QWFRZFVKLWVkQVZhVVlpb3QwOW1xNWVVVlpXVmw2aXlIRGFXN0oyZlh0SzNWdGV1R3FDWHpyZk1TbzBxNVhZbnowVTlJVVdmM0ZXWjczRVBYaVlGZHRJUHRWMXhfT05UZnNpT2ZEYllEczV4R1NobUlUSFlHaDNXOEdxUQ?oc=5",
-      "summary": "Can Pakistan Help Break China’s Critical Minerals Dominance? The National Interest",
-      "date": "2026-11-02 16:27 UTC",
-      "category": "Pakistan",
-      "source": "The National Interest"
-    },
-    {
       "title": "Major Russian Oil Hub on Fire After Strike, NASA Data Show",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnFCejIyQUpkbjc1R1RBTlp5Nlgya1g5eFg3Wi1Wcklab0pBaWJiWVI1NjVlc2dVR3dCZEZWbXNWOU9HUG5HMTV5TnBTams3SktNR1pGSk1oeV9RemhXcTQ4dl9scE1YVVpIVzB6czAxTDhQS1p3S2VUY3pQa1RLZ0JKeEw0b2czNjNQODNNUnp3eWd5M1R5U0twWDZ5UjZNbE9JWDB2bzh1WWJZ?oc=5",
-      "summary": "Major Russian Oil Hub on Fire After Strike, NASA Data Show Bloomberg.com Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump WSJ Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit Euronews.com Zelenskyy: Ukraine will halt strikes on Russian refineries if US provides interceptors У",
+      "summary": "Major Russian Oil Hub on Fire After Strike, NASA Data Show Bloomberg.com Ukraine defies Trump to resume attacks on Russian oil refineries The Guardian Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump WSJ Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit Euronews.com Moscow Reports Drone Attack On Nizhny Novgorod As Russian Strikes Cut Power In Ukraine R",
       "date": "2026-11-02 16:17 UTC",
       "category": "World",
       "source": "Bloomberg.com"
@@ -482,33 +658,9 @@
       "source": "www.christiandaily.com"
     },
     {
-      "title": "Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDhDMmNsQ2tpZmxyZnVvc0tXTmstOUlXRWxWSHh4ZG8wTV95VlVDc29MemRtbVNGSXQzRHU5SFAtOTBMOW9hRXVQa0VPanRCWmloOUFFVF9jU1RiNmpEU2xIdHNqZHpKeFRvN0R3UC1JWE1OU2NkS1hxLXk3c3hpTndoOHJXTVZXZHpjV1JWTDUxZE5pd3hveGFQeWhmMHI3VGhjZkpUNl9RSE53MzQ4bk1DbjFaeHJfdlE2YmFOVGY0TFYtR00tV9IBzgFBVV95cUxOdXRFVVVob2hRQUlFWUZOVW9TTktGdWFPLUUxRkEyVjdSRnN4dlozbmdqaG1YTTRzVENmcmtnSXY2ellxU21YeV9NUHNEUUdqd3pYYjBSMjVWUlcwcnMyQkhlU09HbnJrMkFtVk96MzktdzNsdDlSUW1lUDJBRTk5UTJCVTlsa2MxaWY1bWdpd2puWmdsXzNHSnI4VDJoY1dUZkEwekVNZFp0Vnl2TVdpRWJBZ1oxWkJGUm1XMEJUZFRpWi1lbDl0Q1Rnb2ZpUQ?oc=5",
-      "summary": "Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS Iran war live: Tehran says ‘intensive’ US talks ongoing, war still on table Al Jazeera Middle East on edge as fears mount that war in Iran could restart after the midterms KCCI Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Netanyahu pushes for new strikes on Iran, offici",
-      "date": "2026-11-02 16:02 UTC",
-      "category": "World",
-      "source": "PBS"
-    },
-    {
-      "title": "Pakistan retaliates after Afghan Taliban open fire on border posts in South Waziristan",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzVRSWdsZThsUXQyV0lMQmNtWDZXTU5GTFJFb1JDa1dVRTJ3Q245aVpHX2JNVlJlbUtjYVNmU29faUVObWVPenRBN2M2TmRJZ2EzUm52b3BBZXZhWGdNZGt2TzduZ08wOTFndTd6N0ktV2hZZ0RXNkxXSkloMnNnM3N1UFhtdm5hMlEyZDdKcEhOLWZMTnRVTmduRWhUWHRNLXBZZG83SkE4WmtFVmw3cWQzRkgtTDNIT3pQdWstTQ?oc=5",
-      "summary": "Pakistan retaliates after Afghan Taliban open fire on border posts in South Waziristan Mashriq TV",
-      "date": "2026-11-02 15:55 UTC",
-      "category": "Pakistan",
-      "source": "Mashriq TV"
-    },
-    {
-      "title": "Pakistan, China resolve to further strengthen all-weather strategic cooperative partnership",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkNfNmRVSFZJSHEya1hWd09rVF84Q2tvbjA5bTNzMkFTd2VHTWhzMExPLWI2al9JQjRyUFRoc1ktSHpVcjlUeVdIaXdaNVhiVWhxU0lINUVuWklESjhmcUFrMnQ1OExodDV5SWVhWUtyaG9DQjNRTENfT09wSW5NaEJLQ1JqckdIMDVieDAwVlRwc1kyQzFoSUJNR3VWWTdiS1FhWTlNOE1WOXR1c3piM3EtRC1YMTFjdmh2aHktZGF1dEJldlE?oc=5",
-      "summary": "Pakistan, China resolve to further strengthen all-weather strategic cooperative partnership The Express Tribune",
-      "date": "2026-11-02 15:53 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
       "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5",
-      "summary": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian 2 California college students injured in deadly Spain train crash KTLA 4 Americans among 69 people killed in train crash in Spain, officials say CBS News Four Americans and 1 Canadian among the 69 dead in Spain’s train crash NBC News High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year AP News",
+      "summary": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian Cal Poly students severely injured in horrific Spain train crash that killed 69 SFGATE 4 Americans among 69 people killed in train crash in Spain, officials say CBS News 2 California college students injured in deadly Spain train crash KTLA Four Americans and 1 Canadian among the 69 dead in Spain’s train crash NBC News",
       "date": "2026-11-02 15:40 UTC",
       "category": "World",
       "source": "The Guardian"
@@ -538,14 +690,6 @@
       "source": "Financial Times"
     },
     {
-      "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUhteFJwMmtiRXZXN0Y5OHNNSURkd3RfX2pzMjZKV1NQMG9PS29wb3h0Snk4clgtNHF3b05kR0JTcURVTHk0TlZXd29Dc0lNVTFBZGR4YWw0cFFzM0FrN1hrcXlGSlFsUkdxNmgtQi03cXZ5aEx5LVpFekt0QlBJcUN5cWE0X3lITTBxTjNUNTd6b094OGxQVlhwQUhNeEJtLVJQcllPcWRTTWxTeHFkZtIBtgFBVV95cUxQRm9DNy1EUlBUQUJoMkozcEpOSVp0WDZOQm5lNDhUenR1RGNRMHVtUkJrQmczSzMyWHBlalk0RFhIeE4wQkkyeEpzT0JreUNoYTROVUM3VHJHR1Rnd2JVNDFTMEJLV2Jjc0lBRGx5bDlUQnowUFNuRVVtSEhlcU1kTkdvNndMOGRfXzdzWTQzMlc0RVRhRDJpMk1WTnVYb042NFdVVzZwaS1Kazk0c09aLWRleklGUQ?oc=5",
-      "summary": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks? Al Jazeera Joint List's Jabareen: Opposition holdouts must face 'political reality,' cooperate to unseat Netanyahu The Times of Israel Israel’s Jewish and Arab opposition parties should work together The Economist Israel’s New Kingmakers Quillette Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition The Guardian",
-      "date": "2026-11-02 15:04 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "MENA Fintech Association Expands to Pakistan, Connecting 22 Markets Across the Region",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEg3NmlrQ2JZNk5KaFY3UkZvOUk4TTAzNDJUNGFLVzZmLUZhOTh5emY1eXNCWTRuWGVDaWV2NWRZRDZKTnF6OXhyV3JTQ1JlaFNXU3pDWGJlZ25aQUZnUmJPVVkya3pwdTRTalpHYjBqQWpNMjhsUGxFQW82YlZaRWlsM1N2SHg5T084cFdkMW92dUdzU3d2R2cxQ2hrOVVE?oc=5",
       "summary": "MENA Fintech Association Expands to Pakistan, Connecting 22 Markets Across the Region FF News",
@@ -570,156 +714,12 @@
       "source": "Dawn"
     },
     {
-      "title": "German Envoy Urges Pakistan to Boost Trade, Praises Islamabad’s Diplomacy on Iran",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzA4c0VXNFAyQUY5MU9jUEg2MmVJWjhEak9udE9WVzF1Q1lZY092dzRlbXlVRDdHLUlTYnJmTjdKbTZKX0dtX2J5a0p3dGhfVWJ6M0R2cWZTYk8weDNpbWFJNnFWTmhUdF9Gajg5eTUtWENlcGlVWENkRVBvaElCSFNZSWROUzBjclB4ZjVn?oc=5",
-      "summary": "German Envoy Urges Pakistan to Boost Trade, Praises Islamabad’s Diplomacy on Iran The Diplomatic Insight",
-      "date": "2026-11-02 14:45 UTC",
-      "category": "Pakistan",
-      "source": "The Diplomatic Insight"
-    },
-    {
-      "title": "Pakistan fined for slow over rate in tri-series final",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFNnY0J4RnZUcV9rRmo4X0hqUzRXRWtIaTJxU2dnUlc0bG1iSFJDdy02cDdYYWlGQURURlFwaW80bzRQNUFWNU5sV3BJNTg5bXJwUHI3ZURwYmJfYkYteHJ6aXFCVXhvejFkWk9BWmN0WFV4Z3RDZS1HZzR2eC0ycTFQVmRReDE5QzhVZ3NpYzFUbk9YTExXQ01ySUZxRVlnWkhOMlZn?oc=5",
-      "summary": "Pakistan fined for slow over rate in tri-series final The Daily Star",
-      "date": "2026-11-02 14:45 UTC",
-      "category": "Pakistan",
-      "source": "The Daily Star"
-    },
-    {
-      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-      "date": "2026-11-02 14:35 UTC",
+      "title": "Deportees Turn to TikTok to Document Life Starting Over",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVVvRFVCVmlGU0NkcFM5TlJBcWZEVnlYcDh2OGw0dnczblMtSmJsOWhpakxqWFF6V2FtMGRyS3VyZ29KbVU0Y1Z3NDZ0ZnFRd3NaRXkzWHpkT0FnTkpqZW84aU1pLXplU0NyM0c1c2xvX1BqcnpqX01pSlhxZ3Z2TVJNaEFpaDQ?oc=5",
+      "summary": "Deportees Turn to TikTok to Document Life Starting Over The New York Times",
+      "date": "2026-11-02 14:53 UTC",
       "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Nourishing bodies and minds in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTjlGQlNlUm5GYndaNFpFUHRxYWpKWmIyaEMtMDROZWtiT2JpOGxHdzFSTHBtV1lKbE54SzFFYU82LUNzWWVzMEh1UlBVaTV5UEtWLTBQZjBXSFF0NGJiTjI2SlRUTlZkMVJNaEtNRzhYbXZoTzhjOVZiWkJRSzQ?oc=5",
-      "summary": "Nourishing bodies and minds in Pakistan ReliefWeb",
-      "date": "2026-11-02 14:28 UTC",
-      "category": "Pakistan",
-      "source": "ReliefWeb"
-    },
-    {
-      "title": "Pakistan Broadcasters Association elects new board directors, office-bearers",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oTlNZdnk5TkRsRjAzd3l5ajVaRUQ4dUVYbFB4eWhLQWcxS05YSWdoS3Nsbl9jMXF3NXhyRUFrR1ljbkJkbEhzZA?oc=5",
-      "summary": "Pakistan Broadcasters Association elects new board directors, office-bearers Dawn",
-      "date": "2026-11-02 14:26 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "date": "2026-11-02 14:24 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Mystery skeleton at Westminster Abbey was likely an abbot buried in a secondhand sarcophagus",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51Z2tTYlFLd1NBRlVzUjhMaXo2NjhUZXdlcFN5SXFSUzhuR25TTTZENWFjRGFjaFZVN1FwdHNqYjgxNlJMd2ttbVhtQlRvalJMc2x5bUpWOV9qdXhRNG1BWFkxSGppNzdoMVpLZkRBdlBUNEdSN1RxUWh5UWZfUQ?oc=5",
-      "summary": "Mystery skeleton at Westminster Abbey was likely an abbot buried in a secondhand sarcophagus CNN Does the mysterious skeleton found at Westminster Abbey belong to a monk? The Jerusalem Post Westminster Abbey skeleton may belong to medieval abbot, archaeologist says Mezha.net Recycled Roman sarcophagus reinvestigated at Westminster Abbey The Past website A Roman Coffin at Westminster Abbey Held the Wrong Body for More",
-      "date": "2026-11-02 14:13 UTC",
-      "category": "World",
-      "source": "CNN"
-    },
-    {
-      "title": "Liberman backs Eisenkot for PM, but rules out minority government with Arab support",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHZLdVBhNms1WElGV1h2VnNlek8tZV9MbW8yeUxCckw4ckg3S3FiS3dMQ0VTVVhsMHJWaG5kRnJSbUVNU18zNGp4VmxiT2kwR1NvRTFSTEUtMVdJSzFSX0NhcWRJc2JkQ2o1enVkNDNGMHRoZ09rWDFzYXhIWnIxN095S0I4bnZFakhaNDJ6anB0Qk01akp4S1FZM19JVURMWGJWRDBwSXMyXzhFZ21HTWwtVFNld9IBuwFBVV95cUxNN1VCemI5ajhBYnJSZE1obVRDVDc0SVN1WFZub2F2Vm13eHRSdWNKMXFNVjBUWkFPdHRrQ3ROcnU2SzdOMDFtdmt2QUluQkY2NjNsR2ZuZFdmS1g0aUtrMS1ILUdmVF8xNlEtd2J4VXJlMng0NHBsZ3VNMGZMQjVfVjQteFB2UWdnQnFIUkZsOGhMc3NDX3lCMEtha2QzelRLa3hRc19mcUx2QVk2UWg3NnBqVHlvaFhQWndJ?oc=5",
-      "summary": "Liberman backs Eisenkot for PM, but rules out minority government with Arab support The Times of Israel Ending speculation, Liberman says he'll recommend Eisenkot to be prime minister, Lapid to be Knesset speaker The Times of Israel Lieberman: “A minority government will not happen”; will recommend Eisenkot to form gov. rules out Netanyahu i24NEWS Naftali Bennett backs Gadi Eisenkot for PM, president’s mandate The Je",
-      "date": "2026-11-02 14:10 UTC",
-      "category": "World",
-      "source": "The Times of Israel"
-    },
-    {
-      "title": "Dumbing Down Of Pakistan: From Intellectual Repression To Social Decay",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUdHU2h5QWMyVjNKTUVNb3R6NnJoQ084ZldYemNOMkFTN2NWSXpwODc3eWhiTE9GRnRvazZtalEwUWFhQTNjN2oxb3BybWc1MzRTMXZQV3JWUDZ4SXhNWldVclROS2RITDViTjJTX015NmhQWVJhdWVBZndVYktySkZ6Ylg3YVMwLVZJMGc1ZlpaRTl0RXRzdkcxWWM?oc=5",
-      "summary": "Dumbing Down Of Pakistan: From Intellectual Repression To Social Decay The Friday Times",
-      "date": "2026-11-02 14:05 UTC",
-      "category": "Pakistan",
-      "source": "The Friday Times"
-    },
-    {
-      "title": "Pakistan senate panel chief accuses tax officials of collusion in $1.4 billion tax evasion probe",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT0JMRmdxdmV0bzVyXzBxVUpxNURyM19icGJ3VzA5amoxQ2ZxN2gwM3B3UUJVZkp2VzZQSUxYeThmeGFKdHRwNEtpQklsbGQ5TDRuenFUQUk2R3d1enMxSjgwOTVJQjFsMU5RaDZxcUJ0dVltQWhha3NiNHpUTzRHYndpR3NhZzI5d1JObmEzRXZNeXdrUFlHeXYtY3lWX2xDeGZlWXZKRHMzOGVpSkVYV3VDSlpYVGVQTjRXNm44SHRBTzFEVjRoc1VJQXRsSThQ?oc=5",
-      "summary": "Pakistan senate panel chief accuses tax officials of collusion in $1.4 billion tax evasion probe Arab News PK",
-      "date": "2026-11-02 14:04 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Terrorist Attacks In Pakistan Surge 53 Percent In First 10 Months Of 2026",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51QTd1MG0tRnhqOFJpUmc3M05Ga1R3MjliVXJGQS1XWDlnQW5lVUhIX0c1VGxZVXRBeUpNYUNLckJWQVhFNTBHajUzQ2ZpUVU?oc=5",
-      "summary": "Terrorist Attacks In Pakistan Surge 53 Percent In First 10 Months Of 2026 Afghanistan International",
-      "date": "2026-11-02 13:48 UTC",
-      "category": "Pakistan",
-      "source": "Afghanistan International"
-    },
-    {
-      "title": "Pakistan fined for slow over rate in tri-series final",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHFCT0JrY1YzUGNXWEZMNlY2YUNVVmtfOTRRMTJqdkJuYUw4YVh3WjJGZ1Btck51S3hiZzg5UmNfenVFSnpzR2dWVUJXTUN2bGpBdExIbDdTdXV1VmFQRkQxc0NDRllfWFAwT1JDbHRjZ0w5ZDJhcUxsOXpoMkN6bkxjU3VRUS1mMURCMGliMU5iTjV0STdNWTRn?oc=5",
-      "summary": "Pakistan fined for slow over rate in tri-series final Arab News PK",
-      "date": "2026-11-02 13:19 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Water, food and national security closely linked, says IWMI Pakistan representative",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbm95emp5c0dLTzRfMFc1OXVzOEVkTWFpSEtxY29VcmdJbmd2VnRuSVRPVzlnYkZzay0wRGQxXzFtcFVWTjVFUmdFUE5fRVlDV2FkVUU4WXl3YVFqMWJCRF9hcXoyeDdjUVFFS1I1dmh2OUlZOHBFdDNSaFhYNmcxbVk3RVlTNmZiVEtIU1owNnBmMEpEdGQxS241Q3RyVXB1cm5DbGFfdmFvbHAzY1lQRkwwVDZJZw?oc=5",
-      "summary": "Water, food and national security closely linked, says IWMI Pakistan representative The Nation (Pakistan )",
-      "date": "2026-11-02 13:06 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
-    },
-    {
-      "title": "Book Review: Pakistan’s Search for Peace with Afghanistan: Statecraft, Policy, and Strategy",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaVlNalYtVGxkV19teHk2MVFwcF9RYUstdmtIRkV2OTFqTEtVU2Jybm03dzA4VEQxRmVBMEstelJEajZaSzlTS1NTUjhpMHc4eEYxR2pDX3JOTV9EaTlzOEdGcVhHX2xxRHh3LW1KeElUbmlSSjk2ak1Lb0Q5ZDdkcU5qcm1aRHR2blNENjJKRlk1MTl1aXE5cHFBTmFwR19hM2pLcjdPVGp4TDRxcFd6WkRmOGxoLUExUE9nNTkyc3g5VG9leVFiVVMzeVJhaFFkRHVIRkdXdkRpTDZjUVdKUFAzeFhPSm5RMG9mWTlnSFJkakNQaDM4?oc=5",
-      "summary": "Book Review: Pakistan’s Search for Peace with Afghanistan: Statecraft, Policy, and Strategy Российский совет по международным делам",
-      "date": "2026-11-02 13:03 UTC",
-      "category": "Pakistan",
-      "source": "Российский совет по международным делам"
-    },
-    {
-      "title": "Treasure hunter strikes gold with 1,000-year-old discovery linked to 'Hand of God'",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0dxQ0JiZXlSTWM4c1RKcmR1bkdwb29GakRyUzVjMUwteUYxLUd0cU02MDdXcFZYMmpBRnJuV0RZRjVyeTd1UVNFTnZlTktzN0Q2Q0V2cGt2VlF3d2ZiS3B0WnJxajRFUzhqMHdRbTFpYzhVN1N6THY3TFZNbExCanEwRm9ZYkxvY0VaQkJkR0pad2hDNjRuWThGX3lnLV820gGmAUFVX3lxTE0tLUdoRVdidkFPSVk2dS1PLTBwc29aUVhmRG1hWWZqZEN5WkN6SjVwdnlzaWhveTZiLUp5WnZmWnNWaW1PcVh4TXJnRF9zNlhEYnpZNWJUeTdtWmxlNFV3N3RIdXZGRGl2LW94Tk1aZGxJM09uQ1FpdnVDLS1xdlpsZ1l5bldDU1NLT0lOdlFaT29pLUU0S0VtMHo5WW9TdzdkTC1jQWc?oc=5",
-      "summary": "Treasure hunter strikes gold with 1,000-year-old discovery linked to 'Hand of God' Fox News Metal detectorist finds gold pendant that may depict the “Hand of God” Mezha.net Gold ‘Hand of God’ Pendant Unearthed After 1,000 Years Charisma Magazine Online",
-      "date": "2026-11-02 13:00 UTC",
-      "category": "World",
-      "source": "Fox News"
-    },
-    {
-      "title": "Taliban voices 'serious concern' over US plans to deport Afghans via Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVlQc09fRXN4OE5lSWVwUmM0UXZZbnREN0ZDeG5xQkhLLXBmZ3NvTEFxaHc0WWZmUkFWeVdzNkJJWjg3cl9Yc2JWd1JIeHk3VC1qZUdUT08wVjFld3d2X2lQNGxqWDA0RjRnRG4xRFJxWmlvRDFMS0N5MUtSc3JWYVp0Y3p3Y2FmTEhMTFJqVlZBNVEyM2VMZFdpaUFpLTgyaFhIRXlBZUFZQm5ibzVOYw?oc=5",
-      "summary": "Taliban voices 'serious concern' over US plans to deport Afghans via Pakistan Euronews.com",
-      "date": "2026-11-02 12:52 UTC",
-      "category": "Pakistan",
-      "source": "Euronews.com"
-    },
-    {
-      "title": "Russian Army Suffers Record Losses in Ukraine as Land Gains Slip",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGZMV2R1aUhpRGpXVmlacFVjOGltajNURjNoVWJLMTBTRHEtVjBGRUM4XzNlLXRoZ3VqRWpMaXRtUkFrcGRFWElaYjI4emlCYVFBNDlnM0VLUUFJSEtIb09KSkU2U2s2aEhYcThlaGpTd2RaanVhd3JRMm1BUngxTWV4dmJzYzlzRDY1aUV3aUlCNUZZWmwyRXhWV0hRbjJMVG40UDZRbFRMd1dkSkZUMUhpVEVTZw?oc=5",
-      "summary": "Russian Army Suffers Record Losses in Ukraine as Land Gains Slip Bloomberg.com Russia's war casualty toll in Ukraine up by 2,100 over past day Ukrinform \"Enough to fill 200 Moscow Metro carriages\": Zelenskyy reports record Russian losses in October Українська правда Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began New York Post Ukraine Liberated 96 Sq Km in October, Inflicte",
-      "date": "2026-11-02 12:39 UTC",
-      "category": "World",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Record reward offered for capture of fugitive cocaine kingpin dubbed \"Chubby Jos\"",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFdGMXhJakpvaGI4SzdlQmQxYWpUdFI4dGVab25oTXgzR0xXZURHcUo1b1BDQlJnYWZlQkxkdTRxWnJkdzVzNjBGUXF6bW16dnA5aXhCQkhJMUZGRjByTTlQTFJvekRtZUFINy13N2k2dFVyY0IyeTlGUzRwc3Q1VW5mVQ?oc=5",
-      "summary": "Record reward offered for capture of fugitive cocaine kingpin dubbed \"Chubby Jos\" CBS News Dutch police offer record €2m reward in hunt for drug lord Jos Leijdekkers BBC Prosecutors raise reward for arrest of “Bolle Jos” to €2m DutchNews.nl Dutch police offer €2 million bounty for cocaine kingpin linked to Ghana, others GhanaWeb Dutch police offer £1.6m reward for help finding cocaine kingpin on the run The Independe",
-      "date": "2026-11-02 12:30 UTC",
-      "category": "World",
-      "source": "CBS News"
-    },
-    {
-      "title": "Pakistan, Bangladesh explore new avenue for industrial cooperation, economic partnership",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWNrRFhHLU9yanR0RENqSWtCVWo3YWtPZGU4SVhlZE5BWVZ4NzNTQmdYRXh5MWJNb3RoU2xLaGU5cmh6bGVEQ2lMRFZfYXdCY2FnQXhtWkczczhZd0lZRDBsNE5DWk5pcXJZTFpBOE9CZHBwNGl4dEh4bkVEYkZMN2pXT3lFYUczVXN1NjlMOW9HYmJwUkg2TEppSmxSdzZGR0p0QzFGTUp4ZUF1MlhyeWx6akhtSVVnY29jeg?oc=5",
-      "summary": "Pakistan, Bangladesh explore new avenue for industrial cooperation, economic partnership The Nation (Pakistan )",
-      "date": "2026-11-02 12:22 UTC",
-      "category": "Pakistan",
-      "source": "The Nation (Pakistan )"
+      "source": "The New York Times"
     }
   ]
 }
