@@ -1,21 +1,181 @@
 {
-  "updated": "2026-11-04T11:27:42+00:00",
+  "updated": "2026-11-04T13:19:11+00:00",
   "articles": [
     {
-      "title": "Protest prompts road closures in Karachi’s South district",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEZSdFlDVVBMbFVINThJS2pFN0JYY3QxMlpWSlp1bi1tbWdJbUVOTXkwZHJiMm5DWW1WOXVObEJxYTdlaWxUWU1pVTZTU212d2hldFU0OFRRdmltcjhIZ1FxV0wzLWgySU0tUnU1UDdndEtOMGVTaHNPcFgta1BZbEt4TGZyX1VXVXRVTTRtY0N2MTNI?oc=5",
-      "summary": "Protest prompts road closures in Karachi’s South district Dawn",
-      "date": "2026-11-04 11:14 UTC",
+      "title": "Pakistan’s digital finance moment needs more than an open door",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3F3cFVpZlM1TkNFeXdVa0JiLXk3S2hocTVWZHp1eW1YdENydzBNUU9kZlZUdXhaLTQ4SWhYQ2EzRlFNbWRsTUlPd1RHM0ZHY2MxSXFlbTV5eTN4VXIyTVZpOTlhV1dxLW1UQ29zNFl3WnZ5NHRnM2dxeFJWUHJVdUtYdmhVVHQ1TkFHT091dDEyTkpkY3VkZ09iSmxsVGJEYVktbg?oc=5",
+      "summary": "Pakistan’s digital finance moment needs more than an open door Arab News PK",
+      "date": "2026-11-04 13:10 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Interview: China-Pakistan Economic Corridor model for Global South cooperation: Pakistani ambassador",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LYkhsbHA5U042UWp6b3g4bGRMTFFJUmtWUmg2VjMxd2c0NURFWWViZWtGc2dQcG9CQ3R6LVFMaUUwbldseW8xbjh6VFA4YXpaUXlhS3R3aVlZbHFGQlZoY19zT0pNRThFc0Y3T2FaREEyWXlMU0RUajloYmc?oc=5",
+      "summary": "Interview: China-Pakistan Economic Corridor model for Global South cooperation: Pakistani ambassador Xinhua",
+      "date": "2026-11-04 13:03 UTC",
+      "category": "Pakistan",
+      "source": "Xinhua"
+    },
+    {
+      "title": "Pakistan, UK voice concern over terrorism threat from Afghanistan: FO",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWF2cFk3Z1M0X0dPSkVTOFFyM2Znb1FWOFFXaWxaTjZwVXZKS2RBOEdIUW5vOU03NU1IaWZPWmQ4Z2pudWhXZk5UcFdPTGFLSFdmVFlDamVJekpfazd6THRZbFJWQWlKemlmRnFzTEJTdS13VlhZSWUtN1VVMjRMMVNwMDd1WUk1MDNVSF9kbUtBU3d0RXYxVlpsSWRkdi1EcTd0QkxJWQ?oc=5",
+      "summary": "Pakistan, UK voice concern over terrorism threat from Afghanistan: FO The Express Tribune",
+      "date": "2026-11-04 12:48 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Federal cabinet ratifies defence agreement with Kuwait",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GUE5RQk1vekl0SmRDQXRMLW0zamJCX3NHakJ1dE8xXzJ2aFBxdmItS3htbEJNTTEyNzdlT3FOaFZRaENzbDl6Nw?oc=5",
+      "summary": "Federal cabinet ratifies defence agreement with Kuwait Dawn",
+      "date": "2026-11-04 12:47 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "Islamabad says Pakistan, UK to deepen counterterrorism partnership, focus on emerging threats",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNTVEMUxINVdwcUNSQnhmaWFCSVdqV3VieFJ5RFlscHFkU3E0UE01SFdpV19tSlQ3YVQzeWlJRC1VV1NKdjJOUWxjdm5jV2tZSU54TktvZkpwdFg1b0g1Y3plOHZTR2JyMUVVVm0zeDY4NGIzdUh2TU1kODA0c3VBOE5teEYzaVNnS2JfeEFMcENic3dFODA1OTJKTVJYMlBYd3RETWRwc1Y1ZWhrZlh2aDd4cnY4UzZNZ2hnZXRaZFpRa0w0aUZ6Z0hLV0g?oc=5",
+      "summary": "Islamabad says Pakistan, UK to deepen counterterrorism partnership, focus on emerging threats Arab News PK",
+      "date": "2026-11-04 12:46 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Israel’s president accepts certified election results in a blow to Netanyahu's claim of vote fraud",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeE5oQXFGa09VUTdRT0VxOFYxN1FyMkI2MWlzZzVpaEpINjZzcVFjdnlxb18zOENiQXJaaDFvVG5CWkM5V1JhaTA4Y1VJM3R6QkFxQjgzTGhRUHBSMjl2SkxJTktVX19CbjBLRnFxc0d4NWNKQ0xLU1RlU3dMYjdMeVRYT1BvcEF6WVRsTHN3?oc=5",
+      "summary": "Israel’s president accepts certified election results in a blow to Netanyahu's claim of vote fraud AP News Israel’s president accepts certified election results in a blow to Netanyahu’s claim of vote fraud NBC News Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government The New York Times Israel vote results confirmed as election commission rejects fraud claims Al Jazeera Israel Edg",
+      "date": "2026-11-04 12:44 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+      "date": "2026-11-04 12:34 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "World reacts to Democrats’ midterm elections victory",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTU1qeFYyMUhPLTQ4YzlqSzd4UUxSZk1DSVF2UmthS1BkeFJWb1ByUzQ4MFhySUJWRkJpM1hDZmhmUm5KdjI5NzBXQkpXWXNTR2V5VVdvRlZKYUdlZ2E2dnVJNDVKQS1UemRyRmVFSF9Vc2FvRERReWhQV0V4U19Xag?oc=5",
+      "summary": "World reacts to Democrats’ midterm elections victory NPR Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat The New York Times What Trump losing power over Congress means for Iran, Ukraine and foreign policy CNBC US midterms: What Trump's defeat means for Europe and global markets Euronews.com US midterms voters said: enough is enough. Is this the beginning of the end for Trump? The Guardian",
+      "date": "2026-11-04 12:34 UTC",
+      "category": "World",
+      "source": "NPR"
+    },
+    {
+      "title": "Govt urged to automate passport services, cut delays",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX204UWZuRHhLWWdNaEN2ZERYSGtNbGV4UGxkVnBTVy0ybHJhMzNWUmNwVmotdGFXUUNBb2ZzcWRqREpyNHN4a0N3YnpJa3FFczhXc1p6YVFodi1CamU1MTBDUWNqZXRKUWlMdjhqUlQzVG1GQkdobm5qYUhFMDl6LWJXT3BNcmEzV0pJQ0d6LTkteWlfUW9XNjJ3?oc=5",
+      "summary": "Govt urged to automate passport services, cut delays Investify",
+      "date": "2026-11-04 12:24 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan eyes Saudi Arabia, Oman for LPG imports amid supply crisis",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUFscE4zSmFpTHhoRDZGaXZlZlVsTkdDOEtESTFKN0VmZ21hTTFjOEh2VVBhZzAwTTFzaF9qSTVoVENuTy1TeXdZVkw0V3RIWU1SMmVuM045VENhVG5qaXlSUzBoX1VyVWp6bnpQYzViUWdTUklkQXlFX3dWSDhiQUpmM2xJV0s1NmxtenByMzVXelItbkRHSE10dUMyVWhBMjdxY2ZkZktzUQ?oc=5",
+      "summary": "Pakistan eyes Saudi Arabia, Oman for LPG imports amid supply crisis Arab News",
+      "date": "2026-11-04 12:23 UTC",
+      "category": "Pakistan",
+      "source": "Arab News"
+    },
+    {
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "date": "2026-11-04 12:21 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "UK partnership opens more opportunities for Pakistanis to study in Britain",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkl3MkVmUzhuQm9SWjdkLXE2TF9ETjFTdlRqNnY5Tk5HNWpYbGlvNG9DaW1PaDFoX0NHUVFvN1lUaWdmWVBGOVZQSVhQLUpaQWozYmtPbHBjZEV3LVFjS2s5VnRTNDQ2UTgzUEZKdHdxV1FXV2IwTG5HM3h5c1U5SDBmNVFhdm9lRVlWeG5aTlhmZ0xvVDZDbFQ5SlVmM2lMcWMtMUx4WGp0clF2ckd3ZjNJN23SAVZBVV95cUxOb21YMTQ4WkM5bUhUUms5a0FIc1l3X0F0MlJMZWlvc19IWDF2VDJaY25lN01fRmVSVFRFMkxVaWJPOVpDY2NpX0FWdnNlTWliaWUxSWFzZw?oc=5",
+      "summary": "UK partnership opens more opportunities for Pakistanis to study in Britain Business Recorder",
+      "date": "2026-11-04 12:18 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Pakistan continues efforts to restore peace in Middle East: Premier Sharif",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHd5eld6UE0xcG51QkNCVmRUbzZBTXBZbTNjWElyRnBaSUhvVF9ienlGYlV4T0FYVXhEa0FNaEhOTWY3RVNuZzVzaFpfNjczRFkyOGZJbWZWS0R1S1ZnUTlJR2YwRVZ2czc3UEVMbk4tbXJISklfSnJCLVhUVDY0dkRMc1g1WVpyNEg3NXRvLW1IX0tUd1dPMlVlM1Z6cTdrMXZjM2xwRUtVN1NKQjQ1YzVmaGc4QQ?oc=5",
+      "summary": "Pakistan continues efforts to restore peace in Middle East: Premier Sharif Anadolu Ajansı",
+      "date": "2026-11-04 12:07 UTC",
+      "category": "Pakistan",
+      "source": "Anadolu Ajansı"
+    },
+    {
+      "title": "Pakistan continues diplomatic efforts to ease Mideast tensions: PM Shehbaz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnE3M0szMW0xSENaZnNNV1lxb3NjQ25QUEY5TUM4UGctd2NNY0NvejZVejY2MWRxNDN1VEw2UUpJeVVxZnh4NEVVWmlwMnI1M2c2Z1pzZHJHVzVnN29wZ3B1M3AyampadGZyYTd5eXNLclF0UHNTQkJqRGpNVXgxdHhvaEVRd1NTTEtnV3N1VXlPWFI2WWJSRGF6MmZkcUhvMXU1cFNiTHlWQ2FUTEZ3?oc=5",
+      "summary": "Pakistan continues diplomatic efforts to ease Mideast tensions: PM Shehbaz The Express Tribune",
+      "date": "2026-11-04 12:05 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
+      "title": "Everything you need to know from the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+      "date": "2026-11-04 12:01 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan Tests First Homegrown Long-Range Air-To-Air Missile",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80ZEFiZ2QxME50anNKbW4wUzh2aW5KVmFDTVZMMEJSbkpwRWlBd0ZaM1pRakFRa0tjUlI0dFNwNjRVbGtVUHVmQTM3dE45aEE?oc=5",
+      "summary": "Pakistan Tests First Homegrown Long-Range Air-To-Air Missile Afghanistan International",
+      "date": "2026-11-04 11:54 UTC",
+      "category": "Pakistan",
+      "source": "Afghanistan International"
+    },
+    {
+      "title": "Pakistan Continuing Efforts to Restore Middle East Peace, Says PM Shehbaz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmlvSzd6SU5ERzJJVy0zQlJBM3R4bHZwU2ZCQ3h1UTMyRDIzdVJWeXBZdnRmQmZTb1VaeVEyNFN4S2dYaHlhYkdyTmQwYzRBTjNhOVhaSDhlWVdxR0NkeWlmVVptVzZlMW1TZ19oY2ZtWjdDRlY0eU5xeFJvZWJKdVBadmU5RG1LRWNKVEVIang?oc=5",
+      "summary": "Pakistan Continuing Efforts to Restore Middle East Peace, Says PM Shehbaz The Diplomatic Insight",
+      "date": "2026-11-04 11:49 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomatic Insight"
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "date": "2026-11-04 11:47 UTC",
+      "category": "World",
+      "source": "BBC News"
     },
     {
       "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
       "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "date": "2026-11-04 11:12 UTC",
+      "date": "2026-11-04 11:46 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Three Pakistan-backed UN arms control resolutions pass amid Indian, Israeli opposition",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRaTm5qRkdjVWNNUUI2bjV4bnAwXzhGS2tHN2pRRXdsSWxVS2NudXBHVnBWakRWOEVNaHV3RnpDd3NCNVVrSlE5Q2VHSzZHZTFVX3p5ZG9HQW1ValhxZHNkNmxIUnBlRVVMUGRLYWlOdzZMNTdYUV9BOTl3NXEwSHpsUnNNR0ZNalc2aUVvYWRYT3RvS3FIVE1VbjNpWVFlSUtzcFNBOHV5cV81NU5vNkR6aXlmUEFMZzZDcm1TYTVpTUlo?oc=5",
+      "summary": "Three Pakistan-backed UN arms control resolutions pass amid Indian, Israeli opposition Arab News PK",
+      "date": "2026-11-04 11:34 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Pakistan, UK reaffirm commitment to strengthen bilateral cooperation in counterterrorism efforts",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0x6c2J3N0tYQlE1LVNNSEhvdGtPb2E4TUhMRTg0bzh4OTdyR3BHTjVtZHdtbDRjTG9BTzBRWTAtRkw0VTRCN1RvbDBaaTN3S3U0cGd4R3ZFQ2JfaXhaa0hkcFRRbjJsc0pvTFlWMTdwT2lvenJHTXBQcmQxcWU2ODlsT01MTlVSVXJ0RFMydHpUdHo0ODJCQW5feFJ6cm00LVBXdm56cVphWEFneHdSYlI4cm0tU0l5RXA0N3BwRUQza1dfQ0VV?oc=5",
+      "summary": "Pakistan, UK reaffirm commitment to strengthen bilateral cooperation in counterterrorism efforts | Associated Press Of Pakistan",
+      "date": "2026-11-04 11:31 UTC",
+      "category": "Pakistan",
+      "source": "| Associated Press Of Pakistan"
+    },
+    {
+      "title": "Pakistan foils major militant attack, kills would-be suicide bomber",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNTNpY1ZoNXQtdDdjYm1pbWx1cGZYZ1l1d1VvSUg0U0JnWk5tYzJCLVlDMWVfelE1OUlEY1NTMlhvSnlLMFdjNXU5a2I2dXpWOXp1TFJPTUpQNnFhV2FqSFJ6SElNeHFhdHBHMkY0N0dyWEl0Y1E0djdweGpybC1sQ2ZyT2YzMUNsaTB2VWpqSjM?oc=5",
+      "summary": "Pakistan foils major militant attack, kills would-be suicide bomber Latest news from Azerbaijan",
+      "date": "2026-11-04 11:27 UTC",
+      "category": "Pakistan",
+      "source": "Latest news from Azerbaijan"
     },
     {
       "title": "Pakistan says Saudi Arabia, Türkiye defense pact discussed at Tehran talks",
@@ -24,14 +184,6 @@
       "date": "2026-11-04 11:07 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Key moments from a night of midterm election firsts",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
-      "date": "2026-11-04 11:04 UTC",
-      "category": "World",
-      "source": "BBC News"
     },
     {
       "title": "2 ‘terrorists,’ including suicide bomber, killed in northwestern Pakistan",
@@ -48,22 +200,6 @@
       "date": "2026-11-04 10:56 UTC",
       "category": "Pakistan",
       "source": "Janes Defence Intelligence"
-    },
-    {
-      "title": "Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2J0QloxVUR5WGpXOFNrUHRIOE9PbUJua3FpMUNnbXpPU3Y2YUxEZU16cHgyajVHUS1GbEUxWlZ5UVFYNlA2VW5Ub01OaHU4VHBnSEpLeWE2Y3k0aUtNQ0gzWm4tQXBrcnhGSWZpTmRqbS15SERPT1R1eUFDZEthOUxlbzdyM1ZRWG5WTmJXdlFGX3RvbE5SbmRMRkhzTnJ0UC0yRklHMm03MVE?oc=5",
-      "summary": "Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz Dawn",
-      "date": "2026-11-04 10:55 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Pakistan seeks spot LNG cargoes",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43WnN1TlFCclFmZ3ZRZWxJR1pVc3lXR2pOek9jZzlRcFpoX1BHSXV5aGlpdzVKOTU2ZnllZThqcTRpc0FpWDZCX0NSX21GRDRhS1Nkc1l4RGZuTVNsYmw3QzhHXzg2cnJQZkN3dFk5ZVE4dWM?oc=5",
-      "summary": "Pakistan seeks spot LNG cargoes LNG Prime",
-      "date": "2026-11-04 10:54 UTC",
-      "category": "Pakistan",
-      "source": "LNG Prime"
     },
     {
       "title": "Pakistan’s Maliha stuns European champion at MMA worlds",
@@ -90,14 +226,6 @@
       "source": "The Diplomatic Insight"
     },
     {
-      "title": "Pakistan continues diplomatic efforts to ease Mideast tensions: PM Shehbaz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnE3M0szMW0xSENaZnNNV1lxb3NjQ25QUEY5TUM4UGctd2NNY0NvejZVejY2MWRxNDN1VEw2UUpJeVVxZnh4NEVVWmlwMnI1M2c2Z1pzZHJHVzVnN29wZ3B1M3AyampadGZyYTd5eXNLclF0UHNTQkJqRGpNVXgxdHhvaEVRd1NTTEtnV3N1VXlPWFI2WWJSRGF6MmZkcUhvMXU1cFNiTHlWQ2FUTEZ30gG3AUFVX3lxTE5oanFjdU5ZbFgzNDgyR250OXJxRHJyUldtdTVwdld6cXNhd2hKenRxaUZvbXBRTHR4NnA2WS05S1k2WkExWmJnYWdJbXN2b1JpZHhsTjhiaVJhUlFCZHZCQzkwNmg5NmIzZktoV0ZPemZocGk3aEFQSDQ3dXUzWldybHc1MW1FYlcxRFlsV3o1NzFveEhmU0JWanhtY3pZZGNlUzB2bS1Hc2h5S0JRcmhDTGVtTjFlZw?oc=5",
-      "summary": "Pakistan continues diplomatic efforts to ease Mideast tensions: PM Shehbaz The Express Tribune",
-      "date": "2026-11-04 10:32 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
       "title": "‘Rising Stars’: Why are India and Pakistan squads for Asia Cup in Qatar raising eyebrows?",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaFowWGJ4M0lvWkdsbHJTX0pYMmZpQjNTMmw5NFhCTHNKdWIwMWticzBrM21uczFxTW4ybjI4T0FlOFg2SVY1Y0xEc3lzR1lqekRmTGRvOVdMYUQwbXdPaU83a0Z3ZkJmTk1CV0xwRThYWnhEZnVzNVZldnJOWndIUm9NODdGTEtxeUx4eld6d09uOW9YRWRuWldJUDBaOWJHU2w0RkpIYl9qVzdiN3JpSkI5c1dReWJSejEyNTRQMndxQkV0QWkzVXlUZ2ZUR2t3Mlo1ODFIYXlhX00?oc=5",
       "summary": "‘Rising Stars’: Why are India and Pakistan squads for Asia Cup in Qatar raising eyebrows? The National",
@@ -106,12 +234,20 @@
       "source": "The National"
     },
     {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "date": "2026-11-04 10:11 UTC",
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+      "url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+      "date": "2026-11-04 10:15 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1R3S09LbGMzVzJzOUkwbjlhM2dtVU5yTjJ0WTdfV0pBOVk1elFMbFk5VUxnSHhKM3IwWHIwblg1VExwWEtqcjhfMGE0cnRxRGpheklmSkZoMWJWdjNqaDNlSXByWUVISW5SODF6dXh4R2dhTGswekJ5bXdQZVdoczhwUVVOMkRfWUJad0pkRGMtYmtybmRCR2FQNmFuOEZBWkpLZGNUdGs2eVM2WU1EaHBMc1RrQk5DRVBKam45VWfSAcYBQVVfeXFMTXg0QWluM1liWEwtOVhRNDVsMWJEX1J3V3BSMzRVRUttdVpxZGdQQ05kZ1ZKLXE2cmRMNDhTaGVCSWthWTNKMDdJOWEydjBNaFctcFh3NVRhN2Q2STktb3ZQTHliREdhVFJBZUdCeFRkS0lEMFFzcUpneUprUlE2VmRsMEdfa0lLQzhyeFl3c0w5YkdISmRCMnlKc0lRQ19kMUZad3JzbnU2NGk5LVhNMFZPaHpHMGpkVDItTmx6azhGMW13Szl3?oc=5",
+      "summary": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz Crude Oil Prices Today | OilPrice.com Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz Reuters Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz WSJ Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says The Jerusalem Post Rare Speedboat Attack in Hormuz Ignites Tank",
+      "date": "2026-11-04 10:15 UTC",
+      "category": "World",
+      "source": "Crude Oil Prices Today | OilPrice.com"
     },
     {
       "title": "Pakistan seeks to expand Azerbaijan-backed public service centers nationwide",
@@ -122,12 +258,12 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Pakistan’s New UN Envoy Haider Shah Presents Credentials to the Secretary General",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGpPM3VUcHo3ZWx1RTJDMkZXOFpWOXdOSE9mQUh5TGxwbEdiRElZSGJ0QmhvNWpWLXpnRHZXSUQwZWRmcTZuNE9qRGQwUnJrc3d6MlZjb3ZGR3d2YWp4T2FNMU1rRzFyUFJZU09uZmVDVGkzTmRTOUM3S1FYaU91c2sxZi1rSUs5?oc=5",
-      "summary": "Pakistan’s New UN Envoy Haider Shah Presents Credentials to the Secretary General The Diplomatic Insight",
-      "date": "2026-11-04 10:00 UTC",
-      "category": "Pakistan",
-      "source": "The Diplomatic Insight"
+      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "date": "2026-11-04 10:03 UTC",
+      "category": "World",
+      "source": "BBC News"
     },
     {
       "title": "Devaluation – The Pakistani Predicament",
@@ -136,6 +272,14 @@
       "date": "2026-11-04 10:00 UTC",
       "category": "Pakistan",
       "source": "The Friday Times"
+    },
+    {
+      "title": "Pakistan’s New UN Envoy Haider Shah Presents Credentials to the Secretary General",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGpPM3VUcHo3ZWx1RTJDMkZXOFpWOXdOSE9mQUh5TGxwbEdiRElZSGJ0QmhvNWpWLXpnRHZXSUQwZWRmcTZuNE9qRGQwUnJrc3d6MlZjb3ZGR3d2YWp4T2FNMU1rRzFyUFJZU09uZmVDVGkzTmRTOUM3S1FYaU91c2sxZi1rSUs5?oc=5",
+      "summary": "Pakistan’s New UN Envoy Haider Shah Presents Credentials to the Secretary General The Diplomatic Insight",
+      "date": "2026-11-04 10:00 UTC",
+      "category": "Pakistan",
+      "source": "The Diplomatic Insight"
     },
     {
       "title": "Pakistan, China urged to promote shared Silk Road heritage among youth",
@@ -178,14 +322,6 @@
       "source": "The Diplomatic Insight"
     },
     {
-      "title": "PCBPXI vs SL, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026 - Over by Over",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd183RU5MbV92TDA3Nnd0NjVjbml4Z1lXZmhKVWphTWxPVDJiUEJNenBhbGhTQ2pLdEpEU3JYX01qNUJpRnh5SGFkYXdaU3haSkhFSU9oWUJyQzVwdERhcXhWcDhSM0xhYlBTWlhjM0tvZHU5Y1B3Vm1WY0xTRFFBTDd0aWoxcFA3Qjl5czJVZ1dYTXFSWEdSc2ZDSDNCM0FYc3lwcjNkRFF1SVRuak1zbHh5WDZmdFNocjVGdkZnQQ?oc=5",
-      "summary": "PCBPXI vs SL, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026 - Over by Over Cricbuzz",
-      "date": "2026-11-04 09:36 UTC",
-      "category": "Pakistan",
-      "source": "Cricbuzz"
-    },
-    {
       "title": "Pakistan eyes Saudi Arabia, Oman for LPG imports amid supply crisis",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEZ5VWdXYmpfdlNMUFY1bHV3VVdURkZ2OThQbUhxYWRyX01uS0xMNGJZTGtrd2hZOVZLRzF1c1luVWVzRUtPYzA1aS10VEl3bmJVUWdHamhOcVZ0WU1qc2gzcFpfbF9PQnhyOTN6RGZQZ1ZFWlJYR1JlMTlORmZXMjdITFdMWjJtWHlEb2RSamZ5SmR5QmNhUWxNSlJIeEhVeGM5RzFTZDdPWjg?oc=5",
       "summary": "Pakistan eyes Saudi Arabia, Oman for LPG imports amid supply crisis Arab News PK",
@@ -218,6 +354,14 @@
       "source": "Investify"
     },
     {
+      "title": "SAFF Championship 2026: India vs Pakistan in opener - full schedule, where to watch live",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVRCeGhPbGw0U3IxWmI4U2lpM2JvRGNwMVdjOE9xbUEwRFJ3V1BZRFNzc2ttaXN3ZkF5TG5DSWpoVkhKcVhSTFdCdnJSZTlaWmFkNVYwazFuOTVsT3YxRWsyNWU2a013SVJiRHQzTmI1UUMxZFhTSDBnanhUSklfSkFhakRKN3VxMlJ2cUg1V21OM1daTTFQWmpyQW1jOVRfVksyNWFuNy10dw?oc=5",
+      "summary": "SAFF Championship 2026: India vs Pakistan in opener - full schedule, where to watch live Olympics",
+      "date": "2026-11-04 09:28 UTC",
+      "category": "Pakistan",
+      "source": "Olympics"
+    },
+    {
       "title": "Gold price gains Rs13,900 per tola in Pakistan",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0NKdEdLUktGLWxJamVreUtqSXhMU2ZTYnA3N0NOMEhaN0JCa0RPeE1BXzlSOEtaNGhtbTZVZGZ0ZjlTN2lfY0J6VFEtb0paa1RhQlc4d1lMUDF4Ym13alYzQUVRU1o2QmI1a1FLNlR5Ukp6UG93RWJJWlZVNkFwaDJIMUxlUnY0WWNiMFhCT2VfOGc?oc=5",
       "summary": "Gold price gains Rs13,900 per tola in Pakistan Investify",
@@ -227,7 +371,7 @@
     },
     {
       "title": "Gold price gains Rs13,900 per tola in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0pmNFcwUW1ORGV2WFhTYkhtYnNsZE41QlNRR0tmRml5Ymk5Y25nbmxqeDFRNVJvb3duYU50OGY3MDBURzBkTDR5dnRHSHBTcDlFeGt0RU5wZnJ6cFJBcGZsb011dFVReGtxZl9iMkxEUTVfVGE2NjZKNW9sbFZRODcxQ2wtbDhHODdYMkNn0gFWQVVfeXFMUGFqaTJkbGZ0Z1ozMkJQR2t0eGd2OVNyTlRIMC1ydEFKTmpMSUZZczBrdURjNDJIdWRUeVRjcm5UN2NiM2Jsa2lFT2lnbHR2SFBFU2RTQUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LamJHQmNqWFZJRnVDYlFqUmZPSnJEaDdFZ250bmJZdEpJRkNTTzBWdEdJLW1iNFBZTUNHbHZTVGZjdmJpNkVkbTNQOEZOS19I0gFWQVVfeXFMUGFqaTJkbGZ0Z1ozMkJQR2t0eGd2OVNyTlRIMC1ydEFKTmpMSUZZczBrdURjNDJIdWRUeVRjcm5UN2NiM2Jsa2lFT2lnbHR2SFBFU2RTQUE?oc=5",
       "summary": "Gold price gains Rs13,900 per tola in Pakistan Business Recorder",
       "date": "2026-11-04 09:06 UTC",
       "category": "Pakistan",
@@ -246,14 +390,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXFsSlpxQXpkZDZodjJ5QlhqZUpxRHZIcUsyMjRRb2d5c1ljVEF5MkpkSHNoeWFVNHdKelU5SjlFNjQtMWFfaTJtbE1IUE9OR2Q5aHpFdWpjTTdjTTNaT2dOTl95ckV1THE0OC0tUUVaejNYX2ZxY09VZkhCeHFodHVrdEJWLVRjenhHNWxDeG9tR3RtVWxkTlZHYlhObDE3QVRiS3E1WmNkcE5hazBaa080N3BZSm1HY0NJ?oc=5",
       "summary": "Pakistan calls for better data to unlock trade opportunities among OIC nations Arab News PK",
       "date": "2026-11-04 08:58 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Three Pakistan-backed UN arms control resolutions pass amid Indian, Israeli opposition",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRaTm5qRkdjVWNNUUI2bjV4bnAwXzhGS2tHN2pRRXdsSWxVS2NudXBHVnBWakRWOEVNaHV3RnpDd3NCNVVrSlE5Q2VHSzZHZTFVX3p5ZG9HQW1ValhxZHNkNmxIUnBlRVVMUGRLYWlOdzZMNTdYUV9BOTl3NXEwSHpsUnNNR0ZNalc2aUVvYWRYT3RvS3FIVE1VbjNpWVFlSUtzcFNBOHV5cV81NU5vNkR6aXlmUEFMZzZDcm1TYTVpTUlo?oc=5",
-      "summary": "Three Pakistan-backed UN arms control resolutions pass amid Indian, Israeli opposition Arab News PK",
-      "date": "2026-11-04 08:57 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
     },
@@ -290,12 +426,20 @@
       "source": "Investify"
     },
     {
-      "title": "Government to simplify machinery import rules for exporters under EFS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnM5NEhVVFI1SUROdGdpNlBkckZnT2lJQzk4Yjhyak1kM2lPOWhndEZObTI1dXFoMzdUajNUVE9aOFFIRWpBM25seDJVMDNweGRUTWNyaDVIMnlydmhYMkFkSVRsN1pUenBJcnlkaWZHNDZJT29ab2hsbDk3VEJtSVQtU2ZlaEVQRnFSaVFaa0ZFU3AtaVNtT1dMczhGVDRSSi05QjFwS21iRXhQcFZWRmxB?oc=5",
-      "summary": "Government to simplify machinery import rules for exporters under EFS Investify",
-      "date": "2026-11-04 08:10 UTC",
+      "title": "Tears, celebrations and selfies: US midterms in pictures",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
+      "date": "2026-11-04 08:05 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "PCBPXI vs SL, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026 - Commentary",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmUyQTBsNTBvaUhPYTRjYXZaRGd3MlFmYW94Z0dQbmNSR3o1YlY3ZHNrUUJyVkFoNVZhdnBaalo3Vi1DOEFGamRiWmdDdDk0RXBIbm56UmdzcGdhQVIteEk1NGNGRHkxNkVOTGxSaFlrMjk0Q0cxd0tTTE91X1M5SmVGdWVmbTNlYlhOTWVFQXpwX2gwSnlFYnJrLVBJSmE2TDkza0lmWjNwbTZLSVFhSEYwUE8xUXc?oc=5",
+      "summary": "PCBPXI vs SL, 3-Day Warm-up Match, Sri Lanka tour of Pakistan, 2026 - Commentary Cricbuzz",
+      "date": "2026-11-04 08:04 UTC",
       "category": "Pakistan",
-      "source": "Investify"
+      "source": "Cricbuzz"
     },
     {
       "title": "Pacer back at No.1 as Pakistan and India stars rise rankings",
@@ -340,18 +484,10 @@
     {
       "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZqTGJfa3lWVVdvUzRRRUc3TlVVYUNFMHhkWlREdDZsYUFzSmdJVjBhcU9PaEptVWRxRm9QMnRGcmpkYkNHVXgydHhJYTd6X0d5dF9JMG1vc1dVOWtBWWxBUTB3VjhkZlAyUEt4cGhPUlJIRzR2cFhkdFVoOEc4SkRkM1FRQ0FpblBPZHh5S3JKMl9zbUhjeUlVazhmdkJ5QjRaUXJ6eV8taGNpV3lv0gG0AUFVX3lxTE1qMndoTmRKR0xGNDZnMVJYWmdselZrTXdiXzFKVjgwQW9OZ242eHJDWFlMa2x5MU1mbGVGdFIwV2V5Q2V2OVpfYmtfd0RLUnhmN01vTjZMdHgzVnVaMlZfelBSajJHOWVJOXZ0UTlQZEMwR0RsalU2bThPekFSRDExWG9KUUVMdFlVSFRPNTgteTdyNGxZMmhCMU9aUjU1SnNaTWJETmdSTlFyeHUwQmRUOGpRMw?oc=5",
-      "summary": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal The New York Times Iran says contacts over ending war conti",
+      "summary": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS US approves Qatar-presented draft deal with Iran: Sources Anadolu Ajansı Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part",
       "date": "2026-11-04 07:35 UTC",
       "category": "World",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "date": "2026-11-04 07:32 UTC",
-      "category": "World",
-      "source": "BBC News"
     },
     {
       "title": "Pakistan tests Fa'az missile, but reach and speed remain a mystery",
@@ -402,14 +538,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Türkiye to back greater Pakistani mango imports, Basmati branding",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlhnZTFDSHdrTG9Xbk5vN1V2RGwtNWh3Rko3b2lzZUl2TXFfNzRjeTMyVlBNVGk0U0x4N3ExN09YcW93bnMtWHpTV3dxNE91YXA3bnJQNGNxSUlCdHdCX3VnczV6V0c3VUh1TzRDb3dIdmNvYm5BcGFQVi1ua3RTSjk1M05uVWFVNHlnMmNEcjUtczd3UDRyT09FUQ?oc=5",
-      "summary": "Türkiye to back greater Pakistani mango imports, Basmati branding Mettis Global",
-      "date": "2026-11-04 07:10 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
       "title": "Pakistan's Maliha Ali topples Russia's Drozdova at MMA world championships",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPN1JhUW50OWdENkdmT1ViWjBnSGpUUS15WTdFcnZiS1p3OGNLQ1ppMUNydTN4dDNwOXc1N2lOeVZjUXRhN0hpOA?oc=5",
       "summary": "Pakistan's Maliha Ali topples Russia's Drozdova at MMA world championships Dawn",
@@ -418,12 +546,12 @@
       "source": "Dawn"
     },
     {
-      "title": "SBP declares November 9 holiday for Allama Iqbal Day",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmxkRFh2LU56S0N0OVBDVjhzaDRJSDBwalNNNGVPMGVZU3VDNHc4RjFJTFdpYUtEdGZxaFQ1RkZLUk96WVZuYUx5bjVRQXhZZGVOcFhQVGhPa1FHTWFqV3lTcVo4VjVVX0R0cm9JbDhWdU4tSTNqSTBfQU1yWVQ3a0FhTUVRSXE0ejNJNWNPUURnaTJKQXhRVlJaWQ?oc=5",
-      "summary": "SBP declares November 9 holiday for Allama Iqbal Day Investify",
-      "date": "2026-11-04 06:54 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
+      "title": "Democrats take US Congress in sweeping midterm repudiation of Trump",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
+      "summary": "Democrats take US Congress in sweeping midterm repudiation of Trump Reuters Snap Insight: US midterms – what an angry ‘lame duck’ president could mean for Asia CNA In Asia, midterms spark worries about diplomatic uncertainty, economic pressure South China Morning Post War, tariffs and China: What the US midterms mean for the Asia-Pacific Al Jazeera Asia FX Talk MUFG Research",
+      "date": "2026-11-04 06:59 UTC",
+      "category": "World",
+      "source": "Reuters"
     },
     {
       "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
@@ -434,33 +562,9 @@
       "source": "BBC News"
     },
     {
-      "title": "SSGC announces winter gas supply schedule for Sindh, Balochistan",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JREZiWnYyWlB4MDVlMWRZamEtdmVESUJjVnFQMHRKV2FtNTI2SU1lbE5RQ0hrY2pjbUUzUUNoWkJSeWlHemdrRA?oc=5",
-      "summary": "SSGC announces winter gas supply schedule for Sindh, Balochistan Dawn",
-      "date": "2026-11-04 06:48 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzVEMDhNM09CQUhKWXJ2M1FhM1F5ZDdqSC1pX1Q4TUR5Rk1CNUlpUTJnX29KWGxqRzE4MUxiMU94Y2JzZ2p1OF9ITVc3WkFVcGNaRHdybWRSbHpwLUJUZUhJNFRRN2JLX0gxWlA3dHVSSzhqb0xMVnRWVWpXdWtRcjMwZDRobVNTYjVYU19oYl91allsaFdaNVRyTkQwV25OVlpPMkxhMU4xUHNJX3fSAbMBQVVfeXFMT284eDd4UTBmOHlOWlJBNWdWb0RKZ0RJR09XZWhtb0FjY1BPUy15OHRZb1VNNDRhTERtRzVKdFBxME5TMUc5aGx1a1Jjc1VoWlloS1FTYWt3cldsT0ZKc3Z6WjBGZ185NU1uejdfeGM4WlJKMlBxRzJMLUhYWmo1SzVSVVJOSXhUcjZIRkpiUEpCUHAtcmFUT3Z1NXZDbTZ3WFJoYzJYQ0tGZU1ua0tlbjBqTWs?oc=5",
-      "summary": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government Fox News Israel’s President Holds Crucial Cards in Breaking Post-Election Deadlock The New York Times Israel vote results confirmed as election commission rejects fraud claims Al Jazeera Isaac Herzog: the mild-mannered middleman in Israel's political brawl Reuters Israel’s president accepts certified election results ahead of talks",
-      "date": "2026-11-04 06:45 UTC",
-      "category": "World",
-      "source": "Fox News"
-    },
-    {
       "title": "Pakistan says 2.8 million Afghans sent home as US court blocks deportations via Islamabad",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1NmSkw0WFBQeVF1b3RpUHpEbnAtZTBTSFNnSDdRWjh1MG56cDhTWW9yVWxTcmg3VFp4RXJHWWVqTm5YeVVvSGs2SzdrSnVzMWFVTFo1bGVXTEdtVFNUMzJsNjVuaUFpNjBYTG9mMmlIQzFkMUtwTlF1dFFyNFBqRktpdDVSYU14OXdNalh0RHdsam5PSzE1TExLN3R1aXFib0ttV2VHMWVqVXpVR2xnZThyLUQtOUpxTVFsdGRKUU11anFic3hBeA?oc=5",
       "summary": "Pakistan says 2.8 million Afghans sent home as US court blocks deportations via Islamabad Arab News PK",
-      "date": "2026-11-04 06:34 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "US judge temporarily blocks Trump plan to deport Afghans via Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzJ2N3NGVEw4a1NkSUNPRG93TUozcDlpazhMVVg4ZnJWMkxHYzlvZmI5TElVeUV1RGxpbUlWdkNsdzV1QUtJN3hFOGo0anJqTEhJZFNMOV9jdllXcGRaRG9EYXQwZmdISUdYUHZtT0lfYzRJWHBQQzVseHcybDl4c2NwVlktRDdrWVdhcHVveG1VMkdYRzRxX29lRnpLZ2NsNWY5OF90Y2xHNldXd193?oc=5",
-      "summary": "US judge temporarily blocks Trump plan to deport Afghans via Pakistan Arab News PK",
       "date": "2026-11-04 06:34 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
@@ -472,14 +576,6 @@
       "date": "2026-11-04 06:24 UTC",
       "category": "Pakistan",
       "source": "Investify"
-    },
-    {
-      "title": "Ecologist fights for custody of badger he rescued as a cub",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCajlzR1h4OVkwRFNRWXlaMm4tVk5kOGxJcWFtRUFQUm5MeHdtLU9SNGFndlZKN2w0ODAxdDd4WUhERHpjY1ZfTXFIUFQteHlERHM2ZzhDT1V1am8?oc=5",
-      "summary": "Ecologist fights for custody of badger he rescued as a cub BBC",
-      "date": "2026-11-04 06:18 UTC",
-      "category": "World",
-      "source": "BBC"
     },
     {
       "title": "Pakistan offers 1,000 acres in Karachi for Turkish investors",
@@ -500,7 +596,7 @@
     {
       "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5",
-      "summary": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack AP News North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says Reuters North Korea launches unidentified projectile toward the sea, South Korea says ABC News - Breaking News, Latest News and Videos N Korea fires multiple missiles, denies US claims on Binance hack Al Jazeera North Korea Sla",
+      "summary": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack AP News North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says Reuters North Korea launches unidentified projectile toward the sea, South Korea says ABC News - Breaking News, Latest News and Videos North Korea Slams US Hostile Policy as Trump Awaits Vote Outcome Bloomberg.com N Korea fires",
       "date": "2026-11-04 05:51 UTC",
       "category": "World",
       "source": "AP News"
@@ -538,14 +634,6 @@
       "source": "The Nation (Pakistan )"
     },
     {
-      "title": "Dollar rate in Pakistan today, Wednesday 4 November: Rs277.10 (NBP), open market Rs277.25",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUlDRXNTbFJnNnF2ZWFLUVFkdmJ4Q1czZnlKT1o2a1JONjh0VEthSndsbTlkc3pGdzdraHA3aFEzN1h1R1JycDcwVHpyU0k1Y0tqQXRjSlZsZkcwZWdmbEFVWE5JcnI2ckxsdnVZZUd5SnhuTW55UGlXdUFXUFZFTnZhSzVqRnEwa3JNYTl2c2FnSllFY3pjSGNET2hBcTZvNmZZUTRFcVpyTzBBc3VQZV80YUxsQUdRTWlTeW5BWXBsakJqcGc?oc=5",
-      "summary": "Dollar rate in Pakistan today, Wednesday 4 November: Rs277.10 (NBP), open market Rs277.25 Investify",
-      "date": "2026-11-04 05:00 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
       "title": "GSP+ is not a gift. Pakistan can lose it",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWU45Y3BLTzgzUDY3NzlwQllpclZiTlh1QUdxYWtMTHViSDJWQmhDR1pLUi0wV2wtUVhSWDhXVHM0MmpGOUFCUUhQclJRWE0zSjBuSWtEMElvQ0VHUUJiRm9sUmM2ZDNEUldyeVZhWUhKc0pvZURtNDRDMmZ6NVpaaEpPT2LSAVZBVV95cUxQcUdxR1FSMmJIOHJaR0tNTlZXQ3ctTVNhZ2ZULXo2V3Fra2UzZUNmUzVZa0VJWGJnVDhGYU5DdnhKMHBIUzBJcnlwNWhaekNXNF9vRGE5Zw?oc=5",
       "summary": "GSP+ is not a gift. Pakistan can lose it Business Recorder",
@@ -554,17 +642,9 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Federal Judge Temporarily Blocks Deportation of Afghan Nationals to Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oc3dlWTB2cEY2b0dwMG0zRlgwaDJOcXZ1Z0FJek9OUVNibmZBMGVWZjl0SVF2MlJqVHYtZENORkRyYTdpa2ZRNWFUajdVNlk?oc=5",
-      "summary": "Federal Judge Temporarily Blocks Deportation of Afghan Nationals to Pakistan thekabultribune.com",
-      "date": "2026-11-04 04:39 UTC",
-      "category": "Pakistan",
-      "source": "thekabultribune.com"
-    },
-    {
       "title": "UK's King Charles III decries the 'monstrous injustice' of the transatlantic slave trade",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjlvYW5CSVdMUkotNXd4UWtfSnpvbmNmRF9OZ1FFdFFiZF90MDdwZDMtT3FIZWtNZ0ppM01uU1VSWWV1ZW4zUzF1eURxQ05HOTRJYVl5UnZrLV85eThvOHc5Wl9IQ2pfTUI2dmhoVE1zZVBoQlZ0Sy1vbk5Wb3pJajlMMzZ2MGx0eTd3SWFmM0hmZFU4c1ZhMGJITFjSAZwBQVVfeXFMUDJuVld4MTBwUHU2X1BjNUs0RGkxOU1sclZzd1RzLXdfRUVaUTdQOVZ0dEJiYXBfaUhzT1RIVmdGVWRjcExjSFdEMXdqS0g3Q09pbHE1OUU3Vjhjdlpzem5Ud0dRd0ZVQTI3dkJQS2djMW5TaDFfSHJYcEhyZDVBQXpUTFVuZXdZaDhVdnE0U1Y4YXM4bEJyYXV5WlpT?oc=5",
-      "summary": "UK's King Charles III decries the 'monstrous injustice' of the transatlantic slave trade DW.com Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live The Guardian King Charles Calls Slave Trade A 'Shameful Chapter' At Commonwealth Summit Yahoo King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times King Charles: Slave trade was monstrous ",
+      "summary": "UK's King Charles III decries the 'monstrous injustice' of the transatlantic slave trade DW.com Miliband says slavery apology will not bring cost for UK taxpayers BBC King Charles addresses summit as demands for slavery apology grow The Guardian King Charles’s diplomatic tightrope act falls flat with Caribbean crowd The Times King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’ The New York Times",
       "date": "2026-11-04 04:25 UTC",
       "category": "World",
       "source": "DW.com"
@@ -602,36 +682,12 @@
       "source": "BBC News"
     },
     {
-      "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1k5M29XbFJLXzE1cUxwMmxuOVdzS3p1RUlNcXNtdl9qX0R2bHNFT0ZSNXoxUzlMS1lxQ2h4LUlEM19NWnJ0aEFMczdmQkFtVnMySGU2WFJqT1FSQURINXBfY2ZBbklkZl9FbG5EaWpOT2hCdWNlM01aQ2dVMzBaSGstN0xoZ1VRcHhUMVFtM2VsUTQ?oc=5",
-      "summary": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War The New York Times Despite calling Trump a “man of peace,” Africa’s most powerful leader issues chilling warning to the U.S. and Iran over what may come next Business Insider Africa Arab states warn Iran of individual, collective retaliation over attacks - WSJ Iran International United Arab Emirates says military solutions offer ",
-      "date": "2026-11-04 03:39 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Pakistan puts state giants on the auction block",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUo0djVvOTZaRC1ndGlGWkc0clN5MUxsVV82T3JvMnNNZUJ6ZzQ1NEFWMGt3XzhJRHdueGw0M19hVm9XSTJHNkU0eU5GbVpqV2VWYzV3aHBvMDBYeWV1cXEtRDFCTTdOSjVnYjZzcVVNQWpVLVpURTBpTXZSbEthSkt6WUJyTmhGS1hz?oc=5",
-      "summary": "Pakistan puts state giants on the auction block IntelliNews",
-      "date": "2026-11-04 03:33 UTC",
-      "category": "Pakistan",
-      "source": "IntelliNews"
-    },
-    {
       "title": "Pakistan's local mobile phone production falls to 2.42 million units in September",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkVEWWF5eXMydEZTcDZ1RERXQnNyYkV2WHUzMXl5Q3ZNX3lFUW52VTRyV01ucXZmQ3FCSm1fU3BPaGxDeW9ocUhzRHlFZkJsSVBHSkNDOHN0TndTeUktd2lCWGszVzZUcXNKWllfdDYyZnJscW1taGE4cVJfNjlhampobjUyTnNWTTREVHJ3Y2tqS1FkZEg3b0ZVTWhia2hFUHJUcTF3SWdObFd0SWt5LURMWXA0bWNwaElpdERSaWZqQQ?oc=5",
       "summary": "Pakistan's local mobile phone production falls to 2.42 million units in September Investify",
       "date": "2026-11-04 03:09 UTC",
       "category": "Pakistan",
       "source": "Investify"
-    },
-    {
-      "title": "Pakistan offers Argentina's expertise in agri machinery",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ05mWGljUGhSTFdxdVIzVGtiNnAxcGhrUFAwQVY5akRuWnZ1Y0FOc2lQWmRqVHRyTlI0cFF6eTdSS0M0elU5bWZzUEd4UlpYdUFaOElCb2hjTzAyRjYzWWo0YXZldTRqWlg4VFZrb2lISEVsUE5RM2ZQcWp3VXFEa1RTNzNFTXd0d29sU3lrdkRFWXZIQzRsdkZB0gFWQVVfeXFMTnF0Wm90LWhiRW5aWlF0RS1JbDRoR3d0bWdxeXFaX2NNaHZaZTlMdnVfdzN0ai1xdWpFbUMyN0s1MTR4bzJMekpMVWlON2Jtb0F1SlZkSUE?oc=5",
-      "summary": "Pakistan offers Argentina's expertise in agri machinery Business Recorder",
-      "date": "2026-11-04 02:38 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
     },
     {
       "title": "Petrol price in Pakistan from 4 November: Rs369.06 per litre",
@@ -650,76 +706,20 @@
       "source": "Investify"
     },
     {
-      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-      "date": "2026-11-04 02:11 UTC",
+      "title": "FPCCI holds Pakistan-ASEAN Business Roundtable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjFDdjJrMWFFalZVaFdMeUd5d1I1TXNLY0hWVGlDQTd3WHBmN1NmbXp2c0Y5RHZrTzd1alNqRFYydE1FYlFaOEtyb2RzWXFsSGQyNHJPcjBPNFZfUzVJSWlRTjUwdVhCVkZfaEMxRlZxUkt0YU5tV3RHMHVlV0JBdEhvM0h6WDIxR3BQM2J6b9IBVkFVX3lxTE5aSkJCMXRvcjhkNFJaY01qN0pjMlJoSjNab29IMUdSQ2REcENkcE56aE5lMU02UFRJYWNsb01ZVUpiMXFWS0lib1ZqcElXVFNzX2p0ZUh3?oc=5",
+      "summary": "FPCCI holds Pakistan-ASEAN Business Roundtable Business Recorder",
+      "date": "2026-11-04 02:14 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Flights across Europe searched and diverted after hoax bomb threats",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+      "summary": "Flights across Europe searched and diverted after hoax bomb threats AP News Bomb threats on flights in Europe cause disruption, no devices found CNN Seven planes searched after suspected bomb threats across Europe BBC Bomb threats cause flight disruptions across Europe Reuters Poland Checks Two Planes at Warsaw Airports for Bomb Threats Bloomberg.com",
+      "date": "2026-11-04 02:12 UTC",
       "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Foreign investment in Pakistan's T-bills reaches $81.2 million in October",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmowZm1rTjJTWk1JM1VSMDdqYlBMazZDVHJVVVhqSDRrQXdnWHVvWm8zVF9BTV9CVHRSRlFlNjFxeDQ5bnNqd2Q4VFpBODRBcHBVMGlLZXdMSmJrbHBMcGtpcTdUb0trNWtvLVJfNGFmdGVLcGRXVDF3M2JCV2J3WUIxbWpqVW4tU0tiekFId1k4MkI4MVRVQ21aeFVBZmpIdHE4NjVoUG9UREx5aTBHeWM5NW9oQQ?oc=5",
-      "summary": "Foreign investment in Pakistan's T-bills reaches $81.2 million in October Investify",
-      "date": "2026-11-04 02:10 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Fazl hints at launching street agitation",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mNGZSR1lPMllCYS1DWXFveUpCM1VmQ0hmT3pyWFQ0SmxhWnIxSlpBU0ZpamNyWkdYc3ZjRV9RbTAzRGNacXRBMA?oc=5",
-      "summary": "Fazl hints at launching street agitation Dawn",
-      "date": "2026-11-04 02:01 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "UN body to review Pakistan’s progress on rights today",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nUUtxcjd0d2NnbEg3UkRteVNsM0FFLUc1WXFPdXh0amRSTWhxdC11WG0xNzdsVjgtS0I1enVwcEQ0MW9KT2JPMw?oc=5",
-      "summary": "UN body to review Pakistan’s progress on rights today Dawn",
-      "date": "2026-11-04 02:00 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "[VIDEO] Pakistan Tests Fa’az Missile From JF-17, Advances Air Combat Independence",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXpRNW9VeGhpelF4S0diQXpQNGVELUN1TWNydzhCYm1hMklSX24wU2piOWhTNzZJY1N1SHFFSG1ZRXJibU1IYXppMC02UlBWZVBfZUJSdW8tRkxwY3pOYXdIMDRaUnM3TVJNNm9OZWlmUHY0ZWlZdmZXWExZekZTQS0yVWhCTkVrY2JJTXhWUjhoLWYwb28w?oc=5",
-      "summary": "[VIDEO] Pakistan Tests Fa’az Missile From JF-17, Advances Air Combat Independence Defence Security Asia",
-      "date": "2026-11-04 01:27 UTC",
-      "category": "Pakistan",
-      "source": "Defence Security Asia"
-    },
-    {
-      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
-      "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
-      "date": "2026-11-04 00:52 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan’s missing graduation plan",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VWkVzMzNZRjV2MVNJSnA1Qzk0RVZTOUNBRTRmRWlaNGVDeldtaHNSTnFwd3hiMmd4TWYyZnUtY1lfcmJ0QW5STkM3TjZOTW5haUNlbjlYY2MtOHJDN3hmTFlrVGJ4OFJZLTNaSmxrcWdHYktoeGJvU2dLM25OZ9IBVkFVX3lxTE9ENXZxLXBzb0lVbHRKR2drc1dXbEdpZldsSWxFWVdEYmhOV1oyandnZW4xVTVWRzMzcHU3Nm4xVDFDQlNTblNmengyS0NZdkd0aG5LVVFB?oc=5",
-      "summary": "Pakistan’s missing graduation plan Business Recorder",
-      "date": "2026-11-04 00:25 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Coca-Cola Pakistan receives ‘Sustainability Award’",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXFQTVdSNDEzbWlTem5nc0ZqVXI3QWptVGhKa2NaWmNkYmhCWFBJNVdiNFRYY2dLdXkyaVNCM0pfZFItVDhISklEb2k0N1ZieHllTmVrdDhmellqSVB1c1BQSV9idURnM29ERGhOUG82UGVSNHdzRXpwMExvdmJNUk0xcGZoQ0xiTkJ2NzNyd0V5d9IBVkFVX3lxTE4waGNjOERFR3pQdGpSMUp1MUNqdUlMOXRqSWJvZmdCZGhMVEZ4MmRKWnhVSng3dFVsWUFEQ0pMbW5sUUNveGVkT0dhM1NMS1R5OXpFXzdR?oc=5",
-      "summary": "Coca-Cola Pakistan receives ‘Sustainability Award’ Business Recorder",
-      "date": "2026-11-04 00:25 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Rising malnutrition in Pakistan is a cause for serious concern: Maulana Bashir Farooq",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSG45ZTlIVVoyMlczLU1hUDNOcFg4WDk0VGtDLUR5dVdlZXZGWFNWWF9tU25pSzUxMHRuTU5KdTJ6UVQyY1E4TThoTlFVb1ZYM2QxRjIySEw2TlE4Y1pxWUM0TjhPYTF6UGs2Vzd0OF9DV3E2QVV0N0lpTHpLSVI1NE4wSlZjakVzYlZkWFBoc1BaUzMySmdSaUZJby1LLUFwaFkzM01aU3dkbnVZN2lOZG11anFxZkk0Y0JzbjV1bWlLQdIBVkFVX3lxTE5WUXE0blV2Ri01WXJXaDdjaHhrTDljY29BLUlQLXBMVC1rUTdYVWRnVjE1emZsRm1hS1VXMTFJMGpSTVhRR3RScU5VMzlEU2NkMVlQbkZ3?oc=5",
-      "summary": "Rising malnutrition in Pakistan is a cause for serious concern: Maulana Bashir Farooq Business Recorder",
-      "date": "2026-11-04 00:25 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
+      "source": "AP News"
     }
   ]
 }
