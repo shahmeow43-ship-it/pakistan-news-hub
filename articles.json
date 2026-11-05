@@ -1,26 +1,58 @@
 {
-  "updated": "2026-11-05T21:57:08+00:00",
+  "updated": "2026-11-05T22:57:39+00:00",
   "articles": [
     {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "date": "2026-11-05 21:56 UTC",
-      "category": "World",
-      "source": "BBC News"
+      "title": "Turkey’s parliament ratifies defense pact with Pakistan and Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkQzWkZGUl95S0VHdTgtM2R0SnRSYXFWUGo0VmxkMk5UMnFnc3prVVJpcTJrM25aLXdMTkR3NkpnUEpXOG1JNzJqOFhNZmtLU2dMSFhmdEUzdzJFNGFNNm5tQzAwcXlTeDRFUVYybmNJSFhQa1JsQkxnZEJ4T0JPdHdtempJMi1Ed2t6OVdPZTkwZ21hSWJjaG5ucm9BcllScndrVlRIMGZCLVE4ODl6bHdrTklOWFFL?oc=5",
+      "summary": "Turkey’s parliament ratifies defense pact with Pakistan and Saudi Arabia The Times of Israel",
+      "date": "2026-11-05 22:44 UTC",
+      "category": "Pakistan",
+      "source": "The Times of Israel"
     },
     {
       "title": "California governor commutes sentences for state's 548 death row inmates",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
       "summary": "California has historically had the largest population of people on death row in the US.",
-      "date": "2026-11-05 21:25 UTC",
+      "date": "2026-11-05 22:31 UTC",
       "category": "World",
       "source": "BBC News"
     },
     {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "date": "2026-11-05 22:13 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Paraguay prosecutor will seek charges against embattled President Peña following bank collapse",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+      "summary": "Paraguay prosecutor will seek charges against embattled President Peña following bank collapse AP News Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal The New York Times Paraguay President Peña resigns under mounting pressure from bank collapse NBC News President of Paraguay faces criminal investigation and impeachment after bank collapse CNN Paraguay's President Pena resigns as bank collapse sparks",
+      "date": "2026-11-05 22:12 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Türkiye's parliament ratifies Mecca Joint Defence Pact involving Saudi Arabia and Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16emFiSklrcjEydFdhXzdfbFdMUmgtSERZY2lTbXY0bTdEazRfSGNyRGtZTklMeUJDTzQwUmk1Nnh4REhOdG5LMlJhZTZxZVd4SnFDUUxiWDM?oc=5",
+      "summary": "Türkiye's parliament ratifies Mecca Joint Defence Pact involving Saudi Arabia and Pakistan TRT World",
+      "date": "2026-11-05 22:02 UTC",
+      "category": "Pakistan",
+      "source": "TRT World"
+    },
+    {
+      "title": "Turkish parliament approves Mecca joint defense pact with Pakistan and Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjVCQTdFNDdwcHNkU1ppMWNkTHNLczlpTjh2X05KSjdOa2NNemdnaXpsc0RuY0lxWnVaVmlsMUo2b1BKRW95bWN1N1lyY3lCVjBtR3BvV3R2LVk4T0NLSGFwSmNINk13YWtKVjh0NFBMcGQ5Vzg1Qm1KcHl3YnVla0lVMWVCX3YtckdqczI2cy1HSjdRQWgydlh2SUpEaDladEdGTnZEZ2lWcExDV1pzOHRrNWpkVEhiTTVmTA?oc=5",
+      "summary": "Turkish parliament approves Mecca joint defense pact with Pakistan and Saudi Arabia Anadolu Ajansı",
+      "date": "2026-11-05 22:01 UTC",
+      "category": "Pakistan",
+      "source": "Anadolu Ajansı"
+    },
+    {
       "title": "France strikes: largest day of protests in years as economy fuels unrest",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUNHazBUU1dRMnFWUUstOGlQTzdrN3Z5eGNZRjZkTjZZcUtmRVlpRmZ2NDlPbmlWYzBMNjRkcUNuWWJ4VXVmYWFLSktxeFRzUS13eXFyb0VUN0lsMW9WNjRfdWEtV3dOWGxPa2g3aHVVQmV1YlllQkxBN2ZPdzJrMkFvcWJmaURuV2ZacG9JWDJLWERJ?oc=5",
-      "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN France protests widen NPR French protests see numbers surge as unions join strikes over high cost of living BBC Largely peaceful marches take place across France as workers stage strike Reuters",
+      "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN Hundreds of thousands protest in France CBS News Anger runs high as mass French protests for higher wages turn violent Yahoo Nearly 600,000 join latest protests in France Financial Times",
       "date": "2026-11-05 21:24 UTC",
       "category": "World",
       "source": "CNN"
@@ -42,8 +74,16 @@
       "source": "Türkiye Today"
     },
     {
+      "title": "China’s Military Helicopters: A Guide",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13RjFpR1JtWDYyUXFjSG5GT1UwUW9YZ05JTWdzMlFxa3R3azhUWjF5SFJlbzFJX01BeFo0bS1BQWEtcGJZbmZkaUdZbUFOLWYzR1RkS0hFQXRTeWRqRlRsNmQ4MjFDVmsyeXE0?oc=5",
+      "summary": "China’s Military Helicopters: A Guide TWZ",
+      "date": "2026-11-05 20:58 UTC",
+      "category": "World",
+      "source": "TWZ"
+    },
+    {
       "title": "Turkish Parliament approves defense pact with Pakistan, Saudi Arabia | Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHlNVHVuT3JLZVk2OFphMXVXWlF0MXFualFtb1VZUWt5Y1M1TzNpLW9kZ0d0UTRYLTZyUGxRU3NFMDgteDJmMjJDMndGdU14NnRBVW05SUkyekU0WWdJejlESGxOUlRzWTFjbXl3RktScVBZZ0tzX3RabDkxUWZvTXlwaHByd18zQTlIR2p1VERWU3h3WFJ0ZVN4TGM1VlNqWW94YkhRN09INnFq0gGyAUFVX3lxTFB2N3hOZkhueFVVM0hLVm1xVXJvT2E2dV9qcjBjMTVLWnM3OGp3UjhaaEVUUTRYNmxLMHRLenlleEtWNlQ0bm8yaGl4Z2RfU3lwbEh6YzNuMHRqQk9JVkJFaFNaWUx2Z2ZwRlRFNDc3V0t0dTFmcFdpajM1NXNhUTBLLXRBdUJmalVmWU5vN0hRMHVtcVJqT3R6T0llTVNsVldDbEVlaG5HdWtqYmtRcnFPQkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDRXWTB2TVZnbFRFMlc3UjkzX3haU190Uk16anZEVGl6QkhPcE4xN3pWcnV0SllpZzZNTTVZQlJyZTNKbkg2bVdveFZUZ01tTkpfRmM2ZkQyQjhCdnVPaElqTDFoUFcxUmZWWHY0c1hHbVhuamZnWjNiZ3R2ZWxqVmJ0VjcxQ0Q0MEx1X0VEaVVPbi13VDdmYTBpa2NvcHktY1laZDJWYXlwYjF6Y3BwYlJNZFJUUdIBuwFBVV95cUxPS2ZRUTNQNzNUMWdCTTVsZjJWUjFyakV2Z21Lbm9oOU1hdThaUWc0VmpybncyNEVEZnNTTVBfbEdYMnp2SFExM1FuLUgxeTFMdEZ6UnQyYjljRE1ZOXJSeFNXelJnWlBwc0QzWTdvbF9WU0JTdDgxVjVISlFtQ2pnRWdiUnJYYUpBRzFGdWg3alpPQmVqaUI5RVFnSEdRbTdCMjRrR0pTNXpYY2Rqb1hWYlNEdkd2dTFxZzRv?oc=5",
       "summary": "Turkish Parliament approves defense pact with Pakistan, Saudi Arabia | Daily Sabah Daily Sabah",
       "date": "2026-11-05 20:57 UTC",
       "category": "Pakistan",
@@ -60,7 +100,7 @@
     {
       "title": "'Too early' to say if Europe flight bomb threats linked, EU says",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTkwenVQMmRxMFVvbUl5S0xMbWkwa3ptajc3NWozT0tobWRWaVI0czNZUHVlZlQzWWdvQ0pLcThhZ3pGU3NvaTRKLTJaeXc0dTlyYVp2TVhocWI0cVd3T2h6VVdqOEtCQ3pnVHZMeVF0NTNHVmtsdUdtclYyTEtvajNCQmZkT2FEbGw5RThHSWhpcTdiZmxTS0Z2WmdXd2Q5R3BaY0IxNA?oc=5",
-      "summary": "'Too early' to say if Europe flight bomb threats linked, EU says Euronews.com Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears The Guardian Hoax Bomb Threats Disrupt Air Traffic Across Europe Foreign Policy Wave of bomb threats against European airliners triggers diversions and tarmac searches NBC News New wave of bomb hoaxes hits at least 27 passenger flights across Europe Reuters",
+      "summary": "'Too early' to say if Europe flight bomb threats linked, EU says Euronews.com New wave of bomb hoaxes hits at least 27 passenger flights across Europe Reuters What happens when airlines receive bomb threats? PBS Wave of bomb threats against European airliners triggers diversions and tarmac searches NBC News European Airlines Face Second Wave of Aircraft Bomb Threats Bloomberg.com",
       "date": "2026-11-05 20:33 UTC",
       "category": "World",
       "source": "Euronews.com"
@@ -72,6 +112,14 @@
       "date": "2026-11-05 20:31 UTC",
       "category": "World",
       "source": "The New York Times"
+    },
+    {
+      "title": "Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z?oc=5",
+      "summary": "Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge CBS News Tankers hit in Hormuz as Iran keeps up pressure after US vote Reuters Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz WSJ Iran says tankers struck in Hormuz amid fears of new US attack Al Jazeera Iran Claims Strikes on Multiple Tankers, Emboldened After US Elections The Mar",
+      "date": "2026-11-05 20:04 UTC",
+      "category": "World",
+      "source": "CBS News"
     },
     {
       "title": "Pakistan disburses $376 million in housing loans under new scheme — finance adviser",
@@ -92,7 +140,7 @@
     {
       "title": "Melania Trump hosts top Ukrainian, Russian negotiators at White House",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjJDSVFXTjRQMG1LcGVjOFlhSUo3d3JXTjY1SE44VVFOaGNERmtKVmx6OWo2c19kNXhaTW1JYnJlTzJmbVJRNjZIT1FoV3NpOUVuWlJBaVRaOHVla1lmXy1aNDN0S0ttbmhVYlFnMkFTdU5ZU2pkTTQ0NlhoeDhZVjVxUXlEWGFpTjRha3VHMWZEMFNkU0RJMFduZEQ0cmdJcmZGQmNVZEtRVncxRmcwdkJvRmRxZmpaakVuOXZ3?oc=5",
-      "summary": "Melania Trump hosts top Ukrainian, Russian negotiators at White House The Washington Post Putin Humiliated With Explosive Double Blow The Daily Beast Ryazan under massive drone attack: Fire breaks out at one of Russia's largest oil refineries, Wildberries Ukrinform Drones Hit Russia’s Yanos Refinery as Ukraine Steps Up Strikes Bloomberg.com Ukraine Says 15 of Russia’s 38 Major Oil Refineries Knocked Offline Kyiv Post",
+      "summary": "Melania Trump hosts top Ukrainian, Russian negotiators at White House The Washington Post Putin Humiliated With Explosive Double Blow The Daily Beast Ukrainian forces have rendered 15 of 38 main Russian oil refineries inoperable Українська правда Ryazan under massive drone attack: Fire breaks out at one of Russia's largest oil refineries, Wildberries Ukrinform Ukraine Says 15 of Russia’s 38 Major Oil Refineries Knock",
       "date": "2026-11-05 19:56 UTC",
       "category": "World",
       "source": "The Washington Post"
@@ -114,12 +162,12 @@
       "source": "Tapmad"
     },
     {
-      "title": "LIV and let die: Rival league tells bankruptcy court it will wind down operations",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVhMHFoanN4WGUwMjJsNXNiNXozbUN0ZHhseFE0Z2M5eE1NdlZpSW55OF80SGZ6bWU0am1NWlJoWDhCSkljU2NQTUFPSXg5NklwU2JXUVdjNGRNMkZ5cGZOcURDSWF5Y1BaYXkzQThNSnNmTDRUUldhUWVKZUswbGRNOXRiZw?oc=5",
-      "summary": "LIV and let die: Rival league tells bankruptcy court it will wind down operations AP News LIV Golf to shutter the league after failing to get support ESPN DP World Tour ready to extend olive branch to rebels including DeChambeau after LIV Golf collapse The Guardian LIV Golf winding down operations, lawyer says in bankruptcy hearing CNN LIV Golf is dead ... but it changed golf forever Yahoo Sports",
-      "date": "2026-11-05 19:50 UTC",
-      "category": "World",
-      "source": "AP News"
+      "title": "Who is supporting terrorism now?",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JdVRWSTVLLXF3VlU1dmZkNHVPT1ctMUJZZFR4dFJTYlhMSHZ0MHpYOUlXZVg1OHdpbFZsMjVxNFVfaDdMSWYzR1VPeGpyZS1PMmRyRDEyWmxmeXVlbC1SZTJmd21ZSk45aFZubDVtY2luSXFvb3c00gF_QVVfeXFMTnh4Q3hLODBXazUzUWFLcFFyT0hKZUdSUVhvZnZxcm9HUExJWHZuNjREOTRyYlV1LU43T0RuSzRHYmFsT0c0cEhuNWxuY01FbUpiczB1UmtCcG9uNUhQcXR6QzlsMVliakd6R2tyOThxTGw3cUplS19jSXdiUnN1VQ?oc=5",
+      "summary": "Who is supporting terrorism now? The Express Tribune",
+      "date": "2026-11-05 19:40 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
     },
     {
       "title": "UNSC adopts Pakistan-initiated statement on 'role of diplomacy during active hostilities'",
@@ -138,9 +186,17 @@
       "source": "BBC News"
     },
     {
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92N3hMcUxJTHlJWFRfXzhQZVN4NUVmM09rbEJFV3cyOWZIQXNqUXZZTC1jS3pWU0FtRDY3Nm4zdlM3LUI2LTIzTWRHMDl2c1JqTjkxMHh1LWVTX2c?oc=5",
+      "summary": "Eight killed in series of shootings in western Turkey BBC Eight dead in shooting incident in rural western Turkey, says governor The Times of Israel Eight killed in shooting spree in Turkey, suspect apprehended Yahoo Suspect caught after shootings that killed seven in villages of western Türkiye Türkiye Today Turkish Bloodbath: Gunman Shoots and Kills Random Drivers Greek City Times",
+      "date": "2026-11-05 19:32 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhxQjdGQlQ0S0NwQjVReFpaVlpSOUM3c1I4YTVMS0FhWC1zYmQ0YTEwclNHRl9uaFdseHJtenlvM2tJakhPeENNWW1hSWtfQXlBOGs5NFFQUlZHVHgzeTF2SnV2SUxUalVuT0JLRWVOeDQxdGJGTUVOTGwtc1ROcmF2VFhUaVNJUnp3TDdWU2U4bzB4M1dsR0o5VVd1OHNaOHJrYkxGLXcxV2hmeG5XOG96UGtnTlVVMDN3Wg?oc=5",
-      "summary": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat WSJ Yemen targets Houthi finances with new customs and import rules The Jerusalem Post $51 billion for peace? Houthis' hefty terms for ceasefire with Saudi Arabia India Today Houthis sought $51 billion, recognition as Yemen's rulers from Saudi to end war: Report Hindustan Times Saudi official denies WSJ report that Houthis demanded $51bn from K",
+      "summary": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat WSJ Yemen targets Houthi finances with new customs and import rules The Jerusalem Post $51 billion for peace? Houthis' hefty terms for ceasefire with Saudi Arabia India Today Houthis sought $51 billion, recognition as Yemen's rulers from Saudi to end war: Report Hindustan Times Saudis Consider Peace Deal Payout With Houthis The New York Sun",
       "date": "2026-11-05 19:22 UTC",
       "category": "World",
       "source": "WSJ"
@@ -194,28 +250,12 @@
       "source": "NBC News"
     },
     {
-      "title": "PCB and Abu Dhabi T10 Organisers Resolve NOC Dispute Over Pakistani Players",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeThoX2tTaUxjbVFGUHBTajRzUjlIeDN6N2s2UF9MX0RWU3FZOW9SRXM2eUJwQVEwM2JCc0FYSDJGRnhydVphWVFHeDhBd0tRamN2SHhNWDduUU1oWU5FT1JNaXZVU1JJclFvVDRvTG41amlwSWtCLVJMcjJnMjAzU0pGZlBYQUt4TGpEU0ZUb3NDRHNuNXpHRzR6NA?oc=5",
-      "summary": "PCB and Abu Dhabi T10 Organisers Resolve NOC Dispute Over Pakistani Players Tapmad",
-      "date": "2026-11-05 19:01 UTC",
-      "category": "Pakistan",
-      "source": "Tapmad"
-    },
-    {
       "title": "Pakistan Tests Its Own Fa’az Air-to-Air Missile",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNDJ1SFlGOWNKNUxsTHVtOTZLRW5TZ3l2c0puOGpWblN5U25UbkstMVBIcFpha25XUU9FTWpyek9yQ2dNbzV0ZVpJQXhqZkdtemZhQW83clJfbmVzbUc1Y0JWZHllcW9TckVZcTJzQ0tBdnRfTTV4UDNNNmVRRUU?oc=5",
       "summary": "Pakistan Tests Its Own Fa’az Air-to-Air Missile Мілітарний",
       "date": "2026-11-05 18:59 UTC",
       "category": "Pakistan",
       "source": "Мілітарний"
-    },
-    {
-      "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbklOZWg3TjlfY1c4aHE3aFhWZldaMnZuVEs1U01iVXVlREM1ZmV3d1I4b2c4THJXcFNrc0FGQ1hEb1c2VUM4d2xtdElEQnkwZFVhY0xVckJDZmxkM3pGdmdqM2ZEVm9wdEdIczNJakxSWmN3c2N6ZGFJS2NrZDhxX2hoLTNsSFUwcDZWdm5BZDEzTHBNcy1R?oc=5",
-      "summary": "How Melania Trump Became a Dark Horse Diplomat on Ukraine The New York Times Ukraine says rare ceasefire was cover for Russian regrouping Reuters Residents evacuated from Russia-occupied Oleshky arrive back in Ukraine amid temporary U.S.-brokered ceasefire CBS News Oleshky Ceasefire Demonstrates That Russia Has the Capability, but Not the Will, to End Civilian Suffering in Ukraine Institute for the Study of War Lubin",
-      "date": "2026-11-05 18:49 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "DPM for transparent mechanisms to expand global jobs for Pakistani health professionals",
@@ -229,7 +269,7 @@
       "title": "Polio Resurgence in Pakistan: Ninth case reported amid abductions and killings of health workers",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdldwQ2pmYmY0NWF0QURVVDVQMFlOMkJoRV90S2NnakRhS3JjVEhPMkpOa2V5aGlPSm40TlVJekVtYkJVUW9HWlNUQldtaXYzRm9iRFBKMjJDMldYX2oyNXh2azRsOV8tYmd3VV83RFRXTTFYbkFlY2R1M0dZb1dSV1kzY3luS2EwQnU4RHloVTBLWWdKakdnZnFHaXR5RFYwTEJDQmdJVzV5WHZCSkgzY1g0SFpVZVV4ekRjWXlGRzZ0QmdMNlB4TUd2SG9POWdTdE4xUmpoblBVUdIB3wFBVV95cUxQdUZCcFNaQzdXeFJJejdWSEdheFA2TmEzaThfUmJyalJPZEFVQnNIel9NUlF0MGE0TTZPOVJRY2tneGZfMjl6Yll2OWRBZUNrSkpDMnU1eVNGdG1mVFVmU2E3bDFKY3hnQ25BTWVySTNjMEUyWDg0RnE3UGt6Vy1rM0pMYTJFdGREeU52ekU5NXRFTUd0YVNrcUxWQ1M3OEhoN3JvYTRvTmJHaEdUekVndEFDNEJGMHV2czl6eUxqZUpvUWFRNkhuWmNWUVo2dnRTc1FFSWc0eGprc0R3Tmhr?oc=5",
       "summary": "Polio Resurgence in Pakistan: Ninth case reported amid abductions and killings of health workers Organiser",
-      "date": "2026-11-05 18:36 UTC",
+      "date": "2026-11-05 18:37 UTC",
       "category": "Pakistan",
       "source": "Organiser"
     },
@@ -250,28 +290,20 @@
       "source": "Biz Today"
     },
     {
-      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnRtcmhVdFd2ZHpHcldHYk9VQVdySlQ3djBZNDRWWmgxZ3B1TXJuT2RqVDVaQ21pOXItajJ6ZVVOSW03bXlxMTgtcENoeHQwVDJISnBDOW1fTTJqNHctcy1LS2VxS1lFMWtOUzBfSkNCYU9rMWd0Y0xfRzhnOUhJRjNpNHRoMDd5Rm5pZjZPNmI?oc=5",
-      "summary": "Paraguay's president is impeached minutes after resigning following a bank collapse NPR President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money CNN Paraguay’s Leader Resigns After Bank Failure Leaves Millions Without Savings The New York Times Jailed Millennial Banker’s Unicorn Dream Topples Paraguay Leader Bloomberg.com Paraguay’s swaggering digital bank has falle",
-      "date": "2026-11-05 18:30 UTC",
+      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
+      "summary": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say The New York Times Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Iran sent nuclear proposal to the US via Qatar, says senior Iranian official The Times of Israel Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera US-Iran talks stuck, sources tell 'Post,' as U",
+      "date": "2026-11-05 18:27 UTC",
       "category": "World",
-      "source": "NPR"
+      "source": "The New York Times"
     },
     {
-      "title": "Army foils TTP infiltration attempt in Kurram, retaliates to 'unprovoked' Afghan firing: state media",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmx1TE9IRldMRnRDM2lKa1VHa2thMm5uNXljb2xheFBrdFlBdUtpR1hkWFg4cEx0TThabUlVQVUtS01VV18wNHVpZEtIQTNZRUNoU2hOX2cxWHExUF9Pb3NSMXBENE1fMHRpVVNmOFIwOHpRTmQ1TGo0LVFQbi1TWFdLVmpPQnF6ZmktUlZab2NGSW9ZRDhMeEp6cDl4Mk9ZV1ZUNjNmZ2dSeFE5eW9jYl9qNHMxbmVabkVLUDVjV0JOSWZNTFRPVHJ0alFCZw?oc=5",
-      "summary": "Army foils TTP infiltration attempt in Kurram, retaliates to 'unprovoked' Afghan firing: state media The Express Tribune",
-      "date": "2026-11-05 18:10 UTC",
-      "category": "Pakistan",
-      "source": "The Express Tribune"
-    },
-    {
-      "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDhxQVI1Z010dTJVSjdqZHdheWxsSFpDVk05T1pJZzVPa2FYeHF5cE5DeUk4SVhtbmtBbGJ3UTJsdmlkeXhPb3NJY18wV3NfaGdGbDBJV1FWLW0zc0NLY2VWS0FROC10dTQzWlZUcHRMSkJhSmZnSlRtN1dfV0FCNHdtMTZvOUhteVE?oc=5",
-      "summary": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters Russell Brand found guilty of rape and sexual assaults; actor being investigated over more rape allegations Yahoo Russell Brand Interrogation Footage Released as Convicted Rapist Potentially Faces Fresh Charges People.com Russell Brand found guilty of rape and sexual assault NBC News Exclusive | How long Russell Brand will serve in UK",
-      "date": "2026-11-05 18:04 UTC",
+      "title": "Trump Biographer Makes Ominous Prediction About ‘Isolated’ President",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMExGeE5PX3hGaGFmNklvMzI4aW5oWDBqVDE4NGQxRHoyYkxuWkFEcklCeFp0MkpPeWY3LVRZeU4wWnVuVUY1WUNlb1ZZMU84Zkw5RThlMTlTRVlQRThkWjdmNDM0QUtvb045VXJiNlhKeHVCYTV2QXpHR3h6dFBWYmNqUHh5YjIzeFRGZU1GOWZGcUJPRDNIYlZNQTg?oc=5",
+      "summary": "Trump Biographer Makes Ominous Prediction About ‘Isolated’ President The Daily Beast",
+      "date": "2026-11-05 18:27 UTC",
       "category": "World",
-      "source": "Reuters"
+      "source": "The Daily Beast"
     },
     {
       "title": "Pakistan-Sri Lanka 1st Test Ticket Prices Announced by PCB",
@@ -288,6 +320,14 @@
       "date": "2026-11-05 17:59 UTC",
       "category": "World",
       "source": "BBC News"
+    },
+    {
+      "title": "LIV Golf announces plan for liquidation, marking end of league",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3Qzb2xiUml6N050LUtaNkpmazhKRnZRbkMzYVAxZnJtZEU2SW9yb2JiMi1Uejl1WE5uallBUWNMWWU4dXA4cFdOS2dUYnJJeHZMcEdZM0FnQ3NlaWswT1J4d21yOUJ4ZWRNdVZpNHpvWFI3NUlLbElMSmhUYlI3VjYyQU16U1pRTVVYQTRqdTJOR0R4bEhJcg?oc=5",
+      "summary": "LIV Golf announces plan for liquidation, marking end of league Golf Channel LIV Golf to shutter the league after failing to get support ESPN LIV Golf's timeline from conception to bankruptcy 10TV LIV Golf is dead ... but it changed golf forever Yahoo Sports LIV Golf is done. What it means for the PGA Tour and former LIV stars USA Today",
+      "date": "2026-11-05 17:53 UTC",
+      "category": "World",
+      "source": "Golf Channel"
     },
     {
       "title": "Where to Watch SL Tour of Pakistan 2026 Test Series",
@@ -322,6 +362,14 @@
       "source": "BBC News"
     },
     {
+      "title": "Top Pakistani, Iranian diplomats discuss regional developments",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTFHZktiQnRjWWIwMFdTanN2azlobFVHdGJjcVFOeWpSaktWVk40bFBIa3dBa016MENUVDZENHdmYmRBOVN0RTF3dTdJc3ZmLTg5ajBBTzdKdDhMa3JpR0N5VE1EU1lDc014LWVVUE4wbTI5bVpzOXZHSFF4emZabzFOcVNmQTRlRk45SmRqS2U2aWNnc1ZXN3pCQ0FLWGNEYVhlMHkxOE9SeWc?oc=5",
+      "summary": "Top Pakistani, Iranian diplomats discuss regional developments Anadolu Ajansı",
+      "date": "2026-11-05 17:22 UTC",
+      "category": "Pakistan",
+      "source": "Anadolu Ajansı"
+    },
+    {
       "title": "UNSC adopts Pakistan-initiated statement on diplomacy during active hostilities",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQU83bElFX0Z4TU1WQ3hwR1pFdDJORTNxY2NvdHdfWldHa2hIa0pNbGxGNHBtS085UVhJb3hQekpSMFNfWms5UlF4dXg2TkNMd1NmM2dnZUpTMlFjaXhkeGxQcGhCTTA1bVMxcmxMWTdmc2hOMDdYR1k0bWYtMmFyLTBpeTB4QWFyNWxLQk1ZWEpDR0dmclpRcmQzMnFjTWI3czZhTG0wLXRNTVpFemxnOWdoaWJTcDA1Z25v0gFWQVVfeXFMTUJpLXRqZnd6WTRBdUtuR1dFOEhYX01KbGktQ2MxUWZtaDFMeVhITXVodjVNSmZCVmlTU2ctLTlEclQzdTdkSWI3amR1RnlNcmFYeEo3TUE?oc=5",
       "summary": "UNSC adopts Pakistan-initiated statement on diplomacy during active hostilities Business Recorder",
@@ -338,14 +386,6 @@
       "source": "The Express Tribune"
     },
     {
-      "title": "Dar, Araghchi discuss regional situation amid Iran war",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFNTa3JlbF95Rmhrb0FhcklRa1Z2cHVxNHI3OS1HX2Q2RFRrdWxjZjNCcE4tdUxPdXNzM2lBNkxFUDJGY3R6TUpoVF9lRlVyUkhTcXR5endjcDJuU3AwV0xMaDhLejRBdFc5OXZ0LTRqcjZBZnhSQ0laMjRQeVhnVVFpOTB4RnNITnU4MzR0RURJeGMtREJBTtIBVkFVX3lxTE4xZG1mcWFoWXZrc2F4NVN5a2s0YjRJYzRyNV9oT2dJZGc4eVl0Y3NhemF6eDAweWZ5VEVYeEJvb25Ddm5xNU54NmF0MHpqOUJXOFJRdTln?oc=5",
-      "summary": "Dar, Araghchi discuss regional situation amid Iran war Business Recorder",
-      "date": "2026-11-05 17:14 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Why Pakistan Needs More Provinces – OpEd",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHVoejdsRG9LX0x4c2lDdWRuZS1KX3ZnZEJqYkFmS1g4Uzk2Ml9oRmxkQjV4TzJGNWp6cG1FVmJSVHFXMC1UdEZNUFZ2d2h0TE02WDBJdThVZ2RwNnhTVThJcTNLZUhhTGlYTHJxMWhpYlc5a0VTemFuVC1haFZWTzd3dFM?oc=5",
       "summary": "Why Pakistan Needs More Provinces – OpEd Eurasia Review",
@@ -360,22 +400,6 @@
       "date": "2026-11-05 16:47 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
-      "summary": "Tankers hit in Hormuz as Iran keeps up pressure after US vote Reuters Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge CBS News Iran says tankers struck in Hormuz amid fears of new US attack Al Jazeera Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz WSJ Iran Claims Strikes on Multiple Tankers, Emboldened After US Elections The Mar",
-      "date": "2026-11-05 16:47 UTC",
-      "category": "World",
-      "source": "Reuters"
-    },
-    {
-      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
-      "summary": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say The New York Times Iran sent nuclear proposal to the US via Qatar, says senior Iranian official The Times of Israel Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera US-Iran talks stuck, sources tell 'Post,' as U",
-      "date": "2026-11-05 16:34 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Don Jr. Faces Shock Claims Over Ties to Putin’s Pal",
@@ -404,7 +428,7 @@
     {
       "title": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUZ1QUM1alREVlpMbXRRdHZCV2YtTWxzMm1aYV9tcUlWWjN3SGgwYzZha25jLUN0MEcyQ1VVUzVfa3dsQmFtREhjZDJDN3l0ODcweEhsR1dHdzlnY1ZFU0dxOVNUZURlMDJBZE10WWVQVFFRci0tNHdPYUx1MW1kdFNRWXhaUXNnOEUybGhLQjdiOXpRaVdHMnBtNUZzUkVWQ1ZJ?oc=5",
-      "summary": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison The Guardian Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years WSJ Hong Kong activist Joshua Wong is sentenced to 10 more years in prison NPR Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison The New York Times Hong Kong democracy campaigner Joshua Wong handed a",
+      "summary": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison The Guardian Hong Kong activist Joshua Wong is sentenced to 10 more years in prison NPR Opinion | Joshua Wong’s Brave Example WSJ Hong Kong democracy campaigner Joshua Wong handed another 10 years in jail CNN Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years BBC",
       "date": "2026-11-05 16:25 UTC",
       "category": "World",
       "source": "The Guardian"
@@ -412,7 +436,7 @@
     {
       "title": "Putin seizes Russian operations of Japanese tobacco giant JTI",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWm9MWGJRS2dWb0pSdDZWUURvTjF5RmdNSkRDMHpaWGM0WUNPUHQ1al83X3JQSlFwVkZLUXdnb0ZSNDRvbmR1UjRQYXJIb08tZ2tQNFFVZzhoN2VOYXBoQld6LVN3M1JVOU1sb2NuMUZZMGdudmhhRTVock9XdmkxYWF5SkVvb0U5em5tZDV5WkZ0aHZWb2tfcW0tVzYydnQ0V0hkUjVkZmF2aVp5cG44N3UtY3k?oc=5",
-      "summary": "Putin seizes Russian operations of Japanese tobacco giant JTI Euronews.com Putin places Japan Tobacco's Russian assets under temporary administration Reuters Putin puts 4 Japanese factories under Russian management | NHK WORLD-JAPAN News NHKニュース Kremlin Seizes Japan Tobacco International’s Russian Assets The Moscow Times Altai beer maker asks Putin to hand it Coca-Cola’s former Russian business Meduza",
+      "summary": "Putin seizes Russian operations of Japanese tobacco giant JTI Euronews.com Putin puts 4 Japanese factories under Russian management | NHK WORLD-JAPAN News NHKニュース Putin places Japan Tobacco's Russian assets under temporary administration Reuters Kremlin Seizes Japan Tobacco International’s Russian Assets The Moscow Times Altai beer maker asks Putin to hand it Coca-Cola’s former Russian business Meduza",
       "date": "2026-11-05 16:21 UTC",
       "category": "World",
       "source": "Euronews.com"
@@ -424,6 +448,14 @@
       "date": "2026-11-05 16:16 UTC",
       "category": "World",
       "source": "AP News"
+    },
+    {
+      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlJPRGdZTC1zVmRiaXpqSFV4LVQ5S0JJa0hYVGxwM2NrYndTYWRwV0Q4dWZ6T2xEZzBKcmdZV1pYNGxxdVkxQzQ5RWI0MTAwRjcxanRoY2c1SUt2U25XRU5CVjlYdEY0cnlta3g1WTVtXzhPSlBNaE44UGJLWkNIdGtoQVpRUUg2Zk4tS1lB?oc=5",
+      "summary": "Russell Brand is convicted of rape, and judge says he'll get a prison term NPR Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters Russell Brand convicted of rape and sexual assault NPR Timeline: How Russell Brand Went From Comedy Star to Convicted Rapist The New York Times ‘I Was Totally Charmed by Him’: Megyn Kelly Says She Doesn’t ‘Believe’ Charges After Russell Brand Guilty Verdict",
+      "date": "2026-11-05 16:15 UTC",
+      "category": "World",
+      "source": "NPR"
     },
     {
       "title": "Pakistan’s religious affairs minister to attend Hajj conference in Jeddah from Nov. 8-11",
@@ -458,9 +490,17 @@
       "source": "BBC News"
     },
     {
+      "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbklOZWg3TjlfY1c4aHE3aFhWZldaMnZuVEs1U01iVXVlREM1ZmV3d1I4b2c4THJXcFNrc0FGQ1hEb1c2VUM4d2xtdElEQnkwZFVhY0xVckJDZmxkM3pGdmdqM2ZEVm9wdEdIczNJakxSWmN3c2N6ZGFJS2NrZDhxX2hoLTNsSFUwcDZWdm5BZDEzTHBNcy1R?oc=5",
+      "summary": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine The New York Times Ukraine says rare ceasefire was cover for Russian regrouping Reuters Oleshky Ceasefire Demonstrates That Russia Has the Capability, but Not the Will, to End Civilian Suffering in Ukraine Institute for the Study of War Lubinets explains assistance provided to residents evacuated from Oleshky Ukrinform Residents evacuated from Russia-occupied ",
+      "date": "2026-11-05 15:41 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
       "title": "Mother, daughter found dead after suspected grizzly attack",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVYwd2syWTdsNndCWDlPTjZKWkdhemVaZ0RNUWFkVjVRTnBjR1N5SWRsRVMwbV9GTlM0QnpwOUY3UkZySTJ2RHFIbGExajlyeHhyU2VqYlQ3OWZYWW9HRWN5NUZma1F1YXNvNTA5QTlPS2NXOTN3QkdyOFhhSGdmdElvaFJHTHhETE5QY05tUldwMWoweFhJZk5laGN5ODRTcW1j?oc=5",
-      "summary": "Mother, daughter found dead after suspected grizzly attack USA Today Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike The New York Times Mom of 4 Moved for a Fresh Start. Now Authorities Are Looking for Bears That May Have Killed Her and 20-Year-Old Daughter People.com Multiple grizzlies may have attacked mother and daughter found dead, Canadian authorities say CNN Mother and daughter ",
+      "summary": "Mother, daughter found dead after suspected grizzly attack USA Today Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike The New York Times Multiple grizzlies may have attacked mother and daughter found dead, Canadian authorities say CNN Mom of 4 Moved for a Fresh Start Months Before Fatal Bear Attack People.com Mother and daughter die after suspected grizzly bear attack in Canada BBC",
       "date": "2026-11-05 15:38 UTC",
       "category": "World",
       "source": "USA Today"
@@ -548,7 +588,7 @@
     {
       "title": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVZMejNkZDJIanQzQXFRaE1jT3FRbE9hNW9QbzhBemZHREZpdlRwNTV4c1k1cUFiTzRUVk1HMjRfakRhU0p4YXRRU193MThxN3d5Wm9fVE1QUG5Ra0dWdm5RVjEzSHcwc1FySmQ3VkxhbWRHYnV6TW9jai04R2NxOXIzSTFsLW9qSThGWGhhcU9aa1psZU1jc3BmSUZUaFllVzBLM2hzaEVCMVlvVjYtTGxKRVRqNG8?oc=5",
-      "summary": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out The Guardian Stonehenge Altar Stone remains a mystery as theory overturned BBC A Mineral Fingerprint Taken From Stonehenge Just Deepened the Mystery of Its Ancient Origins Popular Mechanics Scientists have rejected the leading theory about the origin of Stonehenge’s Altar Stone Українські Національні Новини (УНН) Mystery origin of ico",
+      "summary": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out The Guardian Stonehenge Altar Stone remains a mystery as theory overturned BBC A Mineral Fingerprint Taken From Stonehenge Just Deepened the Mystery of Its Ancient Origins Popular Mechanics Mystery origin of iconic Stonehenge Altar Stone deepens as search narrows Phys.org Scientists move closer to solving Stonehenge mystery helped by ",
       "date": "2026-11-05 14:24 UTC",
       "category": "World",
       "source": "The Guardian"
@@ -556,7 +596,7 @@
     {
       "title": "Finnish court jails captain and crew member for 'aggravated criminal damage' over Baltic cable sabotage",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHlqclVCUzhHamlCQkV1NjU4dFFTNVRpeUpuQjJjZVJYY0VzemF4ek53VzBKWmg0MFFFVXNxRW1uYldRb0R5V2kzd0pmdFhUcWNoeGpmRGNySnhmNW8zWXZXS2lPQkZNQjd4eHo1OVlJVkhGOGRnOWptMjF3ZDFveVVqOVRGRlVVTGN1dEhqYjV4SUxfTVhMcmFPcFpHR0s1SkdBRlJn0gGmAUFVX3lxTE5KZklCWC1GNk1UZEEzNFZWRnJKU3lwVlVkTURuXzVnWThLc0kybDNnd1RJdWZwOXRlWExUZzJBSy1NejNuMTBnVmxmN1lUUDg0MVNGNkJUcngwRGdxYzE3UU1FVTNpUldTZjhYS0wwQmJqZUxLeW1NR0wwV0VxNnJldHZJZmlxR0gxQ1l3LXVycWNFTGZGRnpzUk1VS205QVhmZzI3M1E?oc=5",
-      "summary": "Finnish court jails captain and crew member for 'aggravated criminal damage' over Baltic cable sabotage DW.com Finnish court jails Russian captain over Baltic cable sabotage Courthouse News Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables CT Insider Finland court convicts Russian captain, Azerbaijani crew member over Baltic Sea cable damage ThePrint",
+      "summary": "Finnish court jails captain and crew member for 'aggravated criminal damage' over Baltic cable sabotage DW.com Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables AP News Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea The New York Times Finland court convicts Russian captain, Azerbaijani crew member over Baltic Sea cable damage Reuters Finnish court jails Russ",
       "date": "2026-11-05 14:18 UTC",
       "category": "World",
       "source": "DW.com"
@@ -611,7 +651,7 @@
     },
     {
       "title": "Fa’az Missile: Pakistan Fires Its First Home-Built Air-to-Air Missile",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWMzdGR0SUE4d3RTRTd2Q0lQNkhjQ0pMN01UeTdFVmt3RmhTbE13R2puZTBWTm5sSV80aTdnVC1YcHJ2S2E3cW9aOWVhTWVYUWdFb1JEb2p0aHM5NGtkNDJjQVhQTG0wbDdhUWFVeXR5dHRBeE00cUZHRDJObXZEVDRncl9ybW9vVmJkb2xsMXJUVlN6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWFTYUFTWWNCUzVlUzlGTy1qSEhWMmo1OGdCbkY2YlJrZjM3N2I4THJfV3VMNWw5WUdLNngwUnRYeUVOWmZSbFJ1Q3pwWmM4V0pWZzh0dXplak9EalNhRGtlWWhGRWhwYUpwQ3dCb2ljVmdlZ2d1UVJSeXUwM0RPVTNZYmdTS2hST2JKVU95RmlNZGxT?oc=5",
       "summary": "Fa’az Missile: Pakistan Fires Its First Home-Built Air-to-Air Missile MiGFlug",
       "date": "2026-11-05 13:43 UTC",
       "category": "Pakistan",
@@ -644,7 +684,7 @@
     {
       "title": "Burnham won’t follow Trump in actively inviting Putin to G20",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzdaSGtpZHhIYS1VMDF3OUhWMmhmTEJfNXNLRFprYWFMOFUxWFJkanM0Nkc4c0lGTzY5ekpEaXJVZmpuN1o2dEs1bmhQallSWUl0Q0ZGaFVsY1ZYNFNzckh3QXFoVWlTdjR2VW1KSXhDdlRELTZVMU5CNWl6VXZtSnJ4VlFySl9LRnVMUA?oc=5",
-      "summary": "Burnham won’t follow Trump in actively inviting Putin to G20 POLITICO.eu Putin not invited to G20 summit in Manchester, says Andy Burnham BBC Ukraine war live: UK breaks with Trump by refusing to invite Putin to G20 summit The Independent UK threatens to give Russia’s Putin the 'Ramaphosa treatment' ahead of the 2027 G20 summit in Manchester Business Insider Africa No: UK PM on if he would invite Vladimir Putin to G2",
+      "summary": "Burnham won’t follow Trump in actively inviting Putin to G20 POLITICO.eu Putin will not attend Britain's G20 summit, UK PM Burnham says Reuters Ukraine war live: UK breaks with Trump by refusing to invite Putin to G20 summit The Independent UK threatens to give Russia’s Putin the 'Ramaphosa treatment' ahead of the 2027 G20 summit in Manchester Business Insider Africa Putin not invited to G20 summit in Manchester, say",
       "date": "2026-11-05 13:32 UTC",
       "category": "World",
       "source": "POLITICO.eu"
@@ -666,60 +706,20 @@
       "source": "Arab News PK"
     },
     {
+      "title": "EU says Montenegro on track to become bloc's next member state by 2028",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG5jbmpFaTB2ZTJzclVFTHN1cFVaci10SEVlUHgzY3ZFcVgwQjRhaV96QmRKV1VObjZSbzNFcXIxQVlFNHpwOWg5WVd3TnFETVdGLUNBTTJZQVJDRFZGc1l3TFJ5YnZMcXhlLVdEUjdGbWhJSWZDOGRmSWN1Wnc2c0o0bFBIa3NoS25tLW0xaldQRGtfeVRpXzhEdkMwM0prTnE3N9IBpAFBVV95cUxNejhVWWFuZWNOY1d5ZXBRWEpsWDNvMFZJaDlwUU94eDdYUy1uU0toc3lMUEZiN3ZGbGZsNGZIZmdQTVZJTnVweFNWcmVGLW14OTZJRUxkeXZjYVZrTk1sWk9Dc2Nsc3B1cTJnSEdfeThBRUZRdjJwbUJtZm9mS2t5OEhWWkoxOHozRG94S01GOTdIRFQ5cEhsUVp0Tm5teXdfMDZvVg?oc=5",
+      "summary": "EU says Montenegro on track to become bloc's next member state by 2028 DW.com Montenegro could sign accession treaty with EU in June 2027, European Commission says Reuters EU Hails Montenegro’s Progress – Regrets Stagnation in Much of Balkans Balkan Insight Montenegro rejects ‘second-class’ EU membership as it eyes 2028 accession Euronews.com A historic day for the European Union’s enlargement policy European Externa",
+      "date": "2026-11-05 13:18 UTC",
+      "category": "World",
+      "source": "DW.com"
+    },
+    {
       "title": "Pakistan, Russia explore joint technology projects, access to new markets",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1czS2pxRUNRbzJBLTNDdTNfQUtSUTR3UGw1OHRDWUNaSDRiWWthT3dkTWM3MEg2VmxyamhrSjFnZFg5MWtVRVU2Vkt3Nm1wYkpHejQxaEEyY0JIUy1sZkNQSjZXb29LTWV4cmdRaEE1TmJDUVFRSE80a1R3RmkzOXBzWF9aUmNWcXFyWHNVb0FaTi14VTIyai0yVlFYZGtXU21GNEZpOFpzU1dnanN0ZjdB?oc=5",
       "summary": "Pakistan, Russia explore joint technology projects, access to new markets Arab News PK",
       "date": "2026-11-05 13:13 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "How Pakistan’s AMAN Initiative Tries To Build Confidence Across Contested Waters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVZIMGhYMW9pU2NoUHU5bU5KWG9ENm5xOXRLNkp2YzJ6T0ZSdWtRdzI3ZU8xZTVNSTZzUTg4a1FvWDJ6eGpETjRmdGhwU3pFNVc3R2pWalQ3UUJjTFVsMndLR0IxeGFGUlg1bHZwNjlkTVJOaWxhVFBSRGtqbndqVzZYeWxmZERIU01tZ0syVE4wS211SkVMV0MyZUFUNkV1aFcwQ3oyMzY2RlRlUkxoMVAza1JYLXM?oc=5",
-      "summary": "How Pakistan’s AMAN Initiative Tries To Build Confidence Across Contested Waters The Friday Times",
-      "date": "2026-11-05 13:06 UTC",
-      "category": "Pakistan",
-      "source": "The Friday Times"
-    },
-    {
-      "title": "Remote-Patient Monitoring Companies Dodge Medicare Shift—For Now",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkUzRWtadVhac0RtSTRLZTFzMzBSQ0EtTmc0d09Pc0w3clpFU1c4SFV0YVFmeGdnLVJyc1BjZnBmME1sa3pXS21VRnJvVDMwaXoyVDE0TXp1cU1mNThsLTRBMmlwelFqcDNmbGZIZWh0Z0xwbVNQaXZJQ2FWX3poZWluZjZpX2RkdnI3bWtaR1ZWa0hRRjVXUHdMSU9Ja0k0cTNYVXA5NzVHR0c4VE43ZzB3?oc=5",
-      "summary": "Remote-Patient Monitoring Companies Dodge Medicare Shift—For Now WSJ CMS postpones third-party remote patient monitoring restriction Modern Healthcare Medicare delays controversial remote patient monitoring rule to 2029 STAT CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care MedCity News",
-      "date": "2026-11-05 13:06 UTC",
-      "category": "World",
-      "source": "WSJ"
-    },
-    {
-      "title": "Pakistan tests indigenous Fa’az air-to-air missile from JF-17 fighter",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHhqczJoWGF3dkFBVHNqU1h1SzJFNzR2bDRPU2EtcGY4Mi11Z2wzTjJTOXNsbjJqUWhXc1pvdlhXbk9Ea2lKSmpmNDdjZlZ1RUpoSzN4Y2NZdkdyNUZwUTU4blJhYlp6N0t0UDNiRnE1b2lRWHNwSUE1M1h4dzE4MkRRLUVNNkk1czZ1VlFzdTZrWlRRRDFZ?oc=5",
-      "summary": "Pakistan tests indigenous Fa’az air-to-air missile from JF-17 fighter Aerospace Global News",
-      "date": "2026-11-05 13:04 UTC",
-      "category": "Pakistan",
-      "source": "Aerospace Global News"
-    },
-    {
-      "title": "Why The US Midterm Elections Won’t Change Much For Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOem5ITnc4TnBIbnJsMEN5VU1NTnkzaDhrWnphblJYU2JpWjlUbXB3WGlDWWJHQndOUFlsWEVpejlyQnhTR240QTA3ZjJrYW95VXBHNTFwZ0RxQlZwU3VWZEVkdXdqQWN6bV8wNXpZcFlpRFJONENNUDBnbE1wdzc1bVUwZmpYdWZw?oc=5",
-      "summary": "Why The US Midterm Elections Won’t Change Much For Pakistan The Friday Times",
-      "date": "2026-11-05 13:03 UTC",
-      "category": "Pakistan",
-      "source": "The Friday Times"
-    },
-    {
-      "title": "Ancient discovery from time of Jesus emerges near Jerusalem's Temple Mount",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnozczdMM1V3VDhXSmE0TWZvVThYNWxXQWxnTm90UnQ1TzFCNjZlaExqUU1KZjdBa2pxWktnemxMTXdBQ1NsRnVBTFRDb0V3YUxGRno3TllWTFM1bWJ1b0tlX0JjQjRPUGJCeHNONmRuN3Z5LVczWGhrWjEyaWNvS3Vhek1UaDZJYldtWks4a2VhdktMVDVfalUyRULSAaIBQVVfeXFMTkw4QUxRdDBPV1ZCSWxGSWY0Sjk5TDk5RkVpb1kwTDN4OEwzeXFVVWd2dW5UdEZmakFjNUFwMzU4SlhZTWFGM21DTVR3VTFXRGxvQnR6aGtFay1ILUZhY0tLUmd3Z2x2QjVXN2hfUkxKZnBRbVNFYVVOZ095MmNOcXNJeFRpNXlpX1ptVnEyYTNkUzY0b2c2WHc4MHNqdXE2SS1B?oc=5",
-      "summary": "Ancient discovery from time of Jesus emerges near Jerusalem's Temple Mount Fox News 2,000-year-old ritual bath complex uncovered near Jerusalem’s Temple Mount Mezha.net 2,000-year-old aqueduct unearthed near Jerusalem offers glimpse into Jesus’ world CHVN Radio Ancient Temple Mount Discovery Reveals Striking Connection to Jesus’ Prophetic Warning Charisma Magazine Online",
-      "date": "2026-11-05 13:00 UTC",
-      "category": "World",
-      "source": "Fox News"
-    },
-    {
-      "title": "What is Alan Walker doing in Pakistan?",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FcWlTLXBUX29rT2NrcVRoZ2NtaHhRdXFJUWtud2FadG5wdDhPNWJITkItNnB0a1JacWVLNmp6WWk1NXFGU3R6TUVxVVQ?oc=5",
-      "summary": "What is Alan Walker doing in Pakistan? Images Dawn",
-      "date": "2026-11-05 12:57 UTC",
-      "category": "Pakistan",
-      "source": "Images Dawn"
     }
   ]
 }
