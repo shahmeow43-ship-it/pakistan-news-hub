@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-05T20:59:31+00:00",
+  "updated": "2026-11-05T21:57:08+00:00",
   "articles": [
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "date": "2026-11-05 21:56 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "date": "2026-11-05 21:25 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "France strikes: largest day of protests in years as economy fuels unrest",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUNHazBUU1dRMnFWUUstOGlQTzdrN3Z5eGNZRjZkTjZZcUtmRVlpRmZ2NDlPbmlWYzBMNjRkcUNuWWJ4VXVmYWFLSktxeFRzUS13eXFyb0VUN0lsMW9WNjRfdWEtV3dOWGxPa2g3aHVVQmV1YlllQkxBN2ZPdzJrMkFvcWJmaURuV2ZacG9JWDJLWERJ?oc=5",
+      "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN France protests widen NPR French protests see numbers surge as unions join strikes over high cost of living BBC Largely peaceful marches take place across France as workers stage strike Reuters",
+      "date": "2026-11-05 21:24 UTC",
+      "category": "World",
+      "source": "CNN"
+    },
+    {
+      "title": "Pakistan arrests suspect for selling fake Umrah visas, packages to 49 citizens",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlZDcUJyQTZ0RmYxZlJ0STZxcXVXZjdJQlR5RU1SeHZ6c1lmSm5XZWhYMlRfc0JiZ1FTT096bW5jWTlsNmVsTktLdmFJTDhJNm5POVdhZ1Y1clQtSm83ZWtPVWJvbUpOZHpZeXdQVmlNYl8xZGFzd2l1Q2NDd2x5a2Nmb29HVV9xa1FaeDMxOHdfSXktSVhpSVd2NXlTLXJkUmZKYUNlZThKVWdtZnV1UjRLMU9jbUU3UlE?oc=5",
+      "summary": "Pakistan arrests suspect for selling fake Umrah visas, packages to 49 citizens Arab News PK",
+      "date": "2026-11-05 21:19 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Turkish parliament approves Mecca defense pact with Pakistan and Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFk2UTFiaUFnNkN5MnpFZjhYU2NDQy13LUlPdDhsbGFhcFE5bEpNMERMTDNscnNvV1J5V3g4YUZ2MTVSc1BxNU5NN2wwcnN3dHRZSHM5N3hFTFdWZDZYQXRYUzFJbE8xRF9BYmNPMVVRcTh1TVoxLWo0eDRPYWV4djAtVF90LXNubGx6TVE3MVVrT3RYTmVJdmZFTXV5NEg5cXVZZFlzQ1J6N044bHVxbm5Ib3FaNkFYT0FrMVdR?oc=5",
+      "summary": "Turkish parliament approves Mecca defense pact with Pakistan and Saudi Arabia Türkiye Today",
+      "date": "2026-11-05 21:08 UTC",
+      "category": "Pakistan",
+      "source": "Türkiye Today"
+    },
+    {
+      "title": "Turkish Parliament approves defense pact with Pakistan, Saudi Arabia | Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHlNVHVuT3JLZVk2OFphMXVXWlF0MXFualFtb1VZUWt5Y1M1TzNpLW9kZ0d0UTRYLTZyUGxRU3NFMDgteDJmMjJDMndGdU14NnRBVW05SUkyekU0WWdJejlESGxOUlRzWTFjbXl3RktScVBZZ0tzX3RabDkxUWZvTXlwaHByd18zQTlIR2p1VERWU3h3WFJ0ZVN4TGM1VlNqWW94YkhRN09INnFq0gGyAUFVX3lxTFB2N3hOZkhueFVVM0hLVm1xVXJvT2E2dV9qcjBjMTVLWnM3OGp3UjhaaEVUUTRYNmxLMHRLenlleEtWNlQ0bm8yaGl4Z2RfU3lwbEh6YzNuMHRqQk9JVkJFaFNaWUx2Z2ZwRlRFNDc3V0t0dTFmcFdpajM1NXNhUTBLLXRBdUJmalVmWU5vN0hRMHVtcVJqT3R6T0llTVNsVldDbEVlaG5HdWtqYmtRcnFPQkE?oc=5",
+      "summary": "Turkish Parliament approves defense pact with Pakistan, Saudi Arabia | Daily Sabah Daily Sabah",
+      "date": "2026-11-05 20:57 UTC",
+      "category": "Pakistan",
+      "source": "Daily Sabah"
+    },
     {
       "title": "Pakistan Tests FAAZ BVRAAM with IIR Seeker from JF-17",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXVnVG1QeEdQS2laUkVQOEFjZG5qX0JqbWxQNGNUVGpiaFVwV1BZS1lyMWhscEU1SVJYc2xwRG5QSW9WWjM4YTZVdi1ZZTZRSGtQcmlxcEJLcjhrM09zSUFVTGZ4UUlvU3lhOF9vckpSM2g3MzFKWGpDZ2dRdnZIWGdrU2s1bzg?oc=5",
@@ -12,7 +60,7 @@
     {
       "title": "'Too early' to say if Europe flight bomb threats linked, EU says",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTkwenVQMmRxMFVvbUl5S0xMbWkwa3ptajc3NWozT0tobWRWaVI0czNZUHVlZlQzWWdvQ0pLcThhZ3pGU3NvaTRKLTJaeXc0dTlyYVp2TVhocWI0cVd3T2h6VVdqOEtCQ3pnVHZMeVF0NTNHVmtsdUdtclYyTEtvajNCQmZkT2FEbGw5RThHSWhpcTdiZmxTS0Z2WmdXd2Q5R3BaY0IxNA?oc=5",
-      "summary": "'Too early' to say if Europe flight bomb threats linked, EU says Euronews.com See more headlines & perspectives on Google News",
+      "summary": "'Too early' to say if Europe flight bomb threats linked, EU says Euronews.com Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears The Guardian Hoax Bomb Threats Disrupt Air Traffic Across Europe Foreign Policy Wave of bomb threats against European airliners triggers diversions and tarmac searches NBC News New wave of bomb hoaxes hits at least 27 passenger flights across Europe Reuters",
       "date": "2026-11-05 20:33 UTC",
       "category": "World",
       "source": "Euronews.com"
@@ -20,18 +68,18 @@
     {
       "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNERDTlgzcHBYUjlvcDhDalRXYU56RUYxVm9SYm5Fcjd3eGEwN1ZndElSb2lJYjhVME9YOG5WOHJGaWJZemJNWC15ZEIwR3RYZTJHRFJUUUtsM3p0VWZ6bFpRREl1ZmFzVUJQbnUtdVZKaGlpLVp4UzlFbGJvQlpjTngtVFpCTWNreFE?oc=5",
-      "summary": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island The New York Times 5 people rescued in South Pacific after months adrift at sea, 4 others missing CBS News Group lost at sea for months found after drifting thousands of kilometres ABC News & Headlines – Australian Broadcasting Corporation Three Adults and Two Children Found Alive After Being Lost at Sea for Three Months Yahoo They Set Sail on On",
+      "summary": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island The New York Times 5 people rescued in South Pacific after months adrift at sea, 4 others missing CBS News 5 People, Including 2 Kids, Are Found Alive After 3 Months Lost at Sea When They Headed Out on 20-Foot Boat People.com Group lost at sea for months found after drifting thousands of kilometres ABC News & Headlines – Australian Broadcasting C",
       "date": "2026-11-05 20:31 UTC",
       "category": "World",
       "source": "The New York Times"
     },
     {
-      "title": "California governor commutes death sentences for all 548 people on death row",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "California has historically had the largest population of death row inmates in the US.",
-      "date": "2026-11-05 20:28 UTC",
-      "category": "World",
-      "source": "BBC News"
+      "title": "Pakistan disburses $376 million in housing loans under new scheme — finance adviser",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXRrclV0MFhlZUJTMlBfZ19JTHVicTNlMUN3ODJXUEZBQkd1U251YnhpZHRuLXRuTlN3ZzFYT0p5WnB3ZjEybDAyVnRocWNWZVhoaFduckowS2lyQ3FkQlYxbTNRZ01YdENzbVhwVzdWSU03eVhNMDZNNF9PaTE1czdVa3NLOHJmbkR4cmtVanUzSnNmTFNUZmJrVXhGcmRlV1ZIVXY0bm9xRnRic0syelNwLW5GT2ZpT3FObmJn?oc=5",
+      "summary": "Pakistan disburses $376 million in housing loans under new scheme — finance adviser Arab News PK",
+      "date": "2026-11-05 20:01 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
     },
     {
       "title": "Who could be behind hoax bomb threats to European air travel?",
@@ -42,9 +90,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Ukraine continues strikes on Russian refineries in lead-up to White House meeting",
+      "title": "Melania Trump hosts top Ukrainian, Russian negotiators at White House",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjJDSVFXTjRQMG1LcGVjOFlhSUo3d3JXTjY1SE44VVFOaGNERmtKVmx6OWo2c19kNXhaTW1JYnJlTzJmbVJRNjZIT1FoV3NpOUVuWlJBaVRaOHVla1lmXy1aNDN0S0ttbmhVYlFnMkFTdU5ZU2pkTTQ0NlhoeDhZVjVxUXlEWGFpTjRha3VHMWZEMFNkU0RJMFduZEQ0cmdJcmZGQmNVZEtRVncxRmcwdkJvRmRxZmpaakVuOXZ3?oc=5",
-      "summary": "Ukraine continues strikes on Russian refineries in lead-up to White House meeting The Washington Post Ukrainian forces have rendered 15 of 38 main Russian oil refineries inoperable Українська правда Putin Humiliated With Explosive Double Blow The Daily Beast Drone attack sparks fires at industrial facilities in Russia's Ryazan, oil refinery reportedly targeted The Kyiv Independent Ukraine Says 15 of Russia’s 38 Major",
+      "summary": "Melania Trump hosts top Ukrainian, Russian negotiators at White House The Washington Post Putin Humiliated With Explosive Double Blow The Daily Beast Ryazan under massive drone attack: Fire breaks out at one of Russia's largest oil refineries, Wildberries Ukrinform Drones Hit Russia’s Yanos Refinery as Ukraine Steps Up Strikes Bloomberg.com Ukraine Says 15 of Russia’s 38 Major Oil Refineries Knocked Offline Kyiv Post",
       "date": "2026-11-05 19:56 UTC",
       "category": "World",
       "source": "The Washington Post"
@@ -66,18 +114,18 @@
       "source": "Tapmad"
     },
     {
-      "title": "France strikes live: largest day of protests in years expected as economy fuels unrest",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUNHazBUU1dRMnFWUUstOGlQTzdrN3Z5eGNZRjZkTjZZcUtmRVlpRmZ2NDlPbmlWYzBMNjRkcUNuWWJ4VXVmYWFLSktxeFRzUS13eXFyb0VUN0lsMW9WNjRfdWEtV3dOWGxPa2g3aHVVQmV1YlllQkxBN2ZPdzJrMkFvcWJmaURuV2ZacG9JWDJLWERJ?oc=5",
-      "summary": "France strikes live: largest day of protests in years expected as economy fuels unrest CNN After Barricades, Riots and Protests, French Workers Go on Strike The New York Times French protests see numbers surge as unions join strikes over high cost of living BBC French protests demanding higher wages turn violent, hundreds arrested Yahoo France Protests Draw More Than 250,000 Amid Budget Impasse Bloomberg.com",
-      "date": "2026-11-05 19:36 UTC",
+      "title": "LIV and let die: Rival league tells bankruptcy court it will wind down operations",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVhMHFoanN4WGUwMjJsNXNiNXozbUN0ZHhseFE0Z2M5eE1NdlZpSW55OF80SGZ6bWU0am1NWlJoWDhCSkljU2NQTUFPSXg5NklwU2JXUVdjNGRNMkZ5cGZOcURDSWF5Y1BaYXkzQThNSnNmTDRUUldhUWVKZUswbGRNOXRiZw?oc=5",
+      "summary": "LIV and let die: Rival league tells bankruptcy court it will wind down operations AP News LIV Golf to shutter the league after failing to get support ESPN DP World Tour ready to extend olive branch to rebels including DeChambeau after LIV Golf collapse The Guardian LIV Golf winding down operations, lawyer says in bankruptcy hearing CNN LIV Golf is dead ... but it changed golf forever Yahoo Sports",
+      "date": "2026-11-05 19:50 UTC",
       "category": "World",
-      "source": "CNN"
+      "source": "AP News"
     },
     {
       "title": "UNSC adopts Pakistan-initiated statement on 'role of diplomacy during active hostilities'",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNm5VdzZzOXBBNnV4WjhYWTJqOFZaaGt5MTFmUkx6S2xFRHBWa3plZ205b2hOdTlMMTdwZlpMQklfN25JekltVWNMOHllejhENjI5YnlhWWU0elRFaTF3VkU0WmZDWUdjT3hWSlRRTFlJb0VsRHF6UUdLUmgyVlBla1luV2ZFbThZZmk2QXlzNWQzWHpnMTdZMG8wbE1aQi1WZVJxa0lEdDVlQnpnbG9hOFM5RmJadUM2RFIyMmg0VkxIQQ?oc=5",
       "summary": "UNSC adopts Pakistan-initiated statement on 'role of diplomacy during active hostilities' The Express Tribune",
-      "date": "2026-11-05 19:33 UTC",
+      "date": "2026-11-05 19:34 UTC",
       "category": "Pakistan",
       "source": "The Express Tribune"
     },
@@ -146,12 +194,12 @@
       "source": "NBC News"
     },
     {
-      "title": "Pakistan disburses $376 million in housing loans under new scheme — finance adviser",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXRrclV0MFhlZUJTMlBfZ19JTHVicTNlMUN3ODJXUEZBQkd1U251YnhpZHRuLXRuTlN3ZzFYT0p5WnB3ZjEybDAyVnRocWNWZVhoaFduckowS2lyQ3FkQlYxbTNRZ01YdENzbVhwVzdWSU03eVhNMDZNNF9PaTE1czdVa3NLOHJmbkR4cmtVanUzSnNmTFNUZmJrVXhGcmRlV1ZIVXY0bm9xRnRic0syelNwLW5GT2ZpT3FObmJn?oc=5",
-      "summary": "Pakistan disburses $376 million in housing loans under new scheme — finance adviser Arab News PK",
-      "date": "2026-11-05 19:05 UTC",
+      "title": "PCB and Abu Dhabi T10 Organisers Resolve NOC Dispute Over Pakistani Players",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeThoX2tTaUxjbVFGUHBTajRzUjlIeDN6N2s2UF9MX0RWU3FZOW9SRXM2eUJwQVEwM2JCc0FYSDJGRnhydVphWVFHeDhBd0tRamN2SHhNWDduUU1oWU5FT1JNaXZVU1JJclFvVDRvTG41amlwSWtCLVJMcjJnMjAzU0pGZlBYQUt4TGpEU0ZUb3NDRHNuNXpHRzR6NA?oc=5",
+      "summary": "PCB and Abu Dhabi T10 Organisers Resolve NOC Dispute Over Pakistani Players Tapmad",
+      "date": "2026-11-05 19:01 UTC",
       "category": "Pakistan",
-      "source": "Arab News PK"
+      "source": "Tapmad"
     },
     {
       "title": "Pakistan Tests Its Own Fa’az Air-to-Air Missile",
@@ -204,26 +252,26 @@
     {
       "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnRtcmhVdFd2ZHpHcldHYk9VQVdySlQ3djBZNDRWWmgxZ3B1TXJuT2RqVDVaQ21pOXItajJ6ZVVOSW03bXlxMTgtcENoeHQwVDJISnBDOW1fTTJqNHctcy1LS2VxS1lFMWtOUzBfSkNCYU9rMWd0Y0xfRzhnOUhJRjNpNHRoMDd5Rm5pZjZPNmI?oc=5",
-      "summary": "Paraguay's president is impeached minutes after resigning following a bank collapse NPR President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money CNN Explainer: What is ueno bank and how did it trigger Paraguay's political crisis? Reuters Paraguay’s swaggering digital bank has fallen The Economist Paraguay seizes major digital bank tied to president, leaving millions",
+      "summary": "Paraguay's president is impeached minutes after resigning following a bank collapse NPR President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money CNN Paraguay’s Leader Resigns After Bank Failure Leaves Millions Without Savings The New York Times Jailed Millennial Banker’s Unicorn Dream Topples Paraguay Leader Bloomberg.com Paraguay’s swaggering digital bank has falle",
       "date": "2026-11-05 18:30 UTC",
       "category": "World",
       "source": "NPR"
     },
     {
+      "title": "Army foils TTP infiltration attempt in Kurram, retaliates to 'unprovoked' Afghan firing: state media",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmx1TE9IRldMRnRDM2lKa1VHa2thMm5uNXljb2xheFBrdFlBdUtpR1hkWFg4cEx0TThabUlVQVUtS01VV18wNHVpZEtIQTNZRUNoU2hOX2cxWHExUF9Pb3NSMXBENE1fMHRpVVNmOFIwOHpRTmQ1TGo0LVFQbi1TWFdLVmpPQnF6ZmktUlZab2NGSW9ZRDhMeEp6cDl4Mk9ZV1ZUNjNmZ2dSeFE5eW9jYl9qNHMxbmVabkVLUDVjV0JOSWZNTFRPVHJ0alFCZw?oc=5",
+      "summary": "Army foils TTP infiltration attempt in Kurram, retaliates to 'unprovoked' Afghan firing: state media The Express Tribune",
+      "date": "2026-11-05 18:10 UTC",
+      "category": "Pakistan",
+      "source": "The Express Tribune"
+    },
+    {
       "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDhxQVI1Z010dTJVSjdqZHdheWxsSFpDVk05T1pJZzVPa2FYeHF5cE5DeUk4SVhtbmtBbGJ3UTJsdmlkeXhPb3NJY18wV3NfaGdGbDBJV1FWLW0zc0NLY2VWS0FROC10dTQzWlZUcHRMSkJhSmZnSlRtN1dfV0FCNHdtMTZvOUhteVE?oc=5",
-      "summary": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters Russell Brand found guilty of rape and sexual assaults; actor being investigated over more rape allegations Yahoo Exclusive | See Russell Brand's chilling reaction to victim's graphic sodomy claims in newly released police video Page Six Timeline: How Russell Brand Went From Comedy Star to Convicted Rapist The New York Times Russell B",
+      "summary": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters Russell Brand found guilty of rape and sexual assaults; actor being investigated over more rape allegations Yahoo Russell Brand Interrogation Footage Released as Convicted Rapist Potentially Faces Fresh Charges People.com Russell Brand found guilty of rape and sexual assault NBC News Exclusive | How long Russell Brand will serve in UK",
       "date": "2026-11-05 18:04 UTC",
       "category": "World",
       "source": "Reuters"
-    },
-    {
-      "title": "What to know to start your day",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnNTNk9pcUtUMlFqUW5nZDBybjduZUJJX3NZZ19NeTRnWnlmVzN0SVF4bTdidU8xVDhfb01VRmRfTGxrWU0zMG5STl9YR0RLbXE4WF9wU1BTYjdnRnZLMTMwakZYNTFHUXNYbG9LcDBBT2dfQlhMTGZ0Q21fb1dJNUtISQ?oc=5",
-      "summary": "What to know to start your day The Washington Post",
-      "date": "2026-11-05 18:03 UTC",
-      "category": "World",
-      "source": "The Washington Post"
     },
     {
       "title": "Pakistan-Sri Lanka 1st Test Ticket Prices Announced by PCB",
@@ -242,22 +290,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "date": "2026-11-05 17:57 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z?oc=5",
-      "summary": "Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge CBS News Iran Update, November 4, 2026 Institute for the Study of War Spotlight on Iran and the Shiite Axis (October 28 — November 4, 2026) - The Amit Terrorism and Intelligence Research Institute The Amit Terrorism and Intelligence Research Institute Iran Update, November 2, 2026 Critical Threats Iran News in",
-      "date": "2026-11-05 17:52 UTC",
-      "category": "World",
-      "source": "CBS News"
-    },
-    {
       "title": "Where to Watch SL Tour of Pakistan 2026 Test Series",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmVodjFOQVpPSUIta201ajlrdFlSc2pwNC11TXpnYTBzWXpaVDF3bmFLRjB4by1uQjlvN1FJLWJoVjlrZDBGZXZwV21kME1YNXM3UkY3Ui1SQTFSMUdjS2VsTWVfaFBmSXZxcng4a3dRZWlYZjlQdVFDSFUwcE1mTG9ycWNvdEtlR1VQY0ZwNVhidw?oc=5",
       "summary": "Where to Watch SL Tour of Pakistan 2026 Test Series Tapmad",
@@ -266,20 +298,12 @@
       "source": "Tapmad"
     },
     {
-      "title": "Collision between passenger bus, trailer near Pakpattan claims 11 lives",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEVyb0F0T05abjhIZk9BX3pBQzZEUk40V1dscHZ1SkNjLTYzZVpjMmIyQjJNZnI3Wjh0QkFQVnkxU1BSbDFudlZfZ012RnNMazJ4cUxVLUZETVFvTnZjRnpnMFBxNGw3QUNQdzJxdlpCWkkxS1RzTVZzTjdTcDdSbXJrZUVDcnZkTUtuTHZHZUlNazAxOTA5bjV1dW50dGg3eGRNT0c1TQ?oc=5",
-      "summary": "Collision between passenger bus, trailer near Pakpattan claims 11 lives Dawn",
+      "title": "Collision between passenger bus, truck near Pakpattan claims 11 lives",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4YmtsWTRjSnVGcHpMVDQ1V3dwc2k0eER2UUl3dmRNR2NNLUoycUJWMXRsWDRLNFpVQ3ZXSHpFYmhKVEs1MnFBNQ?oc=5",
+      "summary": "Collision between passenger bus, truck near Pakpattan claims 11 lives Dawn",
       "date": "2026-11-05 17:45 UTC",
       "category": "Pakistan",
       "source": "Dawn"
-    },
-    {
-      "title": "LIV Golf is done after 5 years and $5 billion spent dividing the sport - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlg0aE1pQVB1MjYweWstWUFRZTlzS2RiSEpKci1NRlVTYWM2cmxDLVF2cU5nOTZQblJseGxhLXY0aXZPRFV0aWxYUWJmZkhFOUlHQTZ6VG8xU1VYb3RoX29Wek93YVBpOFo5MU1VLTN2cGFibmlXLV9Kcng5OXdfMW5UQ2JmVW5KWDE5M3ZyZw?oc=5",
-      "summary": "LIV Golf is done after 5 years and $5 billion spent dividing the sport - The Athletic The New York Times LIV Golf to shutter the league after failing to get support ESPN LIV Golf is done. What it means for the PGA Tour and former LIV stars USA Today LIV Golf is dead ... but it changed golf forever Yahoo Sports LIV Golf shutting down after new financial backer pulls funding from fledging league CBS Sports",
-      "date": "2026-11-05 17:42 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
@@ -296,14 +320,6 @@
       "date": "2026-11-05 17:39 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Top Pakistani, Iranian diplomats discuss regional developments",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTFHZktiQnRjWWIwMFdTanN2azlobFVHdGJjcVFOeWpSaktWVk40bFBIa3dBa016MENUVDZENHdmYmRBOVN0RTF3dTdJc3ZmLTg5ajBBTzdKdDhMa3JpR0N5VE1EU1lDc014LWVVUE4wbTI5bVpzOXZHSFF4emZabzFOcVNmQTRlRk45SmRqS2U2aWNnc1ZXN3pCQ0FLWGNEYVhlMHkxOE9SeWc?oc=5",
-      "summary": "Top Pakistani, Iranian diplomats discuss regional developments Anadolu Ajansı",
-      "date": "2026-11-05 17:22 UTC",
-      "category": "Pakistan",
-      "source": "Anadolu Ajansı"
     },
     {
       "title": "UNSC adopts Pakistan-initiated statement on diplomacy during active hostilities",
@@ -348,7 +364,7 @@
     {
       "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
-      "summary": "Tankers hit in Hormuz as Iran keeps up pressure after US vote Reuters Iran says tankers struck in Hormuz amid fears of new US attack Al Jazeera Iran Claims Strikes on Multiple Tankers, Emboldened After US Elections The Maritime Executive Iran War | US Iran War news: Trump weighs fresh Iran strikes, talks after Republican midterm losses The Times of India Iran Reports More Tanker Fires in Strait of Hormuz Crude Oil Pr",
+      "summary": "Tankers hit in Hormuz as Iran keeps up pressure after US vote Reuters Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge CBS News Iran says tankers struck in Hormuz amid fears of new US attack Al Jazeera Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz WSJ Iran Claims Strikes on Multiple Tankers, Emboldened After US Elections The Mar",
       "date": "2026-11-05 16:47 UTC",
       "category": "World",
       "source": "Reuters"
@@ -356,8 +372,24 @@
     {
       "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
-      "summary": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say The New York Times Iran sent nuclear proposal to the US via Qatar, says senior Iranian official The Times of Israel Iran's delegation has left negotiations in Qatar after a tense weekend. Here's where things stand PBS Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Tehran reviews 'concrete pro",
+      "summary": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say The New York Times Iran sent nuclear proposal to the US via Qatar, says senior Iranian official The Times of Israel Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera US-Iran talks stuck, sources tell 'Post,' as U",
       "date": "2026-11-05 16:34 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Don Jr. Faces Shock Claims Over Ties to Putin’s Pal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzZ3bWhqQ0NyQWdzUW1HZEg5ZWNhMnpkS3I4LWhYMXpYRUlvMEUyaGJUNE5PSWRVaE5fYVhSclVhdmpfRThDUDBFYWVhRjE4WU5ybzFvVHFhcnNZNkxPNjdZOEtvWGNodE9XRmptOXFnV29MN21KU2xVYkhxQnYzb0R4NjU3VE1BTUZ3RF9JelRJM3FIeHQ1MGFBQXVrTF9tVXJIb1NrakZIYjVqc0V4ZEFHcVR3a09kX0dOSg?oc=5",
+      "summary": "Don Jr. Faces Shock Claims Over Ties to Putin’s Pal The Daily Beast See more headlines & perspectives on Google News",
+      "date": "2026-11-05 16:34 UTC",
+      "category": "World",
+      "source": "The Daily Beast"
+    },
+    {
+      "title": "American Is Convicted of Murder in Case That Gripped Italy",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2ttUEROVHFfclBaY0tTN1gwdW44Y0lpZXJUalRwRzhreEVQQXBSZ1BtdkJ6MFNpRVUyeG5lblk0SXpXXzhzQXEwQ2w0UE9TZm9GMThkY0xQd09GWlJYNUJ3MERmbGFuanVndTV5M1d2RVpaNnd0X0pJYjJoRU8zZ09BaTBzQQ?oc=5",
+      "summary": "American Is Convicted of Murder in Case That Gripped Italy The New York Times See more headlines & perspectives on Google News",
+      "date": "2026-11-05 16:33 UTC",
       "category": "World",
       "source": "The New York Times"
     },
@@ -372,7 +404,7 @@
     {
       "title": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUZ1QUM1alREVlpMbXRRdHZCV2YtTWxzMm1aYV9tcUlWWjN3SGgwYzZha25jLUN0MEcyQ1VVUzVfa3dsQmFtREhjZDJDN3l0ODcweEhsR1dHdzlnY1ZFU0dxOVNUZURlMDJBZE10WWVQVFFRci0tNHdPYUx1MW1kdFNRWXhaUXNnOEUybGhLQjdiOXpRaVdHMnBtNUZzUkVWQ1ZJ?oc=5",
-      "summary": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison The Guardian Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison The New York Times Hong Kong sentences Joshua Wong, face of democracy protests, to 10 more years The Washington Post Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years WSJ Hong Kong democracy campaign",
+      "summary": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison The Guardian Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years WSJ Hong Kong activist Joshua Wong is sentenced to 10 more years in prison NPR Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison The New York Times Hong Kong democracy campaigner Joshua Wong handed a",
       "date": "2026-11-05 16:25 UTC",
       "category": "World",
       "source": "The Guardian"
@@ -392,14 +424,6 @@
       "date": "2026-11-05 16:16 UTC",
       "category": "World",
       "source": "AP News"
-    },
-    {
-      "title": "Pakistan Secures $4.3 Billion Loan Rollover Assurances From China and Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlpRF9ncGI5amJfQThRWF9VV0xfVFhaTkl1aWZXdlBWNlRtYnpnX0Jrd0VfbEpZeEdXWWZ0amp2TGhCZ2ZoSlN5a0NNQnRTQVVmRWlEeGRjWGMyTm9sSnFMU3pzTzJsQUNQTVRKbGNUb2l3aGZ5Q21Va1hiX3dLb2RGb21iUzVFYk9xc2pnMDllbDhEQjJTNEJqMlB6QlBsNnlIX0ZWRWRWM3RKN1ZIRlpROA?oc=5",
-      "summary": "Pakistan Secures $4.3 Billion Loan Rollover Assurances From China and Kuwait Tapmad",
-      "date": "2026-11-05 16:13 UTC",
-      "category": "Pakistan",
-      "source": "Tapmad"
     },
     {
       "title": "Pakistan’s religious affairs minister to attend Hajj conference in Jeddah from Nov. 8-11",
@@ -432,14 +456,6 @@
       "date": "2026-11-05 15:44 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXFlX2RWNDhlTkxZYUgzcklaYU5Ccl9ZdDYzeWZTZXV4czBnZ2lWUE01dHBRdkowa1NNR1o3RFZrRElXUE9iOGZvT2JPdEp3UGNTRDNWUkZSSTAtejN0a3BFd0xwa2x5YXVrOHB5TkxIb3h0RzhBaWZFLXUySGhRVjhfdGlfMVJLWlNJODRKZ0o5OGlBbFpnSlZMSdIBmwFBVV95cUxNeHA2RGZ2U1dfTjBOU01zUzY0bWtpdXFyMGR1Y0FsbjZRLWpUTnIzLWVaMjhnMzdZV0FOdWVUT3JlMnE4WVAxZW9iWkhydXRJamdQd3o1Z2lpZVZ6WmlWVGRsTGlNNklHd3l5aHlMUC0zN2U4VWZvMnZFVzZyNXdwQ2k1UmpoOFFmWEwxcUI0eXoyb2dteEJwTHhNNA?oc=5",
-      "summary": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel DW.com The leader of a German conservative party is found dead at a Berlin hotel ABC News - Breaking News, Latest News and Videos Hubert Aiwanger, prominent German politician, found dead in Berlin hotel The Guardian No foul play in death of Bavaria deputy premier, prosecutors say Reuters German prosecutors investigate hotel death of Bavarian minister POLI",
-      "date": "2026-11-05 15:40 UTC",
-      "category": "World",
-      "source": "DW.com"
     },
     {
       "title": "Mother, daughter found dead after suspected grizzly attack",
@@ -492,7 +508,7 @@
     {
       "title": "Vladimir Putin, Rezaei meet as Turkey probes deadly Iran border fire",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odjJlaERlSXFEZUJtOEFqcVJOS2tLLXJMZ2NFclhmdnh0dTJlblNDc2FsbTdBZG51eWZ5ZktZRUJ6OHFVb0ROZzF2aldMSTFQYWZXZlhnRGlzYmxVWmFr?oc=5",
-      "summary": "Vladimir Putin, Rezaei meet as Turkey probes deadly Iran border fire The Jerusalem Post Iran's security chief discusses regional, bilateral affairs with Putin Reuters How far would Russia and China go to save the Islamic Republic? Iran International Putin met Iranian security council chief Rezaei in Moscow WHTC Rezaei delivers Leader's message to Putin in Moscow Mehr News Agency",
+      "summary": "Vladimir Putin, Rezaei meet as Turkey probes deadly Iran border fire The Jerusalem Post Iran's security chief discusses regional, bilateral affairs with Putin Reuters Putin meets Iranian security council chief Rezaei in Moscow The Times of Israel The war is pushing Iran closer to Russia Chatham House Putin meets Iran's security chief as NYT reports possible breakthrough in US talks Ynetnews",
       "date": "2026-11-05 14:54 UTC",
       "category": "World",
       "source": "The Jerusalem Post"
@@ -504,14 +520,6 @@
       "date": "2026-11-05 14:35 UTC",
       "category": "Pakistan",
       "source": "The Diplomatic Insight"
-    },
-    {
-      "title": "Pakistan arrests suspect for selling fake Umrah visas, packages to 49 citizens",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlZDcUJyQTZ0RmYxZlJ0STZxcXVXZjdJQlR5RU1SeHZ6c1lmSm5XZWhYMlRfc0JiZ1FTT096bW5jWTlsNmVsTktLdmFJTDhJNm5POVdhZ1Y1clQtSm83ZWtPVWJvbUpOZHpZeXdQVmlNYl8xZGFzd2l1Q2NDd2x5a2Nmb29HVV9xa1FaeDMxOHdfSXktSVhpSVd2NXlTLXJkUmZKYUNlZThKVWdtZnV1UjRLMU9jbUU3UlE?oc=5",
-      "summary": "Pakistan arrests suspect for selling fake Umrah visas, packages to 49 citizens Arab News PK",
-      "date": "2026-11-05 14:32 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
     },
     {
       "title": "Gold price per tola jumps Rs9,600 in Pakistan",
@@ -546,12 +554,28 @@
       "source": "The Guardian"
     },
     {
+      "title": "Finnish court jails captain and crew member for 'aggravated criminal damage' over Baltic cable sabotage",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHlqclVCUzhHamlCQkV1NjU4dFFTNVRpeUpuQjJjZVJYY0VzemF4ek53VzBKWmg0MFFFVXNxRW1uYldRb0R5V2kzd0pmdFhUcWNoeGpmRGNySnhmNW8zWXZXS2lPQkZNQjd4eHo1OVlJVkhGOGRnOWptMjF3ZDFveVVqOVRGRlVVTGN1dEhqYjV4SUxfTVhMcmFPcFpHR0s1SkdBRlJn0gGmAUFVX3lxTE5KZklCWC1GNk1UZEEzNFZWRnJKU3lwVlVkTURuXzVnWThLc0kybDNnd1RJdWZwOXRlWExUZzJBSy1NejNuMTBnVmxmN1lUUDg0MVNGNkJUcngwRGdxYzE3UU1FVTNpUldTZjhYS0wwQmJqZUxLeW1NR0wwV0VxNnJldHZJZmlxR0gxQ1l3LXVycWNFTGZGRnpzUk1VS205QVhmZzI3M1E?oc=5",
+      "summary": "Finnish court jails captain and crew member for 'aggravated criminal damage' over Baltic cable sabotage DW.com Finnish court jails Russian captain over Baltic cable sabotage Courthouse News Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables CT Insider Finland court convicts Russian captain, Azerbaijani crew member over Baltic Sea cable damage ThePrint",
+      "date": "2026-11-05 14:18 UTC",
+      "category": "World",
+      "source": "DW.com"
+    },
+    {
       "title": "Govt announces public holiday on Nov 9 for Iqbal Day",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85a01VUnF5ajZZTDNFc2QyQmgtNmFwN0p0NklxcjgxQmxUWjAzeUxtbk1XU3BfNXpKbGp5UzNqdVlPUXM5MW11TA?oc=5",
       "summary": "Govt announces public holiday on Nov 9 for Iqbal Day Dawn",
       "date": "2026-11-05 14:15 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "The 25 Best Countries to Retire in 2026 (and How Much They Cost)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzRDNmR6SEhsWUpZT24weVpmeFNGNWZIY2gwTmt5QmRMeWpGbjdWcnlHSHE1RHZuM00zMS11dWRpMG00bUVXcXZNVW9nN2dabnlyWmJpNnpiOG9mS1ZOUFdIc2RURDhwOHVKVG5CZDFtVHR2MmtrQnZtREUtX01vVU8xdmJOX3lpcnZBQnEycHhZM1QzMDNRNjZKOEw?oc=5",
+      "summary": "The 25 Best Countries to Retire in 2026 (and How Much They Cost) Visual Capitalist This Stunning European Country Was Named the Top Emerging Retirement Destination for 2026—and Couples Can Live on $2,000 a Month Travel + Leisure Natixis Global Retirement Index 2026: where the U.S. ranks qz.com",
+      "date": "2026-11-05 14:10 UTC",
+      "category": "World",
+      "source": "Visual Capitalist"
     },
     {
       "title": "In pics: Shah Allah Ditta caves in Islamabad, Pakistan",
@@ -620,18 +644,10 @@
     {
       "title": "Burnham won’t follow Trump in actively inviting Putin to G20",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzdaSGtpZHhIYS1VMDF3OUhWMmhmTEJfNXNLRFprYWFMOFUxWFJkanM0Nkc4c0lGTzY5ekpEaXJVZmpuN1o2dEs1bmhQallSWUl0Q0ZGaFVsY1ZYNFNzckh3QXFoVWlTdjR2VW1KSXhDdlRELTZVMU5CNWl6VXZtSnJ4VlFySl9LRnVMUA?oc=5",
-      "summary": "Burnham won’t follow Trump in actively inviting Putin to G20 POLITICO.eu Putin not invited to G20 summit in Manchester, says Andy Burnham BBC Ukraine war live: UK breaks with Trump by refusing to invite Putin to G20 summit The Independent UK threatens to give Russia’s Putin the 'Ramaphosa treatment' ahead of the 2027 G20 summit in Manchester Business Insider Africa UK’s Burnham won’t invite Putin to G20 summit next y",
+      "summary": "Burnham won’t follow Trump in actively inviting Putin to G20 POLITICO.eu Putin not invited to G20 summit in Manchester, says Andy Burnham BBC Ukraine war live: UK breaks with Trump by refusing to invite Putin to G20 summit The Independent UK threatens to give Russia’s Putin the 'Ramaphosa treatment' ahead of the 2027 G20 summit in Manchester Business Insider Africa No: UK PM on if he would invite Vladimir Putin to G2",
       "date": "2026-11-05 13:32 UTC",
       "category": "World",
       "source": "POLITICO.eu"
-    },
-    {
-      "title": "Tom the Dancing Bug: Dementia Donnie bottoms out!",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUhURV9OSm1FN2N4QXdPaWRhS1ZuMG9QLVRCanVicFowVUR0dkFnUHBST21sdk5QaVNJTGpKVEs0Y0VhNFFwdGpvVE1Fa1k1ZENvTDJHaXA0T0FoSmdTQnhKaDZzbTRFcjI4Y1hWUUh3NWN3eVNpV0xvMEMxMVhrOG1QRTdCS1QybEdMY0ZWQm5OY1cxZWg1V25GWTVhTDRRb184UzJHZnJGMmw0Vnc?oc=5",
-      "summary": "Tom the Dancing Bug: Dementia Donnie bottoms out! Daily Kos",
-      "date": "2026-11-05 13:30 UTC",
-      "category": "World",
-      "source": "Daily Kos"
     },
     {
       "title": "Press Release – Seminar on “Pakistan’s Women in Peace and Security”",
@@ -668,7 +684,7 @@
     {
       "title": "Remote-Patient Monitoring Companies Dodge Medicare Shift—For Now",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkUzRWtadVhac0RtSTRLZTFzMzBSQ0EtTmc0d09Pc0w3clpFU1c4SFV0YVFmeGdnLVJyc1BjZnBmME1sa3pXS21VRnJvVDMwaXoyVDE0TXp1cU1mNThsLTRBMmlwelFqcDNmbGZIZWh0Z0xwbVNQaXZJQ2FWX3poZWluZjZpX2RkdnI3bWtaR1ZWa0hRRjVXUHdMSU9Ja0k0cTNYVXA5NzVHR0c4VE43ZzB3?oc=5",
-      "summary": "Remote-Patient Monitoring Companies Dodge Medicare Shift—For Now WSJ Medicare delays controversial remote patient monitoring rule to 2029 STAT CMS postpones third-party remote patient monitoring restriction Modern Healthcare CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care MedCity News",
+      "summary": "Remote-Patient Monitoring Companies Dodge Medicare Shift—For Now WSJ CMS postpones third-party remote patient monitoring restriction Modern Healthcare Medicare delays controversial remote patient monitoring rule to 2029 STAT CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care MedCity News",
       "date": "2026-11-05 13:06 UTC",
       "category": "World",
       "source": "WSJ"
@@ -699,27 +715,11 @@
     },
     {
       "title": "What is Alan Walker doing in Pakistan?",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSDhid3ZMMU85Q2lDbGN0ak9BSzJiUjNQNDAyanFFOUZBbG5laXd6YUhhMUg1cGNIOUhld1FkZXd6eFRzOTNKWkJjd0pvWXl4eGRCUzBuS0NIMkVHVXBCY3BHdThDdDhoVy1YcjJDMGVBeFZHcUlpUGlxdlhYQm8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FcWlTLXBUX29rT2NrcVRoZ2NtaHhRdXFJUWtud2FadG5wdDhPNWJITkItNnB0a1JacWVLNmp6WWk1NXFGU3R6TUVxVVQ?oc=5",
       "summary": "What is Alan Walker doing in Pakistan? Images Dawn",
       "date": "2026-11-05 12:57 UTC",
       "category": "Pakistan",
       "source": "Images Dawn"
-    },
-    {
-      "title": "Pakistan go down to India despite late onslaught in SAFF Championship opener",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzU0hkZmNBbll5UjRXc0JJSU9na1RPVHJpMFlZY1U2NjRXMHpuWkt0ZVZBZFM4NmgxQXlDZ0ZQR05iTUFnZTgxaw?oc=5",
-      "summary": "Pakistan go down to India despite late onslaught in SAFF Championship opener Dawn",
-      "date": "2026-11-05 12:42 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "PTI workers detained in UAE: LHC terms foreign ministry's report unsatisfactory",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90SjNjZ3pqam8xOU9TNkZzT1hSeTJKUV8ydm1FcUZiUktkZkktWXh5aWxURjhVd2h6RUZ4dENRdEhUb0hodmVyYg?oc=5",
-      "summary": "PTI workers detained in UAE: LHC terms foreign ministry's report unsatisfactory Dawn",
-      "date": "2026-11-05 12:40 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
     }
   ]
 }
