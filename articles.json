@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-07T21:47:05+00:00",
+  "updated": "2026-11-07T22:48:14+00:00",
   "articles": [
+    {
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "date": "2026-11-07 22:27 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "date": "2026-11-07 22:19 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEJXOWR4cEZFc2ZCSUozaVVxQ1ZTNGFqc2taVW96VVNXRkkwR2Z1ZFpEYU9wbWZjSGRzMTY5cV9EOElweEl0T0tVY1dfX0JoMEF0SWJNUnN2aF95S3hGbm5yWXpPQW8zZnBrNmJVMUpRYkxIYVFaVXJZRnM5bGtiQ0xMUGlhVlZCWVRJZmY3aEk5WndxUlhhN2s5T2U?oc=5",
+      "summary": "With an ode to mate tea, pope urges faithful in Uruguay to build bridges of fraternity and faith AP News Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour Reuters With an ode to mate, pope urges faithful in Uruguay to build bridges of fraternity and faith The Hill Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery NPR Weeks after surgery, Leo begins longest tri",
+      "date": "2026-11-07 22:17 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Poland in shock after six die in Krakow mass shooting",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+      "summary": "Poland in shock after six die in Krakow mass shooting Reuters Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded Fox News Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home BBC Gunman Opens Fire in Krakow, Killing at Least 6, Polish Police Say The New York Times Kraków shooting latest updates: six killed and more than a dozen inj",
+      "date": "2026-11-07 22:16 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
     {
       "title": "Why Women Are Being Driven Out of Pakistan's Finance Sector",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMklLSTFxQ0NuOUhWMHpEZTFHc0VBYndDdDJiU0FuSkNQcUowMHVSTlJCdDg1RTcyM0RDZjFFcF9nUFNrTmFiNGlsS3NoLVdhY1NRMUw4c0VtUzJMVktiMF9XTlBvRjdYdmcwRGRJYW5RX3duZDRQQmVvY0lmeVRvV0tsemNKZXIz?oc=5",
@@ -8,6 +40,30 @@
       "date": "2026-11-07 21:35 UTC",
       "category": "Pakistan",
       "source": "The Friday Times"
+    },
+    {
+      "title": "Pakistan calls for reforms to strengthen UN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVFqV1ZHdldnTF9mOUl6aG85WlVwc0J6d1haUGw2ZGRHQjQzXzlncl9YSU9xNVc2bkVBeXhnMGdsZWw1REd5d0pacXdPYlVyNF9rb1VIVlVCdWNHdnE5NjdYYl9JTlB5YTJ1Rmowc2t0UkJsSk5XUFBXU3A5aVFyb3NsY2ZKc3M3d1FJ0gFWQVVfeXFMT2lCbVdJU1lKT2d6MlYybXcxcURYc0thZzBGTmphLXRSN3IydXE2QVEwM1V2T0dfSjF0aFB2LTFEaDBaU3hhaVpkbWFpVVVaZTBZWllHaWc?oc=5",
+      "summary": "Pakistan calls for reforms to strengthen UN Business Recorder",
+      "date": "2026-11-07 21:33 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Successful sporting events improving Pakistan’s image: Tarar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3R5U05hQTNLWXlMdGQ3WHo2SHlXQUFteU1teWJBUE90RW1tTzBZanJTa2NIYWl2S0QweS1HbXdBcktIWWVfMm0yU2hVbkVoSHhBemdyTG1rQ3g0ZGdET1RtMDFLb3diQUNrMXhTZnB2V3VOLWNqWWFkLURhZEZMWWR1Tk5NTDhPblFFS2o1N3pRcl95cmZ0QkhRTVFpeFnSAVZBVV95cUxOd01MQmpkbThLcF93clJZd1YzdmZMZmxSWkItWFh5dWpWenlxZEp3ZE5WV0xsVnRFbUgzQTVoWE5HVHZSRktva1VUdUVVellJVS1qZ2VlUQ?oc=5",
+      "summary": "Successful sporting events improving Pakistan’s image: Tarar Business Recorder",
+      "date": "2026-11-07 21:33 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Pakistani astronaut to join China’s next space-station mission",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHl4ZGFLcVZkX21qbW1vd2hOaXZ2dTlUWFgxUVZVOVA1M1hZR0M4SFZyNk1iOFppV0luZzNENGNNU3NLelF6NEdMeUF3NFdEcG94V29iTm13RWZwSkRHZnpoMjZ1TnpUdnQwOTdDSHhBY2xjT1ZwaDNEWVd0NHFaRlhWc2t5bWQzbnN2RHo4bUNkZ0RicW9oODlJSVJIZzBqQk5j0gFWQVVfeXFMTzBydXRzdW5CcU5RaXQ3dVJHaDNnSUtfOHR5enZPa3RMNVZ3WGUtWGlrU1pmLWQ1elBhYURQM2t1RFFkMWxnQ05SVzd2cFFSaDFuWjdQVUE?oc=5",
+      "summary": "Pakistani astronaut to join China’s next space-station mission Business Recorder",
+      "date": "2026-11-07 21:33 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
     },
     {
       "title": "Pakistan, Sudan sign visa-free entry agreement for officials",
@@ -18,9 +74,17 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Pakistan calls for reforms to strengthen UN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVFqV1ZHdldnTF9mOUl6aG85WlVwc0J6d1haUGw2ZGRHQjQzXzlncl9YSU9xNVc2bkVBeXhnMGdsZWw1REd5d0pacXdPYlVyNF9rb1VIVlVCdWNHdnE5NjdYYl9JTlB5YTJ1Rmowc2t0UkJsSk5XUFBXU3A5aVFyb3NsY2ZKc3M3d1FJ0gFWQVVfeXFMT2lCbVdJU1lKT2d6MlYybXcxcURYc0thZzBGTmphLXRSN3IydXE2QVEwM1V2T0dfSjF0aFB2LTFEaDBaU3hhaVpkbWFpVVVaZTBZWllHaWc?oc=5",
-      "summary": "Pakistan calls for reforms to strengthen UN Business Recorder",
+      "title": "The Weather",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWUJJbjlrNTlqdGRHLVZiY0hVeFlZbFNHWU1LcmhCbTlIZDl0Q3V1Q0lLeExmMU5aeWF1Tmp5S3I5bjFjWlRCdkRpMFE1UjM5VkhuaXB4WVRmcHBKOWJDUdIBVkFVX3lxTE0xTTlhNVEwdWc1NllsRE9HYW5GQVp5YWVOVWhMZmlDYmZTUUdjckRDa1FFOUlkSnFWRGdZcklfVXFIbkhQaWdDdVV6V0hrSWI1b1Zsc3pB?oc=5",
+      "summary": "The Weather Business Recorder",
+      "date": "2026-11-07 21:33 UTC",
+      "category": "Pakistan",
+      "source": "Business Recorder"
+    },
+    {
+      "title": "Maryam inaugurates Pakistan’s first fully electric sweeper truck",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkZ3X1RiQURERnAtcm5zemhucXhleEwzblZ3NG5hcWdUNFJNNG05QmFLd04zWFNJMUdzYXNQNjhtek41aGloQXdfQXJaY3NNSDdFYTQ5Tjd1ZTJ4WVpWUzZzUDJNd0N1R0tmUlVORXg2SmoyX3Rzd0pOaVBrMFotSlZiTVlBUjFoTmhPX2xCMFgyMlpOVWkwaTc4WEg3djVld09xejRB0gFWQVVfeXFMT3p1NUJzWmxPQWdxUTVLWWVDVmxXbzNhTm11Rzlhby02ck9jSzdaMUhPV2w2THJkaVRWcklIVm9ZaDgzZ1ZuNmVEdnJYelo5dEZBMUJGcXc?oc=5",
+      "summary": "Maryam inaugurates Pakistan’s first fully electric sweeper truck Business Recorder",
       "date": "2026-11-07 21:33 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
@@ -58,22 +122,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Successful sporting events improving Pakistan’s image: Tarar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3R5U05hQTNLWXlMdGQ3WHo2SHlXQUFteU1teWJBUE90RW1tTzBZanJTa2NIYWl2S0QweS1HbXdBcktIWWVfMm0yU2hVbkVoSHhBemdyTG1rQ3g0ZGdET1RtMDFLb3diQUNrMXhTZnB2V3VOLWNqWWFkLURhZEZMWWR1Tk5NTDhPblFFS2o1N3pRcl95cmZ0QkhRTVFpeFnSAVZBVV95cUxOd01MQmpkbThLcF93clJZd1YzdmZMZmxSWkItWFh5dWpWenlxZEp3ZE5WV0xsVnRFbUgzQTVoWE5HVHZSRktva1VUdUVVellJVS1qZ2VlUQ?oc=5",
-      "summary": "Successful sporting events improving Pakistan’s image: Tarar Business Recorder",
-      "date": "2026-11-07 21:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Pakistani astronaut to join China’s next space-station mission",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHl4ZGFLcVZkX21qbW1vd2hOaXZ2dTlUWFgxUVZVOVA1M1hZR0M4SFZyNk1iOFppV0luZzNENGNNU3NLelF6NEdMeUF3NFdEcG94V29iTm13RWZwSkRHZnpoMjZ1TnpUdnQwOTdDSHhBY2xjT1ZwaDNEWVd0NHFaRlhWc2t5bWQzbnN2RHo4bUNkZ0RicW9oODlJSVJIZzBqQk5j0gFWQVVfeXFMTzBydXRzdW5CcU5RaXQ3dVJHaDNnSUtfOHR5enZPa3RMNVZ3WGUtWGlrU1pmLWQ1elBhYURQM2t1RFFkMWxnQ05SVzd2cFFSaDFuWjdQVUE?oc=5",
-      "summary": "Pakistani astronaut to join China’s next space-station mission Business Recorder",
-      "date": "2026-11-07 21:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "SFA fines Rs200,000 for food safety violations",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2dRUUM4NVhQa0Rqb2hmdW53dlZ5Vm5fWDJwa2d2SEhkVmRXQzN5WHpDOG9kR0NfVXVpa3BFNDJsSlFnRm45MFY4YWx1Y0c1cXA5NlgxV0syRnFORDRWbWMyenVDbktxRWtLcjVUWmhkUGdOdTh4LXNCUDdtX25BTzZ2M2dhTGRYbWtDemt30gFWQVVfeXFMT3ZaTlRLeTgzU2x0bWhxTmQ5RXN4U05yd25CWXk0ZHJfNXkxTVZTYUtTSVdQZlZmb0trbVZ1akhnYWp4cS1LR1IxbDE3cGZGcDFwMllzR2c?oc=5",
       "summary": "SFA fines Rs200,000 for food safety violations Business Recorder",
@@ -85,22 +133,6 @@
       "title": "CCP approves Nestlé–Platinum Equity’s joint venture",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2NWMDYwVU5NeHMyQngwVFdNYUxqMHVTQ0h4OGhKakpNS0pteUtfVFZHSVJyczRBS1N4VGF2d0VsZWtISUNQMTlXSWlxUk4xZ05CUzg4VFZ0Z01NTkpreHJycEdwN2ZJVThWWlVDNVhxeFlEVWRnY0w5MUlsd1lqX2l4ZFhSa3VIME5SMEwyU1FsR0FM0gFWQVVfeXFMUFVqYWlNc2lMc1Jjc2dKQ0RwM1d0X1dBOTdsSjZMU3VoektiRHhuMHJJazctQUR1WU5BM2RMNEw1dlNtbGtSX1ZUa2Z2R0VlUFlocUpNUGc?oc=5",
       "summary": "CCP approves Nestlé–Platinum Equity’s joint venture Business Recorder",
-      "date": "2026-11-07 21:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "The Weather",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWUJJbjlrNTlqdGRHLVZiY0hVeFlZbFNHWU1LcmhCbTlIZDl0Q3V1Q0lLeExmMU5aeWF1Tmp5S3I5bjFjWlRCdkRpMFE1UjM5VkhuaXB4WVRmcHBKOWJDUdIBVkFVX3lxTE0xTTlhNVEwdWc1NllsRE9HYW5GQVp5YWVOVWhMZmlDYmZTUUdjckRDa1FFOUlkSnFWRGdZcklfVXFIbkhQaWdDdVV6V0hrSWI1b1Zsc3pB?oc=5",
-      "summary": "The Weather Business Recorder",
-      "date": "2026-11-07 21:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Maryam inaugurates Pakistan’s first fully electric sweeper truck",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkZ3X1RiQURERnAtcm5zemhucXhleEwzblZ3NG5hcWdUNFJNNG05QmFLd04zWFNJMUdzYXNQNjhtek41aGloQXdfQXJaY3NNSDdFYTQ5Tjd1ZTJ4WVpWUzZzUDJNd0N1R0tmUlVORXg2SmoyX3Rzd0pOaVBrMFotSlZiTVlBUjFoTmhPX2xCMFgyMlpOVWkwaTc4WEg3djVld09xejRB0gFWQVVfeXFMT3p1NUJzWmxPQWdxUTVLWWVDVmxXbzNhTm11Rzlhby02ck9jSzdaMUhPV2w2THJkaVRWcklIVm9ZaDgzZ1ZuNmVEdnJYelo5dEZBMUJGcXc?oc=5",
-      "summary": "Maryam inaugurates Pakistan’s first fully electric sweeper truck Business Recorder",
       "date": "2026-11-07 21:33 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
@@ -154,14 +186,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Former AJK President Raja Zulqarnain Khan passes away",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzkwYnlsYlpnNEcyU3lwN2IzckdWVjNlRkpxS2cwNTRVeGVXVENxbHhzc1dsRm01Ri1Na0J6dkl1TG1GX1RVdGl1cUhQX1VlTXFubXlEWTh5ZFpHc25ZOHh3M2tXYUpNVVNTMGJtSWV5M2Q0VklMTFRwV1g5WGRzWEFKZHhxT3BjZGlvM0xlWXNoQ19LMHhwSNIBVkFVX3lxTE5hS3JTX1J5cy1zNFNsYkVLOTRoRm9EaW1KT1hSS04wNXA5NU5sVEl3UlVhWWhPOGoxdzFERllIR2RHVDRrRmkxMW93UTlUekRzblFDWkF3?oc=5",
-      "summary": "Former AJK President Raja Zulqarnain Khan passes away Business Recorder",
-      "date": "2026-11-07 21:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Crop-residue burning: EPA intensifies operations across Punjab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWdVZzlLSGExNHVmdVRTdGNCc21EUExxQWxENjdSSlV0OXdQZFZOVUJDdFh5b0NNR0RZbEp1RmtMSzJQU3FzZkxvemNQQm1heC0yOWxEZlpzTXgxc3RGNFo0ekhjS1E2RXV0cDBfbFNoUWc1YjY5QlV4MW40bVhwenY4TmRpNUZ3bVlyME50c2tFSmZTUnF6a1JxOVF0VVdqMURB0gFWQVVfeXFMTll1ZjhJV2xMck5pbm9sRjZBT1F2em43MVpYNEZJc2pvS0ZFVElfSVVkQkM3MjRGQW4wa3AzUnltXzhLTlFYWFEwakVib0tnS21wT3FTWmc?oc=5",
       "summary": "Crop-residue burning: EPA intensifies operations across Punjab Business Recorder",
@@ -178,17 +202,17 @@
       "source": "Business Recorder"
     },
     {
-      "title": "US-funded project strengthens Mehrgarh Museum’s role in preserving Balochistan’s heritage",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUNQS0l5V05pd0VLVWltd1p4Z2tSX1N5d0QzT3pXbkR2YlNOT2pkcWY2NUFzQm9vM3BtNEhyVEhuZnNRS3hIczVqaGRTWWlCSVY3RWRRT2toQmd0S19NbHdwWG9kcHZBdW53X210TEJ5bGUxRWZOM0lyZENIZk84bUlxTmZHZzJGM2pZQUhyMzVsZUx0RkZsYmRaZHp6YlFMbjdwcUlKUlFGeGN0MXRIVENkcWpwWjg0ZmVkQ2FvU2llcFlFNlHSAVZBVV95cUxQLW16RGpMZE02NnNUX1BzaFZULUtxN1hsRGlTeFQ1OVZpVmR2QVh3QVp6cl9nYnNfNTY3MWtVODh0MW1SYUlKTXp0UVI5QkZLNEt6VHczdw?oc=5",
-      "summary": "US-funded project strengthens Mehrgarh Museum’s role in preserving Balochistan’s heritage Business Recorder",
+      "title": "Former AJK President Raja Zulqarnain Khan passes away",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzkwYnlsYlpnNEcyU3lwN2IzckdWVjNlRkpxS2cwNTRVeGVXVENxbHhzc1dsRm01Ri1Na0J6dkl1TG1GX1RVdGl1cUhQX1VlTXFubXlEWTh5ZFpHc25ZOHh3M2tXYUpNVVNTMGJtSWV5M2Q0VklMTFRwV1g5WGRzWEFKZHhxT3BjZGlvM0xlWXNoQ19LMHhwSNIBVkFVX3lxTE5hS3JTX1J5cy1zNFNsYkVLOTRoRm9EaW1KT1hSS04wNXA5NU5sVEl3UlVhWWhPOGoxdzFERllIR2RHVDRrRmkxMW93UTlUekRzblFDWkF3?oc=5",
+      "summary": "Former AJK President Raja Zulqarnain Khan passes away Business Recorder",
       "date": "2026-11-07 21:33 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
     },
     {
-      "title": "Lahore airport expansion projects reviewed",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzJfWUdvWko2M3pGeEF3aTdkQkNMMEtQZzdYTW9xeU1XVDRyV09pZHNXelBLVGx5YnF4djBnd085ZjhOS0YzXy1URlRva1lRemo0NF93bV9oTWR2YVN6VF9NQW9uQmx5cmV3Rm05SE9HaDBuSGV3NGRpVHNiZW9OQXFST01tdlNwbnfSAVZBVV95cUxNTmRWdUlUVk1GT2lDVm92b3poRmFfRUZ5djRPckMwOTZNa1RXTXRDLVhxUktjSTNEUnRjQ0ZKVWt0dUZJcDZqc1QtLXVrZ1ZiZXljWEg3UQ?oc=5",
-      "summary": "Lahore airport expansion projects reviewed Business Recorder",
+      "title": "US-funded project strengthens Mehrgarh Museum’s role in preserving Balochistan’s heritage",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUNQS0l5V05pd0VLVWltd1p4Z2tSX1N5d0QzT3pXbkR2YlNOT2pkcWY2NUFzQm9vM3BtNEhyVEhuZnNRS3hIczVqaGRTWWlCSVY3RWRRT2toQmd0S19NbHdwWG9kcHZBdW53X210TEJ5bGUxRWZOM0lyZENIZk84bUlxTmZHZzJGM2pZQUhyMzVsZUx0RkZsYmRaZHp6YlFMbjdwcUlKUlFGeGN0MXRIVENkcWpwWjg0ZmVkQ2FvU2llcFlFNlHSAVZBVV95cUxQLW16RGpMZE02NnNUX1BzaFZULUtxN1hsRGlTeFQ1OVZpVmR2QVh3QVp6cl9nYnNfNTY3MWtVODh0MW1SYUlKTXp0UVI5QkZLNEt6VHczdw?oc=5",
+      "summary": "US-funded project strengthens Mehrgarh Museum’s role in preserving Balochistan’s heritage Business Recorder",
       "date": "2026-11-07 21:33 UTC",
       "category": "Pakistan",
       "source": "Business Recorder"
@@ -202,52 +226,20 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Polio teams ensure robust coverage in targeted areas",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjAxUkY4bjBrMm9scEFlT1Y5MVRUdEhiS1ppcmVneU95ekxiS1M3NlZfYU5LS2tXXzhzamdUWEpDYUdfT1pQTmMtXzBEbnpNeE5hSlFwc3ZRZjdnem10bWY1bm1mR0l4S1ozSnNWNHNvTUE2a1k3dFNLdG00NnNTQzU2S19vUWt3bF9XMWsyTFh0d3dwcTdZ0gFWQVVfeXFMUEFnbG90b3ZqTGVMemFlaUZzZHNRcjJCTXpkX3dTeGh2VzI4Y0VocDk5Z196MUo3ZkJEMHc4LTNGdUhGRTc4bDlHaVNMQ0JDLWk2d0MtZ2c?oc=5",
-      "summary": "Polio teams ensure robust coverage in targeted areas Business Recorder",
-      "date": "2026-11-07 21:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
+      "title": "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FpM1prWWlfTEtQdVR2Qk5GQWRLRHpqTjNyVTRCMVFfU05pVlI3Mk5IaThDd3RuMjhzdmUtSFh1TzRhb2FQRHEwcFFnZmNpV0tqbWplQUs5UGlfelU5OWp6UlIxUmhCVV9ORVZNOTVnMmNpckZpTTMtaFJJWW1Vd0RkczdLTUtoQTJkNjh4WGVtVDFOZmxzdEZ2bE1JWF9xTS1UOGVGNzM5QdIBrwFBVV95cUxNNjZOY0NUaW1TWlFORmdoWFdHdmU3cU9Ud2NKNnFfSWNmbGFWUVZyWWhOS3hZN3BKMWNMMHQxbFg5RVhZNDNLTllwSXNwOUpITzBFMTBZSW5RVmJXeFItblVwOWJtYVMyc1NoWktDMkpERkVYOHlSWWZLZ1U0UlJ4VFFvb09Kc0xwbXdpWU9QOWRHYVdQUjFjYWxzeldkUUctemRFbXdSSmVZcU9WNE1R?oc=5",
+      "summary": "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’ The Times of Israel Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news AP News Iran’s IRGC says building underground sites for weapons production, storage Al Jazeera Iran says missiles no longer bound by range limits Iran International Major construction ongoing near Iran missile bases, satellite images",
+      "date": "2026-11-07 21:07 UTC",
+      "category": "World",
+      "source": "The Times of Israel"
     },
     {
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "date": "2026-11-07 21:13 UTC",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
+      "summary": "Israel’s president picks Yashar leader Gadi Eisenkot to form government The Guardian In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated CNN Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government Reuters Herzog announces he will task Eisenkot tomorrow with forming new government The Times of Israel Eisenkot Seeks to Ous",
+      "date": "2026-11-07 21:03 UTC",
       "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5",
-      "summary": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu AP News Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government Reuters Eisenkot, Netanyahu’s top rival, tapped to form government in Israel Yahoo Israel’s president picks Yashar leader Gadi Eisenkot to form government The Guardian Herzog announces he will task Eisenkot tomorrow with forming ",
-      "date": "2026-11-07 21:09 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "New Zealand’s election results are too close to call",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTJja18wY0QwT2N1eVlYSUxLaHg5bkxadjEwdXQxM016SG9kR1BSc2hIbGxYMy1ZMUZUdlJ3eGN3dGhTNGIzb1FCUDFSektURGszUDlrZzhjQUpuRzRSSnhrc2JfbXExaG1PMjNXRVkxYnlhUjNlNHBQQUVmTkl5LXVhOXNJYWpCNzJ5OG5ncEQxOXNneGFmWFRYaUhGZw?oc=5",
-      "summary": "New Zealand’s election results are too close to call The Washington Post No clear winner after tight New Zealand general election BBC New Zealand in political limbo after knife-edge election CNN New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties The New York Times New Zealand election too close to call with 95% votes in DW.com",
-      "date": "2026-11-07 21:01 UTC",
-      "category": "World",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
-      "summary": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news AP News See more headlines & perspectives on Google News",
-      "date": "2026-11-07 20:55 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "Poland in shock as six dead after mass shooting in Krakow",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-      "summary": "Poland in shock as six dead after mass shooting in Krakow Reuters Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home The Guardian Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded Fox News 2 women and man found dead in the Krakow suspect's home were likely his family, prime minister says AP News Six Dead in Shoo",
-      "date": "2026-11-07 20:51 UTC",
-      "category": "World",
-      "source": "Reuters"
+      "source": "The Guardian"
     },
     {
       "title": "Terrorism in Pakistan: October 2026 Full Report",
@@ -256,14 +248,6 @@
       "date": "2026-11-07 19:58 UTC",
       "category": "Pakistan",
       "source": "PICSS"
-    },
-    {
-      "title": "Pakistan wins Asian Team Squash Championship — Dawn",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZndISkRXUl9pMlc2TGZhZzBXRUhISU8tRHRfYmZCZGR6VkxscjZHcHZJR2VqckdvYmdDb3l0b2Nhd25lV3ZYal9KRnppdEVjVEY2dzRkbmwwdHFUQVNoOHlZV1hOQjFNdWVCclJUTTVpbTdYa1o3SkhseFVMVU5fdFJlU3lBV1N3ejEwTUpNeXdSU0R4YlE?oc=5",
-      "summary": "Pakistan wins Asian Team Squash Championship — Dawn UA.NEWS",
-      "date": "2026-11-07 19:47 UTC",
-      "category": "Pakistan",
-      "source": "UA.NEWS"
     },
     {
       "title": "Pakistan Bolster Test Squad with Four New Additions for Sri Lanka Series",
@@ -284,7 +268,7 @@
     {
       "title": "Paraguay's President Santiago Peña impeached and under house arrest",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE?oc=5",
-      "summary": "Paraguay's President Santiago Peña impeached and under house arrest BBC ‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke The Guardian Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal The New York Times Ousted Paraguayan president faces arrest over bank scandal OregonLive.com Paraguay prosecutors want impeached president detained ahead of corruption trial C",
+      "summary": "Paraguay's President Santiago Peña impeached and under house arrest BBC ‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke The Guardian Charges brought against Paraguay’s president after removal from office Yahoo Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal The New York Times Paraguay president impeached and under house arrest following bank collapse sca",
       "date": "2026-11-07 19:17 UTC",
       "category": "World",
       "source": "BBC"
@@ -296,6 +280,14 @@
       "date": "2026-11-07 19:03 UTC",
       "category": "Pakistan",
       "source": "Quwa"
+    },
+    {
+      "title": "Pakistan, Turkiye relations reaching new heights: envoy",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0pmUUttNXJwc0VhU2c2WGllcEpSLTVmVEZ5ZEM2Vm53c2tmRlJZeC1wVjNzNWItd2txcDZXTVlyand5czl3VTJiMXVDN25MY0h0ZXlJZS05S213MU9oTlVNeF92ai1EZXc2OEZJVjR0Z1NuSFEyM1h4UlpkWGNTSXFxZ0hwQ1dQSnNWV0pjb0NEUS1o?oc=5",
+      "summary": "Pakistan, Turkiye relations reaching new heights: envoy The News Pakistan",
+      "date": "2026-11-07 19:00 UTC",
+      "category": "Pakistan",
+      "source": "The News Pakistan"
     },
     {
       "title": "Pakistan Railways approves Khanewal dry port, orders FIA probe into train examiners",
@@ -362,12 +354,20 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Pope Leo XIV champions universal healthcare during speech in Uruguay weeks after lung cancer surgery",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tZ0x0WkJaZlkyUmNwY29Vdm5ydEZKMU1CamJMdnc3V0xCMjdycWlCZVZhUGRaVEJKeHI4NVVtUHl2S2YyWEJQbXBzWFppdi1LQTBzbkh5RE5RNEhuWU9kQ0x4dmFFMmp5Qk5RUDZ1a1hwbkM3WGJrUGdxMA?oc=5",
-      "summary": "Pope Leo XIV champions universal healthcare during speech in Uruguay weeks after lung cancer surgery CBS News Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour Reuters With an ode to mate, pope urges faithful in Uruguay to build bridges of fraternity and faith The Hill Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery NPR Pope Leo challenges secular Uruguay on",
-      "date": "2026-11-07 17:36 UTC",
+      "title": "Pakistan announces new auto policy with focus on affordable, electric vehicles",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVpWc3A4U0trTW8wS25GeDVLVXZvZlZkNHVFbFVaSDhxWm1oTmF1clZQbENLeXdHWHBab09LNU5UVld1RENRU3MxZ3B6aTg3ZTdQbVpGbnNSOUd2ZlVHdDl1Rm9IckMzYXpHY3A5cG9sWDBneHBEdkltZ1FkVDJaOGo0VW1hclctTDdtdHdEOGlLb0U4RjBsWmJnQkg1blN5RFJLcWI4SkRCcy16M0FqaFVsV2s1SXFKbkpfaENuWlVLLWFVNUdlNA?oc=5",
+      "summary": "Pakistan announces new auto policy with focus on affordable, electric vehicles Deccan Herald",
+      "date": "2026-11-07 17:42 UTC",
+      "category": "Pakistan",
+      "source": "Deccan Herald"
+    },
+    {
+      "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGozX3RXU2ZoREFyS0NvSUZIQzdrVHVwZVVWeE1Ya28zRDQ2bFB5bnBRUEVZLTdaVF9oeTBWLUNPZ0h1bTdGd2RiM3o2djlrUlhlZl82NmdvUVBxUllrdVpsbGxFRW9WTVp6Nl83QlpZbzhTbXdKSk12RXZIRFdNNS1icW0?oc=5",
+      "summary": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society Financial Times French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call Reuters ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon Al Jazeera Mélenchon presents party manifesto as social unrest continues across France Euronews.com Mélenchon promises to lower pension age to 60 in hard-",
+      "date": "2026-11-07 17:42 UTC",
       "category": "World",
-      "source": "CBS News"
+      "source": "Financial Times"
     },
     {
       "title": "Pakistan's first astronaut is set to join China's Shenzhou-2",
@@ -376,6 +376,22 @@
       "date": "2026-11-07 17:35 UTC",
       "category": "Pakistan",
       "source": "Pakistan Today"
+    },
+    {
+      "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+      "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US AP News Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid The Guardian Zelenskyy reports four out of 36 missiles shot down overnight and Russian use of North Korean weapons Українська правда Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says Euronews.com Russia pound",
+      "date": "2026-11-07 17:30 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk91UXhKdmE5UlMzSEJ1MWM3ZGcxX0M5VWwybmlvck4xV2lJZkxFLXlqcGZGaTZfa2RnRmFwQWxVaGJqanpsXzF3cVF5RWhZUUhmYmJPTHRJNnpYWEg5d0VScUV6N2hTRzRuSzVLYWp5dnlkUW9NQ1M0TmdGdXBSVUZCc0lFTjA?oc=5",
+      "summary": "A ‘Chaotic Race’ for the World’s Top Diplomat The New York Times Costa Rica's Grynspan extends lead in informal UN chief poll, sources say Reuters Rebeca Grynspan gains ground in latest U.N. secretary-general straw poll Jewish Insider No To Lana: Turkey and Sudan-Aligned Campaign Targets UAE’s UN Candidate Foundation for Defense of Democracies UN Chief’s Race Exposes Politics Of Power StratNews Global",
+      "date": "2026-11-07 17:26 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan's Mehrgarh museum to reopen this month after US preservation project",
@@ -410,12 +426,12 @@
       "source": "Business Insider Africa"
     },
     {
-      "title": "India vs Pakistan Under 19 Asia Cup Group Match Live Cricket Streaming: When and where to watch IND U19 vs PAK U19 match",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1BCbkVLZ3dIQV9iLVE0U2p1MnhfUGlhMHQtMW9vRURvakFDeHY0ZUJ3bVJyQVFuMFpGVVlvOXpvQUJiaWtaYlppQmpXSWNRQ3FjdGlpT2tNRkdOOE82VlBMSE9YelRoSlUzTkdTaHNyN1dWZk5tN2tXNnZtN1NNSHlKVlUzejI0NV9Xd3BrVzZLY2p1VFFuY2o1eWR6aUtCZnhDcnhreEtFYjZiLVJ5cF9TTVVRa1hpQjc1UTVVNWzSAccBQVVfeXFMTlluMWRxX1Exd2JnNnB1ekpjS2F3YmJ2dTZPM0RWQ1h2bDhlVEF3RGtoeGNtY19mZ0RndnpNbUdKRGdDR1Q5bmRyU0hjWm9PWG14LWFYR1pvOXhST2lncTNaWlNzOWdrYXZNY0Z3YVhfZVB4am5WcEtsZk5JY3NxUXZCbFNEbnFmQXh6U0txbUZwN2dJMzFKYmhVMTQ3RWZrQVdCNHpuV1gzVklsZmU3d3ZhdndZRlp6c3o2RzFUYlpWRHB5QlZ6Yw?oc=5",
-      "summary": "India vs Pakistan Under 19 Asia Cup Group Match Live Cricket Streaming: When and where to watch IND U19 vs PAK U19 match The Indian Express",
-      "date": "2026-11-07 16:59 UTC",
-      "category": "Pakistan",
-      "source": "The Indian Express"
+      "title": "Son sounds alarm after father's medically assisted death in Canada: Way past appropriate'",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkd3T01RaTNCTXkzMFR2bndiVTFPUWRSTGxjX1RTWm95aVlxTDk2bG9YSjFHcGJWb2Q0WWVBN0RlVXlodEVIMDYyZG1nN1R1c21yWkVHYTR0MWhSMlVwT1JfTGdWQkp1WHJ2VVhBUmh2aVZjQjJuc3FwbXA0S09RSnBMNHlTMXBRQnJFOXJzMm1jV3dqN0lJcFBiTlpIZHZaZVhPOE9rcDRZOG9lZm5rU3A3NNIBuAFBVV95cUxQNGdCT3BSR0xLb0syUU85c1BxbnVjNjZia21BcmVfc241T0RYZVpmR04wMWZ5ckgwenpnWEZBREZQSlFjUllEMnJhbExkN1dqa19PSmFQN2dkaWhMemdlZGhyaUQ2RFE4YlNTcEdpLU5OdUJMcF9BQ2lqS3NQTkhiQ1pzWTlrdFQzbldySldEV2NDYTcyd3Ftc1hnSDY4aXJxTDNraUdLbWxxcVM1RlpyV05mdEdISG1L?oc=5",
+      "summary": "Son sounds alarm after father's medically assisted death in Canada: Way past appropriate' Fox News Canada’s MAiD system needs bereavement support for families Policy Options Medical assistance in dying (MAID) for patients with terminal illnesses: Biomedical ethical considerations Patient Safety Learning - the hub Son says Canada’s assisted-dying system went “way past appropriate” after father’s death Mezha.net",
+      "date": "2026-11-07 17:00 UTC",
+      "category": "World",
+      "source": "Fox News"
     },
     {
       "title": "Italian foreign minister says hackers leaked his personal data",
@@ -426,14 +442,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Pakistan urges UN to shield peacekeeping from funding cuts, geopolitical divisions",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR28xQWhrcUNkcGg2ejZIbkFmM3VXTlNnb0M2X2RIUkZ5c3NWNlVlUUlnSGRQQXBVRnFCVGVnSkltakZrNVQ0anNZSlhSVHd2R0J3MVdSWGdSNTZCT0FVbzY0aTZYVWlpWVlQMlBxUnVXM01jaEloeTdRZGQwUlFMM1ZSbVVvbDR6VDM2RndwMTUxbXJLVXJySEt2cXpsYU5zUExpakZrLTB4dU5hUEtQSVRsR195NlI0dDktM0dpb3JXSzA?oc=5",
-      "summary": "Pakistan urges UN to shield peacekeeping from funding cuts, geopolitical divisions Pakistan Today",
-      "date": "2026-11-07 16:44 UTC",
-      "category": "Pakistan",
-      "source": "Pakistan Today"
-    },
-    {
       "title": "Pakistan, Sudan agree to enhance cooperation in security, cybercrime and police training",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1VEZUtRYWtfQm11OXZmWHN6LVh1MUR5NTh0YXJPcm5NLUhUTWpEbkJzclg3bVBvdkJqVnp2dkRlMXNhU0ptbkh4enU2RVZFaXdldUlVYVBzbkxaV1VhRVhFQVFHMHBsZTVQaXVySy1sVTFLSzIwNlBSTFJ1MDY1c2p3X28yOERSSXpUZklXbk5waS14T2pKSmlXM0NJMkoyZFV6dlNtOXEybDZJZVVBc3FEQWFvVUU0dkZOWDFTNXE4bmJfR3c?oc=5",
       "summary": "Pakistan, Sudan agree to enhance cooperation in security, cybercrime and police training Arab News PK",
@@ -442,20 +450,28 @@
       "source": "Arab News PK"
     },
     {
+      "title": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
+      "summary": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say AP News More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War The New York Times Houthis say at least 25 killed in Saudi air strike BBC An airstrike has killed 22 people near Yemen's capital, Houthi official says ABC News - Breaking News, Latest News and Videos Airstrikes on a market in southwestern Yemen kill at least 30, H",
+      "date": "2026-11-07 16:42 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
       "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
       "summary": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield WSJ Russian Offensive Campaign Assessment, November 6, 2026 Institute for the Study of War Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold Al Jazeera Russo-Ukrainian War - Day 1717: Public disagreements between Washington and its European allies Ejércitos The situation 1688 – November 4, 2026 Spartanat",
-      "date": "2026-11-07 16:34 UTC",
+      "date": "2026-11-07 16:37 UTC",
       "category": "World",
       "source": "WSJ"
     },
     {
-      "title": "Reema Khan Set For Big Cinematic Comeback – Details",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcTk4Y0htRTJpbm9rU2VMS2pkLUYxZ1U0QjBiTDIxT2pzSm94ckU4ZkI3TXNsS2NXT1p5OERfSzJ2N0ktaVZ5aXFiQXZBaUhPcHBGY3dzcXE1bVlnaU9SODUzd2FpYkpqM1cxVlVNNVRwWkRrMlNBRVhYNURCR0pNOVNR?oc=5",
-      "summary": "Reema Khan Set For Big Cinematic Comeback – Details HIP in Pakistan",
-      "date": "2026-11-07 16:24 UTC",
-      "category": "Pakistan",
-      "source": "HIP in Pakistan"
+      "title": "A Look Inside Jury Selection in U.S.S. Cole Bombing Case",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFdQSFBBck9fc3BYTGpzajl3TTdHTkFRUXA0NU5QTFRHN0l0cnFja2ZpNzZXcy1SaGFlMDUtTlEzbGx1ekUyeGFPbnN1VDBaWkZmYXE4RkxZZWNXdmVyRXltOXdGdW9OT0dIcjRTZzlOR0dXUDdkODBNdjM0XzVtbXFCMGZlbThU?oc=5",
+      "summary": "A Look Inside Jury Selection in U.S.S. Cole Bombing Case The New York Times Trial of accused USS Cole attack mastermind opens at Guantanamo France 24 Jury Selection Is Underway in the USS Cole Bombing Case Just Security Why The Guantanamo Bay Death Penalty Trial Changes Everythin ИФЗ РАН Jury Selection Begins in First Death-Penalty Case at Guantánamo Bay The New York Times",
+      "date": "2026-11-07 16:27 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan, Hong Kong win squash titles",
@@ -472,6 +488,14 @@
       "date": "2026-11-07 16:14 UTC",
       "category": "Pakistan",
       "source": "Dawn"
+    },
+    {
+      "title": "Pakistan’s ambassador to Iran was not attacked",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGFfUnU5TUJUdzNQMFNvc2tib0pYVEtXcnNlVTl3Mld6c2g5MmRVYU8zVmtBZnA1M2NzNElWZ3NtYVVzc1dJaGNlQURVdUpSOEVEc252dzF3UGJrZS1oNHd3WURNNC1EQXI3X3NJVE1zbVREd1FQMEFZdkZBNzkzWHdB?oc=5",
+      "summary": "Pakistan’s ambassador to Iran was not attacked Soch Fact Check",
+      "date": "2026-11-07 16:13 UTC",
+      "category": "Pakistan",
+      "source": "Soch Fact Check"
     },
     {
       "title": "Pakistan rebuilds hockey grassroots",
@@ -531,19 +555,19 @@
     },
     {
       "title": "Report: Both election interference probes involving Arab parties falling apart",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVVWRVlSM0cxR2J4ZzhScC1QcDhscEZpT1RUMGpFZWJXSE0zYmNpYlNENGx4V0MwNFNwNmN3NnlVWWRmbWxFN2o3N2N2N2FVcHZiSUVLMmZnak1iR0RRbnVSRzNWVjRvSjgtdUlVbTV4T1dWYUJzczhHRmhHdjZRMy1sWGxTV1NJZERUaDNNbTBZMmF2UExJcW9pSUl6bjBfc1ZwRUp5eWJtWjBVQW9JV1JR0gG3AUFVX3lxTFAzdW04RldRQksybnpPRFBqV1dYQjVNTXAtSlZTYWc2R29SNjB4MWlZMmZPYkExRVNaSjVGVlJlMGo2VUE5THg3MWlMdUM2TnNZOXIybzRHRGd6OVI1ekpKaXlsQzA4UW9LNVd6Q3lYaU41NG12SXpzMS1XbEpsMmh2Z1NMak96Tmowdk1lWFJUN3hQak9ER01QVXlOQUZZLVI2RFZFZ0RteG5KaHhMZHQ1c09VNjFyVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVVWRVlSM0cxR2J4ZzhScC1QcDhscEZpT1RUMGpFZWJXSE0zYmNpYlNENGx4V0MwNFNwNmN3NnlVWWRmbWxFN2o3N2N2N2FVcHZiSUVLMmZnak1iR0RRbnVSRzNWVjRvSjgtdUlVbTV4T1dWYUJzczhHRmhHdjZRMy1sWGxTV1NJZERUaDNNbTBZMmF2UExJcW9pSUl6bjBfc1ZwRUp5eWJtWjBVQW9JV1JR?oc=5",
       "summary": "Report: Both election interference probes involving Arab parties falling apart The Times of Israel See more headlines & perspectives on Google News",
       "date": "2026-11-07 14:18 UTC",
       "category": "World",
       "source": "The Times of Israel"
     },
     {
-      "title": "ECP takes notice of alleged code violation by Attaullah Tarar ahead of NA-77 by-poll",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LaGY4enNMN1RPVUc5V3UyYWItVjNlZXJGZ0k0ZExHRXJ1VGtWQXhHZHRSN3ZjTVBCU2VDbF9nRVJGRWdOUUlSdA?oc=5",
-      "summary": "ECP takes notice of alleged code violation by Attaullah Tarar ahead of NA-77 by-poll Dawn",
-      "date": "2026-11-07 14:04 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
+      "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY25ycnZQWW52Mjc0dS1zTllGM2x5eUZHRFFNTndiemRwSHFtZUJYS29uaVZ2cEFKdlV3MXNqUXpSRWFUTkNJSHpVNUhwZDhMM2trU09yLTZWMjZyRVBCTVFKQThROFBVT2gxZ2FiLWxBcjB3RWhpVnlhYVhSX2Z2T2E1OHpSZ3lNWXVzR2tWYVNSQWw2R1JZSHlRYWgxd2VKYW1Z0gGjAUFVX3lxTE9WcGJ3cFdvVy1sMHNUVFRTazJnMl9VTl85U1hRR3lKdWJta3hWNEJTTmNCUjNMcGpKVUdlVGhVMmR3R2FQQ3RFWlRfRk5fb0VLVDIyQjNnb3E4OGp0RjJPaDh3RGNJMGMtRDhJSUhvNmY3cWZEUFhnT08taUFHTnpSeFNGTmhMcTJtRGV0UHNPTHdPMnpOci1vX0IwYzA4LUtad2s?oc=5",
+      "summary": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister DW.com Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing Reuters Italy's Foreign Minister Antonio Tajani says 'cyber-criminals' shared his personal data on dark web BBC Italy’s Giorgia Meloni blames pro-Russian hackers for leak of foreign minister’s data on the dark web NBC News Cyberattacks target Italian",
+      "date": "2026-11-07 14:09 UTC",
+      "category": "World",
+      "source": "DW.com"
     },
     {
       "title": "Pakistan clinch Asian Team Squash Championship title with victory over South Korea",
@@ -570,17 +594,9 @@
       "source": "Xinhua"
     },
     {
-      "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1V2OUIzel9FbnUtOGd2ZDRZYVMzVkhkMENjNGJBV2N2QlBUVmRRV2V6X1NwZWtuM0E5d0h5ZVdrOC1XZDNKd2ZRUmVfT1h3UVFJd2ctam02VDFfY0ZwbURKM1FrQk8zNnFFUHh2dmZfMHNURGlNUXd4djRza2xFczFkTFo3QzI4MlMwYlNqaV9DdXBOX0ZGQ25zTXh3bEF5U0dqTFNYZmE0aU540gGyAUFVX3lxTE4wbEs3MFVpSU5vcGxhd2huMklZRDJrU2JZbWU5THozQy1Ic0NEcUlJeWRyUVF6ZVV0Tzh3WkNPRE9rWWRKaXFiUjlWQkhCM1F5OWxoSDR5UTdjQXduZ3l1MlVsNGE5MXlfcHpRdlUzLWowSS1PZ2U1UzBqQmxjQ2NQN3ZtUTdfRTk1TWptUGtNSGNhNzhTTFNvdWVpMERBczg2V3h5VER6N2RST3EzclI4UHc?oc=5",
-      "summary": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon Al Jazeera French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call Reuters Mélenchon presents party manifesto as social unrest continues across France Euronews.com Jean-Luc Mélenchon puts Gaza at heart of foreign policy proposals, sidelines Ukraine Le Monde.fr French far-left presidential hopeful pledges ‘revoluti",
-      "date": "2026-11-07 13:38 UTC",
-      "category": "World",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "'Horrible' Mass Stranding in NZ Leaves Dozens of Dead Whales",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmlZb3BLRzVHbHJVdXA5NjlkWEk4TmJaZDUyRV9MNnNGd3Y2QjNrLTlUQ1RvZGQwdVBzQnJqSmxNMXdxY1dCal94andYQXlUa3B6Y2lJT1ltcG1WeGRTblNCQkxVZzh0T1JuOEtYdk9oYjc2dHdEUzJVNHNmVU5CM3dINnhFT0xWR2NyU2ttUXR0UzBLMDhRajhUX2FQZw?oc=5",
-      "summary": "'Horrible' Mass Stranding in NZ Leaves Dozens of Dead Whales Newser More than 40 pilot whales die in ‘distressing’ mass stranding on New Zealand coast CNN Entire pod of 43 pilot whales dies after mass stranding The Independent More than 40 pilot whales die after mass stranding in New Zealand’s North Island The Guardian 'It's horrible': Last remaining whales in Wairarapa stranding die RNZ",
+      "summary": "'Horrible' Mass Stranding in NZ Leaves Dozens of Dead Whales Newser More than 40 pilot whales die in ‘distressing’ mass stranding on New Zealand coast CNN Entire pod of 43 pilot whales dies after mass stranding The Independent More than 40 pilot whales die after mass stranding in New Zealand’s North Island The Guardian Could AI help save pilot whales from a stranding? RNZ",
       "date": "2026-11-07 13:30 UTC",
       "category": "World",
       "source": "Newser"
@@ -610,22 +626,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0lpek9iZm84OUZ4RVJHWUVLWGFjdTByQnkycDB2dzB3cVFSczVDcjNXVmRTUmZabFZNTTFkUjRKbzROalFFbGpxUzd5SmdzeXdFMnB1WUx3UVQ3SEJtY0UzQnAtTEdwWWNXXzlLZm9vMDIyZS1iT3pia2VNelZJbTFzaXYyQkF1eUUyNkh4cklVZ0hSeWFoekVWUG9XWl8tdnE5ck5nRHA3Y3dD?oc=5",
-      "summary": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid The Guardian Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US The Mercury News Ukraine's power network suffers further damage after fresh Russian strikes BBC Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says Euronews.com Russia pounds power facilities around Kyiv, ",
-      "date": "2026-11-07 13:19 UTC",
-      "category": "World",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pakistan, Sudan agree to expand cooperation in several key sectors including security Breaking",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEJ5WHo5X2ZtNS1MWmxHOVRyUExTU1dXeU1oVktCQk1vVlR5ZVpwUzQ1OGxPM0dxdzBSUEF1bmN4cEM4QWVteEI2LWdMNHh6dTU0alZIbm9iYURCR2hrdDhmLTdYMUNWUVVHQW1FV2o4S2gxMlVpNEd0d2pWZWdjd2NHSmVyQk51TXljVzNLZ3lJdndpZDJCNEJMbG55NGhQdTdsSlBPNWNVMnlJT2FEcEtxSGFvX0lNai1EVTRPUDdHanNEZENF?oc=5",
-      "summary": "Pakistan, Sudan agree to expand cooperation in several key sectors including security Breaking Independent News Pakistan",
-      "date": "2026-11-07 13:16 UTC",
-      "category": "Pakistan",
-      "source": "Independent News Pakistan"
-    },
-    {
       "title": "Pakistan moves to overhaul LPG sales ahead of winter demand surge",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGpVS1VRU2h2c2o4TDRhQVM1djU1NDR1dDVjUHVhcE91eWcwak84T1cyRnYwX0Z0RW9RVTBBVTViYTVWaDFJUEZLYXVreHNCbXBWUlJ2S0E5S2p1RWwwVHdHdk5XZEdwR1ZpX25xeFdQelVNWU90T1RNTkNPXzhZNDdnc0VELVZZTm5tVHRCTDJzdExCRllJSjMxSFpHd1RqXzlsNXFSQ3d1dw?oc=5",
       "summary": "Pakistan moves to overhaul LPG sales ahead of winter demand surge Arab News PK",
@@ -634,9 +634,17 @@
       "source": "Arab News PK"
     },
     {
+      "title": "New Zealand in political limbo after knife-edge election",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazZ3Q0ZwVlVRTW5aZTJnZDVjSXkyVzU0b0NwNmdLMlE1eUk4UmRJM2EwYmF5V0VIeVZnZXpuRG1pbDU3TjNtV21nWFg3aER6T0ZBNXdfWkl5WFBSa1UzYTllUGhiUE5BRmVJSFlSMkwxdEtMekc5R3UySmpUaEwwMHFEaUJFaWM3bG84?oc=5",
+      "summary": "New Zealand in political limbo after knife-edge election CNN No clear winner after tight New Zealand general election BBC New Zealand preliminary vote leaves unclear who will govern Reuters ‘PLEASE TAKE THE JOB!’: Donald Trump’s wild plea for the White House News.com.au A moderate millennial newcomer could decide knife-edge New Zealand election CNN",
+      "date": "2026-11-07 13:09 UTC",
+      "category": "World",
+      "source": "CNN"
+    },
+    {
       "title": "House Democrats will start their majority focused on boosting healthcare and ending the Iran war",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUZqXzRlNzlQR2NVZl9XU29lOC04OGpOZVZNMjJfd3REeU5JY3BOYmowdWVZNDliRDRlTGRlaS1XYVNrZFJrOHoyY3MyVDJfbUs0eDdBMlllLWs1b1d5YXJHVVhvTnJrTzRpaWdRN3FwbjU0VWhhOEVCVFJhREhEQnh1TGhZS3ZfcGwxVjRzUHhDd1NLSHVPWmZQTURZNW5DbzJoSXVTQ18tN2k4WHVpeElR?oc=5",
-      "summary": "House Democrats will start their majority focused on boosting healthcare and ending the Iran war AP News Five ways the midterm election results could reshape Donald Trump’s America The Globe and Mail Democrats prepare for something new in the House: Teamwork Politico As Democrats look to next era, the veto and the filibuster await Roll Call ‘Put the oxygen mask on first’: Democrats weigh tackling bread-and-butter iss",
+      "summary": "House Democrats will start their majority focused on boosting healthcare and ending the Iran war AP News Democrats prepare for something new in the House: Teamwork Politico Five ways the midterm election results could reshape Donald Trump’s America The Globe and Mail As Democrats look to next era, the veto and the filibuster await Roll Call What's your message to Democrats as they prepare to take control of Congress?",
       "date": "2026-11-07 13:09 UTC",
       "category": "World",
       "source": "AP News"
@@ -712,14 +720,6 @@
       "date": "2026-11-07 11:41 UTC",
       "category": "Pakistan",
       "source": "The Express Tribune"
-    },
-    {
-      "title": "Gold price per tola experiences no change in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1c1WTB6NzNybV9kTlo0TTVudzV0dlFVYllMWUpMQ0kxdDRYMngwTHk0YU5QdmJGLVByOXh3cEVHVDVCTEhDakQ1ZFByakRTMHg4ekVzRnZhSEdZa0QzeXZ6TmZ4RjN1M3NZRW9TMnZlTDVZUmZZb05FWERheE9OSTFBdzdQczN4TGUwSWFNa2NLZno5RGxkWkl6OS0?oc=5",
-      "summary": "Gold price per tola experiences no change in Pakistan Investify",
-      "date": "2026-11-07 11:37 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
     }
   ]
 }
