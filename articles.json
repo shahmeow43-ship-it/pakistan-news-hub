@@ -1,19 +1,123 @@
 {
-  "updated": "2026-11-10T02:17:45+00:00",
+  "updated": "2026-11-10T04:01:48+00:00",
   "articles": [
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "date": "2026-11-10 03:58 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Iran hacked hundreds of French supermarket refrigerators, France says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
+      "summary": "Iran hacked hundreds of French supermarket refrigerators, France says The Washington Post France accuses Iran of supermarket fridge hacking Yahoo News Canada Perhaps Connecting Fridges to the Internet Was a Bad Idea The Atlantic EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation Reuters France says Iranian hackers sabotaged supermarket refrigerators Axios",
+      "date": "2026-11-10 03:44 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Pakistan Air Force Reveals Sivrisinek, Lightning, Arrow-1",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzNjckgwMGROTTdxQzRnOGpwYmZiUnFPR3BTbFZBZlAyTE00T1FOcmlCOUMyYWFKVVk5ZjRTZUFqRzZYNHJPYmh5ZmNZenlxS25UZ3lrbmV0T3huUWdjVTIyT1FVX1JueVBIaXJMQktTamdhcXBRdWNrdW81emtFWDZoTGJaYmZfNUpJNGg5YW5IYVliSnZHRnZrYmRQLTBxMnhpeGgyaFFuZ0JQVWVBR0d4SG9rUQ?oc=5",
+      "summary": "Pakistan Air Force Reveals Sivrisinek, Lightning, Arrow-1 Quwa",
+      "date": "2026-11-10 03:20 UTC",
+      "category": "Pakistan",
+      "source": "Quwa"
+    },
+    {
+      "title": "Pakistan Railways outsources commercial management of Awam Express to private operator",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM1pyYWp4WkdFVVhmYThPNGV4NlVmVnpEbFExZU51dWpQVUFYeVVpY0NDdGhSakpNeGI4S2praVVoRC1PY19GTlBrQXQ0OWdwZnB1dTdpMUJMVWQ0MDl5MFZpaU9mZ0hEYmhLODVQSXRrTS1uTk9Xd2NfYVVNVy04bzh5R3lTS2RKak5CbU5HR0NJSWNkTUR0ZFUwR3J6T2tzWmY3Q2E2bUphSTRUd21sUXBaMUxrcFNxQnBaNlItLW1EZ2xDMDZSNg?oc=5",
+      "summary": "Pakistan Railways outsources commercial management of Awam Express to private operator Investify",
+      "date": "2026-11-10 03:15 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan seeks $1.7bn World Bank package despite breaches",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzFCWXpfSGlIbFVXbTJNSVYxRDNROTZQcWJKcERfdXUwclpYYkdqMmZHX0s1QWRuNVZnbVFObTg1clFXRzNqSFh5amRKTHZiejJaNk0wbGpkTGFfR2xLdWFpMngyVUdIOU51U1ctUEVwNTFUQzVmcWpJOHlmbFI1bWJoejdibjczXzNaQ3FzODVDQzh2NWRwRkxGSS1HRlJHOEpoR1V2em5ZbW9ReHVUbw?oc=5",
+      "summary": "Pakistan seeks $1.7bn World Bank package despite breaches UA.NEWS",
+      "date": "2026-11-10 02:56 UTC",
+      "category": "Pakistan",
+      "source": "UA.NEWS"
+    },
+    {
+      "title": "Pakistan condemns attempted Houthi attack on Aramco building in Riyadh",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHVRV0RkbjdNVlFKSW5jbzJ0QVNSMHFqUFhhd0pLOW0yY3U1eWU2b3B0U3Z0ODczOGZFV0pkSHZPTnQxLXJnX01oSDRkZTlOUThITGhNTng5MXN0MFdnQjZvYnZmTl9INFVpNnF2amFlU2llQ3BWd2RLWFpIZnNLS2UwV09wOUhEZUt1WklwOTYyWlhoS09CVGhqOUdrdXVfaFhvUkJvbVVQaFlIbnlEdQ?oc=5",
+      "summary": "Pakistan condemns attempted Houthi attack on Aramco building in Riyadh Arab News PK",
+      "date": "2026-11-10 02:47 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "FBR raises minimum sales tax valuation of specified steel scrap from 55% to 60%",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1huLXdPNU04VUE2dW5oRGpRcmhFb2JlbEo2eFI1eERHMkxrZHZJN1BnUU5hMi03M0VtakVaVm0taEtja3F0SmxCWHdKMmdXZzZKQjEwOTJLSExxQ2dnaFZGRDVNc2FrRGh2a09pSENQZFRHQi1wNnZ2dUJqZUFxMm5NUUNJOGd5UDJmd3hOSElINTM0R1V0N0ZzSmRjTTRPcEVlTW5XZ2JhOExqWkw4czZPSXppcTNtanBTQQ?oc=5",
+      "summary": "FBR raises minimum sales tax valuation of specified steel scrap from 55% to 60% Investify",
+      "date": "2026-11-10 02:45 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+      "date": "2026-11-10 02:38 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Lawsuit Accuses Former Trump Campaign Aide of Taking Money From Qatari Interests",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWdTdEdjWDMwN2tHMlRzdFV5NXdaYXJENHRDV3RubTEtUzB5TXJMcFcxSjFyRkZKbExvN1ZwM0xCYlp2WThKWVd4SUx3OWtTcl9uTFJGQUJDN20yZVFhLUd1Z1N2dXV5TU40MzUzNTVwVWRNRndCSTVtTndmQ1IzaQ?oc=5",
+      "summary": "Lawsuit Accuses Former Trump Campaign Aide of Taking Money From Qatari Interests The New York Times",
+      "date": "2026-11-10 02:32 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Pakistan seeks global buyers to re-export 108,000 tonnes of imported sugar without reserve price",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUEl3RkZ4bHMxcGVraEs3NFo5cWptMFR0UE1SWHZZT0JrYXhhVDNreDJ0TC1JemNwN21aYlYwU3doWndCSUliNnNiQ01IelVpbEg4TmNVTWVWdzE1WGJJdkl3RUhhVVNCei1iTEYtXzZIMWo1aDNtc1JwWDlpTjNVQWxDN1V1Z181SEMzX21BZlJvUjYtMHAzMjhnMzRFc1RiRjZLOXR0NTNEYnE4b0VMZGpwc3NIUnN3Y1c3eE5rZHR5QW10RFNodmVsWVpCUQ?oc=5",
+      "summary": "Pakistan seeks global buyers to re-export 108,000 tonnes of imported sugar without reserve price Investify",
+      "date": "2026-11-10 02:27 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Sindh farmers seek €1 million in damages from German firms over 2022 floods",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTG01VHNuQ2VZNzlxcDU1RHVyVFpHREczWnl3ZGswNXNKWmE0bHJfSHVUUGRPYVd3aEVUZU5MSFBFVFo3d0FhdXNkUVFVVVpEZFZxOWlCUHlDWXlfdWJ6RkNxTF9ZQkUxNGhoc0RfNGxVWVpRZXEwUS00ZTY4RFpCa0ZYanpzZjR0a2lIc19YZUJmN0FiR0NhQk1KSUttTlk3Rm5ST1N6aWhHUHJ2dVljSk84czJydVVa?oc=5",
+      "summary": "Sindh farmers seek €1 million in damages from German firms over 2022 floods Investify",
+      "date": "2026-11-10 02:26 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Trump Backs Huang Amid Alleged Spy Affair Scrutiny, Congress Returns After GOP Election Disaster: Live Updates",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uWHlSRVV6dTYtOThQZHVMdnllcmpQNnhzS3hpQWFYdmdrQ2NpSEpzdUw2RUE5MTBCbTFOYzNSblNtM1ZKNEhCbVdKYkVsaXRYTks1b3ctenluS3JJVXZGX2VUUE9ma1pONno4T2FlVGxLMk92UWFZRzhB?oc=5",
+      "summary": "Trump Backs Huang Amid Alleged Spy Affair Scrutiny, Congress Returns After GOP Election Disaster: Live Updates HuffPost 'A New Generation of Leadership': Slotkin Signals Opposition to Schumer as Dem Leader Yahoo News New Zealand Palestinian American Writer Becomes Fetterman's First Challenger For 2028 AOL.com National and International News in Focus: Nov. 9 WKTV ABC World News Tonight with David Muir Full Broadcast -",
+      "date": "2026-11-10 02:17 UTC",
+      "category": "World",
+      "source": "HuffPost"
+    },
+    {
+      "title": "Govt collects Rs254.7 billion through petroleum, climate and NEV levies in two months",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkRFYWZFWjZkdGhacm1pSU5QVlJqYmtYeEFuZEptYXZuVHFBQXg0MkNnU083a0tUUUh3OFZndDJycUxERjFLcWdXOFJoaHZWUjg4bGdIZHMwTDZPQlBMemdpVFBSYlRpM1pWR3ZTN0dUT3BOUE9acnBxQXB3R1E4SV9HMWp2Z3BHV1N2c1RlelpoRXQ5Q21pNE5HRlY1QWxoVzk1RlBZTWNqWGZPai1vUndoUW5uckFJLU44eFNfV0t6Wm9pZWc?oc=5",
+      "summary": "Govt collects Rs254.7 billion through petroleum, climate and NEV levies in two months Investify",
+      "date": "2026-11-10 02:09 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Unified effort urged to realise Iqbal’s vision for democratic, prosperous Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzNWRW9wdGp2QlNXS2Jmdk1wLWVWRkZoa3VHOHUwM2I3VmVGMmhVSVBRUGRFbm16QnNObnU2c3JKbmdZWHNGN2VCR1hnS0FqcEVneDBreEZHSDNma3lYb1BHQ0dnOUhmQXdrbTU5cXFfcTJZaUE2cTRQa3FKSnU3VFBPYmdBb2V4NnQwMHU3RXdIS0tSVWtWSHVpWFVkdVZDbHJlZ3NHWTNpMzZxVnhQR2d3R2E?oc=5",
+      "summary": "Unified effort urged to realise Iqbal’s vision for democratic, prosperous Pakistan Dawn",
+      "date": "2026-11-10 02:08 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
     {
       "title": "Pakistan make solid start against SL as four batters hit fifties",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0Z5dGItNGJYU2w1Q0U0M1JXdE9lOFFSMkVMbmdmZUxBTFJma3VNc0xXOEo0dVVJRkgybEJkV1NjR2xrdmljb0tSQVJaZElxRWx0cGtDSmVZVGQ0V3pXMVFnMHRwX1Bhb0VBbEpMTkxDWEpmU2d6NHVMUW5zM0tKMldOWDhnMkJEU19aRDRPa2FsUU1yUFFYb21YUEh6VzA?oc=5",
       "summary": "Pakistan make solid start against SL as four batters hit fifties Dawn",
       "date": "2026-11-10 02:04 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Flood-hit Pakistani farmers sue German firms over climate damage",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXIwNzlGWVdZdlNXRy0tVHZvRDAzQlRlNDhQT1hSc0F0RFN2ZjByQmlNR2wyend4VEF3LTZWOUdqQUU2cks4RDNpN2JySkdQejRYZ1hiWWpiWW1WNUY1RnZqcGl0VEVBMUJRUEJDcWxCZk1Kb3hZNW5yejJnTkNHa3JjNFJSemo4RmY3UjdPaUNnc1RKNXlzY2tEYXFzdnM?oc=5",
-      "summary": "Flood-hit Pakistani farmers sue German firms over climate damage Dawn",
-      "date": "2026-11-10 02:03 UTC",
       "category": "Pakistan",
       "source": "Dawn"
     },
@@ -26,20 +130,20 @@
       "source": "BBC News"
     },
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "date": "2026-11-10 01:44 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
-      "summary": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily Al Jazeera Live - Trump says US ‘locked and loaded’ on Iran but renewed strikes unlikely Iran International Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed Reuters Trump to meet Qatari prime minister about mediation efforts with Iran Axios Iran defends 2-day proposal for peace talks after U.",
+      "summary": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily Al Jazeera Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed Reuters Trump says Iran war is 'effectively over' militarily with further strikes unlikely BBC Trump met with Qatar's prime minister at the White House on Monday as his administration e WBFF U.S. signals breakthrough in Iran talks ar",
       "date": "2026-11-10 01:41 UTC",
       "category": "World",
       "source": "Al Jazeera"
+    },
+    {
+      "title": "Statue mocking Trump’s bone spurs appears on Mall before Veterans Day",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0hRY3JnSWcyRUVGWnY3M3E2Zy1sX2ZpU1Bvb25lVWgxelNTQlhCS2owbGZ3ME9IOUNiazZrR0FGenJhOXZjdWN4WGpTZEQ5QkJBbE5ZUk9pbXJDcnlzbHlmbEhJa2ptOTRGNEdwbXNGLVVhNFZnVlhqWTdiU3ViR04tYzBTMjZ5SEdQMjFWc2o3TTlYU1lpMWZxSHRaWTFSUHpiYU5yZkYxcVhJLWMycXE4VC1xOUxQckdkbHU3VEI4Y3Va?oc=5",
+      "summary": "Statue mocking Trump’s bone spurs appears on Mall before Veterans Day The Washington Post ‘The Foot Soldier’: Satirical Trump Statue On National Mall Mocks Vietnam Draft Deferment Forbes Statue on National Mall mocks Trump for Vietnam draft deferment DC News Now Trump Humiliated by Golden Dig at His ‘Bone Spurs’ The Daily Beast A New Trump Statue on the National Mall Satirizes Trump’s Draft Deferment City Cast DC",
+      "date": "2026-11-10 01:40 UTC",
+      "category": "World",
+      "source": "The Washington Post"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -50,20 +154,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEVmY3hLMTRUWEwyOGR5RmtrejFkbFBxVUVjaktmTkxLa21fQVZBeHZZWDBXOVo0aEYzWGl0X2ZDYW44UktKX0hCcEp0Vld6dEFYTmpEWGpzcGM4VjlmeVVUZE9wUG5ET0o2a2VmSzNXTTBGcVlEYlM4cURFczFGQ0RMQVFqbkZ3Q1V5a01LWXlPekpPR2pNMDk5VTFlNmtUaGZlTQ?oc=5",
-      "summary": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests Politico",
-      "date": "2026-11-10 01:18 UTC",
+      "title": "Anonymous celebrity in sexual assault scandal could now be named after missing appeal deadline",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcmEwbUVRdVAzR0pwNnoyS1VWQWYyRVpQa3gyZ0ZnTFc1a2ZNbUhLZW1XUGFjdGZxTFh3X2JrYWV3emc1dmljbDVQbTRuY1J3c242eDc2ZmxPRHF4aU5GdF9KX0xQeG43dWRuelY4T0FSWm56MFNLQWF4dXp5M25scXdRRkhTLUZSSVdGMlBIVHVlRmFfVDlzY29DNHpmdjNsY29iR1F4cDBQaWZDWjZTYXNOamcwaEc4c2JzTVdZMThTbFVjZUJLcWFsVC1GR1EwU29ES2kyMHE?oc=5",
+      "summary": "Anonymous celebrity in sexual assault scandal could now be named after missing appeal deadline Page Six Celebrity loses injunction bid but will stay anonymous pending appeal BBC Celebrity facing sexual allegations can be named after failing to appeal The Times Unnamed UK Celebrity’s Bid to Block Sexual Misconduct Allegation Report Rejected by Judge Complex ‘Well-known’ man fails in legal attempt to block Guardian and",
+      "date": "2026-11-10 01:33 UTC",
       "category": "World",
-      "source": "Politico"
-    },
-    {
-      "title": "Trump Backs Huang Amid Alleged Spy Affair Scrutiny, Congress Returns After GOP Election Disaster: Live Updates",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uWHlSRVV6dTYtOThQZHVMdnllcmpQNnhzS3hpQWFYdmdrQ2NpSEpzdUw2RUE5MTBCbTFOYzNSblNtM1ZKNEhCbVdKYkVsaXRYTks1b3ctenluS3JJVXZGX2VUUE9ma1pONno4T2FlVGxLMk92UWFZRzhB?oc=5",
-      "summary": "Trump Backs Huang Amid Alleged Spy Affair Scrutiny, Congress Returns After GOP Election Disaster: Live Updates HuffPost 'A New Generation of Leadership': Slotkin Signals Opposition to Schumer as Dem Leader Yahoo News New Zealand AP News Summary at 2:27 p.m. EST dailyrecordnews.com Palestinian American Writer Becomes Fetterman's First Challenger For 2028 AOL.com National and International News in Focus: Nov. 9 WKTV",
-      "date": "2026-11-10 01:11 UTC",
-      "category": "World",
-      "source": "HuffPost"
+      "source": "Page Six"
     },
     {
       "title": "Saudi-Pakistani investment ties get private equity boost",
@@ -85,7 +181,7 @@
       "title": "Pakistan urges Ukraine conflict de-escalation",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjBwZkNOWjBaalJacWM3UXBkdThjUk1VMC1GZXZJNDVudUxITDVRZjJvck1tMC0wcV9UVm9aNTJuMjVKLTdUZC1GOWJaNEV1ckFvVHhBemtkOXN4THp0Z0llUlA4ZGZhanA5TDByeHFydlFzS2NWU21rcEVFejR6UG5jWm5KLUZxemfSAZIBQVVfeXFMTy0xSHRUTEFXTmVwV2ptdFVpYWMyODZ0QnNFRm02SXNXS2wybmZHdDRpUnJNSTdSd18zMlBray1UbjJybE0yZjFNUWJRNXBYTDE2UVJZNHdJbG1tWGh2Tkp5bFk0SHRsa2RZWVpzVkFsdzVuR0hWZlpwc1JaS3hKS0o3c01rblhWTmRGNzJ5aFpwX0E?oc=5",
       "summary": "Pakistan urges Ukraine conflict de-escalation The Express Tribune",
-      "date": "2026-11-10 00:11 UTC",
+      "date": "2026-11-10 00:13 UTC",
       "category": "Pakistan",
       "source": "The Express Tribune"
     },
@@ -96,14 +192,6 @@
       "date": "2026-11-10 00:09 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Ukraine peace talks resume in Abu Dhabi after months-long pause",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
-      "summary": "Ukraine peace talks resume in Abu Dhabi after months-long pause BBC Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible Reuters Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says The Guardian US asks Russia to agree to NATO-like backing for Ukraine Politico Why Russia and Ukraine Keep Resisting Trump’s Art of the Deal The New Yorker",
-      "date": "2026-11-10 00:09 UTC",
-      "category": "World",
-      "source": "BBC"
     },
     {
       "title": "The superpower battle over energy – and what it means for your bills",
@@ -120,6 +208,14 @@
       "date": "2026-11-10 00:05 UTC",
       "category": "Pakistan",
       "source": "ICC"
+    },
+    {
+      "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNHc3NqUF9fbkxzbkdRMmZGOHlLTjhkZVBMV1ZnNTZNdF9SWG9VMWowOGdXM0NUVkdNUGpTV1RYWVJSQ2g4ckxoMzhZTldVazdqMHVpXzRjVHppY194S1VpYlV5WnA1R2RhUUEzek5QN2NVeFlqTWVKUERKTkxfdUZESGE?oc=5",
+      "summary": "White House cautiously upbeat about Russia-Ukraine peace talks this week Axios Ukraine peace talks to restart after 9 months. What makes them different this time? CNN US-mediated talks with Russia and Ukraine to start in Abu Dhabi Yahoo Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible Reuters US asks Russia to agree to NATO-like backing for Ukraine Politico",
+      "date": "2026-11-10 00:01 UTC",
+      "category": "World",
+      "source": "Axios"
     },
     {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -250,46 +346,6 @@
       "source": "Business Recorder"
     },
     {
-      "title": "Sindh governor inaugurates upgraded Awam Express",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjllWTlsclVJQnc2M2U3QmQzRG9DRGVmQklnUW5Qd1REdXhyS2pobGtwN1pWa0VyS2YtYUtqY3h1MVZpNnN1eFNwSk5QZnN3ZjkwY0NyRHVIWHpXbGpyWTZFZE9WTjY5bXE0UHhDeDVNVUZQSHo0WGNaNFFFMC1VRl9qaGtBeVV3ZEpOVk1TakVlQdIBVkFVX3lxTE1qel95TE50RUdFZmFXSHNxbWhmZnNPcFJRblM1Z21ITWpwVjhsNVBRU2xrVklzNFptRGFvRU9sTlpKaE9Rem1BMUZ4U0c2aVpTMlVMNVBn?oc=5",
-      "summary": "Sindh governor inaugurates upgraded Awam Express Business Recorder",
-      "date": "2026-11-09 23:44 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Train bogie catches fire at Lahore Railway Station",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUdmaHhxU0owUmJnRFEtRG9tLUIxUmtwQWdtTFV2b1JVSUw5RFZzYkJPQ2tnYVgyWTllc2h1amxobzNfamdQRmRkU0MtS1kzNjJoYW5hS29ldS1RcmowRmY2X1pORHRDUUdhbHJ5ZzlWbFppc1F0ZmVHS0ZtVGZHUHFvWXVuYl9aWVl5Q3hDY2Q0NXo50gFWQVVfeXFMUHpkd2JuRUUxR3hka1VTVDlIelZ1c2UyRnRZRk5Jd2ktcXNhVU1DbG9NNHdzMEs0MkNYVVJ3UV9PZ3pDdng1MHdRa3BDYkotTTNIZUFWVHc?oc=5",
-      "summary": "Train bogie catches fire at Lahore Railway Station Business Recorder",
-      "date": "2026-11-09 23:44 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Two militant hideouts inside NW mosques cleared: ISPR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0U1SHhHRFRmNWh2em9DOTNDUDM0Z2F0VjJ5ZzhwOUVyR3ZkV29Qc29WX0pkUHFuVVliQno2WXBDQ1RNM2VRbUs4ZTR3Y3RlSzkwVDN2eUdmczFhODJoMDI5WXBjX2d1M1BUeUU4V0x5S2hSZ1Zjdmp5cW9KLVJ5ZEZhai1GdXlrVkcySTM4eTVlejZYc1A40gFWQVVfeXFMTTlKcWVqRjNKc2FtVGw4QVNNY2s3SjVkVzNjVWFielJxamhacGNKWmtxbzlKQjhMVWFlUFFpMGZuSGIxbmtYdk52dk5RSjl6ZGZkRDZBQ1E?oc=5",
-      "summary": "Two militant hideouts inside NW mosques cleared: ISPR Business Recorder",
-      "date": "2026-11-09 23:44 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Young Football Championship held",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWmtPSm1Ib25fdzFmZ1N3czRfN2tMLVpvOVFQVFc1Y2c4NUpRUXdNMzJQS2R1Y2ZsVlkzTDJWdEl3UERKQld1ZFRuV3otUDk3ckJ3LUdkaGVmQkp0X2FiYlVaWHpUQ192N2UtYnpIRzFwXzBfU3V1Q2RVcU_SAVZBVV95cUxPa2NCa1NKWHphZ25zZ1BGbFkydEo5cmpkVGItYVlpSC1DNkM2akhnV093MUh0S1NjdG9uMlZCTW9XVjFwZWZTLV9XWEJMZ3Eyc1lSeVNjZw?oc=5",
-      "summary": "Young Football Championship held Business Recorder",
-      "date": "2026-11-09 23:44 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
-      "title": "Sindh, Chinese firm agree to complete SWEEP project on time",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3FmU0VPRGJSMmh3X0JUNDQ1OVkyNHBzMTMtS0hJOEVsallYeWVXVkxUcTF3VG9raTR3TGxLUnBFNDZBaEQ3SkRKZDBUVC0tSEl5Q3dOa05ZYlN4Ul9BaGktYl93MmFlN0tsTEtRaFBjR1FaNmNZVVJZdkJfbFhLTEtzWHBTVmhHbmlJMjB6akpzdmEtbnk1N3VWZTVscFXSAVZBVV95cUxNamwycnNzQjlYQWthYkpUdnQ4bThCdklUTk5OcFlOdGk3QmREM2Q1NVNDcEQwcXJ5RXE4d2tOd0laTWE1SHhtMjVpSkxqNEE4S1ItMkd5UQ?oc=5",
-      "summary": "Sindh, Chinese firm agree to complete SWEEP project on time Business Recorder",
-      "date": "2026-11-09 23:44 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
-    },
-    {
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
       "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
@@ -298,17 +354,9 @@
       "source": "BBC News"
     },
     {
-      "title": "Daily Caller Goes to War With Mark Levin and Ted Cruz: Why Would Americans ‘Be Listening to Either of You?’",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3VKVUlfUXNzWjVzTmpicUFIajMtZEJxYy04V09CUE1iOFJrNm1odGJNd2hUOE5heHNsdWVnclJoSkR3cTRPV2hKRDlMXzdHVW5CWlQ3S2FreGlMY19NN19JUWZpYlY3NzBPWmhHLWhlQjZBRngtVWhFV2ZlRGNkYzJmLVBpdGRDWVdqbThHd2RGLXdsdjdCaU5WS0tmaDVOTzVVWE1fM3d0RlNWMTNrMG53UlNLNnFTSGNtMVloUkNpREJiY0J0cDdSeFFMeHkyZnduNHZxQQ?oc=5",
-      "summary": "Daily Caller Goes to War With Mark Levin and Ted Cruz: Why Would Americans ‘Be Listening to Either of You?’ Mediaite",
-      "date": "2026-11-09 23:07 UTC",
-      "category": "World",
-      "source": "Mediaite"
-    },
-    {
       "title": "Man who sent racist threats to UK Conservative leader Badenoch receives jail sentence",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFk4R3dQdHhyTW40dkxtR1hrdTNqVEw5Z244ZzBJWFQzQzNoTEpLWVUxNTBvNE9udWRLanpuUU14di1zbC1ISXZtMmd3NDlsdG9tcVA1WnhxQmJVZUlSU3JpWGNka29IRUwwZkhXdWVSb3F0VF9XVzJpMmxTQmFpaVJ1UGpjaTFlU1Yxa3ZkdmNWVzlndHNJMnZXRDVuWnNFbjU1RFZGaGxDcEpfc2djNHlleDUtejlfNWc?oc=5",
-      "summary": "Man who sent racist threats to UK Conservative leader Badenoch receives jail sentence Reuters Man jailed over racist Badenoch death threats BBC Ex-teacher who sent racist emails to Kemi Badenoch jailed Sky News Man jailed after telling Kemi Badenoch ‘I would have shot you dead’ The Independent Suspended Reform councillor sentenced to 12-month community order over Facebook post GB News",
+      "summary": "Man who sent racist threats to UK Conservative leader Badenoch receives jail sentence Reuters Man jailed over racist Badenoch death threats BBC Ex-teacher who sent racist emails to Kemi Badenoch jailed Sky News Man jailed after telling Kemi Badenoch ‘I would have shot you dead’ The Independent Kent ex-teacher jailed for malicious emails to Essex MP Kemi Badenoch | News - Hits Radio (Essex) Rayo",
       "date": "2026-11-09 22:55 UTC",
       "category": "World",
       "source": "Reuters"
@@ -338,17 +386,9 @@
       "source": "TWZ"
     },
     {
-      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUplTVAyd1RlSTdLeEpNTmVTVjAtM0t4anNTMDg4ZEFTWHB5WndSVmV6WnRoWW1rT2JzaDFkZDA3ckJiUkQ5MGZSaFZERE92M1FPUlVnVVpFUnZhOEszME5DWl8yNW9rZGpBVDJxRVdQd3dLZzhSQmlnRUxybl9qZnlUOV94ZjVnT3UwSw?oc=5",
-      "summary": "France accuses Iran of cyber 'sabotage' in fridge attacks NPR France says Iranian hackers sabotaged supermarket refrigerators Axios France blames Iran for last month's cyberattack on supermarket fridges ABC News - Breaking News, Latest News and Videos France accuses Iran of supermarket fridge hacking Yahoo News Canada EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation Reuters",
-      "date": "2026-11-09 22:30 UTC",
-      "category": "World",
-      "source": "NPR"
-    },
-    {
       "title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
-      "summary": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures AP News Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN Pope Leo urges Argentinians to proclaim Christ with joy Vatican News In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy The New York Times A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ",
+      "summary": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures AP News In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy The New York Times A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ Pope Leo finds 'a family’ at Don Orione center in Claypole Vatican News Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland The Washington Po",
       "date": "2026-11-09 22:18 UTC",
       "category": "World",
       "source": "AP News"
@@ -402,9 +442,25 @@
       "source": "The Washington Post"
     },
     {
-      "title": "Pakistan demands immediate, unconditional halt to Houthi attacks on Saudi Arabia",
+      "title": "Pakistan to invite investment at WIC 2026",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWlWNVNxRlpZaE5EMWlldHlKWEY3NWszS0IzcnlUMVpoYzJLZjZib3dYdUd2clM5TGptUnFqdTJ1RW90Q1FxQk1iOVFDUHM3NkRSRThiTTFTWFg4WkRQU0V0RnMzSnlQajhodXpaQWlMWXVtWnQtNVFJR3d4ZThQUmNhb1NTY1hHT29vQg?oc=5",
+      "summary": "Pakistan to invite investment at WIC 2026 Investify",
+      "date": "2026-11-09 21:02 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistani brands look for new avenues in China",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjNZSVFBY1BVMEFULUhMWXp0NWxYQk9XS2o4OElGT084eWREUVQxZmozY2xlNTMxaFBWT2hDMnU1c3dYQ3FMMEktcHFRcXJoaVFRcGFrN093WUd0RGNfV2FqV3NBblB1TXdMMlQ4OWxKN05PWTlhVDBhMjdfek51ZG80ZUs5Y2JZcFRMTS02aWcwYU0?oc=5",
+      "summary": "Pakistani brands look for new avenues in China Investify",
+      "date": "2026-11-09 21:02 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan demands end to Houthi attacks after Riyadh's Aramco skyscraper targeted",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0VXX0tET25VNGQyZmg2RVduX0tFNEVYcngyV3FCMUk0LVBVeVNIbldNbXQxOElKS3RYRTVFd3RvNlNpenE2M25SR2hXY21JMXpVcVNnUXNSNGNPQktVVDBMMTUyWVFjamJjNjU5VDR0WWxsenRHbXBvY3lVendYVmpCUnJvbGVvOGZ6NmJLR3pJUERSWDBnUmQ4bE11U1JWTWxycUlDVGRuNXpWVWt5T04wUjBxYlU?oc=5",
-      "summary": "Pakistan demands immediate, unconditional halt to Houthi attacks on Saudi Arabia The News Pakistan",
+      "summary": "Pakistan demands end to Houthi attacks after Riyadh's Aramco skyscraper targeted The News Pakistan",
       "date": "2026-11-09 20:53 UTC",
       "category": "Pakistan",
       "source": "The News Pakistan"
@@ -420,7 +476,7 @@
     {
       "title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
-      "summary": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit WSJ Trump thinks he will meet Xi and Putin at China APEC summit Reuters Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? South China Morning Post US, Russia and China discuss meeting between Trump, Putin and Xi Financial Times A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them. The New York Times",
+      "summary": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit WSJ Trump thinks he will meet Xi and Putin at China APEC summit Reuters Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? South China Morning Post Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion The Guardian US, China Clash Over Trump-Xi-Putin Summit Plans Yahoo",
       "date": "2026-11-09 20:37 UTC",
       "category": "World",
       "source": "WSJ"
@@ -432,14 +488,6 @@
       "date": "2026-11-09 20:20 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWNEdXlRQ2U1M3Z2aVgzLXk0S1ZPLWRrUi1qVkVEdUhZel9XamI2ZEg1X2VOZ3ZOMTRQYkw3ZW9nWGYzd3IzVlg2U01vblFSVTFOMnpCRk9UN2FfUGgwRjlaam95YWNIeWtsNTk0cVBfLWxtTmFXUlMwUHc5aVpYcTBaemZmaG8?oc=5",
-      "summary": "Targeted by U.S., Armed Group Strikes Back in Colombia The New York Times Drone attack on a Colombian military base leaves 3 soldiers dead AP News Drone attack on Colombian army base kills three soldiers and wounds 16 Al Jazeera Colombia Issues Urgent Alert on Southern Bolivar Violence teleSUR English Colombia Faces a Drone Attack Every 20 Hours ColombiaOne.com",
-      "date": "2026-11-09 20:14 UTC",
-      "category": "World",
-      "source": "The New York Times"
     },
     {
       "title": "Four fifties power Pakistan to strong start in the first Test against Sri Lanka",
@@ -514,6 +562,14 @@
       "source": "BBC News"
     },
     {
+      "title": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUno2ZG0ydHlpdXgxNGEtQlBTLXFGaHZNYVNFQ1JoS3FSZXBOaW1BbWFlTW1JSmlRb3RpdGRDaXRNVkljcEFKMkVaR2h4YkZsTEo3VkRhYVNOU1hETWZUeVQxbzBqT28tNTU5aF9ncWpKQXUxMEZ6TTBqTnV0bkY0Q1gwbDU1ZDJfU3BtQXB3T0paZXFxaWtRWTlHV3JnNFg2WUUxcg?oc=5",
+      "summary": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen AP News Opinion | France’s cost-of-living trap The Washington Post 'We must change everything,' French far-left presidential candidate Mélenchon says France 24 French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call Reuters French far-left presidential hopeful pledges ‘revolutionary’ remaking o",
+      "date": "2026-11-09 19:07 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
       "title": "Pakistan: Secret trials allowed under Punjab anti-terror law",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2tnTjZybHZpQmFxU1FlTk5XRkc4NVRVeTRvb1NET3pjVE92M0JsQnBTbU9FVHp1QkRqelQ2a1U2bHJTSE1mX3MtdGFLSTRzZ0FxakR0Q21LbDFnZ2Y5dk1uTFgzQW5wdy13eWhyRWtaNzhBQXJGbFhPWHZ0dV9nTGJ4TW9MUVZEWUJoejJrX1R3UGVuakc1S2pwZ0U1RFA5RkZr?oc=5",
       "summary": "Pakistan: Secret trials allowed under Punjab anti-terror law Genocide Watch",
@@ -580,7 +636,7 @@
     {
       "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtWYWhpU2JIQWt6WGpPM3EzdFZRN0lXZld0WS1JLWlqdVdHVkdhUGpnYS05elBTOHdrM3hYeWJOQ1NGS0FsZi1CdXlrMzVETk1sRTNiOXdMN2ZrM0hMY05jQ2x0dHVMcTdwNGZ1TUFmUWpsRHlSZGhYejN2ZU9MQmFENDY?oc=5",
-      "summary": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence Chicago Tribune Russell Brand Sentenced to 10 and a Half Years in Prison for Rape The New York Times 'Brand jailed for 10 years' and 'shamed star caged' BBC Russell Brand sentenced after rape, sexual assault convictions in UK Fox News British comedian Russell Brand sentenced to over 10 years for rape and sexual assault NPR",
+      "summary": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence Chicago Tribune Russell Brand Sentenced to 10 and a Half Years in Prison for Rape The New York Times Russell Brand sentenced after rape, sexual assault convictions in UK Fox News British comedian Russell Brand sentenced to over 10 years for rape and sexual assault NPR Russell Brand: Comedian jailed for rape and sexual assaults - as ex-partner accuses ",
       "date": "2026-11-09 18:15 UTC",
       "category": "World",
       "source": "Chicago Tribune"
@@ -588,7 +644,7 @@
     {
       "title": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHBnamJTa0pVQ0g3dVFFNlVIOXRvLTE0QVRmbVVNcnY5c3d5MHVHUEdCQXhlZEpUZU1XaUFHZWMyUkFoRHVva2Mwc3FhdEtKRy1Vdl9kbERTYndCalNWMXpFQXUzZTI2ZnBRSWkyTUs3bFlRRUNDMF9zY2liSHJIajBsSjE?oc=5",
-      "summary": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns Financial Times Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks ABC News - Breaking News, Latest News and Videos Moscow And Kyiv Trade Air Strikes As Trump Hints At Potential Territorial Changes In Ukraine Radio Free Europe/Radio Liberty Blackouts and water shortages in Kyiv after Russia strikes Ukraine's energy gr",
+      "summary": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns Financial Times Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks ABC News - Breaking News, Latest News and Videos Moscow And Kyiv Trade Air Strikes As Trump Hints At Potential Territorial Changes In Ukraine Radio Free Europe/Radio Liberty Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as",
       "date": "2026-11-09 18:13 UTC",
       "category": "World",
       "source": "Financial Times"
@@ -642,6 +698,14 @@
       "source": "The Nation (Pakistan )"
     },
     {
+      "title": "Eisenkot Bloc Reaches Agreement on Candidate for Knesset Speaker",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWnRTVjE5LXNPbHJKM3hUcm9xSGlFbXZUR2tWaThPeGtEajhURzdLUDQzcGNrVVJBOWJPOHFnSm44X0E1NG5jZG1QSjI3dTlpYzVuYnVJT1ozQ0I4ZjFDYThMeG5RN2g5YXBKMDQ2SGljeFkxaTJ5aWt1bEZ2X3NZaWp6UnMxMVhUV3Jfc1NxTmh6ZU8xYUhkc19VbG5lSy15ZVNGR25ES1Z4S3hIMUpWbms3S18ydFdtc25NZW1tOEpRblVzcGdxbFJfSncySHd5OWFacTU2eGItQXZvUzZqMnVobDhuNTNwYlk2ckozVGpmdjRNQjhTLUdRY3NzUnJrMU9zdG5xRmZydw?oc=5",
+      "summary": "Eisenkot Bloc Reaches Agreement on Candidate for Knesset Speaker Haaretz Eisenkot, Liberman said to greenlight outreach to Haredim, reach agreement on Knesset speaker The Times of Israel Eisenkot, Lieberman Reach Major Agreements On Government Positions, I24NEWS Learns i24NEWS Eisenkot's Yashar seeks Shas, UTJ support to replace Knesset speaker Ohana The Jerusalem Post Lieberman blinked first, but Eisenkot's real tes",
+      "date": "2026-11-09 17:26 UTC",
+      "category": "World",
+      "source": "Haaretz"
+    },
+    {
       "title": "Aramco-backed program aims to provide 10,000 Pakistani schoolchildren free robotics training",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamtRajZGT3BtdFVnWTc1U01idHJyZnAwaDM4ZC1JU3NmQjg0cGxQWlBoaUdJc0l1MjNMU0lRZVRHeG9vMTM4RmJQSm9MUHBLckJkblZyZHNoRmc0ZjJpbE1LOVpTdHhiY1ZQWklST3BmLTJYOWlMQWdyUDU5ZGxTdWZoRUhnVEtaNnM4Z2VMLTZJLU5PRU9xNDlMVG1kWG9KWWJGck9Xei1ELU5mSjBDaFdPTF9TcmN0MTloTE42QzhadXRaYS1mcURFNEo?oc=5",
       "summary": "Aramco-backed program aims to provide 10,000 Pakistani schoolchildren free robotics training Arab News PK",
@@ -656,70 +720,6 @@
       "date": "2026-11-09 17:06 UTC",
       "category": "World",
       "source": "BBC News"
-    },
-    {
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hUVlxYmoyNGlXbkp6OEhfZlg1QURlVE85S3NEZGRTUmhoUHRGcUFnM1VsX2JMZUlzbGxUd2l1QTJZdURHZ3RYMEFZd1ZhTHZJdW56T2xuR211Mk0?oc=5",
-      "summary": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine BBC See more headlines & perspectives on Google News",
-      "date": "2026-11-09 17:06 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-      "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
-      "date": "2026-11-09 16:59 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Silicon Valley Has a Critical Security Flaw: Sex",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDZTT3JBSWNCY3NfbWJJLV84dmlsekh4R2JGMUxfcEpCQVEzdWJBOFpxanI0UWktR0FDYUY3WThSd0h1Q0xIN2F6SG91dzFJSnBXTmFTT0x1cHVfU0hrS2hRYUtCbmFyLTQ3ODVKeDJ4Yk95NmozLWVfYkU5T0t4RA?oc=5",
-      "summary": "Silicon Valley Has a Critical Security Flaw: Sex Newsweek",
-      "date": "2026-11-09 16:47 UTC",
-      "category": "World",
-      "source": "Newsweek"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia launch joint equity fund, 75% investment earmarked for Islamabad",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTZmNXRxb29EX3B4TmFoNENoUDVIQ25RSlBUenU0MWhfU1RvdVhldzhIX0NLcTQ1X2JWT29SeU94VHRjaHJ0Wk01QmQ3TC1vSHBSbGdIYVR4a0xMLVA2ZGY2NS00WWlremU2UUw4cXpORVRDVGtxanRHamJscFQ5LWpDVlNOQUVJR0dva0NuM3B0NWs1amhGUDJMZlRaQ2lWU1JJQWloMUZPTXpXS1MybzdlanlBaC16dWN0RnZIZHVYdFNMM2FWWldB0gHPAUFVX3lxTE5KVDhKSjZfRzBrcW8yQ1JKTW5JeThWMzVtUndFZkltcm03eEFselFoZENBenlvZkJBLUNNbC1rcVM5Q3VSLWdaQmx5WFVCUmFQT3RReWJxcl8wVGpjSWIzbDZYelFTOHVXdkYtZ1FtcVhKLVZJbk8zOXhJcDlocmluVHZibGdLQ1ZnWC1iZjFQaFQwWVA0aXBjeTBmeUlNdGRfenVzajRMcDJMQWlXT1FRb1dIYkJBU0lJZUxJRzlUbTlLZDE2NkE4UXNQQWxQOA?oc=5",
-      "summary": "Pakistan, Saudi Arabia launch joint equity fund, 75% investment earmarked for Islamabad Firstpost",
-      "date": "2026-11-09 16:46 UTC",
-      "category": "Pakistan",
-      "source": "Firstpost"
-    },
-    {
-      "title": "Pakistan to receive 75% of new Saudi-backed private equity fund",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGlQZ1VLdUJ0ZEtkZGpFU2I4aUVUODZfZHBnNDlIazVlc1RDdGUtUDYyNXdtNmR6QmRXWW9sd2FUTDBOV1g2Tzd6UDJOUUc2N213WEdUQ05rMDZPTkZKLVlEbUpCZldtNkJxNVg1WjB5NlN0ZlNDQnR4U3pnN2RTdTVDd2E2Yk44dl9iLTBmVWR2dmE3b0ZfZEs4bmJOMlhtdVR1LU9pejQ?oc=5",
-      "summary": "Pakistan to receive 75% of new Saudi-backed private equity fund Investify",
-      "date": "2026-11-09 16:35 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-      "date": "2026-11-09 16:33 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "No deal on Ukraine aid? Then no deal on EU budget, Merz says",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlZyOWZ5X1lZMl9WWVc4bENXNmRyLUlnQ0V2LURyWldFejRPUTNyTkdmclZqYmM0TVZaWHhHNEhpa3phVEpXMlJXSGZfU3dVQmQzd1dLWXBnWThBeXR0N0JrUk1laE91LVk0aGF4aHlzZjBuUHpmMFlSR0RjcDFXZjl2aGphSkJ5am9RYThac3JzUjg2TkFlWWpB?oc=5",
-      "summary": "No deal on Ukraine aid? Then no deal on EU budget, Merz says Euronews.com Merz Says Germany May Block EU Budget Over Ukraine Funding Bloomberg.com Germany issues ultimatum to secure Ukraine funding Financial Times Germany's Merz wants Ukraine aid pushed up EU summit agenda Yahoo German chancellor warns he will block EU budget unless all member states agree to fund Ukraine Українська правда",
-      "date": "2026-11-09 16:31 UTC",
-      "category": "World",
-      "source": "Euronews.com"
-    },
-    {
-      "title": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONndkbHJVN2hSNjZWT3pzcVN2NlR0RjI3SEtORUlsS0J5UFRzWFpJRnc1dEt6Sk1kTUpIN0NOTVhJM3RSdXF5MzcxcG5PVENXSm51N0Z1b21FcmZncXdrWnRPcGJaRnVBMWh5akVpb3pOdTF3TlBnY3VpZS1xRG5LWlpXSGl2X0ZldkJDYXRhbnppUkJXWjFhRDhHbVd2YzY3NHVpbWJNWHVuY01sNEhHSzVxeHJsMmM?oc=5",
-      "summary": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund Biz Today",
-      "date": "2026-11-09 16:23 UTC",
-      "category": "Pakistan",
-      "source": "Biz Today"
     }
   ]
 }
