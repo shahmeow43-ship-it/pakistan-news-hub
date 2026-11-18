@@ -1,6 +1,502 @@
 {
-  "updated": "2026-11-18T14:01:20+00:00",
+  "updated": "2026-11-18T21:58:14+00:00",
   "articles": [
+    {
+      "title": "Moscow Balances Relationship with Pakistan and Taliban-led Afghanistan",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzlRaUREX242R0Q2Z19CcVprWEhqTl9ZQ1F4NzJjanM4aE5odEp0YTFQYThHNHV4SWtxUm5aOUFhbTNfcXkwaW10TmR3VW5KVUM0X3NYcVV2NVctXzlPS2hodTNFQmNVbk1VNkwtdTZPOUFTTXNqUmRVQmNDYlpjMmI3RVJwal9rSEluRmZROVdncWtNY2hERA?oc=5",
+      "summary": "Moscow Balances Relationship with Pakistan and Taliban-led Afghanistan The Jamestown Foundation",
+      "date": "2026-11-18 21:30 UTC",
+      "category": "Pakistan",
+      "source": "The Jamestown Foundation"
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "date": "2026-11-18 21:13 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Putin touts Russia’s economy at APEC as Ukraine sends it toward a fuel crisis",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVURnaF8xdHYwdW8xUGVFektYd0ZtS1ZUQlJCQkU4YTZPT3ltVENDOTJ2dER3SXBKYTM3TmFTNlJ1eExTQlNsVDF4NHU5UXdmWDlpYjJwYkFKVzZoS0pLVG1DOWVQRWVVT0tsbGUweUpWZl8wLUpGQ0lJNXNkc1VOczhIZm5JeTEwcWpyejFIOFk3RF9wLWRJdWFSSWRaZVpuZnVzSHNIaDRTZldfc1lDMlAwSnE3NTl4?oc=5",
+      "summary": "Putin touts Russia’s economy at APEC as Ukraine sends it toward a fuel crisis The Washington Post Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi CNBC Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards Reuters Russia Says Europe Is in ‘Humiliating Decline’ as Trump, Putin, and Xi Meet Time Magazine Putin Pitches Russia as the Place to",
+      "date": "2026-11-18 20:55 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5",
+      "summary": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes CBS News NEWSLETTER: Gulf conflict end date? Depends on who you ask Reuters Iran war live: US says it hits IRGC Qeshm site; Iran says US drone downed Al Jazeera Kuwait says it repelled first Iranian attack in two months after US strikes island BBC Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+      "date": "2026-11-18 20:43 UTC",
+      "category": "World",
+      "source": "CBS News"
+    },
+    {
+      "title": "Muslims to outnumber Christians worldwide by 2035, study finds",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDdNU3AxVngwTEFQOU53OE51cC1SN21faDk1Z2pQTl8tN1lDRU44UjFDMV9Jc0tCcWs0Z2h1T2hTaWsydmhhNTZHdkFXamN1TzZYdGpfYTFCZG4wTTlVMm9YWm5KU1FCRWdvczZGZ09OZmxYeVIyNGlTbGdnZ01pTTdWQUs0b2VEU1JvMTEtc0xRdklxb3VQeVJocVJORXBMQnc2b0lrNWstNnJCNnh1RFhUVUxRcEY5SEl0MmJzVXZQdw?oc=5",
+      "summary": "Muslims to outnumber Christians worldwide by 2035, study finds The Washington Post The Future of World Religions: Population Growth Projections, 2020-2070 Pew Research Center Islam will overtake Christianity as world's largest religion by 2035: Pew Axios Muslims are projected to outnumber Christians by 2035 as the world’s largest religion AP News Pew Projects Islam To Surpass Christianity Worldwide By 2035 As Texas C",
+      "date": "2026-11-18 20:36 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "News, Updates related to Power, Nuclear, Solar, Renewable Energy in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFBhV0hEV1JLZ0JnVFpsWWpmMjRkdjRrdmFMTU5jbl9BaUFLSl9ZamVfTTRFQlQ5RXppVjFHS3NHdC1zOFJNYWZkeVhhQmJMbjdzRDlmRGd0OV9mek1ULWNIUTZzODhwUEFCeGJPRGJ0bHo5Y21Da3d4eXh2NTcxb3c1akFSRXJadzV0TTFUSXdqcDV3c2RXeFJ2V3lZU0I0UXdrM1NLM0gzZm5oNFVMbVFiMElVdw?oc=5",
+      "summary": "News, Updates related to Power, Nuclear, Solar, Renewable Energy in Pakistan Energy Update",
+      "date": "2026-11-18 20:26 UTC",
+      "category": "Pakistan",
+      "source": "Energy Update"
+    },
+    {
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclp0b010ckFVZG5HS1FJZktRcmg2ZmVvbEt1bFUyT0cyN29IdE92bERQN3VQLWlvajByUkJPczNzT2VOZzc2MmFzaGlWVDgweTNFR0RGN1RPdlZobVFjWDFzOGtWSV9SUDhRRVFLX21HZEg3c2s5ZV9jZ2Qtcm1iTjRUUHNIRnRZSFgwTi1oY283M1BpZDFQd0k2TVByMV9CMm1tVWRNWHpkbGhpUGNqWQ?oc=5",
+      "summary": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling The Guardian What to Know About the Rohingya Muslim Genocide Case at the World Court The New York Times ‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict Al Jazeera Explainer: What is the International Court of Justice? Reuters ICJ set to rule on Myanmar genocide, in potential preview for case against",
+      "date": "2026-11-18 20:21 UTC",
+      "category": "World",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Deitz swaps Windies for Pakistan in new women's coaching assignment",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGJEeEN0cmZucFpydUpyaW5YblBMc3pXczJuTGZwUTFIZ3kyblRnWEVpUF9NN0lOYTEzZzFPaU5SZVVyUmFLX2lmdXkzRTZDRy16SzZISFFrNkdXaDBLcmhxT1pKLXk5eUt1UzdMTUszcVRuVHd3QnZaVEZKRFppV2Q2NERnYUZiM1MtS0ZSMU5wS3lFdWtxTjJXdklyLW5MTnJGNEV6SEN0bnBjVmNySzhB?oc=5",
+      "summary": "Deitz swaps Windies for Pakistan in new women's coaching assignment Caribbean National Weekly",
+      "date": "2026-11-18 20:15 UTC",
+      "category": "Pakistan",
+      "source": "Caribbean National Weekly"
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "date": "2026-11-18 20:14 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5",
+      "summary": "Israeli military launches rare ground operation in Gaza beyond Yellow Line BBC Three killed as Israel launches first ground push since ‘ceasefire’ began Al Jazeera Israeli tanks roll into central Gaza in first ground operation since ceasefire began NBC News Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion The New York Times Israel launches ground operation in central Gaza, dozens flee Reuters",
+      "date": "2026-11-18 20:14 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "date": "2026-11-18 20:07 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan internet problems related to subsea cable faults, telecoms authority says",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWhtSVZ5OGx0VHVXWndqNV9pUlEwTHJrN1JXVGdnTGdzTEFISkFIYVdlUWMtU0R6YkVUODZOTTdKZEg0SGRzeDVCT2xxN1VvN09leW9oUjZkYVpBWTRXV2laUDlXR3ExN1NENGpMakFUdEplLVN4TTV6ZllQQUZjVTZwdGVIMUVPcjg0c2VfQnBwTXZ0bVRESV8zbGttbFp1dC1KSA?oc=5",
+      "summary": "Pakistan internet problems related to subsea cable faults, telecoms authority says The National",
+      "date": "2026-11-18 20:05 UTC",
+      "category": "Pakistan",
+      "source": "The National"
+    },
+    {
+      "title": "Britain, EU drop 'trusted partnership' term from summit draft",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1dqbjcxS1NvVGZBUEJYTDd1alo4YWNzRG9aMVZoVUE2b1ZibW95VlhQWDQ5dWNZTTFkbXBnbHVob1JMT21UMElBbnlQb01wT2Q4NXdHRi1GWGFfQ040NGRCRFlzcFNUTjJJMGRPT1FEWF9sTUJUZVV2MU90dUZOXzAzbmlnZWxwOG5YOVFNcUJOdGF1aEl6dERxSEhJMDA?oc=5",
+      "summary": "Britain, EU drop 'trusted partnership' term from summit draft Reuters Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft? The Guardian Burnham commits to cutting tuition fees for EU students The Telegraph EU-UK summit: Leaked draft reveals ambition and limits of Brexit reset Euronews.com News | A European reset for student housing? What cheaper EU fees could mean for PBSA CoStar",
+      "date": "2026-11-18 20:02 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
+      "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFJfVFgxd3lSbFR3eE1TZ25UeXpDbGVISW1rV3FrWDcxeGhQRURabnpPUXlMMG1fWGhHclRhVU90VzZyQ3FXeTZ0bkJ3bnpLdUlDei04NldFZWJaV1RZVWZiR0NDR1hyTndyTmhDaUo4YnotYmVxSHo3b3FCWVNONVpWUVdmeHdWVnVpWHc2U0pzMUloWnFMVjJqWm1sTkNqdVA4TDBUNGMyZw?oc=5",
+      "summary": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association Dawn",
+      "date": "2026-11-18 19:51 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "El Salvador’s president confirms and celebrates attack on home of key Haitian gang leader",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVp1by1yclVIYnJfVnZTOEo0LWk2TFE4ampJMlFTdGVudVRMM2FROVpOUFp3WkZfTU5FVWZYMGx5OUE5d2M1TGU3UEMtUUk4Wk90cGdNeFA5dVJFT3BSSFhUeXM3azg2N1VYUEozVGRMNGw4ZlphRE9xZXRhZjlPZmJnbGx1V2c5WXZOV0pQcnktSGVHc0QtQXhzVkVGaFVURkhFdA?oc=5",
+      "summary": "El Salvador’s president confirms and celebrates attack on home of key Haitian gang leader AP News Haitians rally behind Bukele as Salvadoran troops battle gangs France 24 Thousands march in support of Bukele's Haiti mission as analysts warn of escalation Reuters Haitians protest in support of El Salvador’s anti-gang troop deployment Al Jazeera El Salvador’s Troops Are Fighting Haiti’s Gangs. Who Is Protecting Civilia",
+      "date": "2026-11-18 19:25 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails domestically made weapons",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW9jb1JLek5TdWEzeTBEcmlONHotR0xWaVNPdnVfend3aWJXZmJxVWF3MTdQN3NZTVpvTWotSTFUVGhUNGliU0J4ZmxNQlliUlNPa0ZqTDg2VWNsQnZ5bmRiZFhzRXkzempNOXkzYk1MaTVoYVRpOFBOOGFpdU8zZnhEclNVZmdfZGNndVdsT3I2XzdfUm05Z2p0dWxXcFUtcU9EaU5hOUFwQQ?oc=5",
+      "summary": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails domestically made weapons AP News EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say Reuters Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China Fox News Ukrainian Drones Hit Gazprom Refinery in Bashkortostan in Second Record Overnight Attack The Moscow Times General ",
+      "date": "2026-11-18 19:25 UTC",
+      "category": "World",
+      "source": "AP News"
+    },
+    {
+      "title": "Trump is trying to put the Iran war behind him, but it’s not over",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
+      "summary": "Trump is trying to put the Iran war behind him, but it’s not over The Washington Post Opinion | President Trump’s Choice in Iran WSJ The War Room newsletter: Will America or Iran blink first? The Economist Trump's Iran dilemma: Strike, negotiate or tighten the blockade Israel Hayom Trump keeps weighing his Iran options. He should do them all | Opinion USA Today",
+      "date": "2026-11-18 19:23 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Pakistan successfully launches FATAH-III supersonic cruise missile",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0xlcHBSeEtDUF8yZHAwQnZxMGRiYnRIMWJxVFJVSVhicVFJcDBmcXdMWVdNQjR0bmY0ME1yaDk3M2VaTEZXQy1RSHpJRzk1ZXB0WlJWMXBRSkFLa3R5ck9QUnllcGhyd3lJNFdUWGVBOGxmUUNZM3dzUF9IX242NWR2SWJQX3NvaG5sNWlIRFhNSWxVSGNmMHp3?oc=5",
+      "summary": "Pakistan successfully launches FATAH-III supersonic cruise missile Defensehere",
+      "date": "2026-11-18 19:20 UTC",
+      "category": "Pakistan",
+      "source": "Defensehere"
+    },
+    {
+      "title": "Pakistan’s Case For Equal Nuclear Treatment – OpEd",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHpmYTNyQVpFVTc0RG1lUkl4N01WNHcwY2cydThOOFMxUWdYbjVkR2Z6eTdkb1g4aW50NWNzeldidC1uY04zRTBXWXVJNzRlOWFERGdodkxZS29XeFc2MDdJbERiSmNMYU5JTHpYRWZzUkhmNnFjY29UOThEb3VZLTZSYmRocndPcDdaTmpZYzQ?oc=5",
+      "summary": "Pakistan’s Case For Equal Nuclear Treatment – OpEd Eurasia Review",
+      "date": "2026-11-18 19:09 UTC",
+      "category": "Pakistan",
+      "source": "Eurasia Review"
+    },
+    {
+      "title": "Loser Harry’s Earthshot Hijack Plot Fails Spectacularly: Royal Expert",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXVYYU92bDBGQ1BEWllYWlN4bzZBUWgyZHF4MWJ6Vl9sYUljRVFQZWZnSFFhZzVfdTBfOXVQOTZBOEozQlJTREpxRkpmdDV2Tzd3cnhjb25ySDl4OWVfdWpDUzJBWTJRSmtGY3VHU1Q4Y0RTNE1rRENQRndjV3hNYnBlYS1tLXFUeURhSDUyZGdyN01PUC1xMGpYZ3lfdw?oc=5",
+      "summary": "Loser Harry’s Earthshot Hijack Plot Fails Spectacularly: Royal Expert The Daily Beast Prince Harry exclusive interview: I’d rejoin the military to fight Russia The Telegraph Prince Harry, after Ukraine trip, warns on threat from Russia BBC Prince Harry Says Parents Once Crossed the Street to Avoid Wounded Veterans Before Invictus ‘Made the Difference’ People.com Prince Harry Vows to Rejoin British Army If Needed: ‘I ",
+      "date": "2026-11-18 18:56 UTC",
+      "category": "World",
+      "source": "The Daily Beast"
+    },
+    {
+      "title": "Trump arrives in Shenzhen, China, where Xi Jinping’s family history runs deep",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHhIQXJqQW5hSDdiaHBPQWpvR1NTeUU5aXQ0TTlmR09DMVpCU01VMTl4R3ZxREFYNGpPTDNfYjczMFlKb1MxVVdjRTVaM1NzMjBnWW9wcDFQamY0TkJtTEFLdHdIRGp5emtHWUVIelZONzRoMHZHN0ZRZDdNTXpqTEgtWGxmbUNlOU5rQlh0WDNtd0JIV1dHc01kQmFXRlBaWlBqMjJpNHRrWFV2aUdzMGtHcVExRFFnMC1MNA?oc=5",
+      "summary": "Trump arrives in Shenzhen, China, where Xi Jinping’s family history runs deep The Washington Post The incredible shrinking legacy of Donald J. Trump The Economist U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia WSJ APEC summit latest: Trump receives warm reception from Xi and Putin in China ahead of high-stakes trilateral talks CNN Xi Jinping breaks protocol to greet and hug Trump at China a",
+      "date": "2026-11-18 18:12 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Column | Here’s a science-backed way to counteract loneliness",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFRqSUdyaUhiYk8wcW9WNEFSYTFVV3hpbmRBTEFzUzJ1YlR2RGlVOUlQYjhvUFVHYlNXbjViLWtfcUl0VFZRNEI0OWJnZkx1aFdKaEZodENRMFdvVXhZdlM5OUZ0LThyMm9hYlFUWWllNFJNSnFTRU40Nll6enlWVGpBWklJamRBekpjY3hpc1ZMQm1tLUNSeUd3anhvemc0R1V6UURsY2hBaGlxb240SERlX1Fydm8ySUE?oc=5",
+      "summary": "Column | Here’s a science-backed way to counteract loneliness The Washington Post",
+      "date": "2026-11-18 18:00 UTC",
+      "category": "World",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Russell Brand faces prison transfer after ‘appalling’ YouTube message",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdktsdUdpc09WdmFqZ0lQbF9EYVQ2VG1Ta2VqTzRVOWRPSHpBWGZRNlpkVElVUmdtV2VEdlNjRVRBaW1IeUJRbFlYM2MxZnN1UUFwLUVkSkRralZ6TFJvTDg2a0ZNLXcwWU95Ym9aT3lNaEE0T1ZYMGZHcFRlbDNVdjUxaHlTVUZYX0tSMVBFdTFFSFBLWVB0bkFhSVhLa2k5QlRBcVdnVUFrQQ?oc=5",
+      "summary": "Russell Brand faces prison transfer after ‘appalling’ YouTube message The Independent See more headlines & perspectives on Google News",
+      "date": "2026-11-18 17:56 UTC",
+      "category": "World",
+      "source": "The Independent"
+    },
+    {
+      "title": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVhmZEdObG5GNmVHRDRnbWR5dFJjSnBESzY1LWFTX0xrMUlsWkVNSHI3RTVZRFBfQ1hyaW5QaVoybmg5a0hweWxqTjhCSGRCdVh2elowVjJ0QnVYT3dlQmpnNHdFMGxDQ0ZucndRSmVLZElsYV9iWmVELURYT3BDeF9QN3dGbzdKeGhsakktaHpUc21zd3EyVzkxNWJCY3VTRjdwSkVpMWZqYVV0X1NZaTBn?oc=5",
+      "summary": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan The Guardian",
+      "date": "2026-11-18 17:34 UTC",
+      "category": "Pakistan",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pakistan AMR linked to over 200,000 deaths a year, NIH and WHO warn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVFfREFKTjVjcEJ6UlFDdk1zVVg5dUhrUzBYSlZQN2E2a29CUEljelRuNGdReGhDc1RSNVJqNUdBMDV2WFAzckVMWkhzamZwbXZHQ1RYaVpwY0FvRUYtZ05ubmxDQTM1UWVMNlU4YlZPQklHMU1QVHBLRVBwODNVeEpEWUViemRtQkQ3QlBEWF9MWEtL?oc=5",
+      "summary": "Pakistan AMR linked to over 200,000 deaths a year, NIH and WHO warn CASRAI",
+      "date": "2026-11-18 17:34 UTC",
+      "category": "Pakistan",
+      "source": "CASRAI"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "date": "2026-11-18 17:34 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump’s plan to get the world hooked on US energy",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFZzbDVfemxqUkFVdmhQTlpVejZDNkJVeFlHNHdOLWdUREx6dDFDeUNHNDlQSXV5b09waEhmZmFOWjk3VmdXZEdLTmNnWm9Eem9OV1BVQXNsRE1kMTM4OXBwWmVpZmY2dUF0Yk92OElmY1JxdERBeGtPRFZ4UTdSVHZRdXpUZm1tV3J1MXdEU1prSVNTMm50UElwVHQ0MXc?oc=5",
+      "summary": "Trump’s plan to get the world hooked on US energy Politico Trump’s global gas gamble Politico Trump's energy policy modernizes offshore oil platforms Fox News",
+      "date": "2026-11-18 17:25 UTC",
+      "category": "World",
+      "source": "Politico"
+    },
+    {
+      "title": "Tap water rationing a 'last resort' in severe drought",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcTRFcmdBd1dsaFowc1lFWXhGbDE5OHhRdzBENkpZNEwxNUZGUnlKb1pRTjBkQXFXNGJTTFZUSTRoTGFGRFdVNWZ4VUJISXBXaEk4d2JSUFNYbDA?oc=5",
+      "summary": "Tap water rationing a 'last resort' in severe drought BBC See more headlines & perspectives on Google News",
+      "date": "2026-11-18 17:13 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+      "date": "2026-11-18 17:09 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "date": "2026-11-18 17:00 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "date": "2026-11-18 17:00 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+      "summary": "Inside the old gas pipeline where Ukraine is fighting an underground war BBC Ukrainian troops say they battled through underground gas pipeline to launch attack behind Russian lines CBS News In Frigid Pipeline, Ukrainians Launched 'Operation Impossible' Newser Ukrainian Forces Use Kupyansk Metro to Fight Inside Underground Gas Pipeline Near Kupyansk: who 7 outlets blamed NewsCord Underground warfare in a 1-meter gas ",
+      "date": "2026-11-18 17:00 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "Soya Supreme maker APAG expands into mayonnaise, sauces",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXNYblJmUjhmMGdteldKak1zZXBTUU9kdENncnBFVkdUbWt6TEVhRzlyblR4NXN5Yk45M2lVRDRITGZTWXFPUkFIaHVqRDJfblJjRkUySldxRTNCMTg0NWl3ZzB1UWJ2emg5TWdncnA2OWtvckcwVnpjUDlGUnJHTTNzRXljRG9NY2lJcER2MGVQbzFJUl9GX0h2TjdCQQ?oc=5",
+      "summary": "Soya Supreme maker APAG expands into mayonnaise, sauces Investify",
+      "date": "2026-11-18 16:53 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Pakistan seeks wider access to Singapore’s food market, deeper fintech ties",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDhyZVZjTVRlbTZpVF9aVURRNjN3VmNsNUtLTEpuWERRZGNRUUktQXJ3MzR1dkMtZ1JlTE05Z3h1bHVqQWVZRUxvN3lkMVRIM2RJYjRoS0RkRWFvaGoxaW1wQW94aW1tdEZDcmh3LWdLa3VZUGcwcGgzdGI5QUdtaFJLMktndU5yRWJaWkp2TXlqNFIwVnRDTkFSVkdZaDRkbDRlZnQ2ckdRel94NFRWa1lJWGpmRG1L?oc=5",
+      "summary": "Pakistan seeks wider access to Singapore’s food market, deeper fintech ties Investify",
+      "date": "2026-11-18 16:40 UTC",
+      "category": "Pakistan",
+      "source": "Investify"
+    },
+    {
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "date": "2026-11-18 16:33 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "US warns Americans in key locations to 'keep a low profile' ahead of crowded holiday travel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhGNXl4X1JnMkFqZnBDc1JxVGE5UFM5aGtYREtzc3d5RFRlamxTVF9Lc1I1TnRzZGlfVzQzbjBtTVBxdmdRS0F6SlJ3UkpDdThhc1VlaGFXYWlkWjhRTTRYMDQ3TlhjQWJENFhHaGFEVVdsMFpBNFZEYlN0ZE1IeEVvc2x2QWpZMjJhc1NwQ0FGbjJsLUZJMnd4LXJDdkY2YlI4anNNOU84dUhLZXfSAbMBQVVfeXFMTnJOQVJJTlR0bFc4bEhYOGRPZG16VkhGWFZZWHdHT3VRc21ZYVNIcEdJQ3BmMERMdVlFS1lMaVFRT2UxMTBSWktxS0N2amE4YjY5VjJNU0JwMjZ5OE9XTzd5V3lXZHJ3YnhDcjB5Q3JzRVdzSWp6WkJqZ2lxTVFMUGNYamVxOW9MdzJsNTdCOUxZdzI2blhocElPYkIwMkVYTkRzU2RPeXp0U0NVY2JOM0I5TU0?oc=5",
+      "summary": "US warns Americans in key locations to 'keep a low profile' ahead of crowded holiday travel Fox News Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 U.S. Embassy in Bulgaria (.gov) Americans urged to 'keep a low profile' in UK amid terror threat over festive season Sky News US embassy issues warning to Americans in the UK: ‘Keep a low profile’ The Independent Europe Terror Alert: Americans Urged to Stay V",
+      "date": "2026-11-18 16:33 UTC",
+      "category": "World",
+      "source": "Fox News"
+    },
+    {
+      "title": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByMWtnQ3VDR0hReVUwMlg3cHZYMnJTak1ZdnpWRXBhWVllRWNocnZkRy1aZENfUjFteUJRNHJDWU44NjZzN2l5Ug?oc=5",
+      "summary": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments Dawn",
+      "date": "2026-11-18 16:18 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Pakistan Army Says It Successfully Tests Fatah-3 Supersonic Cruise Missile",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCbFpoNWN3dTFnVkVhNnQxalFmNVI4YnpIeGVTRHlXNk5jaTN3OGRzbVVvLWVxMTlLMWZGUWRvUnNlVmNEWDdKWWpRRDNFZGs?oc=5",
+      "summary": "Pakistan Army Says It Successfully Tests Fatah-3 Supersonic Cruise Missile thekabultribune.com",
+      "date": "2026-11-18 16:16 UTC",
+      "category": "Pakistan",
+      "source": "thekabultribune.com"
+    },
+    {
+      "title": "PTA says submarine cable fault may cause internet connectivity issues",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aYmpUWm9qSU5DTTVaM1FIUGZ6TFRfZ1Y3YU1hclhqLWNySVptVldwa3J5T1VDeW1Ya25odG5pTUhZZ3NrajkwVw?oc=5",
+      "summary": "PTA says submarine cable fault may cause internet connectivity issues Dawn",
+      "date": "2026-11-18 16:13 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "date": "2026-11-18 16:10 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+      "date": "2026-11-18 16:05 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Mexico Leader Goes Viral in China for 21-Hour Economy Flight",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUU1RVBpZ1k3eDJGMEZJajdmYnM3UE90WmFqY3VpTjJ2TXlsOXE1WU9mR1l0ZEdVY2hySklMTTJMZnFNQngtU3p0M01DVUQxRnNJcXRKWndwcGJqMGZUajV4a3pHdmZtSy1SMFBMQU9RbUs4cHJaazRUbVh4eE13dF9xMFBuQlRXRmtBVy04MEc1X1FLRld0Q3RCY2FlSUg2N190RjFmQWl6ZWJVT2l4SUY4d190UQ?oc=5",
+      "summary": "Mexico Leader Goes Viral in China for 21-Hour Economy Flight Bloomberg.com At APEC CEO Summit in Shenzhen, Sheinbaum promotes Plan México to global business leaders Mexico News Daily Xi says advancing China-Mexico ties significant to Global South in seeking strength through unity CGTN Mexican president arrives in China for APEC summit, set to meet Xi Anadolu Ajansı Mexico keen to strengthen cooperation with China, pr",
+      "date": "2026-11-18 16:04 UTC",
+      "category": "World",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Pakistan says successfully test-fired Fatah-3 supersonic cruise missile",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0FVeXlsbDFFdlRxWlBSc2pOZ1JZOXNHQTJWNGhsdGZLek5vbDZfS1hkRjBKSmVrS1VIbkU4UnhFbjhIOW1DMW1yZVJNWUF2SGoxbERQYWpRVERUbUhHa21YRE5DZFVxUUE2SG5kVzZicHlXQlJybnZZOHgyWkw4STdLZmMzY2JkMkpQT0xvcVU1aFI3Zy0zTnpVTy1naUctS0xWX0lGZWxJNjgwVVdrNDdB?oc=5",
+      "summary": "Pakistan says successfully test-fired Fatah-3 supersonic cruise missile Arab News PK",
+      "date": "2026-11-18 15:52 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "ASEAN secretary-general due in Pakistan for two-day visit to discuss enhanced cooperation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkR0b1VPZWF2d1YyaW95WlduSUFINmdoS2d4Tmp0cWZhcDRDZ3BZaGoweVJNTlBiTG5QaERqMmJaZ0QtS2NUbmJfdDJDaEpMVl9HeFJaM1RYUmF6MUhHV1M0MmliOXZMdGxveG5XX0xqSFNhcVdyTHNtcTM4cjRkVHQ3NF82ZkZrZEZSLTBCYk1xUDhZSjRMUlVuZnptUXZ0b1lyNHNVSkF1eVVTdmdyNUpLY0szSVNrbmhwaVFBRkJrS0VBWUJVQjlB?oc=5",
+      "summary": "ASEAN secretary-general due in Pakistan for two-day visit to discuss enhanced cooperation Arab News PK",
+      "date": "2026-11-18 15:47 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "date": "2026-11-18 15:39 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pakistan’s Afghan Paradox: Champion Abroad, Enforcer At Home – OpEd",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUI5WVU5WnFjUGtBS3g1QlpJaUdaY1NsQUhBVTM5dmF1SF95RjFkUTB4WTVPZUUyUGFVbzV6X2liR2hXX1V0dVhGdUwxOExaY3BVUzBqVTJIS3VFX1p1MGVxWHlja2FWNElSRFYzczl3d1I4Sm81Y3lhQjFtUGxkdnhwY0pKdlZqLUxrVWtocHlKamdYZTJYcFBpZHNQTUNqYktueg?oc=5",
+      "summary": "Pakistan’s Afghan Paradox: Champion Abroad, Enforcer At Home – OpEd Eurasia Review",
+      "date": "2026-11-18 15:30 UTC",
+      "category": "Pakistan",
+      "source": "Eurasia Review"
+    },
+    {
+      "title": "LPP leaves Pakistan Accord return open",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb05OVjdtVzYzSWZWREdEdWU5bXNyWnpNT2NUWXM4SExZT2ppTFZubWM2QzV6bE5Gd24tQ2M2VW9NRUdzYVljTGszUGc1R1FwNHdBcy13TkUxdGNmQlZkVWh3N1VpMThzbENNRkhLVU1HMGpSQ1R6SVNWRUlLZmgtNzRyc2R1NjRJNUVRRjByVVVFdWlYRkptcy1HWjJsZTNNX3NXczY0YzQ0dXhuQnNXWQ?oc=5",
+      "summary": "LPP leaves Pakistan Accord return open Ecotextile News",
+      "date": "2026-11-18 15:28 UTC",
+      "category": "Pakistan",
+      "source": "Ecotextile News"
+    },
+    {
+      "title": "Trump and Xi's feet said as much as their hug, body language expert says",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2hocnF0WU9qaDFRcXEzUVVEZndacnk1U0JTa1k0dnY3SDlwTXJDNEswWjhDNGVfVVM5clJXX2ZvUFlSRGNnVHFaZjFVMEVjU1IzcXhvSEtSdXdybHVOaXVBV3RqRFhjdXFYLTljdkNSamc0OFhIYjJrdE9hdllQamdkbzVXWk9DLWJ2WjFkb1FvSThmc0dhUGh0OHJEOFVYSzgyNVpDY00yUQ?oc=5",
+      "summary": "Trump and Xi's feet said as much as their hug, body language expert says New York Post Tracking Trump: Xi’s warm welcome; Hegseth’s surprise Venezuela trip; DOJ continues to probe Alaska’s Senate race; and more The Washington Post",
+      "date": "2026-11-18 15:24 UTC",
+      "category": "World",
+      "source": "New York Post"
+    },
+    {
+      "title": "Inca Children Were Given Cocaine and Ayahuasca Before Being Sacrificed",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTjdteDZURWZEbjFpOW1qcU1MekNyYWowZnZhWGpZTWh1bUF3Qzk4a1B2dnJFb3h6OFFzS3lMZzhPcjgtVzBaNG5COE9JZkdrdmZnY09QM3g5SnZWcVp2bGhTbFpjWnJaMGh4a1V6MUpOSnNiWTc0VUFRWnZ6WDhHcEFyTEFZaTBtdXZVamRRTkZRUFNLaDc4RUNnUms?oc=5",
+      "summary": "Inca Children Were Given Cocaine and Ayahuasca Before Being Sacrificed The New York Times Forensic analysis of famed ‘ice mummies’ reveals final moments of Inca children 500 years ago CNN Inca children chosen for sacrifice were given cocaine, alcohol, and ayahuasca before being killed on mountaintops Earth.com New studies add clues to the final days of Inca “ice mummies” Mezha.net",
+      "date": "2026-11-18 15:08 UTC",
+      "category": "World",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Pakistan launches Fatah-3 supersonic cruise missile",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0hXSHJlTGJwY1NUNFUyNGg4NmNGdGtwaFU3VHVacmI5akpMN19MOUo5SHFhbkhRMTNfb2NkSnQtaTZ6dXNwVG90amtJcHRsQkRPTHhPdnZNbkxuUUdSeGVJNU51M0l1OEpScjd3ajEwZTRZMkNqcVZVaUFYa2cxa0E5QlVoWWNXVm9jUW12MUNGTjhodzZSSg?oc=5",
+      "summary": "Pakistan launches Fatah-3 supersonic cruise missile Anadolu Ajansı",
+      "date": "2026-11-18 14:58 UTC",
+      "category": "Pakistan",
+      "source": "Anadolu Ajansı"
+    },
+    {
+      "title": "Delta Energy Saudi Explores $30Bn Energy Projects in Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1JRZ2RMdy1DaVhtU1dDYS1xOUstem9mRWVOSmNadjd5T19tT001MGlJaXZhVDhpX2NXcHBNcGxIRkMwZzM3Tjl6WGU3OVdCd3BjUDZldVJSWHpTc0JnTUlabnlKNmRfcERVUEFTek9EQXF0UHFveHFGWWlJTzZXODNhY2RUcGMwMzltNmd5X3hqNlpLUXc?oc=5",
+      "summary": "Delta Energy Saudi Explores $30Bn Energy Projects in Pakistan Egypt Oil & Gas",
+      "date": "2026-11-18 14:54 UTC",
+      "category": "Pakistan",
+      "source": "Egypt Oil & Gas"
+    },
+    {
+      "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+      "summary": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations Reuters EU proposes fresh $49 billion loan for Ukraine as war costs mount AP News EU to Push Reluctant Capitals to Back Fresh Loan for Ukraine Bloomberg.com Brussels to tap Russian frozen asset profits to service new Ukraine loan Financial Times All EU members should back €45bn loan for Ukraine, says von der Leyen – as it happened The Gu",
+      "date": "2026-11-18 14:52 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
+      "title": "Asean secretary general to undertake working visit to Pakistan from Nov 18-20",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3M3hidUxBU1hwQXBySnpFQnFwaERKcXZNWmVSb3QzM1U0Zm9GMVJLZzZ5X3l0ZVY4OHhYNXdSZjRyLVE5d2JQRg?oc=5",
+      "summary": "Asean secretary general to undertake working visit to Pakistan from Nov 18-20 Dawn",
+      "date": "2026-11-18 14:42 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYklTN2ppazZ0YmtZQUVsWGVvN01DSldOYkZ1Vl9rVmpVOXA4N3B3dl8yeTg1SU56TG56S1NnTlB3R3EyRFZDV3ZyYnY0Vy1va1VKT2M0Qkg2ZTFsOHVhNGdfT2k5blZXMXlxaWZwZWc2Z3BmMktGTS1jekwteHpGM3c0VUhyaWxqd2t0QzQ1SHVWaWo4eGNFaXNRT1dFZmZpYmhOVkNySi1YYmZDekZWUdIBtgFBVV95cUxQYjdxSzY2dVg3S1VZUm9YVXc4b29vNldIeVBjMFN4a2xreHNOTkR1UmIwSmNRYkNTbkctLVctcmxRbHFVeFNUQWp2WkZGWlVMWEJldlAzX3ZnLUdHSG14VXFOQU5mTURuNmZyWEdkWUNISGRuVXU0WmdBVFRKM0V3cHJpeE94dUp1U2pFcFVxV3lxTDVjOFZXNi11MG9FZ3JzTnhmVlVVZ1JRUDlTY3dhYWljazhOdw?oc=5",
+      "summary": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge Al Jazeera Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years. The New York Times What the Crimean bridge attack means for Russia DW.com Russian Offensive Campaign Assessment, November 17, 2026 Institute for the Study of War Putin enjoys boost of historic Trump-Xi talks, but bridge attack deals a blow to his pride NBC News",
+      "date": "2026-11-18 14:40 UTC",
+      "category": "World",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pakistan quicks put series victory within reach",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWp2bm5VZHFfNnk0d0RSWWdSM3FLR2pZSXJzQU1OUXY0N2ZTYkFmUlBsbWYwWmNYcWtwSnJacDVrNW9iYmw2OENLbUl1eXRGa3h4OHZIbzhieEZ0RWwyMzVKaW5nbGdKYUpfZF9RVzNCSHRqMkVVSHdTNTdzeG5SZ2JGZw?oc=5",
+      "summary": "Pakistan quicks put series victory within reach SA Cricket Mag",
+      "date": "2026-11-18 14:31 UTC",
+      "category": "Pakistan",
+      "source": "SA Cricket Mag"
+    },
+    {
+      "title": "From Strategic Geography to Regional Influence Under Pakistan’s SCO Presidency",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGtSMGhfRDR3VzEwNjVSc01PVnRzQUplV2NMQkkzeWtVUVpFTGtFZ3U2TGUwUkRtUnhuVFpGRHQtQ055R0hxWlF2MVd0ZXZqcFo0eThCYzIwU09jR3lYcEZlVENxUVd4eFJjdDh6bjRjUl80ZmI2ZDgzMDduLTkwWFpfSHBRbGZKTkdaVkdwWGdYSFEtTTU0S2UzekR2S2Vad1gwc2F5Ylg1TFdfNVpwOEY2emF0el80X19wcTZGbVVVNDV1SnVfNQ?oc=5",
+      "summary": "From Strategic Geography to Regional Influence Under Pakistan’s SCO Presidency Centre for Strategic and Contemporary Research",
+      "date": "2026-11-18 14:27 UTC",
+      "category": "Pakistan",
+      "source": "Centre for Strategic and Contemporary Research"
+    },
+    {
+      "title": "Joint Press Stakeout by the DPM/FM of Pakistan and Minister for Foreign Affairs of Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFY2dkJOWjYydkpmaVc2c2ZLR0UtZk5YaXRPR2Y2b3ZiMERRMXFFY1hlZUZRdFRaY1Nwc3pIMnhadTNLanpjbWJ2cF8wTU55ejY0dUNFWm85WDFPZHBNM0I3UFY4SDItRERNRF9qRVRSOHhKRVppM24yNmRKemdjNTJ5QTVRQXRudHZCdVRDck9MMUVZQmZqQThjTHQ3dUIxY3BrUi1ULTB5M0FTYzF6cEJHRkMtRDBtNmVn?oc=5",
+      "summary": "Joint Press Stakeout by the DPM/FM of Pakistan and Minister for Foreign Affairs of Singapore Ministry of Foreign Affairs",
+      "date": "2026-11-18 14:21 UTC",
+      "category": "Pakistan",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "title": "Four militants killed in gunfight in Pakistan’s restive northwest, police say",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHQ5eFg3MW9Cc2NFTkF1NUFGSWFZQlNwM3V1d2ZFTmRfYWhoNXh4bmFoT1k2X3BtY2dmRnlRUnNFWmNZUTNld2NfQlF6SFplQjJPSFBDUlQ4SGQ2eFJRTGNBSnpZTGRqN3lRVWhCWlVfZXdwV0M0RUJvcUVVWlUzUmItZnlQdUw0V0p3ejJnU0pCNFV1MTB0T1lQOW9Uby12bTM2YTl0bEp1Y0IyTER0d2kwM01pNk0?oc=5",
+      "summary": "Four militants killed in gunfight in Pakistan’s restive northwest, police say Arab News PK",
+      "date": "2026-11-18 14:12 UTC",
+      "category": "Pakistan",
+      "source": "Arab News PK"
+    },
+    {
+      "title": "Yango Pakistan Launches Direct Bank Card Payments",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGNxUDJjVm0yeUgwa01weUI5WENJcEtLbThnQ1RBQkI4aDRTV01xTWk0NUlFUG5maGQ1aGxDRGdXbDBVV0M2dXZ3OEhiRFRqYzZlT0tnVHdwdlVFU2dHM1ZBSGQxVHNOM1U4eGJEUXpCdEtiUTBwcG5aa3NsTnJweGpMSQ?oc=5",
+      "summary": "Yango Pakistan Launches Direct Bank Card Payments Digital Pakistan",
+      "date": "2026-11-18 14:00 UTC",
+      "category": "Pakistan",
+      "source": "Digital Pakistan"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "date": "2026-11-18 13:55 UTC",
+      "category": "World",
+      "source": "BBC News"
+    },
+    {
+      "title": "India’s Rafale Fleet Falls From 36 to 32 After Pakistan Conflict | Dawn News English",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXJTcmYxRjZVX1F6UTdfOWc2alVTZXVRVGpqMVZxUmRvRE1rdjZBT2lpdmFKRzRYU1pqaXRTeWpGRTJaTXh2TU1PSnhxNkx2dHJkS3dxZy11d2NSMkJ1VUd1REYyMjBOMUxvVVg0NHMxREQyOFJlbTFXRGQwU2ttdHlhVUl2NlBzN0I2eVlJME1nX2JkdDBSOTFvWHZlQ2xpd0NxMWhENzFpU0p0MUNHc25aa1ZDdw?oc=5",
+      "summary": "India’s Rafale Fleet Falls From 36 to 32 After Pakistan Conflict | Dawn News English Dawn",
+      "date": "2026-11-18 13:45 UTC",
+      "category": "Pakistan",
+      "source": "Dawn"
+    },
+    {
+      "title": "Ghori, bowlers put Pakistan in command despite Kumara five-for",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT05KbjF1LURxbkg4czgzYU9TY2V2X29Tc1o1VGdJQmsySXhpaDBmTHlMdjMzN1RSTFhMOUlaSjlSRGNibWZZN1RNVFc4bWZPcUp5MUVOdUVuVV91dmNqcG9oYlA0bExpbk9ZZ2U0RDdZU18yWlZHLVluaE1Ma3RScTJ3UzV0UGF4eXNORFRNdWg5N1RLdGYxeFMxSWF3YkVJSW9ZcHFnN0tmd1NfSEpLUXFQSHVYcFhxcm5FZzdB?oc=5",
+      "summary": "Ghori, bowlers put Pakistan in command despite Kumara five-for Cricinfo",
+      "date": "2026-11-18 13:40 UTC",
+      "category": "Pakistan",
+      "source": "Cricinfo"
+    },
     {
       "title": "PAK vs SL 2nd Test Day 2: Pakistan Tighten Grip in Pindi",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFhhLXJBWUl4cThSblliUVZXNXdpVnVvY1pOSVpsZHNnYXBnaWpUUmc1NkZycFcxTmFldEZia3hZc0M0bVFBMWZEZ1BVOHlVQXBqLW84Uk5fcndtMmlRRjk3MHhSSlczNi13MXROb085NWtaR0lFNUhlUVN3MjRaN1ExVlI0YUN6SkRTOHlSVHFBZjEyZXV3?oc=5",
@@ -10,12 +506,12 @@
       "source": "Tapmad"
     },
     {
-      "title": "Pakistan Army successfully tests Fatah-3 supersonic cruise missile",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXp0RFpEdWdveGIwVkxiTnJ4WFFsYTVDYjNHWWxsdzJMM2NwaU9TQ240bmZIdTJmbERhVFRzcTZNQ25WYzB4U1ZRRlo1S3pLeW1SbFpZM2djeHdTSUR4U2I0dmxHeUQ5am8wSnVObkZydmFVWkV5aDZfdU9vOXlqMDEwY3Zib1ZjeU9Hd0gxODZpeGFZLTJKZlE2NVJnV2RhSnFiczJnc0ZpQdIBVkFVX3lxTE5kdmZZRlh4QzB5ZWhZSWlDREp4UTVtQ3l6ZlZWWVVmLWNiQU1fZDUtdVF2eHVLVzVMTzVTdUVUckVkY0hsdzBmX3ZCSWFsX1E4QTBCd2FB?oc=5",
-      "summary": "Pakistan Army successfully tests Fatah-3 supersonic cruise missile Business Recorder",
+      "title": "Why France is sending soldiers into Ukraine and how Russia is responding",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYy1OcnpBTzdXXzY3NjVHMGJoMllueFA0SzlvT2h4VmJBaTMzd2daNGcyVEU2VDRIdmxOcGRxak5pdkNXTHg0Zy1Fdk5HWVJYN0c1ZllIS0ZKR3VDTWd2Ri10b2UtVXpWNjRCQTJoaEttMElYMGJWR29uWE9sR2hCVDYxbDlCSERQM2NRZWJCS1p3Um1udHdoaFZZT09JQQ?oc=5",
+      "summary": "Why France is sending soldiers into Ukraine and how Russia is responding AP News French troops are now operating in Ukraine Le Monde.fr France is not 'co-belligerent' in Ukraine, French minister says Reuters French troops deployed in Ukraine on secret mission: RFI France 24 France Officially Confirms Its Military Personnel Are Operating in Ukraine UNITED24 Media",
       "date": "2026-11-18 13:33 UTC",
-      "category": "Pakistan",
-      "source": "Business Recorder"
+      "category": "World",
+      "source": "AP News"
     },
     {
       "title": "7th Round of Pakistan-Italy Bilateral Political Consultations",
@@ -26,48 +522,72 @@
       "source": "Ministry of Foreign Affairs"
     },
     {
-      "title": "Pakistan says successfully test-fired Fatah-3 supersonic cruise missile",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0FVeXlsbDFFdlRxWlBSc2pOZ1JZOXNHQTJWNGhsdGZLek5vbDZfS1hkRjBKSmVrS1VIbkU4UnhFbjhIOW1DMW1yZVJNWUF2SGoxbERQYWpRVERUbUhHa21YRE5DZFVxUUE2SG5kVzZicHlXQlJybnZZOHgyWkw4STdLZmMzY2JkMkpQT0xvcVU1aFI3Zy0zTnpVTy1naUctS0xWX0lGZWxJNjgwVVdrNDdB?oc=5",
-      "summary": "Pakistan says successfully test-fired Fatah-3 supersonic cruise missile Arab News PK",
-      "date": "2026-11-18 13:28 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan sugar export approval and crushing delays – market impact",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2NTQUR5cVNpTjcxbEpyeV9sRlFLRHlRNTRyMHViZkdIcnRFLTRVZFJmZmg4b3JCT0ZxR2RoQVN5UFFEbUZtZ0xuU04tM2VnYmhkc3BiX1NBTXFueVluYmt0MGxkd0FBM3VNYk1CY0dHV0hYSGw4aEdacTBjTFdVM2xNSHlqcnoxbmlwN1pjSFRCLVI2WUdPdHJVcw?oc=5",
-      "summary": "Pakistan sugar export approval and crushing delays – market impact CMB News",
-      "date": "2026-11-18 13:24 UTC",
-      "category": "Pakistan",
-      "source": "CMB News"
+      "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmVpSmhsV3JnRGhaaF9ZYWNFYlZXN3lyRzdnQ0NXYTlJRXlBWmM5cERrdVpMYTlqVHlEZjYydGNmNWJjQ2tfZE80ZXhnR01SQW14ZnltYlBVeURhQ2lRV3JWMm5NdVZjS2Y5SzFRQ0g2eklFdXBuR2F4Mi1vS25sQnBFRnFDTHVPX1lzVlZ3OC1CRFFGS3dCZEZBcml2MWc?oc=5",
+      "summary": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken The New York Times Trump Treated to Jollibee Diplomacy With Late-Night Snacks From Marcos Bloomberg.com Philippine president has Jollibee fried chicken delivered to Trump for a late-night snack AP News Imelda, Modi and Jollibee: Lighter side of Trump's Manila trip Yahoo News Singapore 🎥Trump reunion with a friend in the Philippines and a late-night snack JC ",
+      "date": "2026-11-18 13:29 UTC",
+      "category": "World",
+      "source": "The New York Times"
     },
     {
       "title": "Pakistan tighten grip on second Test against Sri Lanka in Rawalpindi",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLU5JbjROOHlneXhsNm5FWmFSRHl4SlVGMXpMaXhCMEdLcGxaRTVDTTZqa0ZGU2ZLTURfdWhfVmY0ZVFWWG51dTZkLVpmRFpyRWlkb254QkRkVklQejkxNTJNT2lLRXI0eldWXzhfNGNfN0J5WDZ6Ny1TeS1aVVhmNXFVZ2JkYlQ0ellDdVp6N1ptVTVDV25zNEx6WXRwTnpTci04RTJ1czZWRkFO?oc=5",
       "summary": "Pakistan tighten grip on second Test against Sri Lanka in Rawalpindi Pakistan Cricket Board (PCB)",
-      "date": "2026-11-18 13:08 UTC",
+      "date": "2026-11-18 13:09 UTC",
       "category": "Pakistan",
       "source": "Pakistan Cricket Board (PCB)"
     },
     {
-      "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0h0QW1iQjZ6NFk0Mm8zVGlDR1JYaVhrdTkxaDY4U2RxWENwcFhrLW9JU0Nfb2RfaEZDZDgyUnFyb0xadVB0TzBiaDJPRDltYmFiWVRVSUZZQUJKcHdsUnRUdFQ0YzIzeE96T0FSNHVuYWk4b2RYZTJMQU9sMmsta0p6RzlqTTRVbk1WcElBTjI1ZkViTG9pdVlrQ3YxOXRTa1VfMy15MHNYUm1ZSVlleQ?oc=5",
-      "summary": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi Cricbuzz",
-      "date": "2026-11-18 12:59 UTC",
-      "category": "Pakistan",
-      "source": "Cricbuzz"
+      "title": "Trump touts ‘landmark’ trade deal with Philippines",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzFEUGtzd041Uk54NWVjS2tJekhLelB0bC1VeUJBZmZ0VjAwQW1kQm01LVFBNEw1aC1kY2RmZ2lMN3N1UHBoejVPT09rTDZYd3NFSmJFUlRMQ2ZSVjR5bC15ZXR1NUZibC1PRmVUWnhzZjlHVWwxcVNyS3JCcGZkWGpKLTl6dknSAYwBQVVfeXFMTkZrZVhlVzFtUm1hT0dzRFRzQ0g1YzVkUUxlR0FrNnpHRHpfbUtHWmlhWVpkMC1UQm9HYU9TbE9VVENQMDB0Y1IyS1o2QlNyeEdNeXBFOGExcV9BNUpTbUJSU1p6Yy02YjJYVUI2WW9zMmh5WFVuQXJRMXU1ei1IaHN1M2RieFd2UFFIN0k?oc=5",
+      "summary": "Trump touts ‘landmark’ trade deal with Philippines The Hill Trump Will Miss Most of the ASEAN Summit The New York Times Trump lauds defence alliance with Philippines ahead of China talks Reuters In Manila, Trump praises Marcos family, 40 years after dictator was deposed The Washington Post Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit Al Jazeera",
+      "date": "2026-11-18 13:07 UTC",
+      "category": "World",
+      "source": "The Hill"
     },
     {
-      "title": "Trump is trying to put the Iran war behind him, but it’s not over",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE1ReU9uZ3dGbXlkREpmMlczVmVkb1B1bm9FcEZUdFlYVG00NXFRclhMMmdjRjFmb0R2YTRGSmxzRVJQckJkNGF5Tmg1UTdxRTh4Mkd5RXpjakNkQlpoZFRrZWNQRGdJOUZwaVRiQTNPblhnMG1wQlN2QjhIcGVRemxGamdkbmxBY084MkN6NDJIMGhDS1BucVJXNWhZelA3V1VF?oc=5",
-      "summary": "Trump is trying to put the Iran war behind him, but it’s not over The Washington Post The War Room newsletter: Will America or Iran blink first? The Economist Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say Reuters Trump's Iran dilemma: Strike, negotiate or tighten the blockade Israel Hayom Trump keeps weighing his Iran options. He should do them all | Opinion USA Today",
-      "date": "2026-11-18 12:55 UTC",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "date": "2026-11-18 13:04 UTC",
       "category": "World",
-      "source": "The Washington Post"
+      "source": "BBC News"
+    },
+    {
+      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5",
+      "summary": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say Reuters Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war? DW.com Eritrea accuses Ethiopian army chief of making territorial claims, fueling war tensions Anadolu Ajansı Ethiopia-Eritrea clashes threaten full-scale war Courthouse News Service Africa news today: Ethiopia-Eritrea border tensions, Senegal's Fay",
+      "date": "2026-11-18 13:04 UTC",
+      "category": "World",
+      "source": "Reuters"
+    },
+    {
+      "title": "With new speaker, Israel parliament moves to unravel Netanyahu legacy",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEttWHh2ay12RVlkRzJkTVhFc2JxYTFoMzJjVWFYOUFXRE5hTmpnZUNSZm1RS2g3YkZrM1VHZXFUYk5VaEkwV3pEODBjYWZiVFJlNXpEMXRiWWNRWktibFoyTzZINzBRSEJaaGJKY3pPcVlweFo2aWVhQTRrMkNVLVVjVHNneVM3Z09zeFBOYzFZSUdsdTZVajF1c0pneEZ6NEVjN2F1NWNZNGdtci1rUHpjLUJ5QQ?oc=5",
+      "summary": "With new speaker, Israel parliament moves to unravel Netanyahu legacy France 24 Israel’s parliament elects new Knesset speaker, weakening Netanyahu’s grip on power CNN Israeli parliament elects new speaker backed by Netanyahu’s opponents The Guardian Eisenkot smoothly got his candidate elected Knesset speaker. Becoming prime minister remains a whole other challenge The Times of Israel Matan Kahana Elected Speaker of ",
+      "date": "2026-11-18 13:03 UTC",
+      "category": "World",
+      "source": "France 24"
+    },
+    {
+      "title": "Police officer assaulted at protest against academic",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZeHlCbVY5cEN6ZjRfdnIzM01NY254NXNZOF9KSldiQ3l6TzdWbUctWHZ3a2RXUGMyTWFqSC1QaTZIRXVRWTUyYTRPNzJfRE1EZkp5Z3c1Y2RYQ2c?oc=5",
+      "summary": "Police officer assaulted at protest against academic BBC Anti-racism protesters disrupt academic Nathan Cofnas’ speech at Oxford college NBC News Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford The Guardian Activists lay siege to Oxford college hosting ‘race realist’ The Times Protesters block talk by academic who made first Arday plagiarism claims The Telegraph",
+      "date": "2026-11-18 13:02 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
+      "title": "Ukraine says letting private defense companies buy and operate air defense systems is paying off",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkJ6TDJNVWNMZ2xvVDcwZDdDYjA5ejRPLWZ2OEV1T1NJSVo0a1k0dW1Ibl80aVNiRENZSHp2NmZLNVFBQ3B4emJpLTB1ajRhdWl1R2NfUmFXSmwyakRzYzFoZV8tWEJ2M1pYRDNKcWphdk1YNmd5cG1MY0ZTREI4eGctZFIyQ19Od180bFM5NmxudV9QMlM0NlRMZ3I?oc=5",
+      "summary": "Ukraine says letting private defense companies buy and operate air defense systems is paying off Business Insider Ukraine says private air defence teams have shot down nearly 90 aerial targets since they began operating in spring 2026 Defence Industry Europe Ukraine's Defence Ministry reports number of Russian assets destroyed by private air defence Українська правда Main Odessa Journal Ministry of Defense: authoriza",
+      "date": "2026-11-18 12:51 UTC",
+      "category": "World",
+      "source": "Business Insider"
     },
     {
       "title": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk93QnFYUzB3SVlKX3hwbG41Vl9jM0U4ZXd4TUNBRUZCRGhRZUYxYjhoc1duLVBhbFA5MnJWRm1vSlc2ODlUb1B4YXRNNGF4U0tsejZZZloyYTBzRVpETDEzTHRxeGc4RUVSNGdjZGFyZFFUb0hmTElLZFFvNlZaaThIYk1YYklCdHJZYkpZamItcHFOaW1DT3BZSkNXMGRNYXdtcEJ4clZjZGhQbS1VMw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10bkxsT0dwcDNpclhqcmlEQm5JaTNOblI0ZFpaVGtXUzVfT3ZSOHJvZV9sZVluNm02WFl3bTl4WS1KRFlTdEtBVQ?oc=5",
       "summary": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR Dawn",
       "date": "2026-11-18 12:50 UTC",
       "category": "Pakistan",
@@ -82,18 +602,18 @@
       "source": "Arab News PK"
     },
     {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "date": "2026-11-18 12:39 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
       "title": "Pakistan’s Ambassador to Turkmenistan, Dr. Faryal Leghari, called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar at the Ministry of Foreign Affairs today.",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVHJMSDFMem8xR1BUZDlfSjJTdW1PMzB2c0pnWm5hbnhURU5TU2t0RzllNmNlV0JLSkY5RmhhM191bWhYNlpGUXFxQnBqa0pnZm95TmNOUVdzU3lIYUVqQ0U4QURMNUhsOHBqZ1otNlNnbUtQMnRNaFo2Y09mdW8yd2llYjNmMEc0QmlIZnFDZ1NFdUVyWFktZkgzYXZGeHlKZ2I1dUw1amdKQ3FPNThVRnl2UnBDbEJuVFhobG43d2JfSEdsSUNoYXpoV2YxUkRxMmI3RUlsN29leVpyQk9pOUtrUjFwUDlaTGw1TG03S0dhWFQ4WWxEZjhXNnZxLVRkcTZfUFFNWFhxM2d2NVlpM3NMTG9zZzA1OXU4UXpJVko?oc=5",
       "summary": "Pakistan’s Ambassador to Turkmenistan, Dr. Faryal Leghari, called on Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar at the Ministry of Foreign Affairs today. Ministry of Foreign Affairs",
       "date": "2026-11-18 12:33 UTC",
+      "category": "Pakistan",
+      "source": "Ministry of Foreign Affairs"
+    },
+    {
+      "title": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar chaired an inter-ministerial meeting today to review preparations for the upcoming session of the Pakistan–Turkmenistan Joint Intergovernmental Commission (JIC), which he will co-chair",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOcUl2dHdLTXRleDA1YzRFckdRX2RDdkVPTmhxbjg1Q21ENWFNR284X2JtbXV6N2tiakVNZ1JRSzZRdVVSNkRkSV95M0hOclNZVlFqNFVxRlZvR2VSVGRjTkZJNzB4cF9hS0piZTFXbXVEZVFSOC03ZmY0OThWU19oM05YTmRUelByVGx3a0dfeThCeDVSVGZzTnFZam05SmRrQ2xNa1ZHc0dvQi14MlV2dVg5a21TcVJEMmF6enZZcDRNNjVURXBoLVVVYkd3U1BRVmRUOUNnVmhXZmJPWU92S095MUJra2t5NjNMOWsyZ2VWRnphOXJXX2Z1QWt4VjQtYmYxeWhfYjRubVpqY2tOSFdJeTRxZ0FwbGI3LUZJRmZYYnROZWl1SmlIdzAwZ0JUZm1HR0hYc3FwZlY3akU3d3l6QkNzVkx6d2lROTAteEZsWWJhT0s4RFNkQmpqaXdBeTVaei1GazNKOXNZQ1hiUDZrZENoX1RJR0lod1ZEd2w3V2FLcWRBaEVaRmVHRUt4WmUzZ1FhV2pKS0phSGswQUVkUXdUR3NzTk1QY0xxZV9rWnJWSjMydWhUdExfUQ?oc=5",
+      "summary": "Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar chaired an inter-ministerial meeting today to review preparations for the upcoming session of the Pakistan–Turkmenistan Joint Intergovernmental Commission (JIC), which he will co-chair Ministry of Foreign Affairs",
+      "date": "2026-11-18 12:28 UTC",
       "category": "Pakistan",
       "source": "Ministry of Foreign Affairs"
     },
@@ -106,20 +626,36 @@
       "source": "EEAS"
     },
     {
+      "title": "$135 billion in debt, still getting loans: Who is keeping Pakistan afloat, and why",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUGpvR2dJbFZ0MnR2U0h0SVVzNUhLak83MnZBTmtqUzY4aDJoYmEtT3M3SWxMNDM2WWNXRUZjY2hXVTZoT1dHSHhVa05rYnp5dVpJRGZnZnEtMmdjVHIzMEpNM1BFVXZTQm1XUkpqUmczM0E2Z0lkTUZvT3VyUFJUdTcyLWtBNVpQZjBtNDlGdDJld3dUV0lKaE1LSzVPd2FYTC16ZV9FekFrMkg4aHdGMjhVYlhzWUNKZWNEMlF2N2ROU05pZHMxM3U3OF9tbTlpT3pyMEM0RVAxWlMyT0J1Qk9INzRMZnFYaThz?oc=5",
+      "summary": "$135 billion in debt, still getting loans: Who is keeping Pakistan afloat, and why The Times of India",
+      "date": "2026-11-18 12:16 UTC",
+      "category": "Pakistan",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9ZWUxMTFhwQXgwVjF2dEctYWZMNTM2YmRDSWtQM005QklCTkgyNF9NTG9YMTV4NHJYWWRBRXBMV20wNFZUOHAwdF9iaUpEYlh3N2hZaDFHWVoxNV8wWkVLYVJOVks0TmpQOGh1LW1Mc0tpSzZuaGl0VUNtR2RrMmhMYXBKYnNyR3BVeTdiQkw1SnNjd2xYR0JYUndnTDJ3aE1JaTZxNjd1aC1oVHZ3?oc=5",
+      "summary": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump Bloomberg.com In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions WSJ Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? The New York Times Xi Jinping rallies against protectionism as he welcomes Trump to Apec summit The Guardian ‘We Simply Cannot Trust This Belligerent Neighbor’ The Atlantic",
+      "date": "2026-11-18 12:15 UTC",
+      "category": "World",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Russell Brand: Deputy Labour leader criticises media for 'amplifying' prison message",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QNzRLNmN0cEItbkFqR2oxY0tfaFFlSzcxZUdyN3pwUDE1UHdIbXIxZUpYSFdVNGp6eWFLWnFycVZNZll3NEVyRW16aEs2SnE3TjlseVJGRnBaOE0?oc=5",
+      "summary": "Russell Brand: Deputy Labour leader criticises media for 'amplifying' prison message BBC Russell Brand prison message 'appalling' and being investigated, No 10 says BBC Minister criticises media for 'amplifying' Russell Brand's prison message BBC Russell Brand: six more women accuse him of sexual misconduct The Times BBC Deletes Russell Brand Prison Clip After Playing It “In Error” On ‘Today’ Show Deadline",
+      "date": "2026-11-18 12:11 UTC",
+      "category": "World",
+      "source": "BBC"
+    },
+    {
       "title": "Pakistan’s domestic Islamic bond issuance tops $36 billion, finance adviser says",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQV9LUWdnemNIQXA4Z2ViWjVBWU5UMGtHSmVGVnk1SDQyU3hBa0VnRUlmM1hPZzJ1WGdZN2pFN0hKNE50ODhOZEtIMU9vQzdmMnhGRWdkNWVmcUY2QW5FaHVIU2FUY0dFVFR0d24yUVpzMndGaUZYbjl2SjlxamFPUFF1VVZkNENVTFNWRm9GbmdFd2E3bldkbkxjVUl3blZRRTRGUmZGSmRWRkh4YlJhUkg1bEFUWUtCQlE?oc=5",
       "summary": "Pakistan’s domestic Islamic bond issuance tops $36 billion, finance adviser says Arab News PK",
       "date": "2026-11-18 12:08 UTC",
       "category": "Pakistan",
       "source": "Arab News PK"
-    },
-    {
-      "title": "Sri Lanka Tour of Pakistan – Pakistan vs Sri Lanka, 2nd Test – Day 2 Stumps Report – November 18",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUkxSb0ptcTc4Z1FTUjk1WElQVWt2azh6SDVqcXFFOFBzbVpLZUtDNzZyMkQ4ZHViSjNkMkxPU0k4VnRfT2NtTE5rY1ZTWTlNbVBfenlXWF9lZVVFLUJKSVJWcXFka2ptUVVud2FweXZlZFpiWENWUUZMR2VGV3FhZHZDWlplMjcybUVWay1VT0NaWWFuWFFFVnFLanlfVl8zTWl5aUtDbTVMdVA2V2JvLXZ0bGliVUJqdkNkQ1NQNmdNV25CdG9ubw?oc=5",
-      "summary": "Sri Lanka Tour of Pakistan – Pakistan vs Sri Lanka, 2nd Test – Day 2 Stumps Report – November 18 Cricket World",
-      "date": "2026-11-18 12:06 UTC",
-      "category": "Pakistan",
-      "source": "Cricket World"
     },
     {
       "title": "Ground View Pakistan: skills pipeline and mining shift explained for engineers",
@@ -184,542 +720,6 @@
       "date": "2026-11-18 11:18 UTC",
       "category": "Pakistan",
       "source": "Mining.com"
-    },
-    {
-      "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
-      "summary": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait WSJ Iran fires at Kuwait after US strike on Iranian island Reuters Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes CBS News Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount CNBC Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
-      "date": "2026-11-18 11:17 UTC",
-      "category": "World",
-      "source": "WSJ"
-    },
-    {
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "date": "2026-11-18 11:12 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Gold falls below Rs400,000 per tola in Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDI4aTVVc25sd1lnaWcwRGZyczhONVcwaVVRLVFjVEtaUmlXS2hzN0hsd0JpODNiTEhHdTVNRVF5Q1NXd1doSjZGb19zTHgwMGx2LVh0bGZSdU41M1NmV2pMbW9iemVkUUh6X29CaUhiUXZBd0tCM1VZVkZ3V3lzdXBKVnk?oc=5",
-      "summary": "Gold falls below Rs400,000 per tola in Pakistan Mettis Global",
-      "date": "2026-11-18 11:10 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
-      "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHR3MnJxdzRWMjlsQldXeGlWYk9nbVFHNk9BWjVQZk1TeXVYZzI4OURscl9jRG02Q3g1ejQyVmhWX0FrQTN3aU9tNlVlU0F2SjVXX1lyUzJ6Tmlrb1MtY0tCVUV2WmdqcTNIbGpMdDl1d0VEOWo1eDdDalh5MlZzczNHMmxOTi1NWVdSaHRxZDYzSUQzOXc?oc=5",
-      "summary": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers The New York Times Russian military aircraft deployment sends potent message to Asia Reuters Japan sends up jets after alleged Russian incursion of its airspace BBC Seoul deploys fighter jets after Russian aircraft enters air defense zone Arab News Suspected Russian Aircraft Violated Japan’s Airspace, Says Defense Minister USNI News",
-      "date": "2026-11-18 11:08 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Pakistan eyes bigger role for Islamic finance in economic growth",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXVqZkNnLTRQcWdnX3M1YjN3LXdrbWVmXzk2VDA2RUd4dl9rSU4wV1c3Ujl4RlV6RnNVXzRCV2c1WlpzTmRCMG9rQjlVdTQteUlwS3ByUGJYRzUzLXN6QmhMU0ZVU3R2VUpqc05sZ1dNU29QMzUxekFmRU5XQVdkYnB0U3NaVzdtV1UxZmtwOFlBRTdQTWw3d0NXbVI?oc=5",
-      "summary": "Pakistan eyes bigger role for Islamic finance in economic growth Mettis Global",
-      "date": "2026-11-18 10:58 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
-      "title": "Pakistan Minister Urges Debate on Creating New Provinces",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObEpPTGhlVXpqaGEzbVpJTEgwTUM2VUVZUUpRdFF5UnBLZDVVaWdGWGhvMjNoTUUxamdGR09rZXA0Ql9iZkpnSXo5SWxUZnZQT1Z4MUU0Z2h4eW92bEpzOTNnTEN3ZDNPUVhRTVp5SlAzZ1lKRzZ0U1FKOFpVblpaOE5EbnN0ZmtJOHhIanN2aC1PVXZUVUtMQ29jbm1zc1RNbFdRQlNpSVdRR0VFMllKTl9nWGFNcmFEXzd6N0NuejJfeUFFbmc?oc=5",
-      "summary": "Pakistan Minister Urges Debate on Creating New Provinces Bloomberg.com",
-      "date": "2026-11-18 10:58 UTC",
-      "category": "Pakistan",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Pakistan reports ‘record’ LPG shipment after disruptions to imports from Iran",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFJyYUZtcWtPMkl0RXlyRHptQjBuU2JtdEt2RWRGYWJJRHY2ckZNVHZDTUJmeC05OURoOGVSQ0ptclhMQkM1U3NoTXJNT25rZU9vZHM3Y0IwY3V3NXZ2c1FRcG5sSW9zQ1BuWXVESmpWSThSaWtiTThXUFJ6RkdiMGxHeHE4U1BQSFBZVDl6Uk9uSU9EamU5WGNIaUloUGtTWlNpanlNMVg5YjhnbkNhZFRrV2FVVVE?oc=5",
-      "summary": "Pakistan reports ‘record’ LPG shipment after disruptions to imports from Iran Arab News PK",
-      "date": "2026-11-18 10:55 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan receives record 15,000-ton LPG shipment under new policy",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGJabVp0dFBjWUpoOHV3QUlFLWg5bk1zZVNIWGZlWjN4Y0ZjMlB6bVdHelNuNUF3YTRsWXFLZklYQklFZ01fOXIydGlrZjBlSExidHBqLXd0UXEtTkNaMGZxZjlEaDhmRi1UMUpCcWZGY1dlLW52Y2hOeWQ5eDlGMHQxUDNBbllVa0RGRENpQzZyYkZpNkxyMXhMN3FxQmQtZVJJNURZYUQzRkRn?oc=5",
-      "summary": "Pakistan receives record 15,000-ton LPG shipment under new policy Investify",
-      "date": "2026-11-18 10:54 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91QlJQMlluVndDeG5aSHZoN25zMlVNY2lhUThxeklxaUdmQ1JtUGFUd1FlOWtYVmhuVmpEeU1OVUxMSGQzSHBNMFh0MUZSbVVTTHFBXy1Vd25ZNnM?oc=5",
-      "summary": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin BBC See more headlines & perspectives on Google News",
-      "date": "2026-11-18 10:53 UTC",
-      "category": "World",
-      "source": "BBC"
-    },
-    {
-      "title": "Pakistan receives record 15,000-ton LPG shipment under new policy",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2xyYjd6eUJkNE10dVhvWEhtNi1ZU1BvaDNKSXBFZ2NadUdyV1kwZkdvTzIwWlhfVXBjYTlOX01faVFubFR1cm1tZmJIQzh0MnkwQ0hkYUREV3ltY01PUlhIWDY3dTlKaVlJMTRQZjlLTHN0ZXNfRjgtOXhFUGZxeDNJVm9XRzh4YTYweWNPaUdIXy1tcWJHXzJfOA?oc=5",
-      "summary": "Pakistan receives record 15,000-ton LPG shipment under new policy Mettis Global",
-      "date": "2026-11-18 10:42 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
-      "title": "For COP31 attendees, Pakistan offers a cautionary tale on climate finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObDZyMWdvcmxmSUhYWHpJQnAtU00yOW1zSGg2VnEwaExjY3A5RHh4MWl2VGlsUXlWSldOMENiYnpVVG16SUtHdms3U0Y0a3hCNkZGUEM2MDFiR1JKR0twX0d1WWI1N0Q5a0xzM3NOLU5CcFItd0NqWllTS3ZMR1dOZm9UTnN6SHJQVy12OEttTnpObHVvYV93QVJhV3B3ZmxBRmQ2ZVIwVk9rZWMwWVcwM2xrRUVycDlVU1E?oc=5",
-      "summary": "For COP31 attendees, Pakistan offers a cautionary tale on climate finance The New Humanitarian",
-      "date": "2026-11-18 10:39 UTC",
-      "category": "Pakistan",
-      "source": "The New Humanitarian"
-    },
-    {
-      "title": "Xi Jinping greets Trump as he arrives in China, a rare move ahead of talks with Putin",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGthR0pCT2Y1T2RUWTZscXdDRkgzS3R1c3Q1WExtblAtaUdfQTBVQVE0aGRhNzJwd2o1NHdCYnR2a0VvdWJCOFllaENNTnZJV3NjMjVlTUxHZEhhTVhkNmgwSGpzMlYtbUd0X2dLVC1tX1AwUkpkTnZpUGR6a1ZpRHFTVmh2bXNQeHp4OXVTU0dNUFpFaXZ4Q1BYQlp5NlN3UkxYRF93eVpDb1B2QVZzYm9DVk1IdEk?oc=5",
-      "summary": "Xi Jinping greets Trump as he arrives in China, a rare move ahead of talks with Putin NBC News Trump shakes hands with Putin and Xi ahead of historic talks in China BBC The incredible shrinking legacy of Donald J Trump The Economist Xi's Airport Greeting For Trump Breaks Decades-long Precedent Barron's Trump, Xi and Putin have a shared vision of global power – with no place for Europe | Rafael Behr The Guardian",
-      "date": "2026-11-18 10:37 UTC",
-      "category": "World",
-      "source": "NBC News"
-    },
-    {
-      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xNFRBVlo0NnhwZWhuXzVMZEEzdHRNRWF1UVNWSEphT1FteU15MTlhSFM3Q2tMZFNNQXg4YXNLMGxYMTJyeUFyVlVSbHBkcTlHNFQ0b0VES2hwaHZfenZZUVkxalg5UndGQUo5Y1BfMl91MEk?oc=5",
-      "summary": "Trump lands in China with key meetings with Xi and Putin on the agenda NPR Trump seeks to show strength in China, but a series of technological snafus raises concerns at home AP News Xi embraces Trump ahead of historic summit and experts explain the recent tech outages: Morning Rundown NBC News China Hawk Down WSJ Trump arrives in China ahead of high-stakes talks with Xi, Putin amid US technical outages WJLA",
-      "date": "2026-11-18 10:32 UTC",
-      "category": "World",
-      "source": "NPR"
-    },
-    {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "date": "2026-11-18 10:23 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "MINISTRY OF INFORMATION AND BROADCASTING (MOIB), PAKISTAN",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wRnJrZzJZWjh5V0d4VnFTbGMtUDBkOUgyUUxweFdrYVdFX1N6dlotNDVmUVdpb2c3TWlFNUd2cFpMRGNySUhwRVln?oc=5",
-      "summary": "MINISTRY OF INFORMATION AND BROADCASTING (MOIB), PAKISTAN Ministry of Information and Broadcasting (MoIB)",
-      "date": "2026-11-18 10:16 UTC",
-      "category": "Pakistan",
-      "source": "Ministry of Information and Broadcasting (MoIB)"
-    },
-    {
-      "title": "DPM appreciates IRC’s longstanding partnership with Pakistan, contribution to humanitarian relief, community resilience",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90R3BWZmdRck80Q0l5M3k3cVhfQkctdkpIaGtQMnFETS14bURfSHpKaUd1ZHZxWjhrbWluSmNqSXlVSW90ZEYycTR3?oc=5",
-      "summary": "DPM appreciates IRC’s longstanding partnership with Pakistan, contribution to humanitarian relief, community resilience Ministry of Information and Broadcasting (MoIB)",
-      "date": "2026-11-18 10:15 UTC",
-      "category": "Pakistan",
-      "source": "Ministry of Information and Broadcasting (MoIB)"
-    },
-    {
-      "title": "DPM/FM Dar reaffirms Pakistan’s firm support to central role of UN in global affairs",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hWWFKdExKQTdkejU0cUZCZGNBYXpqQjd0TV90NVY4X2lQQ0RsSGE0cnZFY2poN0hMdk1LTjdwQ2kyLWREWmFaNmlB?oc=5",
-      "summary": "DPM/FM Dar reaffirms Pakistan’s firm support to central role of UN in global affairs Ministry of Information and Broadcasting (MoIB)",
-      "date": "2026-11-18 10:15 UTC",
-      "category": "Pakistan",
-      "source": "Ministry of Information and Broadcasting (MoIB)"
-    },
-    {
-      "title": "MINISTRY OF INFORMATION AND BROADCASTING (MOIB), PAKISTAN",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UR3doOTRGQkVBTGQyMktTNWVWNTlwZkhqdXF4NUxkNWs5d0JZREJkZVcwdC1wRHVCT3hnVUpLYi1qQ3Ftdk5lSzl3?oc=5",
-      "summary": "MINISTRY OF INFORMATION AND BROADCASTING (MOIB), PAKISTAN Ministry of Information and Broadcasting (MoIB)",
-      "date": "2026-11-18 10:15 UTC",
-      "category": "Pakistan",
-      "source": "Ministry of Information and Broadcasting (MoIB)"
-    },
-    {
-      "title": "Pakistan, Turkmenistan agree to deepen cooperation in trade, energy, connectivity",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HZFpNcTBMaTFzaVh2NUNUMXRPeGZ5T1ptUi1YX3l2ak5JWC1JaklEN2ljUnU2Nkh6bHZtWGdBRTI4ZENCZVZ6MWp3?oc=5",
-      "summary": "Pakistan, Turkmenistan agree to deepen cooperation in trade, energy, connectivity Ministry of Information and Broadcasting (MoIB)",
-      "date": "2026-11-18 10:11 UTC",
-      "category": "Pakistan",
-      "source": "Ministry of Information and Broadcasting (MoIB)"
-    },
-    {
-      "title": "Pakistan, Turkmenistan sign protocol for 6th JIC, MoU on tourism cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52bXRFRGN1Z3RUSmItUnlweVlGMVByN0c4WXg0d0VEajQwUWYxSXBBdzJXR0NFWm5XZTFpSXQ2RVVQcjQ4UjBjVlB3?oc=5",
-      "summary": "Pakistan, Turkmenistan sign protocol for 6th JIC, MoU on tourism cooperation Ministry of Information and Broadcasting (MoIB)",
-      "date": "2026-11-18 10:07 UTC",
-      "category": "Pakistan",
-      "source": "Ministry of Information and Broadcasting (MoIB)"
-    },
-    {
-      "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnVuNkc1OXlhc1RYRmEwZTZIRDF6TmVMY2pTdnE4clplaDBDTmwzMkxFZVl1MmxRc2JBV0stQzFVR3gtMVl3TVhVOEh4TVF3aDR3aEZoT2NQQTZPazZPZEU3ZFU2MWFCVjFidXRIT2FFcHd2NFZzRTdyczNnY0M2Yg?oc=5",
-      "summary": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says The New York Times A War Without Beneficiaries Riddle Russia The Russia-Ukraine conflict will grind on The Economist Putin’s self-defeating narrative Sam Freedman | Substack Opinion | Why the Ukraine War Is Working for Putin WSJ",
-      "date": "2026-11-18 10:03 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Trump Raises Eyebrows at Presidential Palace With Wonky Walk",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblhEN1JxUWtVWTRCWEl6Mkc3ekR4SWRXRndZdjVHcl9kLVEzeW05TENZRDZCamttU0VVYzZzeHBrbkwtTGVsZTZXLUtaRmFhLUhHZXI2VzZTWUpDcGx0R3pBTEtjTlFyN05NNEJmaDhpUXZaTkZieU5OVHAtTDBCTnRfQnJUak9tOGIyZDQtS0tCb1hX?oc=5",
-      "summary": "Trump Raises Eyebrows at Presidential Palace With Wonky Walk The Daily Beast Trump’s legs seemingly buckle in Philippines palace walk as viewers say ‘something is wrong’ The Mirror US Trump's bizarre red-carpet moment fuels fresh dementia fears: 'His brain is fully oatmeal' Raw Story Trump's absent-mindedness left its mark on the protocol. Haberler.com Clip of Bewildered Trump Shaking Hands with His Own Staff By Acci",
-      "date": "2026-11-18 10:02 UTC",
-      "category": "World",
-      "source": "The Daily Beast"
-    },
-    {
-      "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeE81RHNyWV9Jc2dPbDFQR29pcEhYZlJCc1JFR1JsT1ctM2h2MG1aaEJ0dGk3a3VobmtWYzMtWW45ZGNPaXF0YlFUbDQzMUZpRmVONzBsY2M1SS04b0VZVnZ3V2N6S0l4UC03MWRkSVdGWVN2czdYTWxab1phZC0wa2k1RHJLTTBHM2Jla1BpVW4tQkdUdWR1QWdkWlI3ZEVCQnozOS1HUQ?oc=5",
-      "summary": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects NPR Iran-backed militia torture Iraqi environmentalist who refuses to abandon marshes IraqiNews A small gravestone for a fish that once lived in the Marshes موقع جمار Drought threatens Iraq’s marshes, risking one of the oldest ways of life NPR",
-      "date": "2026-11-18 10:00 UTC",
-      "category": "World",
-      "source": "NPR"
-    },
-    {
-      "title": "Clover Pakistan appoints Zeeshan Noor Siddiqui as director",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DSFJfQ0RMalNwODdiYUpmQVlPUi1HMGtLZEoyZW9LZjBrSnNmV1NHNlh2aTFENHV3ZGd5RG5vdllwVnkzcW01Y3diSEFIVWtJNTM4VEc0TGNfekU3N2xWeWtGNFljTEpvWlE?oc=5",
-      "summary": "Clover Pakistan appoints Zeeshan Noor Siddiqui as director Investify",
-      "date": "2026-11-18 09:57 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Pakistan eyes stronger trade, fintech, investment ties with Singapore",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0NKZEhreExScHZTQ3lTZlhRTUhVNWsxS283UVZHbXVHVVdoNWlzdVVRSk1NU3BreWx3OElJc2I5a0NFa1J0T1V1QS1RMzdIbGI4NEdnS2szRTB5UG5HeXptSzlMdlB0VnR0ZHNxNkU4YjVpSXdDc1V0NE81VFdJU3AyeEtKS1E4eE9hMWxrN1h5ZmExdFhfZGh6Rk92MUJiWFAzbjFnSVBlQTFyQlJj?oc=5",
-      "summary": "Pakistan eyes stronger trade, fintech, investment ties with Singapore Investify",
-      "date": "2026-11-18 09:54 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GRGtWZVY0X1NHdmt5ZWVxSTZZR0JoNTJJaXFBM2RPYS1abFcxYS1WaG8wN3RXSDBJckFhY3hBdVh6WGNUTkJWaEVLOFRsTUVyZjJScTRKNjYzakdFVUNKMEp5dzhWUUpkWXM0ZTF5UmFUV2kyaEtpUTBB?oc=5",
-      "summary": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos The New York Times Trump touts ‘landmark’ trade deal with Philippines The Hill Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank CNBC Trump lauds defence alliance with Philippines ahead of China talks Reuters In Manila, Trump praises Marcos family, 40 years after dictator was deposed The Washington Post",
-      "date": "2026-11-18 09:52 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Proposed vote on new provinces divides Pakistan’s ruling coalition over future of Karachi megacity",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjBWaEJiMFlxOVp1dTI2MkZibUJadU5uaS1JTDAzNGZrMndqV3E0enpSRmlBekVrOFR0dDdtcGFuUnhhZDd2dndKZzV3ZFFoR1dRRDhwQkx6czlYM1FGbFBvYmxSVk5TbWNIbFBvd0RBOGpkMllPbU5hS3htdTFwQk8za0pmcVhsWmxqVS1LUWwxdDByRWZQS2tsZF9VNXVCaW9EektvcGM4akJ1T2JzVDNTTmtIa3Z6dXJEWUhWUU1OSTVLZms1elNhZS1pWVItR3lONQ?oc=5",
-      "summary": "Proposed vote on new provinces divides Pakistan’s ruling coalition over future of Karachi megacity Arab News PK",
-      "date": "2026-11-18 09:37 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan eyes stronger trade, fintech, investment ties with Singapore",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVFzSXhlQjVvT25kWEo0SUhLYW9sU3VjYXl2OHVhQzBuWlFHV0cwazBOb1hRTF9EUnBEZW54V1VCTjVVYm9fcmRKTWRlQ1ZRWEhYYUd3MUVSMFBEUzhmeHJCWm0xXzZCT295RGhxNGRTRHpaLWhYSW94M1g2R1FIWUttRHc2aF9ZdDlFOG9TdmtVSE54cTJOZWtSVVdON3pD?oc=5",
-      "summary": "Pakistan eyes stronger trade, fintech, investment ties with Singapore Mettis Global",
-      "date": "2026-11-18 09:35 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
-      "title": "Pakistan cuts annual rate cap on mobile app loans to 90 percent from 274 percent",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGF3NlRJeld0d3E1Y2dDWEo3Z3B5YTkxZl84VEh3Z1lHUW5EbzBNTGlfVlhSZ2dBS1M1YTNUUkl4UW1VNG4wVGhZQkhyZkNLbXdmWHpyR1NoNnh0RW1MbDh5ZUs0MXhQcEE5MnpwOEZ3amxMdlRNTEN5R2xzUFN0UkFUYXgyMkZTZi1lZXR6dnFtVWdyZzlSXzVmU0dKNEZKV2hNRjI5d3ZWcjVJZk5maGh4RHlOY010dWFEelZR?oc=5",
-      "summary": "Pakistan cuts annual rate cap on mobile app loans to 90 percent from 274 percent Arab News PK",
-      "date": "2026-11-18 09:31 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "date": "2026-11-18 09:28 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-      "date": "2026-11-18 09:27 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Indian Air Force’s Rafale fleet down to 32, aviation publication says, backing Pakistan’s claim of downing four jets",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ySlh2aU5BNlJvZm01Skw3b3k0eFg0SjQteWpZeEJocy1qb3o4Y2lJbDhjTllzT3FrdEVBUTVWZjVlQllrYmt3Rg?oc=5",
-      "summary": "Indian Air Force’s Rafale fleet down to 32, aviation publication says, backing Pakistan’s claim of downing four jets Dawn",
-      "date": "2026-11-18 09:24 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Pakistanis’ direct investment abroad rebounds to $342 million after sharp fall",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVqMVA0bUpaSlAxV2NiMzBvMjdOS2IwdmlmdU9WTk1NYTU5ZFJEamVMSWZRMWpfblU2ZU5RSzROQmhCanRuc0dHNDczemZlbUt5SWlaMVltWk9jZGJ2Q09kaFlld2trY0lBOW1vOU9nS29VTFRvZ1FfREJzR09ONE96SkFhRHJDb0wwVlJVX3lKNVYzX0Y5d3VtWm0xZGVfaEo2V1VlTXoxTDdZNmJfNVZEZlpJd0F2?oc=5",
-      "summary": "Pakistanis’ direct investment abroad rebounds to $342 million after sharp fall Arab News PK",
-      "date": "2026-11-18 09:17 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Pakistan-India clash draws 8 million ticket requests as Cricket World Cup ballot nears close",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWTFoR0g2TUExVEFUclR4SUlzS3g1eDBVWE0xRVlnMFhUVzV3dGhPNkFTcEFGdzNtVTdBR1FpU2NxRlJmMm04WlNRVW5qeDhfb0s0Wm9odnFEdEJOanJHckVnWTVMVHZJVUNfRGR5Tk45REhiNmtpak16Vk0yaW45cFJBSUVmTWhWbkVZY1dWX2syNTA4SW1tTVQ3MGR1a3RlbzgwZDdlSmEtOHZkNE41b0lSbVV0dlpPdElxRDlIbV9QSmdBbVlPSmViTHowZw?oc=5",
-      "summary": "Pakistan-India clash draws 8 million ticket requests as Cricket World Cup ballot nears close Arab News PK",
-      "date": "2026-11-18 09:06 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzRVLVJmR1BsTTNKazc2dXZMOUlvX2xBdVcxbVROcmd5cXpLcW5hdktyTlFjNThuTmIwX2U4SkRmWW1VbHdxY0o0dlFPNGFaaUg5OWFXQ3FKX3oycmpaa002LXNON25TbGQzYTBWVDE5VjVrTkU0S2FfdkxHbVpoTW93Y3g0VndwemNnT1FCTktOeC1NQ2VybHd4OGg3YjY2VFJSeVY5bUh4bW1kNko0SEFESG1rWHhK0gG-AUFVX3lxTE5oYmNVYlM3bFNuaXJuWlpCV295N29WT2QwVDktaFpueS1IOURmdndFb0I1X0NRMF9QQlVoVTBDRklSU0lzbjNpQkZCcXZQMVI1czQ3ZjZoQnZ1MFRDaURFQlJnWDhlNFVMdFJXcHdnaVY2OFRjNDZaQ1VTUzhSdXJOTy1kNU9NRFZObGRuc1l5SUJ3dnBSY2pUa2UzeG1udVJzckg4eVFuczdHM2p4Qjd2VmRaVV9faU4zeE1LMGc?oc=5",
-      "summary": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc The Times of Israel Israel’s parliament elects new Knesset speaker, weakening Netanyahu’s grip on power CNN Matan Kahana Elected Speaker of Israel’s Parliament The New York Times Israeli parliament elects new speaker backed by Netanyahu’s opponents The Guardian Israeli parliament elects speaker backed by Netanyahu opponents Reute",
-      "date": "2026-11-18 09:02 UTC",
-      "category": "World",
-      "source": "The Times of Israel"
-    },
-    {
-      "title": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5",
-      "summary": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China AP News Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? The New York Times Xi, Putin condemn sanctions as Trump arrives in China The Hill In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions WSJ ‘We Simply Cannot Trust This Belligerent Neighbor’ The Atlantic",
-      "date": "2026-11-18 08:58 UTC",
-      "category": "World",
-      "source": "AP News"
-    },
-    {
-      "title": "From Strategic Geography to Regional Influence Under Pakistan’s SCO Presidency",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGtSMGhfRDR3VzEwNjVSc01PVnRzQUplV2NMQkkzeWtVUVpFTGtFZ3U2TGUwUkRtUnhuVFpGRHQtQ055R0hxWlF2MVd0ZXZqcFo0eThCYzIwU09jR3lYcEZlVENxUVd4eFJjdDh6bjRjUl80ZmI2ZDgzMDduLTkwWFpfSHBRbGZKTkdaVkdwWGdYSFEtTTU0S2UzekR2S2Vad1gwc2F5Ylg1TFdfNVpwOEY2emF0el80X19wcTZGbVVVNDV1SnVfNQ?oc=5",
-      "summary": "From Strategic Geography to Regional Influence Under Pakistan’s SCO Presidency Centre for Strategic and Contemporary Research",
-      "date": "2026-11-18 08:56 UTC",
-      "category": "Pakistan",
-      "source": "Centre for Strategic and Contemporary Research"
-    },
-    {
-      "title": "Saqib frustrates Sri Lanka as Pakistan extends lead to 123 in second cricket test",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTm9vbEs3cGxsSnByR1NScjdtNVVsOWV2RkI1SnpPaFUxS2FvYzdUd3FzUFI4QlBrUDZEaUc2cFNkdmljVDJvX09EclZPUWMtTW0xNmFJN01BbFlyQkpaLUxDMkxEMHU1U1FKdEdrSFBhRE1FWi1YVElpQ2Rkc1FWOE1teThWdGFvM3BzS29SeFNTVzZ1blZPS1lVTHV0QjJKZmFSaTF5OGwxVkZfOUtTTnNHY3BWdnk4aVp6dzM1UEgtekxD?oc=5",
-      "summary": "Saqib frustrates Sri Lanka as Pakistan extends lead to 123 in second cricket test The Washington Post",
-      "date": "2026-11-18 08:53 UTC",
-      "category": "Pakistan",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia, Türkiye to hold fresh talks on Makkah defense pact in November",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUzRvWHlMSmY4TnhTQW1QZXhPUTNMQnpaMGtYYVJ4R0M4b3pNZmZWM2NmY1VRMnMwVmZBUmtLVWNDNndwMFhlZWo5bFBaWnBFMXNRY1hheWFfcFhyVDNwWjM2OWFqb1JnRmE2emh4S21IcmhLYWdCUE5zR2wzYXk5N3dXVXNlUnlpNlktcDVOOVk5dExFZTFpSXdZalpfMm9KSmNaRGFLRVBSanltV0hMbjgwczlLb1RXaUVyREw4V28wcklWZGk4TS1n?oc=5",
-      "summary": "Pakistan, Saudi Arabia, Türkiye to hold fresh talks on Makkah defense pact in November Arab News PK",
-      "date": "2026-11-18 08:50 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "The Philippines Serves Up Fried Chicken Diplomacy for Trump",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmVpSmhsV3JnRGhaaF9ZYWNFYlZXN3lyRzdnQ0NXYTlJRXlBWmM5cERrdVpMYTlqVHlEZjYydGNmNWJjQ2tfZE80ZXhnR01SQW14ZnltYlBVeURhQ2lRV3JWMm5NdVZjS2Y5SzFRQ0g2eklFdXBuR2F4Mi1vS25sQnBFRnFDTHVPX1lzVlZ3OC1CRFFGS3dCZEZBcml2MWc?oc=5",
-      "summary": "The Philippines Serves Up Fried Chicken Diplomacy for Trump The New York Times Philippine president has Jollibee fried chicken delivered to Trump for a late-night snack WBAL-TV Trump Treated to Jollibee Diplomacy With Late-Night Snacks From Marcos Bloomberg.com World Leader Humiliates Trump With Fried Chicken Brag Yahoo Marcos Treats Trump to Fried Chicken Treat During Visit Newser",
-      "date": "2026-11-18 08:34 UTC",
-      "category": "World",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Nestlé Pakistan board approves plan to transfer water business to subsidiary ahead of Platinum Equity deal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYThVYk5NS0psTlg1ckdPYTE4SFQwOVZIMU0xQUN0Uk9UVXpBQnBiVkpONE9XWEdidjVEMGVNMG1BT2xCX2hXSzJYa2tiWncxcTJSTFhwclhyMHB1cUJIUm1oLTFyV0l2d2pjTzdVLWJUU0tRQVV2cFcyUXJ0S2tTZ29ORE1Gem1CWXhiajJUZElrVDV4b2xtc2x1WVM3LXBjeFN2TVh2bzEwdC1tbkV1TXQxZU1QMkppaTloblVORmxPN3pMenlXZVZLU3F2UQ?oc=5",
-      "summary": "Nestlé Pakistan board approves plan to transfer water business to subsidiary ahead of Platinum Equity deal Investify",
-      "date": "2026-11-18 08:33 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "India says killed Pakistan-linked militant commander hiding in Kashmir mosque",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWVIRTMzVlFULWpQMER4aTJCSHQ2ZHhUdVhmcWtQeG95M3BnakdoRkJUTGllb3hib0Fwbi1BT3BtbV8yS2JmN3hGTmRHaU1ZSFZIb3BhSjJlMEZYSk42ZDB6RlU4WXFrejdQYzhhaDFudmoxTmZkSzFLaXMwcFNDN1pvRlFRUFFBLUswcGNIRmlwaU9FNUk5SmJuaW5hekQ0Q1gyTFFfZkotLW5LckNYeEI0SlhXd0ZvcHc?oc=5",
-      "summary": "India says killed Pakistan-linked militant commander hiding in Kashmir mosque Arab News PK",
-      "date": "2026-11-18 08:32 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Russia's energy crisis is so bad it's mass-importing fuel and looking to low-grade fuel for pump stations",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmZJdEMxOWo1MFZpREE2bjdXa3ZmNHRDRkFEbmx3cFV4d1daZUY3TWxpaENibmlaRHV1cjRSWk9TencxS0ljbE16VDVhZ0RTS3doTk9ZZUxXR1hxakJQV2MtZVRGRE1UYzVmRFh6WGhveTI4aWcwMUx6OVVmUUZ2WkZBamk4eVVEZ0FNdHhDWFVOWXlvRzdNWXJLM00zRTMtcU5QUXBaZnllZw?oc=5",
-      "summary": "Russia's energy crisis is so bad it's mass-importing fuel and looking to low-grade fuel for pump stations Business Insider Russian petrol imports hit record as Ukraine strikes refineries Financial Times Russia Urges Oil Companies to Produce Lower-Grade Gasoline After Refinery Strikes The Moscow Times Russia imported nearly million tons of fuel over three months – DIU Цензор.НЕТ Russia will continue fuel imports, gove",
-      "date": "2026-11-18 08:32 UTC",
-      "category": "World",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Pakistan’s New Provinces Debate Intensifies | Dawn News English",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnBPRjBHY1hPbk9KcGVZNDBPTEt2YVBNeHMwc2FmQ1NYQjlkbi1BME9ZYmdmclNUVXVkck05ZTVVRkQ2M1VIeHVMcWZHdk0wNnZXb1g3ZkhFLU5DdUxXZ3h4NXkzQ1AydkdOblB1SFVTaVhleUlPMGhlNzYwSUFVVmlzT1B1TVkyU0k3WllONTFEbDRSWTkzYWZR?oc=5",
-      "summary": "Pakistan’s New Provinces Debate Intensifies | Dawn News English Dawn",
-      "date": "2026-11-18 08:25 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Nestlé Pakistan approves water business transfer to subsidiary",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWhJbHFqNmw4QTMyd1QxWHhCNlQ4R3A2MXZZTEV1NjlxT3lLdnZNRVFBalFvTHFFbzIyX2pTMnlTMU44ck9WTlUzZnI1ZGR5OXhISlFNR254YXd5R2FYLTNDVWlKajNRYkNQWWx6MDN6OVh2SnpBLWdpdng0cUJTY05IZHRkeVdKOWM0VzNYRmtKWnJzN0lDQm10QWdoU0U2WE4yQUw3bXQ?oc=5",
-      "summary": "Nestlé Pakistan approves water business transfer to subsidiary Investify",
-      "date": "2026-11-18 08:24 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lMzhuLVR5cmt6MTdnemlhNlhtdEhHUGxlVUlubEhDVXZBZjFxQXZwNlZNMjZGTGRTSWIyWDlETm45WTFJb0NmLQ?oc=5",
-      "summary": "Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies Dawn",
-      "date": "2026-11-18 08:18 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Pakistan Customs introduces international benchmark formula for valuation of hydrocarbon oil imports",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUtaUzRJWlFCSjJpUTVUUjBRLW1NTnV3SF9kdVVRWkJuX3RMdUljQUp3TWtycWI3alBLNGo4a0ZNRXI4ZEZBdlBQT254UlFuRWdWcWVfYjRibWRBVzd4WE9YNkl0UVUwd3ROamN3bm5UR1FnZGp3NnVPbHhDNlhKTGlzb2twOG1RVXRTcWdJMVN6YnVaaUlqdmdiWnJjNm1GRkdjbkhuaXpUVC10MlQxUkVyU0RvSWdtRTQ3Zkxrc3dxeThaZUgtSzk4TkFRZw?oc=5",
-      "summary": "Pakistan Customs introduces international benchmark formula for valuation of hydrocarbon oil imports Investify",
-      "date": "2026-11-18 08:13 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Nestlé Pakistan approves water business transfer to subsidiary",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanI2d01jbHFmRHZhQlMxWkl5Vlg5Yk81Z1NnbjAtSVdtZHI5alhUb0w4VGE3UWxoVk9HOTZhX25yM1NDWThteEpET1NYY3BlWWZWTk9fcEd4RnZGc29lZEpBeG9XbTY5dHZ2ZU5PSDhHTFIzMmp5ODZfM2VlM1F1bUxnSXRNZG9vWWltRC1vN1p0VUYxRGxKVGp0VE9udkU2QzZrS0tlcWhfdGIzOFE?oc=5",
-      "summary": "Nestlé Pakistan approves water business transfer to subsidiary Mettis Global",
-      "date": "2026-11-18 08:10 UTC",
-      "category": "Pakistan",
-      "source": "Mettis Global"
-    },
-    {
-      "title": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjV5TnBISlNWd25LVm8zU2hZWHVDSUFJTkpVVWtrWHQ3TkxKd3RQVnRZTjVuTWJwdjZZcWEyWmdVMjA1RWRta1FkMWM4czJuMEpMTXREOTJBbVBYVHNadGxEQ3gxbG5sMHBRTzdJQkZTZWlJX0RiVUJ6YWs5YmlKdHcwN3hqblducjhnZ25NQTB3V3o1aWJNaUxmdEt2WFlv?oc=5",
-      "summary": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 Dawn",
-      "date": "2026-11-18 08:09 UTC",
-      "category": "Pakistan",
-      "source": "Dawn"
-    },
-    {
-      "title": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXNIWm1rbDZKTjYzTWdzdnZmUDJqdmotRks0TmhIR1BxNnZSUXdURzk5LTdiTUcxbjhLQlp0WG5YU1VCYUpXWjNrRGMxaWVsS2JIVDM5ZFF0N05RTHItM0J4Y1Z1UW5WVEI4b3JYRjlKUVNCTENzaGRVMDVDX0lEb001V01JV0xxVHNTVEQ5TEtVM0NDbkFuaGxDS3NkZjNOT0FTejU3R1pxSDZFWlBBc09n0gG3AUFVX3lxTE1NMEdLbkltb2JFQWNxcGhOM3kyWUUwNkItWk8ySFlDUElMZ3lIdXF4TDJFLVhFSmdYY0tuM01DRTJlRlJkb0lPc2c1Und2azV0RGhnc05zNVJJTUMwQjVWaU8xaE43U2hVRFlzeC1jMXR6STY4YW9KMTdGQktIWTVJZkhGX2NiQ1NlSnoxcWludDZMMUhTQTE1NG52OXFEb2tja21EcDFmOGp6a0pTdElwMVNsd2tfcw?oc=5",
-      "summary": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh Al Jazeera",
-      "date": "2026-11-18 08:02 UTC",
-      "category": "Pakistan",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Has The Pakistani Diaspora Failed Pakistan? Fiery Georgetown Debate Divides Speakers",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5HVkNadnZMZklocmJKMmI1NklnRU02M0lxckY4WE5qZEVDYnM4akh5bWFuNFFmQU5PN1U2R0o2MGdJOEdvc2gxUlV3U3lxelNIbmwyXzVXSWVIaU5mVWhDREtwcWR1OEU0X0ZJZjZqLTFBZ0F5Z3ZmNXFMdUhCZEZETEkxclE1OEFVUmdtcnFxd0ZTZ0Y2cExTdGtad3A4aTBpQy1QaXRhSXRhV2YtNW9yX0NHUGI4Y2c?oc=5",
-      "summary": "Has The Pakistani Diaspora Failed Pakistan? Fiery Georgetown Debate Divides Speakers The Friday Times",
-      "date": "2026-11-18 08:01 UTC",
-      "category": "Pakistan",
-      "source": "The Friday Times"
-    },
-    {
-      "title": "Pakistan Customs revises customs values of imported latex rubber threads to $3–$3.95 per kg",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZi1ScWV5REJhWWFjVzI2MzFPQjh0UjFRczFaRUhxUGZIX1dXQUdGTkFOVWtySkhCS2k2UmlteUxFUHZpMU52alhHZ2xlb1Mzc2xhOWRXR0ZlWUFuUEJHUnR2NlRKQnJTTEY2Z0RHN1VjMGlkQmhFVkEyR3dUTFYtQ1VCUkxNRk5xcGNuYjZMZDRnaUhlOEF1aWNPLVNoc2xsR2Z0NDhYdzlBcWpHZWxqVW1HVmhrazF5YVZ2NEp4VmxqSE53OHlaaXBSZWk?oc=5",
-      "summary": "Pakistan Customs revises customs values of imported latex rubber threads to $3–$3.95 per kg Investify",
-      "date": "2026-11-18 07:52 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "date": "2026-11-18 07:48 UTC",
-      "category": "World",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pakistan and Turkmenistan Agree to Fast-Track TAPI Gas Pipeline Project",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZW5NZ1h3Yk9SV05MTTNGVTdEd1pXYUhoMkFSSkkzNWxYRE5aWUlSQWNiSjhaSHRVTVlPV2tHSzNodFBXRUt6Y0s3TnpXNXFGY1RreXZhV1dGdUdTLU44eHp2V25PREMtNmRacUtIY0xHN1VJRDZwVUJ5SGtGSkttVkZpc3IxTldjYV85TXpqYUVhNHRYNFBKQkRUVmxXT3dOemtEMFdmcw?oc=5",
-      "summary": "Pakistan and Turkmenistan Agree to Fast-Track TAPI Gas Pipeline Project Energy Update",
-      "date": "2026-11-18 07:46 UTC",
-      "category": "Pakistan",
-      "source": "Energy Update"
-    },
-    {
-      "title": "Sri Lanka vs Pakistan 2nd Test Live as Pakistan Lead by 123 Runs",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YYjVOTGh2cGNqbzhzdXBiaEsyUlJnVFBFNHJNZXdFSnBpeGgySzNCS1hqbnlybnp6WG9zcUNITm5wNnlDVUZVQkVKUkNPd0hXVHNvNkV4Q0JuMEdqWlRaUVFRZ0ZXUi1rTDJkZ0F3OHZuTzMtX0xmcUJmUFNQQQ?oc=5",
-      "summary": "Sri Lanka vs Pakistan 2nd Test Live as Pakistan Lead by 123 Runs Tapmad",
-      "date": "2026-11-18 07:45 UTC",
-      "category": "Pakistan",
-      "source": "Tapmad"
-    },
-    {
-      "title": "Pakistan eye series win after Sri Lanka slump in second Test",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWN5TFduZzdmLUU4OGJzbTdZeldHZ1JqYnBsQU1BLUZsRTlVU05BVE5DX2FDVFB6LUhDY2pOd1pqdlZaTWR5VXA0SF9NVE9pRVg3VHpmX1hydW94VkFGRDlXSWgyMDRXWVc4dFgtTmFhY3dqeEgtdEFzVkxmWjFPeXBZVVlGcHVibzVEU3I3ck1BMDhxWUtwZndPX1JmZ2lmX1FSUUF0bDh1NG9QRVE0?oc=5",
-      "summary": "Pakistan eye series win after Sri Lanka slump in second Test France 24",
-      "date": "2026-11-18 07:41 UTC",
-      "category": "Pakistan",
-      "source": "France 24"
-    },
-    {
-      "title": "14-province idea on the table, says planning minister",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOW41cXp0UkVQMUo0RmZTaUtzUHFESDh0UHBobnlmdXZoZjY3dm9hWW9BZnR3TDlvdm52NG9ieEVTamJFN2VabTJUTVNDVjFiRmswSkFUdGlMUVFWS04zc3M2dkVMTy03akhLQV9YQjl5dkJtdWRFZFgteWM1bWxPN0QzRThzVmtpZkJ3NFh3?oc=5",
-      "summary": "14-province idea on the table, says planning minister Geo News",
-      "date": "2026-11-18 07:40 UTC",
-      "category": "Pakistan",
-      "source": "Geo News"
-    },
-    {
-      "title": "Pakistan, UK draft mineral mapping pact as Islamabad seeks mining investment",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTMzLUVNLTJjTENteU9IeGFISkJkQVpsbnZfOEhhTUhaX0dPMHA2WkN2TGxHaXhUb2VRdDUybGIwdW8zQ0FjTGtsTng3R1RhSVJDRXJmQmJSaXpVLTVGZGlKM01rR1g2NTdISnh1MmlHakg2Z2c0U2VpUF9oclpKeUREb3lWZG5xTnNhclZuazB1S29EUjBqYk5GQ1FoT1pURUwyRlpXS0E0dlZxTTdiTVlJa09vZWM?oc=5",
-      "summary": "Pakistan, UK draft mineral mapping pact as Islamabad seeks mining investment Arab News PK",
-      "date": "2026-11-18 07:39 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "Sri Lanka fight back to reduce Pakistan to 221-7 in second Test",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTlrZkIzTU1IYXo0UUtBcGtjNVd4QXNpQnZuVGpyZWxBc3NxY1N0cDBJeVN3RG9CQUxCOHp0dUIxRmJKYWItTWcyb2xhREMwMUZSWGJvX2ZuZ0FTSUIwYUJFaXlPbE5oZ29aTUtPRkhfY0Z4VkdyalhRemFrdGMyeVgyN0RfcnRRaDdtT01yNk93U1FHQnhva0tTTjRKUk9WQkNr?oc=5",
-      "summary": "Sri Lanka fight back to reduce Pakistan to 221-7 in second Test RFI",
-      "date": "2026-11-18 07:39 UTC",
-      "category": "Pakistan",
-      "source": "RFI"
-    },
-    {
-      "title": "Pakistan Seeks Finnish Investment in EVs, Battery Storage and Mineral Processing",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTU40OHlBWmo1OW0yUjNneTZMazczcWdZWEpBV2JGMXlwRGRRWlVrRTNjSnJ0d1ppNkxmNEx5OWtPYmtxMElJa25HNzJleG9UeHhXNXcwZGxuX3hHY2hublNnMHVEeURqRjI3NUVNTk5YWGtNV0ZuSEdvQ0JmYWtRZTVmbVVKSUVCdWJlR3dXbmkzdmthLUsxMWFmdkVuLWhoeE1ZSl9uQ09LYnJ5aURKZWJR?oc=5",
-      "summary": "Pakistan Seeks Finnish Investment in EVs, Battery Storage and Mineral Processing Energy Update",
-      "date": "2026-11-18 07:38 UTC",
-      "category": "Pakistan",
-      "source": "Energy Update"
-    },
-    {
-      "title": "UK and Pakistan Plan Joint Geological Surveys to Support Responsible Mineral Development",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFRCU2x6N0hfZ0xkYVR0TVBxRUFmbk93My1wMTVZRDBPZHk5UDBYektWZU1OQmlkdmVQWGRFanprMk5EdDRraVF5RTRFSGxTYWZFd21ldjVxQ1Y1UVFhT1NlWV9wWm9xMUpWNWFMZG9QVldEYmRCalMzYU9nUDhETXU2blZpOEM3U0hZa05UNWUyR2IzbHZLUTllVElNc29NcEd1SHQwN3QzTUFCMmMyR3dzOEtneklja2RnNlNn?oc=5",
-      "summary": "UK and Pakistan Plan Joint Geological Surveys to Support Responsible Mineral Development Energy Update",
-      "date": "2026-11-18 07:34 UTC",
-      "category": "Pakistan",
-      "source": "Energy Update"
-    },
-    {
-      "title": "Pakistan trains Bangladeshi civil servants as thaw extends beyond diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTZEc1VtX3VxZGhNNC0ySE1BMmVQajZaeFdyWGtiOHdlaGlLc0hESDBxbXpVaGlEbmJzZnRaWHZSZ29oN0dCeU0wMWtfQzdoSDRRdHJZc1hGaFFRb0duZ3diRU1YbGVBdi1HMFZGbnA5SzdJRWdfMVBIREFZRWRwRWZFSWVUbENqa0FnU2VGaG1nTXJ2XzJpclBCdkRIY3o1cmhzd0RWSTV4bldhLVdBTVRYbkh5bUU?oc=5",
-      "summary": "Pakistan trains Bangladeshi civil servants as thaw extends beyond diplomacy Arab News PK",
-      "date": "2026-11-18 07:17 UTC",
-      "category": "Pakistan",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "19 Killed in Military Transport Plane Crash in Siberia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDNLSlFmZ3RMMXB3NGcyaHlpbFhqS0c4X21VS0tCbjZYa0lSNVVxRHdpZU8tSERHdjFYUnFjTzFscjBSdUZ1WGJuLU15SXVHSW1obm85RU04d2t0REpkdk9qWWV2VlNUeVUwemtGT0hEWjQ4YkhpWHhhWWd1LXFNQTdXUTZaNVR1WDVxR3hoTW0xa2xsSG1HdkxQZ1VhWU9RQXN2dGRseDVxZVo3M3pxWWRHWXBnTFBHWFdDSDVGZ0E2MDlfbkpF?oc=5",
-      "summary": "19 Killed in Military Transport Plane Crash in Siberia The Moscow Times Russian military transport aircraft crashes in Siberia, killing 19, defense ministry says CNN Russian military plane crashes, killing all 19 on board BBC Russian military plane crash in Siberia kills 19 Al Jazeera Russian military transport plane crashes in Siberia, killing 19, according to Defense Ministry NBC News",
-      "date": "2026-11-18 07:12 UTC",
-      "category": "World",
-      "source": "The Moscow Times"
-    },
-    {
-      "title": "Nestlé Pakistan approves scheme to transfer local water business to subsidiary",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkVxdTNaMEhlT1VtWmtSNnlIV196RzN4Q182Yk5sSTJiSWVuajhpQnoyb0prTWhmZWxnZnlOX3BGMHRna2FiNlhHaTlhSUJWRy1EbVVVcUtPZ3gwWkNCeWZRdHdmcDVEZUswZlpFV3RFTWdhZUZzVE11Yl96cnZDR1haSkZ2NHN6Ml82VlRIR3JKSi1Da3k3VlRYbk9DcDVDOHFRR3hRNGNsd3pNSHhJSHMtYV9ER2RzdVVPX3ZR?oc=5",
-      "summary": "Nestlé Pakistan approves scheme to transfer local water business to subsidiary Investify",
-      "date": "2026-11-18 07:00 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "Foreign exchange rates in Pakistan for today, November 18, 2026",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM21waHNHNkNXWVdIdUJKNWxpaXNYNFJ6TXNFZzF4ME9DbU1XdHdjbFBnWGRTNTlJWEs2cWg4MURVbG5idG8wSGdGSjNiSjNQNW8zSGpzYUc5VDd6eWNQT3oyekYzbjZoTHJUMjU2Y2VCSUgwZWdXbjcyUFdWMGUtUnV3dnFYbjN3czZfbnlLSTA2cVJSWnZRaVZickpDWDRuV2I3SnJDaw?oc=5",
-      "summary": "Foreign exchange rates in Pakistan for today, November 18, 2026 Investify",
-      "date": "2026-11-18 06:58 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "NESTLE: Nestlé Pakistan board approves scheme to transfer local",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hSDBNQU1RUUllUlFpYV9wejNJdjRWVzgtbVdtb2ZvQ1Q2dFN0dmJ1S3AzaXp5WHN4VVlsaUJkU1Vla0sxZVJvU2VqMjNFSGNaVjZoMFd3SHZMYWZVaU9lWkI2eXBaTXFFTjVibQ?oc=5",
-      "summary": "NESTLE: Nestlé Pakistan board approves scheme to transfer local Investify",
-      "date": "2026-11-18 06:57 UTC",
-      "category": "Pakistan",
-      "source": "Investify"
-    },
-    {
-      "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN3N0SUFweVFjRXlITG0wZTJaM1dNckFuN1pvMmtocE9NTV9OZnJIZG1acXNVTjFJdWNXWXRxRGp5aE84bE9NeHFEY1RwWlVrNDd3LVhQT0NGZGNnVzJMdzJJdXc5YXZWQnBIREI5OUNyazFoTnpSbU9ZTllMNHc?oc=5",
-      "summary": "As Trump and Xi Mingle, Their Governments Are Arming Up The New York Times Foreign leaders look beyond Trump on his Asian meeting spree Politico How Xi Sees a Weakened Trump Foreign Policy Republican Election Losses Have Weakened Trump In Asia: Max Baucus Forbes Gordon Chang to Newsmax: Ally Deals Give Trump Leverage With Xi Yahoo",
-      "date": "2026-11-18 06:32 UTC",
-      "category": "World",
-      "source": "The New York Times"
     }
   ]
 }
